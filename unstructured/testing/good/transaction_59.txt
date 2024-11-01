@@ -1,0 +1,30 @@
+1. [2016-11-24 06:00:00, User 0] User 0 (Hazel Robinson) accessed "Profile" page from La Verne, CA
+2. [2016-11-24 06:01:05, User 0] Updated "Address" field: 462 Rose Lane, La Verne, CA 91750
+3. [2016-11-24 06:01:58, User 0] Updated "Phone Number" field: (909) 555-1234
+4. [2016-11-24 06:02:45, User 0] Updated "Email" field: hazel.robinson@email.com
+5. [2016-11-24 06:03:08, User 0] Reviewed account information: Current Age - 53, Retirement Age - 66, Per Capita Income - $29,278, Yearly Income - $59,696, Total Debt - $127,613, FICO Score - 787
+6. [2016-11-24 06:03:18, User 0] Selected "Security & Privacy" sub-menu on "Profile" page
+7. [2016-11-24 06:03:29, User 0] Updated "Security Question 1" to "What was your first pet's name?"
+8. [2016-11-24 06:03:52, User 0] Updated "Security Question 2" to "What was your mother's maiden name?"
+9. [2016-11-24 06:04:06, User 0] Updated "Answer 1" to "Fluffy"
+10. [2016-11-24 06:04:32, User 0] Updated "Answer 2" to "Thompson"
+11. [2016-11-24 06:05:18, User 0] Updated "Password" field
+12. [2016-11-24 06:06:01, User 0] Completed security update on "Security & Privacy"
+13. [2016-11-24 06:06:36, User 0] Returned to main account screen from "Security & Privacy"
+14. [2016-11-24 06:07:15, User 0] Navigated to the "Cards" page from dashboard
+15. [2016-11-24 06:07:57, User 0] Noted the available card balance of Visa Debit card ($46414)
+16. [2016-11-24 06:08:24, User 0] Confirmed last transaction date and amount ($315.82 on 11/22)
+17. [2016-11-24 06:09:32, User 0] Navigated back to the main account screen from the "Cards" page
+18. [2016-11-24 06:10:12, User 0] Navigated to "Transactions" page for detailed activity records
+19. [2016-11-24 06:11:19, User 0] Reviewed year-to-date transaction history on "Transactions" page
+20. [2016-11-24 06:12:25, User 0] Returned to the main account screen from "Transactions" page
+21. [2016-11-24 06:13:35, User 0] Navigated to "Settings" page
+22. [2016-11-24 06:14:10, User 0] Selected "Notifications" on "Settings" page
+23. [2016-11-24 06:15:27, User 0] Changed notification setting to receive a weekly summary
+24. [2016-11-24 06:16:19, User 0] Returned to "Settings" page
+25. [2016-11-24 06:17:29, User 0] Selected "Account Management" on "Settings" page
+26. [2016-11-24 06:18:40, User 0] Updated the "Automatic Transfer" on "Account Management" for $200 to savings
+27. [2016-11-24 06:19:28, User 0] Reviewed the new account management settings
+28. [2016-11-24 06:20:05, User 0] Successfully saved the new account management settings
+29. [2016-11-24 06:21:15, User 0] Exited "Settings" page, returning to main account screen
+30. [2016-11-24 06:22:35, User 0] Logged out of the financial app from La Verne, CA

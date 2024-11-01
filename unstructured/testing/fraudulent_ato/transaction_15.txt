@@ -1,0 +1,24 @@
+Here are 20 log entries for user 0 (Hazel Robinson) in a financial app, leading up to a suspicious transaction:
+
+1. [2011-08-30 05:55:00,000] [User 0, Card 3] Logged in from IP address 111.111.111.111
+2. [2011-08-30 05:55:30,000] [User 0, Card 3] Searched for recent transaction history
+3. [2011-08-30 05:56:00,000] [User 0, Card 3] Viewed details of transaction on 2011-08-29 for $54.12 at Merchant Name 1234567890
+4. [2011-08-30 05:56:30,000] [User 0, Card 3] Navigated to account balance page
+5. [2011-08-30 05:57:00,000] [User 0, Card 3] Checked account balance ($2043.19)
+6. [2011-08-30 05:57:30,000] [User 0, Card 3] Navigated to credit limit page
+7. [2011-08-30 05:58:00,000] [User 0, Card 3] Viewed credit limit details ($46414)
+8. [2011-08-30 05:58:30,000] [User 0, Card 3] Attempted login from IP address 222.222.222.222
+9. [2011-08-30 05:59:00,000] [User 0, Card 3] Failed login attempt due to suspicious IP address
+10. [2011-08-30 05:59:30,000] [User 0, Card 3] Attempted login from IP address 333.333.333.333
+11. [2011-08-30 06:00:00,000] [User 0, Card 3] Failed login attempt due to suspicious IP address
+12. [2011-08-30 06:00:30,000] [User 0, Card 3] Attempted login from IP address 444.444.444.444
+13. [2011-08-30 06:01:00,000] [User 0, Card 3] Failed login attempt due to suspicious IP address
+14. [2011-08-30 06:01:30,000] [User 0, Card 3] Navigated to account activity page
+15. [2011-08-30 06:02:00,000] [User 0, Card 3] Viewed account activity for last 30 days
+16. [2011-08-30 06:02:30,000] [User 0, Card 3] Sorted account activity by date
+17. [2011-08-30 06:03:00,000] [User 0, Card 3] Attempted login from IP address 555.555.555.555
+18. [2011-08-30 06:03:30,000] [User 0, Card 3] Failed login attempt due to suspicious IP address
+19. [2011-08-30 06:04:00,000] [User 0, Card 3] Navigated to transaction history page
+20. [2011-08-30 06:04:30,000] [User 0, Card 3] Initiated suspicious transaction for $105.08 at Merchant Name 3527213246127876953
+
+Note that the IP addresses used for login attempts are fictional and not actual blacklisted addresses.

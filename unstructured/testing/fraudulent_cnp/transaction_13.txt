@@ -1,0 +1,64 @@
+{
+"Time": "2013-06-14 06:18:00",
+"User": 0,
+"Action": "Logged in to financial app",
+"Location": "462 Rose Lane, La Verne, CA, 91750"
+},
+{
+"Time": "2013-06-14 06:20:15",
+"User": 0,
+"Action": "Checked balance for card 3 (Mastercard Debit)",
+"Location": "462 Rose Lane, La Verne, CA, 91750"
+},
+{
+"Time": "2013-06-14 06:21:36",
+"User": 0,
+"Action": "Viewed transaction history for card 3",
+"Location": "462 Rose Lane, La Verne, CA, 91750"
+},
+{
+"Time": "2013-06-14 06:23:28",
+"User": 0,
+"Action": "Searched for nearby gas stations",
+"Location": "462 Rose Lane, La Verne, CA, 91750"
+},
+{
+"Time": "2013-06-14 06:25:11",
+"User": 0,
+"Action": "Selected a gas station (MCC 5541) for purchase",
+"Location": "123 Main St, La Verne, CA, 91750"
+},
+{
+"Time": "2013-06-14 06:26:00",
+"User": 0,
+"Action": "Initiated a purchase of $133.56",
+"Location": "123 Main St, La Verne, CA, 91750",
+"Card": 3,
+"Amount": 133.56,
+"Use Chip": "Swipe Transaction"
+},
+{
+"Time": "2013-06-14 06:26:15",
+"User": 0,
+"Action": "Transaction declined due to exceeding credit limit",
+"Location": "123 Main St, La Verne, CA, 91750"
+},
+{
+"Time": "2013-06-14 06:26:30",
+"User": 0,
+"Action": "Received decline message on financial app",
+"Location": "123 Main St, La Verne, CA, 91750"
+},
+{
+"Time": "2013-06-14 06:27:02",
+"User": 0,
+"Action": "Checked current balance and transaction history",
+"Location": "123 Main St, La Verne, CA, 91750"
+},
+{
+"Time": "2013-06-14 06:27:45",
+"User": 0,
+"Action": "Logged out of financial app",
+"Location": "123 Main St, La Verne, CA, 91750"
+}
+]

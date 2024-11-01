@@ -1,0 +1,24 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, simulating a failed two-factor authentication from an unknown device:
+
+1. 2023-03-12 10:45:12 - User 0 (Hazel Robinson) accessed the app from an unknown device (IP: 104.11.15.55).
+2. 2023-03-12 10:46:10 - User 0 attempted to log in with username "hazelrobinson" and password "password123".
+3. 2023-03-12 10:46:25 - Password match confirmed, prompting two-factor authentication (2FA) for added security.
+4. 2023-03-12 10:46:30 - User 0 received a 2FA code via SMS on their registered phone number (+12035843779).
+5. 2023-03-12 10:46:35 - User 0 attempted 2FA with an incorrect code (9000).
+6. 2023-03-12 10:46:40 - 2FA authentication failed due to incorrect code.
+7. 2023-03-12 10:46:45 - User 0 attempted 2FA again with another incorrect code (1234).
+8. 2023-03-12 10:46:50 - 2FA authentication failed again due to incorrect code.
+9. 2023-03-12 10:47:00 - User 0 (Hazel Robinson) was blocked from accessing the app for 30 minutes due to repeated incorrect 2FA attempts.
+10. 2023-03-12 10:47:10 - User 0 attempted to log back in, providing the same incorrect 2FA code (1234).
+11. 2023-03-12 10:47:15 - 2FA authentication failed once more.
+12. 2023-03-12 10:47:20 - User 0 was presented with an option to try again after resetting their 2FA method or wait for the 30-minute block to expire.
+13. 2023-03-12 10:47:25 - User 0 chose to wait for the 30-minute block to expire.
+14. 2023-03-12 10:47:30 - User 0 (Hazel Robinson) continued to wait for the block to expire.
+15. 2023-03-12 10:52:00 - The 30-minute block expired, allowing user 0 to access the app again.
+16. 2023-03-12 10:52:05 - User 0 attempted to log back in with the correct 2FA code (sent via SMS).
+17. 2023-03-12 10:52:10 - 2FA authentication Failed due to unknown device and incorrect user behavior.
+18. 2023-03-12 10:52:15 - User 0 was flagged for suspicious activity and presented with an opportunity to take additional security measures.
+19. 2023-03-12 10:52:20 - User 0 declined the additional security measures and opted to log out of the app.
+20. 2023-03-12 10:52:25 - User 0 (Hazel Robinson) was successfully logged out of the app.
+
+Note: These log entries mimic a failed 2FA attempt due to an unknown device and incorrect user behavior. The user is unable to complete the 2FA process and is instead flagged for suspicious activity.

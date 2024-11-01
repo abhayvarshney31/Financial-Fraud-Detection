@@ -1,0 +1,43 @@
+Here are 25 log entries for user 0:
+
+**Before Opening the App**
+
+1. 2022-09-15 12:00:00 - User 0 opened the app settings and checked the app version (v1.3.2).
+2. 2022-09-15 12:01:30 - User 0 set the default currency to USD.
+3. 2022-09-15 12:02:00 - User 0 enabled push notifications.
+
+**Before Checking Recent Purchases**
+
+4. 2022-09-15 12:05:00 - User 0 accessed the app's main dashboard.
+5. 2022-09-15 12:06:00 - User 0 checked the app's menu options and navigated to "Recent Purchases".
+6. 2022-09-15 12:07:00 - User 0 initiated a search for recent purchases.
+7. 2022-09-15 12:08:00 - User 0 set the date range for the search to the last 7 days.
+
+**Setting Spending Alerts**
+
+8. 2022-09-15 12:10:00 - User 0 accessed the app's settings and navigated to "Spending Alerts".
+9. 2022-09-15 12:12:00 - User 0 enabled spending alerts for credit cards.
+10. 2022-09-15 12:13:00 - User 0 set the daily spending limit for credit cards at $500.
+
+**Before Transaction**
+
+11. 2022-09-15 12:15:00 - User 0 accessed the app's main dashboard.
+12. 2022-09-15 12:16:00 - User 0 viewed their credit card's balance and available credit.
+13. 2022-09-15 12:17:00 - User 0 initiated a search for available credit limit.
+14. 2022-09-15 12:18:00 - User 0 verified their available credit limit.
+15. 2022-09-15 12:20:00 - User 0 accessed the app's menu options and navigated to "Card Balance".
+16. 2022-09-15 12:22:00 - User 0 viewed their credit card's transactions for the last 7 days.
+17. 2022-09-15 12:23:00 - User 0 initiated a search for transactions above $50.
+18. 2022-09-15 12:24:00 - User 0 verified the transactions above $50.
+19. 2022-09-15 12:25:00 - User 0 accessed the app's menu options and navigated to "Card Settings".
+20. 2022-09-15 12:26:00 - User 0 checked their credit card's information.
+
+**Transaction**
+
+21. 2022-09-15 12:30:00 - User 0 initiated a transaction using their credit card.
+22. 2022-09-15 12:31:00 - User 0 selected the payment method as credit card.
+23. 2022-09-15 12:32:00 - User 0 confirmed the transaction amount.
+24. 2022-09-15 12:33:00 - User 0 completed the transaction.
+25. 2022-09-15 12:35:00 - User 0 verified the transaction status.
+
+Please note that these log entries are just examples and may not reflect the actual behavior or actions of a real user. The user's personal information is also fictional.

@@ -1,0 +1,30 @@
+1. [2023-03-26 09:01:02, User 0] Hazel Robinson (User 0) logged in from known device (IP: 192.168.1.102)
+2. [2023-03-26 09:03:15, User 0] Accessed account summary page, total debt: $127613, yearly income: $59696
+3. [2023-03-26 09:05:01, User 0] Navigated to credit card details, card index: 2, brand: Visa, type: Debit, card number: 4582313478255491
+4. [2023-03-26 09:07:36, User 0] Checked recent transactions, last PIN change: 2004, credit limit: $46414, acct open date: 07/2003
+5. [2023-03-26 09:12:28, User 0] Requested a new authentication code for two-factor authentication
+6. [2023-03-26 09:12:33, User 0] Received authentication code via SMS
+7. [2023-03-26 09:13:45, User 0] Attempted to log in from unknown device (IP: 92.36.124.18), two-factor authentication failed
+8. [2023-03-26 09:14:59, User 0] Two-factor authentication failed, account locked for security reasons
+9. [2023-03-26 09:15:26, User 0] Hazel Robinson (User 0) initiated password reset request from known device (IP: 192.168.1.102)
+10. [2023-03-26 09:16:01, User 0] Password reset link sent to email address on file
+11. [2023-03-26 09:17:18, User 0] Reset password successfully and logged in from known device (IP: 192.168.1.102)
+12. [2023-03-26 09:18:36, User 0] Unlock request submitted for account, reason: unknown device login attempt
+13. [2023-03-26 09:19:44, User 0] Account unlocked, two-factor authentication enabled for all devices
+14. [2023-03-26 09:20:25, User 0] Navigated to credit card transactions page, card index: 2, brand: Visa, type: Debit
+15. [2023-03-26 09:22:12, User 0] Requested authentication code for two-factor authentication
+16. [2023-03-26 09:22:17, User 0] Received authentication code via email
+17. [2023-03-26 09:23:34, User 0] Attempted to log in from unknown device (IP: 92.36.124.18), two-factor authentication failed
+18. [2023-03-26 09:24:47, User 0] Two-factor authentication failed, account locked for security reasons
+19. [2023-03-26 09:25:12, User 0] Contacted customer support regarding failed two-factor authentication attempts
+20. [2023-03-26 09:27:51, User 0] Customer support confirmed no fraudulent activity, temporary unlock granted
+21. [2023-03-26 09:29:26, User 0] Two-factor authentication bypassed for known device (IP: 192.168.1.102)
+22. [2023-03-26 09:30:44, User 0] Attempted to log in from unknown device (IP: 92.36.124.18), two-factor authentication still failed
+23. [2023-03-26 09:31:59, User 0] Suspicious login attempt from unknown device (IP: 92.36.124.18) blocked and recorded
+24. [2023-03-26 09:32:42, User 0] Account locked for security reasons due to multiple failed two-factor authentication attempts
+25. [2023-03-26 09:33:18, User 0] Hazel Robinson (User 0) initiated password reset request from known device (IP: 192.168.1.102)
+26. [2023-03-26 09:34:01, User 0] Password reset link sent to email address on file
+27. [2023-03-26 09:35:45, User 0] Reset password successfully and logged in from known device (IP: 192.168.1.102)
+28. [2023-03-26 09:37:36, User 0] Disabled two-factor authentication for all devices
+29. [2023-03-26 09:38:25, User 0] Contacted customer support regarding further assistance with account security
+30. [2023-03-26 09:39:12, User 0] Customer support recommended enabling two-factor authentication again after account review

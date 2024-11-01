@@ -1,0 +1,108 @@
+{
+"Time": "2015-11-22 06:23:52",
+"User": 0,
+"Action": "Logged in to financial app",
+"Details": {}
+},
+{
+"Time": "2015-11-22 06:24:01",
+"User": 0,
+"Action": "Navigated to account overview page",
+"Details": {}
+},
+{
+"Time": "2015-11-22 06:24:10",
+"User": 0,
+"Action": "Viewed checking account balance",
+"Details": {
+"Balance": "$4812.15"
+}
+},
+{
+"Time": "2015-11-22 06:24:22",
+"User": 0,
+"Action": "Navigated to savings account page",
+"Details": {}
+},
+{
+"Time": "2015-11-22 06:24:45",
+"User": 0,
+"Action": "Viewed savings account balance",
+"Details": {
+"Balance": "$8345.98"
+}
+},
+{
+"Time": "2015-11-22 06:24:56",
+"User": 0,
+"Action": "Initiated setup for recurring transfer",
+"Details": {}
+},
+{
+"Time": "2015-11-22 06:25:11",
+"User": 0,
+"Action": "Selected checking account as transfer source",
+"Details": {}
+},
+{
+"Time": "2015-11-22 06:25:27",
+"User": 0,
+"Action": "Selected savings account as transfer destination",
+"Details": {}
+},
+{
+"Time": "2015-11-22 06:25:39",
+"User": 0,
+"Action": "Entered transfer amount",
+"Details": {
+"Amount": "500"
+}
+},
+{
+"Time": "2015-11-22 06:25:51",
+"User": 0,
+"Action": "Selected transfer frequency",
+"Details": {
+"Frequency": "Monthly"
+}
+},
+{
+"Time": "2015-11-22 06:26:05",
+"User": 0,
+"Action": "Selected start date for recurring transfer",
+"Details": {
+"Start Date": "2015-12-01"
+}
+},
+{
+"Time": "2015-11-22 06:26:15",
+"User": 0,
+"Action": "Previewed recurring transfer details",
+"Details": {
+"Transfer Details": {
+"Source Account": "Checking",
+"Destination Account": "Savings",
+"Amount": "500",
+"Frequency": "Monthly",
+"Start Date": "2015-12-01"
+}
+}
+},
+{
+"Time": "2015-11-22 06:26:28",
+"User": 0,
+"Action": "Confirmed and scheduled recurring transfer",
+"Details": {}
+},
+{
+"Time": "2015-11-22 06:26:42",
+"User": 0,
+"Action": "Navigated back to account overview page",
+"Details": {}
+},
+{
+"Time": "2015-11-22 06:26:53",
+"User": 0,
+"Action": "Logged out of financial app",
+"Details": {}
+}

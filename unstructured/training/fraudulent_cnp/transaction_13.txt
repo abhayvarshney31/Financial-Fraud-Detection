@@ -1,0 +1,51 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with behavior type "Account accessed from an unfamiliar location just before transaction":
+
+**Entries 1-5 (Before Unfamiliar Location)**
+
+1. 2022-08-03 08:00:00 | User 0 accessed account overview | From 34.15, -117.76 (usual location)
+2. 2022-08-03 08:10:00 | User 0 viewed recent transactions | From 34.15, -117.76 (usual location)
+3. 2022-08-03 08:20:00 | User 0 checked account balance | From 34.15, -117.76 (usual location)
+4. 2022-08-03 08:30:00 | User 0 browsed credit cards | From 34.15, -117.76 (usual location)
+5. 2022-08-03 08:40:00 | User 0 viewed credit reports | From 34.15, -117.76 (usual location)
+
+**Entries 6-15 (Unfamiliar Location)**
+
+6. 2022-08-03 13:45:00 | User 0 accessed account overview | From 38.94, -77.00 (unfamiliar location)
+7. 2022-08-03 13:50:00 | User 0 viewed credit cards | From 38.94, -77.00 (unfamiliar location)
+8. 2022-08-03 13:55:00 | User 0 checked account balance | From 38.94, -77.00 (unfamiliar location)
+9. 2022-08-03 14:00:00 | User 0 browsed transactions | From 38.94, -77.00 (unfamiliar location)
+10. 2022-08-03 14:05:00 | User 0 viewed account settings | From 38.94, -77.00 (unfamiliar location)
+11. 2022-08-03 14:10:00 | User 0 searched for merchants | From 38.94, -77.00 (unfamiliar location)
+12. 2022-08-03 14:15:00 | User 0 viewed budget categories | From 38.94, -77.00 (unfamiliar location)
+13. 2022-08-03 14:20:00 | User 0 checked financial goals | From 38.94, -77.00 (unfamiliar location)
+14. 2022-08-03 14:25:00 | User 0 viewed credit reports | From 38.94, -77.00 (unfamiliar location)
+15. 2022-08-03 14:30:00 | User 0 searched for financial advisors | From 38.94, -77.00 (unfamiliar location)
+
+**Entries 16-30 (Before Transaction)**
+
+16. 2022-08-03 15:05:00 | User 0 viewed recent transactions | From 38.94, -77.00 (unfamiliar location)
+17. 2022-08-03 15:10:00 | User 0 checked account balance | From 38.94, -77.00 (unfamiliar location)
+18. 2022-08-03 15:15:00 | User 0 browsed credit cards | From 38.94, -77.00 (unfamiliar location)
+19. 2022-08-03 15:20:00 | User 0 viewed account settings | From 38.94, -77.00 (unfamiliar location)
+20. 2022-08-03 15:25:00 | User 0 searched for merchants | From 38.94, -77.00 (unfamiliar location)
+21. 2022-08-03 15:30:00 | User 0 viewed budget categories | From 38.94, -77.00 (unfamiliar location)
+22. 2022-08-03 15:35:00 | User 0 checked financial goals | From 38.94, -77.00 (unfamiliar location)
+23. 2022-08-03 15:40:00 | User 0 viewed credit reports | From 38.94, -77.00 (unfamiliar location)
+24. 2022-08-03 15:45:00 | User 0 searched for financial advisors | From 38.94, -77.00 (unfamiliar location)
+25. 2022-08-03 15:50:00 | User 0 viewed recent transactions | From 38.94, -77.00 (unfamiliar location)
+26. 2022-08-03 15:55:00 | User 0 checked account balance | From 38.94, -77.00 (unfamiliar location)
+27. 2022-08-03 16:00:00 | User 0 browsed credit cards | From 38.94, -77.00 (unfamiliar location)
+28. 2022-08-03 16:05:00 | User 0 viewed account settings | From 38.94, -77.00 (unfamiliar location)
+29. 2022-08-03 16:10:00 | User 0 viewed merchant information | From 38.94, -77.00 (unfamiliar location)
+30. 2022-08-03 16:15:00 | User 0 initiated transaction | From 38.94, -77.00 (unfamiliar location)
+
+**Transaction Log Entry**
+
+31. 2022-08-03 16:16:00 | User 0 completed transaction | From 38.94, -77.00 (unfamiliar location)
+Amount: $124.24
+Use Chip: Swipe Transaction
+Merchant Name: -245178307025547046
+Merchant City: La Verne
+Merchant State: CA
+Zip: 91750.0
+MCC: 5311

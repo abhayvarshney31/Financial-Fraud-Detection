@@ -1,0 +1,29 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with the behavior type "Downloaded account activity report just before transaction":
+
+1. 2023-02-20 08:45:12 UTC - User 0 login successful - IP address: 73.242.123.222
+2. 2023-02-20 08:46:15 UTC - User 0 viewed account balance - Current balance: $12,345.67
+3. 2023-02-20 08:47:28 UTC - User 0 checked available credit - Available credit: $10,000.00
+4. 2023-02-20 08:48:30 UTC - User 0 viewed transaction history - Transactions: 100
+5. 2023-02-20 08:49:42 UTC - User 0 downloaded account activity report for January 2023 - Report generated
+6. 2023-02-20 08:50:50 UTC - User 0 viewed recent transactions - Recent transactions: 5
+7. 2023-02-20 08:52:03 UTC - User 0 checked account alerts - Account alerts: 2
+8. 2023-02-20 08:53:15 UTC - User 0 viewed account settings - Account settings updated
+9. 2023-02-20 08:54:25 UTC - User 0 reviewed transaction history for January 2023 - Review complete
+10. 2023-02-20 08:55:35 UTC - User 0 searched for transactions by date range - Date range: January 1, 2023 - January 31, 2023
+11. 2023-02-20 08:56:45 UTC - User 0 viewed transactions for January 2023 - Transactions viewed
+12. 2023-02-20 08:58:01 UTC - User 0 downloaded account activity report for February 2023 - Report generated
+13. 2023-02-20 09:00:20 UTC - User 0 checked account activity for February 2023 - Activity checked
+14. 2023-02-20 09:01:31 UTC - User 0 reviewed recent transactions - Review complete
+15. 2023-02-20 09:02:40 UTC - User 0 viewed account activity for January 2022 - Activity viewed
+16. 2023-02-20 09:04:00 UTC - User 0 searched for transactions by merchant name - Merchant name: "Amazon"
+17. 2023-02-20 09:05:10 UTC - User 0 viewed transactions for Amazon - Transactions viewed
+18. 2023-02-20 09:06:20 UTC - User 0 checked account activity for January 2022 - Activity checked
+19. 2023-02-20 09:07:30 UTC - User 0 viewed account settings again - Account settings unchanged
+20. 2023-02-20 09:08:45 UTC - User 0 prepared to make a purchase - Purchase details: $556.42 - Visa Debit Card
+21. 2023-02-20 09:10:00 UTC - User 0 initiated transaction - Transaction initiated
+22. 2023-02-20 09:11:10 UTC - User 0 verified transaction details - Transaction details verified
+23. 2023-02-20 09:12:20 UTC - User 0 confirmed transaction - Transaction confirmed
+24. 2023-02-20 09:13:30 UTC - User 0 viewed transaction confirmation - Transaction confirmed successful
+25. 2023-02-20 09:14:40 UTC - User 0 checked account balance after transaction - Current balance: $12,789.25
+
+Note: The timestamps and details in these log entries are fictional and for illustrative purposes only.

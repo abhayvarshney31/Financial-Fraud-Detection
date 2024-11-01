@@ -1,0 +1,20 @@
+1. {'User': 0, 'Time': '08/01/2022 07:00', 'Action': 'Logged in to financial app', 'Details': 'Hazel Robinson (53) successfully accessed her account.'}
+2. {'User': 0, 'Time': '08/01/2022 07:05', 'Action': 'Viewed account overview', 'Details': 'Ms. Robinson checked her account balance and recent transactions.'}
+3. {'User': 0, 'Time': '08/01/2022 07:10', 'Action': ' Navigated to bills section', 'Details': 'Ms. Robinson went to the bills section to set up a scheduled payment.'}
+4. {'User': 0, 'Time': '08/01/2022 07:15', 'Action': 'Selected utility bills category', 'Details': 'Ms. Robinson selected the utility bills category.'}
+5. {'User': 0, 'Time': '08/01/2022 07:20', 'Action': 'Added a new payee', 'Details': 'Ms. Robinson added a new payee for her utility bills with the name "LA Water & Power".'}
+6. {'User': 0, 'Time': '08/01/2022 07:25', 'Action': 'Entered payee details', 'Details': 'She entered the payee details including the account number and address.'}
+7. {'User': 0, 'Time': '08/01/2022 07:30', 'Action': 'Set up scheduled payment', 'Details': 'Ms. Robinson set up a scheduled monthly payment of $120 for her utility bills.'}
+8. {'User': 0, 'Time': '08/01/2022 07:35', 'Action': 'Selected payment method', 'Details': 'Ms. Robinson chose her Visa debit card (expires 02/2024) as the payment method.'}
+9. {'User': 0, 'Time': '08/01/2022 07:40', 'Action': 'Confirmed scheduled payment', 'Details': 'Ms. Robinson confirmed the scheduled payment and received a confirmation number.'}
+10. {'User': 0, 'Time': '08/01/2022 07:45', 'Action': 'Logged out of financial app', 'Details': 'Hazel Robinson successfully logged out of her account.'}
+11. {'User': 0, 'Time': '08/02/2022 06:42', 'Action': 'Swipe Transaction', 'Details': 'Ms. Robinson made a swipe transaction at "LA Water & Power" for $40.52.'}
+12. {'User': 0, 'Time': '08/03/2022 07:00', 'Action': 'Logged in to financial app', 'Details': 'Hazel Robinson (53) successfully accessed her account.'}
+13. {'User': 0, 'Time': '08/03/2022 07:05', 'Action': 'Viewed account overview', 'Details': 'Ms. Robinson checked her account balance and recent transactions.'}
+14. {'User': 0, 'Time': '08/03/2022 07:10', 'Action': 'Navigated to bills section', 'Details': 'Ms. Robinson went to the bills section to view her scheduled payments.'}
+15. {'User': 0, 'Time': '08/03/2022 07:15', 'Action': 'Verified scheduled utility bill payment', 'Details': 'Ms. Robinson verified that her utility bill payment of $120 is scheduled for the 3rd of each month.'}
+16. {'User': 0, 'Time': '08/03/2022 07:20', 'Action': 'Checked per capita income for 91750', 'Details': 'Ms. Robinson checked the per capita income for her zip code.'}
+17. {'User': 0, 'Time': '08/03/2022 07:25', 'Action': 'Examined yearly income', 'Details': 'She examined her yearly income of $59696.'}
+18. {'User': 0, 'Time': '08/03/2022 07:30', 'Action': 'Reviewed total debt', 'Details': 'Ms. Robinson reviewed her total debt of $127613.'}
+19. {'User': 0, 'Time': '08/03/2022 07:35', 'Action': 'Noted FICO score of 787', 'Details': 'Ms. Robinson noted her FICO score of 787.'}
+20. {'User': 0, 'Time': '08/03/2022 07:40', 'Action': 'Logged out of financial app', 'Details': 'Hazel Robinson successfully logged out of her account.'}

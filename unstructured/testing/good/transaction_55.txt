@@ -1,0 +1,24 @@
+1. [2019-12-01 16:38:00, 0] User 0, Hazel Robinson (53), logged in to financial app from La Verne, CA (34.15, -117.76)
+2. [2019-12-01 16:38:15, 0] Hazel checked her account balance in the financial app (Yearly Income - Person: $59696, Total Debt: $127613)
+3. [2019-12-01 16:39:00, 0] User 0 viewed her Visa debit card info (Card Brand: Visa, Card Type: Debit, Card Number: 4956965974959986, Expires: 12/2020)
+4. [2019-12-01 16:40:05, 0] Hazel navigated to the "Bills" section in the financial app
+5. [2019-12-01 16:40:33, 0] User 0 set up a recurring monthly payment for utility bills (Merchant Name: 1878448597312197393, MCC: 5310)
+6. [2019-12-01 16:41:06, 0] Hazel confirmed the amount for the scheduled utility bill payment: $13.45
+7. [2019-12-01 16:41:36, 0] User 0 selected "Chip Transaction" for the utility bill payment
+8. [2019-12-01 16:42:06, 0] Hazel reviewed the scheduled payment details (Amount: $13.45, Merchant Name: 1878448597312197393, Merchant City: La Verne, Merchant State: CA, Zip: 91750.0)
+9. [2019-12-01 16:42:32, 0] User 0 authorized the scheduled monthly utility bill payment
+10. [2019-12-01 16:42:45, 0] Hazel received a confirmation for the scheduled utility bill payment
+11. [2019-12-01 16:43:24, 0] User 0 checked the transaction history in her financial app (Use Chip: Chip Transaction, Is Fraud?: No)
+12. [2019-12-01 16:44:00, 0] Hazel logged out of the financial app
+13. [2019-12-02 00:00:00, 0] Scheduled utility bill payment of $13.45 was processed ( merchant: 1878448597312197393, MCC: 5310)
+14. [2019-12-03 12:34:05, 0] Hazel checked her account balance and confirmed the utility bill payment was processed
+15. [2019-12-04 13:19:47, 0] User 0 reviewed the scheduled payments section of her financial app
+16. [2019-12-15 16:21:54, 0] Hazel received a reminder email about the upcoming utility bill payment
+17. [2019-12-20 16:30:12, 0] User 0 visited the financial app to ensure the scheduled utility bill payment was set up correctly
+18. [2019-12-20 16:30:38, 0] Hazel double-checked the utility bill payment details in the financial app
+19. [2019-12-28 12:09:16, 0] Hazel confirmed the successful utility bill payment for the current month
+20. [2019-12-30 23:59:59, 0] Hazel's account balance in the financial app (Yearly Income - Person: $59696, Total Debt: $127613)
+21. [2019-12-31 10:16:18, 0] User 0 received a notification about the upcoming utility bill payment in January 2020
+22. [2019-12-31 16:45:31, 0] Hazel logged in to her financial app to verify the next utility bill payment (Use Chip: Chip Transaction, Is Fraud?: No)
+23. [2019-12-31 16:46:13, 0] Hazel reviewed the scheduled monthly utility bill payment details (Merchant Name: 1878448597312197393, Amount: $13.45)
+24. [2019-12-31 17:00:37, 0] User 0 logged out of her financial app, satisfied that her accounts and payments were in order

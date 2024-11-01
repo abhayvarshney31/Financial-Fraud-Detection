@@ -1,0 +1,245 @@
+Here are some log entries for user 0 in a financial app, leading up to a transaction, with behavior type "Browsed recent financial news within the app":
+
+```
+1. {
+    "timestamp": "2022-01-01 08:30:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Viewed recent news headlines",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "08:30"
+}
+
+2. {
+    "timestamp": "2022-01-01 08:35:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Read article on inflation rates",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "08:35"
+}
+
+3. {
+    "timestamp": "2022-01-01 08:40:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Watched video on budgeting tips",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "08:40"
+}
+
+4. {
+    "timestamp": "2022-01-01 08:45:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Viewed graphs on market trends",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "08:45"
+}
+
+5. {
+    "timestamp": "2022-01-01 09:00:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Read article on cryptocurrency market",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "09:00"
+}
+
+6. {
+    "timestamp": "2022-01-01 09:30:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Watched analysis on stock market",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "09:30"
+}
+
+7. {
+    "timestamp": "2022-01-01 10:30:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Viewed information on budgeting apps",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "10:30"
+}
+
+8. {
+    "timestamp": "2022-01-01 11:10:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Read article on credit card rewards",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "11:10"
+}
+
+9. {
+    "timestamp": "2022-01-01 11:20:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Watched video on investing 101",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "11:20"
+}
+
+10. {
+    "timestamp": "2022-01-01 11:30:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Viewed information on personal finance apps",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "11:30"
+}
+
+11. {
+    "timestamp": "2022-01-01 12:00:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Read article on credit scores",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "12:00"
+}
+
+12. {
+    "timestamp": "2022-01-01 12:20:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Watched analysis on market trends",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "12:20"
+}
+
+13. {
+    "timestamp": "2022-01-01 12:40:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Viewed information on budgeting strategies",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "12:40"
+}
+
+14. {
+    "timestamp": "2022-01-01 14:00:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Read article on saving money",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "14:00"
+}
+
+15. {
+    "timestamp": "2022-01-01 14:20:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Watched video on financial literacy",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "14:20"
+}
+
+16. {
+    "timestamp": "2022-01-01 14:30:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Viewed information on financial goals",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "14:30"
+}
+
+17. {
+    "timestamp": "2022-01-01 14:40:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Read article on cost savings",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "14:40"
+}
+
+18. {
+    "timestamp": "2022-01-01 14:50:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Watched video on budgeting and saving",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "14:50"
+}
+
+19. {
+    "timestamp": "2022-01-01 15:00:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Viewed information on personal finance",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "15:00"
+}
+
+20. {
+    "timestamp": "2022-01-01 15:10:00",
+    "user_id": 0,
+    "behavior": "Browsed frequent financial news",
+    "actions": "Read article on financial planning",
+    "Person": "Hazel Robinson",
+    "Year": 2022,
+    "Month": 1,
+    "Day": 1,
+    "Time": "15:10"
+}
+```
+
+The user, Hazel Robinson (user 0), browses recent financial news within the app, reading articles, watching videos, and viewing information on various financial topics from 8:30 AM to 3:10 PM.

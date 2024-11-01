@@ -1,0 +1,22 @@
+Here are 20-30 log entries for user 0, leading up to a transaction, modeling the behavior of attempting to withdraw cash from an online wallet multiple times:
+
+1. 2023-03-12 09:04:10, User 0 attempted to withdraw $100 from online wallet. Request denied due to insufficient funds.
+2. 2023-03-12 09:04:34, User 0 attempted to withdraw $50 from online wallet. Request denied due to insufficient funds.
+3. 2023-03-12 09:05:10, User 0 attempted to withdraw $20 from online wallet. Request denied due to insufficient funds.
+4. 2023-03-12 09:06:00, User 0 refreshed their online wallet page.
+5. 2023-03-12 09:06:20, User 0 attempted to withdraw $100 from online wallet. Request denied due to insufficient funds.
+6. 2023-03-12 09:06:45, User 0 attempted to withdraw $25 from online wallet. Request denied due to insufficient funds.
+7. 2023-03-12 09:07:15, User 0 refreshed their online wallet page.
+8. 2023-03-12 09:07:35, User 0 attempted to withdraw $50 from online wallet. Request denied due to insufficient funds.
+9. 2023-03-12 09:08:05, User 0 attempted to withdraw $15 from online wallet. Request denied due to insufficient funds.
+10. 2023-03-12 09:08:30, User 0 refreshed their online wallet page.
+11. 2023-03-12 09:08:50, User 0 attempted to withdraw $100 from online wallet. Request denied due to insufficient funds.
+12. 2023-03-12 09:09:15, User 0 attempted to withdraw $20 from online wallet. Request denied due to insufficient funds.
+13. 2023-03-12 09:10:00, User 0 refreshed their online wallet page.
+14. 2023-03-12 09:10:20, User 0 attempted to withdraw $50 from online wallet. Request denied due to insufficient funds.
+15. 2023-03-12 09:10:45, User 0 attempted to withdraw $10 from online wallet. Request denied due to insufficient funds.
+16. 2023-03-12 09:11:10, User 0 refreshed their online wallet page.
+17. 2023-03-12 09:11:30, User 0 attempted to withdraw $25 from online wallet. Request denied due to insufficient funds.
+18. 2023-03-12 09:12:00, User 0 attempted to withdraw $30 from online wallet. Request denied due to insufficient funds.
+19. 2023-03-12 09:12:25, User 0 refreshed their online wallet page.
+20. 2023-03-12 09:12:45, User 0 attempted to withdraw $100 from online wallet. Request accepted and withdrawal processed.

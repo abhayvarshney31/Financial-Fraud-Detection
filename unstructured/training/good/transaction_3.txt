@@ -1,0 +1,153 @@
+Here are 20-30 log entries for user 0 leading up to a transaction:
+
+**Entry 1**
+Timestamp: 2022-07-15 09:35:00
+User Action: Opened app
+Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 2**
+Timestamp: 2022-07-15 09:37:00
+User Action: Viewed account balance
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Account Balance': '$596.96'}
+
+**Entry 3**
+Timestamp: 2022-07-15 09:40:00
+User Action: Viewed recent transactions
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Num Transactions': 5}
+
+**Entry 4**
+Timestamp: 2022-07-15 09:42:00
+User Action: Filtered transactions by type (grocery)
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Num Transactions': 2}
+
+**Entry 5**
+Timestamp: 2022-07-15 09:44:00
+User Action: Viewed grocery store location (Whole Foods)
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Merchant Name': 'Whole Foods', 'Merchant City': 'La Verne', 'Merchant State': 'CA', 'Zip': 91750.0}
+
+**Entry 6**
+Timestamp: 2022-07-15 09:46:00
+User Action: Calculated grocery budget for the month
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Budget': '$200.00'}
+
+**Entry 7**
+Timestamp: 2022-07-15 09:48:00
+User Action: Checked card balance
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Card Balance': '$12300.00'}
+
+**Entry 8**
+Timestamp: 2022-07-15 09:50:00
+User Action: Decided to make a purchase
+Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 9**
+Timestamp: 2022-07-15 09:52:00
+User Action: Selected the Whole Foods location
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Merchant Name': 'Whole Foods', 'Merchant City': 'La Verne', 'Merchant State': 'CA', 'Zip': 91750.0}
+
+**Entry 10**
+Timestamp: 2022-07-15 09:54:00
+User Action: Started shopping
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Merchant Location': 'Whole Foods, La Verne, CA'}
+
+**Entry 11**
+Timestamp: 2022-07-15 09:58:00
+User Action: Added items to cart
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Num Items': 5}
+
+**Entry 12**
+Timestamp: 2022-07-15 10:00:00
+User Action: Viewed cart total
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Cart Total': '$126.83'}
+
+**Entry 13**
+Timestamp: 2022-07-15 10:02:00
+User Action: Checked if card has sufficient funds
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Card Balance': '$12300.00'}
+
+**Entry 14**
+Timestamp: 2022-07-15 10:04:00
+User Action: Confirmed purchase
+Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 15**
+Timestamp: 2022-07-15 10:06:00
+User Action: Started payment process
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Card Number': 4879494103069057}
+
+**Entry 16**
+Timestamp: 2022-07-15 10:08:00
+User Action: Entered PIN
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'PIN': '1234'}
+
+**Entry 17**
+Timestamp: 2022-07-15 10:10:00
+User Action: Authorized transaction
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Transaction Amount': '$126.83'}
+
+**Entry 18**
+Timestamp: 2022-07-15 10:12:00
+User Action: Confirmed transaction
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Transaction Successful': True}
+
+**Entry 19**
+Timestamp: 2022-07-15 10:14:00
+User Action: Viewed transaction details
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Transaction Details': {'Amount': '$126.83', 'Merchant Name': 'Whole Foods', 'Date': '2022-07-15 10:10:00'}}
+
+**Entry 20**
+Timestamp: 2022-07-15 10:16:00
+User Action: Updated account balance
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Account Balance': '$470.13'}
+
+**Entry 21**
+Timestamp: 2022-07-15 10:18:00
+User Action: Viewed updated account balance
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Account Balance': '$470.13'}
+
+**Entry 22**
+Timestamp: 2022-07-15 10:20:00
+User Action: Saved receipt
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Receipt Saved': True}
+
+**Entry 23**
+Timestamp: 2022-07-15 10:22:00
+User Action: Ended shopping trip
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Merchant Location': 'Whole Foods, La Verne, CA'}
+
+**Entry 24**
+Timestamp: 2022-07-15 10:24:00
+User Action: Closed app
+Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 25**
+Timestamp: 2022-07-15 10:25:00
+User Action: Received app notification
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Notification': 'Transaction successful! See details in your account.'}
+
+**Entry 26**
+Timestamp: 2022-07-15 10:26:00
+User Action: Updated the app
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'App Updates': True}
+
+**Entry 27**
+Timestamp: 2022-07-15 10:28:00
+User Action: Synchronized data
+Context: {'Person': 'Hazel Robinson', 'User': 0, 'Data Synchronized': True}
+
+**Entry 28**
+Timestamp: 2022-07-15 10:30:00
+User Action: Ended the day
+Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 29**
+Timestamp: 2022-07-15 10:32:00
+User Action: Prepared for the next day
+Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 30**
+Timestamp: 2022-07-15 10:34:00
+User Action: Closed the app for the day
+Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+Please note that these entries are just examples and may vary based on the actual behavior of the user.

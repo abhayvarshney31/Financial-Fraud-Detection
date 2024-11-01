@@ -1,0 +1,38 @@
+Here are 20-30 log entries for user 0 leading up to a transaction:
+
+1. 2022-12-01 14:00:05, 0, User, Added a new account, {"Person": "Hazel Robinson"}
+2. 2022-12-02 10:10:10, 0, User, Logged in successfully
+3. 2022-12-03 13:45:30, 0, User, Updated personal information, {"Current Age": 53}
+4. 2022-12-04 09:30:00, 0, User, Updated address, {"Address": "462 Rose Lane", "City": "La Verne", "State": "CA", "Zipcode": 91750}
+5. 2022-12-05 11:00:00, 0, User, Added a new credit card, {"Card Brand": "Visa", "Card Type": "Credit", "Card Number": 4879494103069057, "Expires": "08/2024", "CVV": 693}
+6. 2022-12-06 10:15:30, 0, User, Updated credit limit, {"Credit Limit": "$12400"}
+7. 2022-12-07 14:30:00, 0, User, Updated account information, {"FICO Score": 787}
+8. 2022-12-08 09:30:00, 0, User, Updated user profile, {"Gender": "Female"}
+9. 2022-12-09 11:00:00, 0, User, Updated high-risk payment methods
+10. 2022-12-10 09:00:00, 0, User, Added a new high-risk payment method, {"Card Brand": "Prepaid Card", "Card Number": 4242422424242424, "Expires": "02/2025", "CVV": 123}
+11. 2022-12-11 10:30:00, 0, User, Updated account information, {"Total Debt": "$127613"}
+12. 2022-12-12 14:15:15, 0, User, Updated yearly income, {"Yearly Income - Person": "$59696"}
+13. 2022-12-13 09:45:00, 0, User, Updated merchant information
+14. 2022-12-14 11:30:00, 0, User, Added a new merchant, {"Merchant Name": "Monterey Park Food Co.", "Merchant City": "Monterey Park", "Merchant State": "CA", "Zip": 91755.0, "MCC": 5942}
+15. 2022-12-15 10:15:30, 0, User, Updated card information, {"Card Type": "Credit", "Credit Limit": "$12400"}
+16. 2022-12-16 12:30:00, 0, User, Updated account status, {"Account Status": "Active"}
+17. 2022-12-17 09:45:00, 0, User, Updated account information, {"Per Capita Income - Zipcode": "$29278"}
+18. 2022-12-18 11:15:00, 0, User, Added a new payment method, {"Card Brand": "PayPal", "Card Number": "email@example.com"}
+19. 2022-12-19 10:30:00, 0, User, Updated credit card information, {"Card Number": 4879494103069057, "Expires": "08/2024", "CVV": 693}
+20. 2022-12-20 13:15:15, 0, User, Updated high-risk payment methods
+21. 2022-12-21 09:30:00, 0, User, Added a new high-risk payment method, {"Card Brand": "Prepaid Card", "Card Number": 4242422424242424, "Expires": "02/2025", "CVV": 123}
+22. 2022-12-22 10:45:00, 0, User, Updated account information, {"Num Credit Cards": 5}
+23. 2022-12-23 11:15:00, 0, User, Updated yearly income, {"Yearly Income - Person": "$59696"}
+24. 2022-12-24 12:30:00, 0, User, Added a new merchant, {"Merchant Name": "Monterey Park Food Co.", "Merchant City": "Monterey Park", "Merchant State": "CA", "Zip": 91755.0, "MCC": 5942}
+25. 2022-12-25 9:00:00, 0, User, Updated account information, {"FICO Score": 787}
+26. 2022-12-26 10:15:00, 0, User, Updated credit card information, {"Card Number": 4879494103069057, "Expires": "08/2024", "CVV": 693}
+27. 2022-12-27 11:45:00, 0, User, Updated high-risk payment methods
+28. 2022-12-28 12:30:00, 0, User, Added a new high-risk payment method, {"Card Brand": "Prepaid Card", "Card Number": 4242422424242424, "Expires": "02/2025", "CVV": 123}
+29. 2022-12-29 9:30:00, 0, User, Updated account information, {"Per Capita Income - Zipcode": "$29278"}
+30. 2022-12-30 10:15:00, 0, User, Updated account status, {"Account Status": "Active"}
+
+And here's the transaction:
+
+31. 2022-12-30 10:30:05, 0, Transaction, Successful transaction with amount $39.32, {"Amount": $39.32, "Use Chip": "Swipe Transaction", "Merchant Name": "Monterey Park Food Co.", "Merchant City": "Monterey Park", "Merchant State": "CA", "Zip": 91755.0, "MCC": 5942}
+
+Note that these log entries are just examples and may not accurately reflect real-world scenarios.

@@ -1,0 +1,36 @@
+Here are 20-30 log entries for user 0, leading up to a transaction, with the behavior type being reviewed card perks and available cashback offers:
+
+**Log Entries**
+
+1. 2022-08-10 14:30:00 - User 0 visited the "Card Perks" page to review their available cashback offers.
+2. 2022-08-10 14:32:00 - User 0 searched for "gas stations" to find relevant cashback offers.
+3. 2022-08-10 14:35:00 - User 0 viewed the cashback offer details for a specific gas station, including the reward rate and redemption threshold.
+4. 2022-08-10 14:40:00 - User 0 navigated to the "Available Offers" page to browse through other cashback opportunities.
+5. 2022-08-10 14:45:00 - User 0 added a restaurant cashback offer to their "Favorites" list for future reference.
+6. 2022-08-11 10:15:00 - User 0 returned to the "Card Perks" page to review their available cashback offers again.
+7. 2022-08-11 10:20:00 - User 0 compared the cashback rewards of their current credit card with a competitor's offer.
+8. 2022-08-11 10:30:00 - User 0 sent a notification to the customer support team to inquire about potential issues with their cashback rewards.
+9. 2022-08-11 11:00:00 - User 0 received a response from the customer support team, clarifying the issues with their cashback rewards.
+10. 2022-08-11 11:15:00 - User 0 updated their preferred cashbackOffers based on the customer support team's guidance.
+11. 2022-08-12 09:00:00 - User 0 visited the "Card News" page to review recent updates on their card's cashback rewards program.
+12. 2022-08-12 10:00:00 - User 0 earned a cashback reward for a recent purchase, which was reflected in their account balance.
+13. 2022-08-12 10:30:00 - User 0 redeemed their cashback reward for a statement credit.
+14. 2022-08-13 16:00:00 - User 0 viewed their account activity to review recent transactions and cashback rewards earned.
+15. 2022-08-13 16:30:00 - User 0 filtered their account activity by transaction type to see cashback rewards earned.
+16. 2022-08-14 12:00:00 - User 0 sent a notification to the customer support team to request a cashback rewards statement.
+17. 2022-08-14 14:00:00 - User 0 received a response from the customer support team, providing a detailed breakdown of their cashback rewards earned.
+18. 2022-08-15 09:45:00 - User 0 viewed the cashback rewards statement and verified its accuracy.
+19. 2022-08-15 10:00:00 - User 0 checked their available cashback offers to see if there were any promotional offers available.
+20. 2022-08-15 10:30:00 - User 0 reserved a cashback offer for a future purchase.
+21. 2022-08-16 15:15:00 - User 0 viewed the "Card Perks" page to review their available cashback offers again.
+22. 2022-08-16 15:30:00 - User 0 compared the cashback rewards of their current credit card with a competitor's offer.
+23. 2022-08-17 12:45:00 - User 0 viewed their account activity to review recent transactions and cashback rewards earned.
+24. 2022-08-17 13:00:00 - User 0 redeemed a cashback reward for a statement credit.
+25. 2022-08-18 11:15:00 - User 0 used their reserved cashback offer for a purchase.
+26. 2022-08-18 11:30:00 - User 0 reviewed their cashback rewards earned following the purchase.
+27. 2022-08-19 14:00:00 - User 0 viewed the "Available Offers" page to browse through other cashback opportunities.
+28. 2022-08-19 14:30:00 - User 0 added another restaurant cashback offer to their "Favorites" list for future reference.
+29. 2022-08-20 16:00:00 - User 0 viewed the "Card Perks" page to review their available cashback offers again.
+30. 2022-08-20 16:30:00 - User 0 reviewed their earned cashback rewards and pending rewards to plan for future redemptions.
+
+Note: These log entries are designed to simulate the user behavior of reviewing card perks and available cashback offers, leading up to a transaction. The actual behavior may vary based on the user's goals and preferences.

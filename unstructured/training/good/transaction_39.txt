@@ -1,0 +1,30 @@
+Here are the log entries leading up to the transaction:
+
+**03/15/2023 09:00:00**
+User 0 (Hazel Robinson) logged in to the financial app.
+
+**03/17/2023 14:20:00**
+User 0 (Hazel Robinson) opened the travel notifications section of the app.
+
+**03/18/2023 10:10:00**
+User 0 (Hazel Robinson) clicked on the "Add New Travel Notification" button.
+
+**03/18/2023 10:17:00**
+User 0 (Hazel Robinson) entered details for the new travel notification: Trip Name - "European Getaway", Trip Dates - "06/10/2023 - 06/20/2023", Current Location - "La Verne, CA".
+
+**03/18/2023 10:19:00**
+User 0 (Hazel Robinson) saved the new travel notification.
+
+**03/20/2023 13:45:00**
+User 0 (Hazel Robinson) viewed their upcoming travel notifications and reviewed the "European Getaway" details.
+
+**03/22/2023 16:38:00**
+User 0 (Hazel Robinson) added an expense category - "Food and Drink" - to the "European Getaway" trip.
+
+**03/24/2023 20:20:00**
+User 0 (Hazel Robinson) checked their budget for the trip, ensuring they have sufficient funds.
+
+**03/26/2023 09:30:00**
+User 0 (Hazel Robinson) reviewed their list of credit cards and debit cards, including their Visa debit card with the card number 4582313478255491.
+
+These log entries show the user's activity leading up to the transaction, including logging in, creating a travel notification, adding expenses, and reviewing their budget and credit cards.

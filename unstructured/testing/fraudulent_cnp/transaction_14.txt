@@ -1,0 +1,132 @@
+{
+"Time": "2023-03-14 08:15:01",
+"User": 0,
+"Action": "Logged in to financial app",
+"Details": "Hazel Robinson (53) successfully logged in to her financial app from La Verne, CA (91750)"
+}
+
+{
+"Time": "2023-03-14 08:16:45",
+"User": 0,
+"Action": "Viewed account balance",
+"Details": "Hazel checked her account balance. Current balance: $3248.12, Credit Limit: $12400"
+}
+
+{
+"Time": "2023-03-14 08:21:19",
+"User": 0,
+"Action": "Searched for products",
+"Details": "Hazel searched for 'running shoes' on the financial app's merchant platform"
+}
+
+{
+"Time": "2023-03-14 08:23:35",
+"User": 0,
+"Action": "Viewed product details",
+"Details": "Hazel viewed the details of a running shoe product (ID: 123456, Merchant: Sports R Us, Price: $135.29)"
+}
+
+{
+"Time": "2023-03-14 08:26:01",
+"User": 0,
+"Action": "Added product to cart",
+"Details": "Hazel added the running shoes to her shopping cart (ID: 123456, Merchant: Sports R Us, Price: $135.29)"
+}
+
+{
+"Time": "2023-03-14 08:27:20",
+"User": 0,
+"Action": "Proceeded to checkout",
+"Details": "Hazel proceeded to checkout with the running shoes (ID: 123456, Merchant: Sports R Us, Price: $135.29)"
+}
+
+{
+"Time": "2023-03-14 08:28:41",
+"User": 0,
+"Action": "Entered shipping information",
+"Details": "Hazel entered her shipping address (462 Rose Lane, La Verne, CA, 91750) for the running shoes (ID: 123456, Merchant: Sports R Us, Price: $135.29)"
+}
+
+{
+"Time": "2023-03-14 08:30:15",
+"User": 0,
+"Action": "Selected payment method",
+"Details": "Hazel selected her Visa credit card (4879494103069057) for the running shoes (ID: 123456, Merchant: Sports R Us, Price: $135.29)"
+}
+
+{
+"Time": "2023-03-14 08:31:34",
+"User": 0,
+"Action": "Confirmed payment information",
+"Details": "Hazel confirmed her payment information for the running shoes (ID: 123456, Merchant: Sports R Us, Price: $135.29, Card: 3, Amount: $135.29)"
+}
+
+{
+"Time": "2023-03-14 08:32:59",
+"User": 0,
+"Action": "Attempted purchase",
+"Details": "Hazel attempted to purchase the running shoes (ID: 123456, Merchant: Sports R Us, Price: $135.29). However, her transaction was declined due to exceeding her credit limit: Current balance: $3248.12, Credit Limit: $12400."
+}
+
+{
+"Time": "2023-03-14 08:34:12",
+"User": 0,
+"Action": "Received decline notification",
+"Details": "Hazel received a notification that her purchase was declined due to exceeding her credit limit (ID: 123456, Merchant: Sports R Us, Price: $135.29)"
+}
+
+{
+"Time": "2023-03-14 08:35:35",
+"User": 0,
+"Action": "Viewed account balance after decline",
+"Details": "Hazel checked her account balance after the decline. Current balance: $3248.12, Credit Limit: $12400."
+}
+
+{
+"Time": "2023-03-14 08:37:21",
+"User": 0,
+"Action": "Returned to financial app dashboard",
+"Details": "Hazel returned to the financial app dashboard after attempting to purchase the running shoes."
+}
+
+{
+"Time": "2023-03-14 08:39:45",
+"User": 0,
+"Action": "Used app features",
+"Details": "Hazel used various features in her financial app, including account overviews and budgeting tools."
+}
+
+{
+"Time": "2023-03-14 08:41:01",
+"User": 0,
+"Action": "Updated payment method information",
+"Details": "Hazel updated the payment method information in her account settings."
+}
+
+{
+"Time": "2023-03-14 08:42:21",
+"User": 0,
+"Action": "Received notification for low balance",
+"Details": "Hazel received a notification for her low account balance ($3248.12) and a reminder about her credit limit ($12400)."
+}
+
+{
+"Time": "2023-03-14 08:43:54",
+"User": 0,
+"Action": "Logged out of financial app",
+"Details": "Hazel logged out of her financial app after managing her account and updating her payment method information."
+}
+
+{
+"Time": "2023-03-14 08:45:17",
+"User": 0,
+"Action": "Received confirmation of logout",
+"Details": "Hazel received a confirmation of her logout from the financial app."
+}
+
+{
+"Time": "2023-03-14 08:46:41",
+"User": 0,
+"Action": "Closed financial app",
+"Details": "Hazel closed the financial app after completing her actions and logging out."
+}

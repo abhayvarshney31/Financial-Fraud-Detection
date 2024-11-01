@@ -1,0 +1,32 @@
+1. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:35', 'Action': 'Logged in to financial app', 'Errors?': nan, 'Is Fraud?': 'No'}
+2. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:36', 'Action': 'Navigated to transaction category page', 'Errors?': nan, 'Is Fraud?': 'No'}
+3. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:38', 'Action': 'Viewed transaction category: groceries', 'Errors?': nan, 'Is Fraud?': 'No'}
+4. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:39', 'Action': 'Sorted groceries category by most spent', 'Errors?': nan, 'Is Fraud?': 'No'}
+5. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:41', 'Action': 'Viewed transaction details: Safeway grocery store', 'Errors?': nan, 'Is Fraud?': 'No'}
+6. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:43', 'Action': 'Viewed transaction category: entertainment', 'Errors?': nan, 'Is Fraud?': 'No'}
+7. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:44', 'Action': 'Sorted entertainment category by least spent', 'Errors?': nan, 'Is Fraud?': 'No'}
+8. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:46', 'Action': 'Viewed transaction details: movie theater ticket purchase', 'Errors?': nan, 'Is Fraud?': 'No'}
+9. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:48', 'Action': 'Viewed transaction category: dining', 'Errors?': nan, 'Is Fraud?': 'No'}
+10. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:49', 'Action': 'Searched for specific restaurant within dining category', 'Errors?': nan, 'Is Fraud?': 'No'}
+11. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:50', 'Action': 'Viewed transaction details: Italian restaurant meal', 'Errors?': nan, 'Is Fraud?': 'No'}
+12. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:53', 'Action': 'Viewed transaction category: utilities', 'Errors?': nan, 'Is Fraud?': 'No'}
+13. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:54', 'Action': 'Sorted utilities category by due date', 'Errors?': nan, 'Is Fraud?': 'No'}
+14. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:56', 'Action': 'Viewed transaction details: electricity bill', 'Errors?': nan, 'Is Fraud?': 'No'}
+15. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:58', 'Action': 'Viewed transaction category: healthcare', 'Errors?': nan, 'Is Fraud?': 'No'}
+16. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '10:59', 'Action': 'Sorted healthcare category by vendor', 'Errors?': nan, 'Is Fraud?': 'No'}
+17. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:01', 'Action': 'Viewed transaction details: doctor visit copay', 'Errors?': nan, 'Is Fraud?': 'No'}
+18. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:03', 'Action': 'Viewed transaction category: home improvement', 'Errors?': nan, 'Is Fraud?': 'No'}
+19. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:04', 'Action': 'Searched for specific store within home improvement category', 'Errors?': nan, 'Is Fraud?': 'No'}
+20. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:05', 'Action': 'Viewed transaction details: home improvement store purchase', 'Errors?': nan, 'Is Fraud?': 'No'}
+21. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:07', 'Action': 'Viewed transaction category: transportation', 'Errors?': nan, 'Is Fraud?': 'No'}
+22. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:08', 'Action': 'Sorted transportation category by distance traveled', 'Errors?': nan, 'Is Fraud?': 'No'}
+23. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:10', 'Action': 'Viewed transaction details: gas station fill-up', 'Errors?': nan, 'Is Fraud?': 'No'}
+24. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:12', 'Action': 'Viewed transaction category: travel', 'Errors?': nan, 'Is Fraud?': 'No'}
+25. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:13', 'Action': 'Sorted travel category by date of travel', 'Errors?': nan, 'Is Fraud?': 'No'}
+26. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:15', 'Action': 'Viewed transaction details: airline ticket purchase', 'Errors?': nan, 'Is Fraud?': 'No'}
+27. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:17', 'Action': 'Viewed transaction category: education', 'Errors?': nan, 'Is Fraud?': 'No'}
+28. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:18', 'Action': 'Sorted education category by amount spent', 'Errors?': nan, 'Is Fraud?': 'No'}
+29. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:20', 'Action': 'Viewed transaction details: children\'s college fund deposit', 'Errors?': nan, 'Is Fraud?': 'No'}
+30. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:22', 'Action': 'Viewed transaction category: miscellaneous', 'Errors?': nan, 'Is Fraud?': 'No'}
+31. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:23', 'Action': 'Searched for specific vendor within miscellaneous category', 'Errors?': nan, 'Is Fraud?': 'No'}
+32. {'User': 0, 'Year': 2014, 'Month': 2, 'Day': 20, 'Time': '11:25', 'Action': 'Viewed transaction details: charitable donation', 'Errors?': nan, 'Is Fraud?': 'No'}

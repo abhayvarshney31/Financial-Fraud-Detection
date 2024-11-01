@@ -1,0 +1,299 @@
+{
+"Log ID": 1,
+"Time": "2011-04-26 06:16:00",
+"User": 0,
+"User Action": "Card swipe transaction",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Starbucks",
+"Merchant City": "La Verne",
+"Merchant State": "CA",
+"Zip": 91750.0,
+"Amount": "$9.25",
+"MCC": 5411
+}
+
+{
+"Log ID": 2,
+"Time": "2011-04-26 07:23:15",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Amazon",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$125.44",
+"MCC": 5967
+}
+
+{
+"Log ID": 3,
+"Time": "2011-04-26 08:05:02",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Nordstrom",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$78.39",
+"MCC": 5311
+}
+
+{
+"Log ID": 4,
+"Time": "2011-04-26 09:45:11",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Banana Republic",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$54.00",
+"MCC": 5311
+}
+
+{
+"Log ID": 5,
+"Time": "2011-04-26 10:26:15",
+"User": 0,
+"User Action": "Card swipe transaction",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Whole Foods Market",
+"Merchant City": "La Verne",
+"Merchant State": "CA",
+"Zip": 91750.0,
+"Amount": "$36.11",
+"MCC": 5411
+}
+
+{
+"Log ID": 6,
+"Time": "2011-04-26 11:01:31",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Crate and Barrel",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$189.95",
+"MCC": 5734
+}
+
+{
+"Log ID": 7,
+"Time": "2011-04-26 12:15:56",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Lowe's",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$98.73",
+"MCC": 5311
+}
+
+{
+"Log ID": 8,
+"Time": "2011-04-26 13:00:30",
+"User": 0,
+"User Action": "Card swipe transaction",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Macy's",
+"Merchant City": "La Verne",
+"Merchant State": "CA",
+"Zip": 91750.0,
+"Amount": "$72.89",
+"MCC": 5311
+}
+
+{
+"Log ID": 9,
+"Time": "2011-04-26 14:21:18",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Zappos",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$102.47",
+"MCC": 5661
+}
+
+{
+"Log ID": 10,
+"Time": "2011-04-26 15:05:06",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Neiman Marcus",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$215.55",
+"MCC": 5311
+}
+
+{
+"Log ID": 11,
+"Time": "2011-04-26 16:00:27",
+"User": 0,
+"User Action": "Card swipe transaction",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Home Depot",
+"Merchant City": "La Verne",
+"Merchant State": "CA",
+"Zip": 91750.0,
+"Amount": "$114.65",
+"MCC": 5311
+}
+
+{
+"Log ID": 12,
+"Time": "2011-04-26 17:02:03",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Sephora",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$134.25",
+"MCC": 5611
+}
+
+{
+"Log ID": 13,
+"Time": "2011-04-26 17:56:53",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Restoration Hardware",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$195.35",
+"MCC": 5712
+}
+
+{
+"Log ID": 14,
+"Time": "2011-04-26 18:35:20",
+"User": 0,
+"User Action": "Card swipe transaction",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Bloomingdale's",
+"Merchant City": "La Verne",
+"Merchant State": "CA",
+"Zip": 91750.0,
+"Amount": "$65.78",
+"MCC": 5311
+}
+
+{
+"Log ID": 15,
+"Time": "2011-04-26 19:24:05",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Pottery Barn",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$145.12",
+"MCC": 5734
+}
+
+{
+"Log ID": 16,
+"Time": "2011-04-26 20:11:50",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Anthropologie",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$175.25",
+"MCC": 5311
+}
+
+{
+"Log ID": 17,
+"Time": "2011-04-26 21:07:36",
+"User": 0,
+"User Action": "Card swipe transaction",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Saks Fifth Avenue",
+"Merchant City": "La Verne",
+"Merchant State": "CA",
+"Zip": 91750.0,
+"Amount": "$87.33",
+"MCC": 5311
+}
+
+{
+"Log ID": 18,
+"Time": "2011-04-26 22:01:51",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Barnes & Noble",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$108.46",
+"MCC": 5942
+}
+
+{
+"Log ID": 19,
+"Time": "2011-04-26 22:50:02",
+"User": 0,
+"User Action": "Online purchase",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Apple",
+"Merchant City": "Online",
+"Merchant State": "NA",
+"Zip": "NA",
+"Amount": "$216.44",
+"MCC": 5734
+}
+
+{
+"Log ID": 20,
+"Time": "2011-04-26 23:42:24",
+"User": 0,
+"User Action": "Card swipe transaction",
+"Card Brand": "Visa",
+"Card Type": "Debit",
+"Merchant Name": "Williams-Sonoma",
+"Merchant City": "La Verne",
+"Merchant State": "CA",
+"Zip": 91750.0,
+"Amount": "$125.50",
+"MCC": 5712
+}

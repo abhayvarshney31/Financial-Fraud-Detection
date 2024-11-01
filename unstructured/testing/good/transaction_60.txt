@@ -1,0 +1,30 @@
+1. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '10:01', 'User': 0, 'Action': 'Logged in to the financial app', 'Details': {'IP Address': '96.28.175.12'}}
+2. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '10:02', 'User': 0, 'Action': 'Checking account balance', 'Details': {'Account': 'Checking'}}
+3. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '10:03', 'User': 0, 'Action': 'Viewed recent transactions', 'Details': {'Account': 'Checking'}}
+4. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '10:05', 'User': 0, 'Action': 'Navigated to merchant page', 'Details': {'Merchant Name': 'Safeway'}}
+5. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '10:06', 'User': 0, 'Action': 'Added grocery items to cart', 'Details': {'Items': ['Milk', 'Bread', 'Eggs', 'Fruit']}}
+6. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '10:07', 'User': 0, 'Action': 'Calculated estimated transaction amount', 'Details': {'Amount': '$21.50'}}
+7. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '10:08', 'User': 0, 'Action': 'Selected card for payment', 'Details': {'Card Brand': 'Mastercard', 'Card Type': 'Debit (Prepaid)', 'Last Four Digits': '6011'}}
+8. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '10:09', 'User': 0, 'Action': 'Confirmed payment details', 'Details': {'Amount': '$21.50'}}
+9. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '13:04', 'User': 0, 'Action': 'Transaction initiated', 'Details': {'Merchant Name': 'Safeway', 'Amount': '$21.50', 'Use Chip': 'Swipe Transaction'}}
+10. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '13:04', 'User': 0, 'Action': 'Transaction processed successfully', 'Details': {'Merchant Name': 'Safeway', 'Amount': '$21.50', 'Merchant City': 'Muscatine', 'Merchant State': 'IA', 'Zip': 52761.0}}
+11. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '13:05', 'User': 0, 'Action': 'Received notification of successful transaction', 'Details': {'Merchant Name': 'Safeway', 'Amount': '$21.50'}}
+12. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '13:06', 'User': 0, 'Action': 'Updated account balance', 'Details': {'Account': 'Checking', 'New Balance': '$334.42'}}
+13. {'Year': 2011, 'Month': 12, 'Day': 1, 'Time': '13:07', 'User': 0, 'Action': 'Logged out of the financial app'}
+14. {'Year': 2011, 'Month': 12, 'Day': 2, 'Time': '08:15', 'User': 0, 'Action': 'Logged in to the financial app'}
+15. {'Year': 2011, 'Month': 12, 'Day': 2, 'Time': '08:16', 'User': 0, 'Action': 'Verified transaction from previous day', 'Details': {'Merchant Name': 'Safeway', 'Amount': '$21.50'}}
+16. {'Year': 2011, 'Month': 12, 'Day': 2, 'Time': '08:17', 'User': 0, 'Action': 'Confirmed transaction is correct', 'Details': {'Merchant Name': 'Safeway', 'Amount': '$21.50'}}
+17. {'Year': 2011, 'Month': 12, 'Day': 3, 'Time': '07:45', 'User': 0, 'Action': 'Logged in to the financial app'}
+18. {'Year': 2011, 'Month': 12, 'Day': 3, 'Time': '07:46', 'User': 0, 'Action': 'Viewed account balance', 'Details': {'Account': 'Checking'}}
+19. {'Year': 2011, 'Month': 12, 'Day': 3, 'Time': '07:47', 'User': 0, 'Action': 'Viewed recent transactions', 'Details': {'Account': 'Checking'}}
+20. {'Year': 2011, 'Month': 12, 'Day': 3, 'Time': '07:48', 'User': 0, 'Action': 'Noted successful Safeway transaction', 'Details': {'Merchant Name': 'Safeway', 'Amount': '$21.50'}}
+21. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '11:30', 'User': 0, 'Action': 'Logged in to the financial app'}
+22. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '11:31', 'User': 0, 'Action': 'Checked account balance', 'Details': {'Account': 'Checking'}}
+23. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '11:32', 'User': 0, 'Action': 'Confirmed sufficient balance', 'Details': {'Account': 'Checking'}}
+24. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '11:33', 'User': 0, 'Action': 'Initiated new transaction', 'Details': {'Merchant Name': 'Target'}}
+25. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '11:34', 'User': 0, 'Action': 'Added items to cart', 'Details': {'Items': ['Shoes', 'Clothes', 'Kitchenware']}}
+26. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '11:35', 'User': 0, 'Action': 'Calculated estimated transaction amount', 'Details': {'Amount': '$93.15'}}
+27. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '11:36', 'User': 0, 'Action': 'Selected card for payment', 'Details': {'Card Brand': 'Mastercard', 'Card Type': 'Debit (Prepaid)', 'Last Four Digits': '6011'}}
+28. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '11:37', 'User': 0, 'Action': 'Confirmed payment details', 'Details': {'Amount': '$93.15'}}
+29. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '13:04', 'User': 0, 'Action': 'Transaction initiated', 'Details': {'Merchant Name': 'Target', 'Amount': '$93.15', 'Use Chip': 'Swipe Transaction'}}
+30. {'Year': 2011, 'Month': 12, 'Day': 4, 'Time': '13:05', 'User': 0, 'Action': 'Transaction processed successfully', 'Details': {'Merchant Name': 'Target', 'Amount': '$93.15', 'Merchant City': 'Minneapolis', 'Merchant State': 'MN', 'Zip': 55401.0}}

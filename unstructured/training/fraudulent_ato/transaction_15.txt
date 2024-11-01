@@ -1,0 +1,56 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with a focus on attempted logins from suspicious or blacklisted IP addresses:
+
+**Attempts 1-5:**
+
+1. 2023-02-15 00:00:00 - Suspicious login attempt from IP address 192.168.1.100 (blacklisted) - User 0
+2. 2023-02-15 00:01:00 - Login attempt failed (invalid credentials) - User 0
+3. 2023-02-15 00:02:00 - IP address 192.168.1.100 attempted login again - User 0
+4. 2023-02-15 00:03:00 - Login attempt failed (invalid credentials) - User 0
+5. 2023-02-15 00:04:00 - IP address 192.168.1.100 attempted login again - User 0
+
+**Attempts 6-10:**
+
+6. 2023-02-15 00:09:00 - Suspicious login attempt from IP address 45.76.198.145 (blacklisted) - User 0
+7. 2023-02-15 00:10:00 - Login attempt failed (invalid credentials) - User 0
+8. 2023-02-15 00:11:00 - IP address 45.76.198.145 attempted login again - User 0
+9. 2023-02-15 00:12:00 - Login attempt failed (invalid credentials) - User 0
+10. 2023-02-15 00:13:00 - IP address 45.76.198.145 attempted login again - User 0
+
+**Attempts 11-15:**
+
+11. 2023-02-15 00:14:00 - Suspicious login attempt from IP address 93.71.109.216 (blacklisted) - User 0
+12. 2023-02-15 00:15:00 - Login attempt failed (invalid credentials) - User 0
+13. 2023-02-15 00:16:00 - IP address 93.71.109.216 attempted login again - User 0
+14. 2023-02-15 00:17:00 - Login attempt failed (invalid credentials) - User 0
+15. 2023-02-15 00:18:00 - IP address 93.71.109.216 attempted login again - User 0
+
+**Final Attempt:**
+
+16. 2023-02-15 00:20:00 - Suspicious login attempt from IP address 192.168.1.100 (blacklisted) - User 0
+17. 2023-02-15 00:20:30 - Successful login attempt (valid credentials) - User 0
+18. 2023-02-15 00:21:00 - User 0 accessed their account dashboard - User 0
+19. 2023-02-15 00:21:30 - User 0 initiated a transaction with Visa card 4879494103069057 - User 0
+20. 2023-02-15 00:22:00 - Transaction confirmation: $35.69 was debited from User 0's account - User 0
+
+**Additional Log Entries:**
+
+21. 2023-02-15 00:22:30 - System detected potential fraud and flagged the transaction for review - User 0
+22. 2023-02-15 00:23:00 - User 0's account activity was automatically paused - User 0
+23. 2023-02-15 00:24:00 - Fraud review team was notified of the suspicious transaction - User 0
+24. 2023-02-15 00:25:00 - User 0 was notified of the transaction and account pause - User 0
+25. 2023-02-15 00:26:00 - User 0 cleared the transaction review alert - User 0
+
+**Additional Context:**
+
+* User: 0
+* Person: Hazel Robinson
+* Birth Year: 1966
+* Birth Month: 11
+* Gender: Female
+* Address: 462 Rose Lane, La Verne, CA 91750
+* Yearly Income - Person: $59696
+* Total Debt: $127613
+* FICO Score: 787
+* Num Credit Cards: 5
+* CARD INDEX: 3
+* Card Brand: Visa

@@ -1,0 +1,30 @@
+1. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:13, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged in to financial app'}
+2. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:15, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Navigated to credit monitoring section'}
+3. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:16, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Viewed FICO score history'}
+4. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:17, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Checked current FICO score (787)'}
+5. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:18, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Reviewed factors impacting FICO score'}
+6. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:19, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Noted recent credit inquiries'}
+7. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:20, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Compared FICO score to previous month'}
+8. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:21, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Set a reminder to check FICO score next month'}
+9. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 15, `'Time'`: 10:22, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged out of financial app'}
+10. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 16, `'Time'`: 14:35, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged in to financial app'}
+11. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 16, `'Time'`: 14:36, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Checked FICO score again out of curiosity'}
+12. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 16, `'Time'`: 14:37, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Researched methods to improve FICO score'}
+13. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 16, `'Time'`: 14:38, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Added a note to pay bills on time to improve FICO score'}
+14. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 16, `'Time'`: 14:39, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged out of financial app'}
+15. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 18, `'Time'`: 11:17, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged in to financial app'}
+16. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 18, `'Time'`: 11:18, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Reviewed credit card balances'}
+17. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 18, `'Time'`: 11:19, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Calculated available credit'}
+18. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 18, `'Time'`: 11:20, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Considered applying for a new credit card'}
+19. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 18, `'Time'`: 11:21, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Decided against applying for a new card to avoid impacting FICO score'}
+20. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 18, `'Time'`: 11:22, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged out of financial app'}
+21. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 21, `'Time'`: 16:45, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged in to financial app'}
+22. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 21, `'Time'`: 16:46, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Reviewed recent account activity'}
+23. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 21, `'Time'`: 16:47, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Noticed a suspicious transaction'}
+24. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 21, `'Time'`: 16:48, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Initiated a fraud investigation'}
+25. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 21, `'Time'`: 16:49, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged out of financial app'}
+26. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 22, `'Time'`: 11:02, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged in to financial app'}
+27. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 22, `'Time'`: 11:03, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Confirmed fraud investigation in progress'}
+28. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 22, `'Time'`: 11:04, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Changed account password for security'}
+29. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 22, `'Time'`: 11:05, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Verified recent FICO score check (787)'}
+30. {`'Year'`: 2021, `'Month'`: 3, `'Day'`: 22, `'Time'`: 11:06, `'User'`: 0, `'Person'`: 'Hazel Robinson', `'Action'`: 'Logged out of financial app'}

@@ -1,0 +1,29 @@
+1. [2012-05-08 06:20:15,000] User 0 (Hazel Robinson) attempted login from IP address 111.111.111.111
+2. [2012-05-08 06:21:36,000] User 0 (Hazel Robinson) failed login attempt from IP address 111.111.111.111
+3. [2012-05-08 06:22:57,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 111.111.111.111
+4. [2012-05-08 06:24:18,000] User 0 (Hazel Robinson) attempted login from IP address 222.222.222.222
+5. [2012-05-08 06:25:39,000] User 0 (Hazel Robinson) failed login attempt from IP address 222.222.222.222
+6. [2012-05-08 06:26:59,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 222.222.222.222
+7. [2012-05-08 06:28:20,000] User 0 (Hazel Robinson) attempted login from IP address 333.333.333.333
+8. [2012-05-08 06:29:41,000] User 0 (Hazel Robinson) failed login attempt from IP address 333.333.333.333
+9. [2012-05-08 06:31:02,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 333.333.333.333
+10. [2012-05-08 06:32:22,000] User 0 (Hazel Robinson) attempted login from IP address 444.444.444.444
+11. [2012-05-08 06:33:44,000] User 0 (Hazel Robinson) failed login attempt from IP address 444.444.444.444
+12. [2012-05-08 06:35:04,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 444.444.444.444
+13. [2012-05-08 06:36:25,000] User 0 (Hazel Robinson) attempted login from IP address 555.555.555.555
+14. [2012-05-08 06:37:46,000] User 0 (Hazel Robinson) failed login attempt from IP address 555.555.555.555
+15. [2012-05-08 06:39:07,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 555.555.555.555
+16. [2012-05-08 06:40:27,000] User 0 (Hazel Robinson) attempted login from IP address 666.666.666.666
+17. [2012-05-08 06:41:49,000] User 0 (Hazel Robinson) failed login attempt from IP address 666.666.666.666
+18. [2012-05-08 06:43:09,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 666.666.666.666
+19. [2012-05-08 06:44:30,000] User 0 (Hazel Robinson) attempted login from IP address 777.777.777.777
+20. [2012-05-08 06:45:50,000] User 0 (Hazel Robinson) failed login attempt from IP address 777.777.777.777
+21. [2012-05-08 06:47:11,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 777.777.777.777
+22. [2012-05-08 06:48:32,000] User 0 (Hazel Robinson) attempted login from IP address 888.888.888.888
+23. [2012-05-08 06:50:13,000] User 0 (Hazel Robinson) failed login attempt from IP address 888.888.888.888
+24. [2012-05-08 06:51:33,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 888.888.888.888
+25. [2012-05-08 06:52:55,000] User 0 (Hazel Robinson) attempted login from IP address 999.999.999.999
+26. [2012-05-08 06:54:15,000] User 0 (Hazel Robinson) failed login attempt from IP address 999.999.999.999
+27. [2012-05-08 06:55:36,000] User 0 (Hazel Robinson) blocked from login due to suspicious IP address 999.999.999.999
+
+After several failed login attempts, user 0 (Hazel Robinson) successfully logged in from a trusted device with IP address 34.15,-117.76.

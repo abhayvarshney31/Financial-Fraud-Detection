@@ -1,0 +1,61 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction:
+
+1. 2022-02-10 10:45:00 - User 0 viewed the Home page, exploring investment opportunities.
+
+2. 2022-02-10 10:47:00 - User 0 searched for 'High-Yield Savings Accounts' in the Search feature.
+
+3. 2022-02-10 10:50:00 - User 0 viewed 3 search results for 'High-Yield Savings Accounts', including details such as interest rates and minimum balance requirements.
+
+4. 2022-02-10 10:55:00 - User 0 clicked on 'Discover High-Yield Savings Account' to view more information about the account.
+
+5. 2022-02-10 11:03:00 - User 0 created a Portfolio and named it 'Hazel's Retirement Savings'.
+
+6. 2022-02-10 11:08:00 - User 0 added 'Discover High-Yield Savings Account' to the Portfolio.
+
+7. 2022-02-10 11:15:00 - User 0 viewed the 'Investment Overview' page of the Portfolio, including details about the added financial product.
+
+8. 2022-02-10 11:20:00 - User 0 opened 'Investment Requirements' in the Portfolio.
+
+9. 2022-02-10 11:23:00 - User 0 modified the investment amount to $1,000.
+
+10. 2022-02-10 11:25:00 - User 0 confirmed the changes to the Portfolio.
+
+11. 2022-02-11 09:30:00 - User 0 viewed the 'Your Accounts' page and checked if there were any new offers.
+
+12. 2022-02-11 09:35:00 - User 0 received an offer for a 'Compound Interest Certificate of Deposit', which they decided to review.
+
+13. 2022-02-11 09:42:00 - User 0 viewed the terms and conditions for the 'Compound Interest Certificate of Deposit'.
+
+14. 2022-02-11 09:45:00 - User 0 decided not to purchase the 'Compound Interest Certificate of Deposit' and closed the offer viewed.
+
+15. 2022-02-11 09:50:00 - User 0 viewed the 'Investment Overview' page of the Portfolio.
+
+16. 2022-02-11 09:55:00 - User 0 clicked on 'Discover High-Yield Savings Account' to view more information about the account.
+
+17. 2022-02-11 10:00:00 - User 0 opened another browser tab to access the 'Discover High-Yield Savings Account' website.
+
+18. 2022-02-11 10:05:00 - User 0 logged in to their 'Discover High-Yield Savings Account' account on the website.
+
+19. 2022-02-11 10:10:00 - User 0 reviewed their account details, including the interest rate and minimum balance requirements.
+
+20. 2022-02-11 10:15:00 - User 0 decided to open the 'Discover High-Yield Savings Account' account.
+
+21. 2022-02-11 10:20:00 - User 0 selected the 'Overnight Funding' option to initiate the transaction.
+
+22. 2022-02-11 10:25:00 - User 0 confirmed the account opening and funding.
+
+23. 2022-02-11 10:30:00 - User 0 verified the account details and balance.
+
+24. 2022-02-11 10:35:00 - User 0 closed the browser tab.
+
+25. 2022-02-11 10:40:00 - User 0 returned to the app and viewed the 'Your Accounts' page.
+
+26. 2022-02-11 10:45:00 - User 0 verified the account opening and funds transfer.
+
+27. 2022-02-11 10:50:00 - User 0 viewed the 'Investment Overview' page of the Portfolio.
+
+28. 2022-02-11 10:55:00 - User 0 reviewed the progress of 'Discover High-Yield Savings Account' in the Portfolio.
+
+29. 2022-02-11 11:00:00 - User 0 opened the 'Discover High-Yield Savings Account' account in the Portfolio to review its details.
+
+30. 2022-02-11 11:05:00 - User 0 closed the 'Discover High-Yield Savings Account' account in the Portfolio.

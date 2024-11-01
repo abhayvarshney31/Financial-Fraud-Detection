@@ -1,0 +1,51 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with the user attempting to use a VPN or proxy during login:
+
+1. 2023-02-20 14:29:12 - "Connection established" from IP address 192.168.1.100
+	* User: 0
+	* Action: Connected to the financial app server
+	* Context: {}, VPN/Proxy: Yes, Server IP: 8.8.8.8
+
+2. 2023-02-20 14:29:15 - "Attempting to log in" with username "hazelrobinson" from user proxy (8.8.8.8)
+	* User: 0
+	* Action: Initializing login process
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5
+
+3. 2023-02-20 14:29:22 - "Invalid username or password" for user proxy (8.8.8.8)
+	* User: 0
+	* Action: Failed login attempt
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5
+
+4. 2023-02-20 14:30:00 - "Re-trying to log in" with username "hazelrobinson" from user proxy (8.8.8.8)
+	* User: 0
+	* Action: Re-trial login process
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5
+
+5. 2023-02-20 14:30:05 - "IP address resolved: 192.168.1.100" from user proxy (8.8.8.8)
+	* User: 0
+	* Action: DNS resolution for user connection
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5
+
+6. 2023-02-20 14:30:10 - "Initializing connection to login server" from user proxy (8.8.8.8)
+	* User: 0
+	* Action: Establishing connection to login server
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5
+
+7. 2023-02-20 14:30:12 - "Successful login" for user 0 from user proxy (8.8.8.8)
+	* User: 0
+	* Action: Successful login
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5
+
+8. 2023-02-20 14:35:00 - "User clicked on 'Cards' tab" from IP address 192.168.1.100
+	* User: 0
+	* Action: Navigated to 'Cards' tab
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5
+
+9. 2023-02-20 14:35:10 - "Viewing card details" for card 2 from user proxy (8.8.8.8)
+	* User: 0
+	* Action: Viewing card details
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5
+
+10. 2023-02-20 14:35:15 - "Selected card 2 for transaction" from user proxy (8.8.8.8)
+	* User: 0
+	* Action: Selected card for transaction
+	* Context: Person: Hazel Robinson, Current Age: 53, ..., FICO Score: 787, Num Credit Cards: 5

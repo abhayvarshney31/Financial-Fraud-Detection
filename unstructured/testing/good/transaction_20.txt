@@ -1,0 +1,20 @@
+1. {'User': 0, 'Time': '07:31', 'Action': 'Logged in to financial app', 'City': 'La Verne', 'State': 'CA'}
+2. {'User': 0, 'Time': '07:32', 'Action': 'Navigated to investment opportunities section', 'Longitude': -117.76, 'Zipcode': 91750}
+3. {'User': 0, 'Time': '07:33', 'Action': 'Viewed stock information for company XYZ', 'Ticker Symbol': 'XYZ', 'City': 'La Verne', 'State': 'CA'}
+4. {'User': 0, 'Time': '07:35', 'Action': 'Used search function to look up company ABC', 'Ticker Symbol': 'ABC', 'City': 'La Verne', 'State': 'CA'}
+5. {'User': 0, 'Time': '07:37', 'Action': 'Read news articles about company DEF', 'Ticker Symbol': 'DEF', 'City': 'La Verne', 'State': 'CA'}
+6. {'User': 0, 'Time': '07:40', 'Action': 'Checked historical price data for company GHI', 'Ticker Symbol': 'GHI', 'City': 'La Verne', 'State': 'CA'}
+7. {'User': 0, 'Time': '07:43', 'Action': 'Added company JKL to watchlist', 'Ticker Symbol': 'JKL', 'City': 'La Verne', 'State': 'CA'}
+8. {'User': 0, 'Time': '07:45', 'Action': 'Viewed company MNO profile', 'Ticker Symbol': 'MNO', 'City': 'La Verne', 'State': 'CA'}
+9. {'User': 0, 'Time': '07:47', 'Action': 'Calculated potential returns for company PQR', 'Ticker Symbol': 'PQR', 'City': 'La Verne', 'State': 'CA'}
+10. {'User': 0, 'Time': '07:50', 'Action': 'Used comparison tool to analyze company STU and company VWX', 'Ticker Symbol 1': 'STU', 'Ticker Symbol 2': 'VWX', 'City': 'La Verne', 'State': 'CA'}
+11. {'User': 0, 'Time': '07:53', 'Action': 'Browsed mutual funds and ETFs', 'City': 'La Verne', 'State': 'CA'}
+12. {'User': 0, 'Time': '07:56', 'Action': 'Viewed mutual fund YZ', 'Ticker Symbol': 'YZ', 'City': 'La Verne', 'State': 'CA'}
+13. {'User': 0, 'Time': '07:58', 'Action': 'Examined distribution and sector breakdown for mutual fund ABC', 'Ticker Symbol': 'ABC', 'City': 'La Verne', 'State': 'CA'}
+14. {'User': 0, 'Time': '08:01', 'Action': 'Analyzed past performance of mutual fund DEF', 'Ticker Symbol': 'DEF', 'City': 'La Verne', 'State': 'CA'}
+15. {'User': 0, 'Time': '08:03', 'Action': 'Added mutual fund GHI to watchlist', 'Ticker Symbol': 'GHI', 'City': 'La Verne', 'State': 'CA'}
+16. {'User': 0, 'Time': '08:06', 'Action': 'Noted name and details of financial advisor HJK', 'Advisor Name': 'HJK', 'City': 'La Verne', 'State': 'CA'}
+17. {'User': 0, 'Time': '08:08', 'Action': 'Compared fees for mutual funds XYZ and LMN', 'Ticker Symbol 1': 'XYZ', 'Ticker Symbol 2': 'LMN', 'City': 'La Verne', 'State': 'CA'}
+18. {'User': 0, 'Time': '08:11', 'Action': 'Read about the investment strategies of financial advisor PQR', 'Advisor Name': 'PQR', 'City': 'La Verne', 'State': 'CA'}
+19. {'User': 0, 'Time': '08:13', 'Action': 'Checked account balance before making an investment', 'City': 'La Verne', 'State': 'CA'}
+20. {'User': 0, 'Time': '08:15', 'Action': 'Initiated investment of $1000 in mutual fund STU', 'Ticker Symbol': 'STU', 'Amount': 1000, 'City': 'La Verne', 'State': 'CA'}

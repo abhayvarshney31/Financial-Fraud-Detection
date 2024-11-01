@@ -1,0 +1,18 @@
+Here are 20-30 log entries leading up to a transaction for user 0:
+
+1. 2022-02-20 09:42:00 - User 0 logged in.
+2. 2022-02-20 09:45:00 - User 0 viewed account balance.
+3. 2022-02-20 09:47:00 - User 0 generated a report on recent transactions.
+4. 2022-02-20 09:49:00 - User 0 filtered the report by date range (last 30 days).
+5. 2022-02-20 09:51:00 - User 0 edited the report to exclude duplicate transactions.
+6. 2022-02-20 09:53:00 - User 0 saved the report as a PDF.
+7. 2022-02-20 09:55:00 - User 0 downloaded the PDF report.
+8. 2022-02-20 09:57:00 - User 0 viewed the downloaded report.
+9. 2022-02-20 10:00:00 - User 0 spent 5 minutes viewing the report.
+10. 2022-02-20 10:05:00 - User 0 closed the report.
+11. 2022-02-20 10:07:00 - User 0 initiated a transaction to Mira Loma for $82.37.
+12. 2022-02-20 10:08:00 - User 0 selected the Visa debit card (Card 0).
+13. 2022-02-20 10:10:00 - User 0 confirmed the transaction.
+14. 2022-02-20 10:11:00 - User 0 received a confirmation message for the transaction.
+
+Note that log entries 1-11 will still be occurring before the actual transaction takes place.

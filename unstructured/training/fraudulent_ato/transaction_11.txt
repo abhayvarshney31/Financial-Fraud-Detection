@@ -1,0 +1,228 @@
+Here are 30 log entries for user 0, leading up to a transaction:
+
+**Entry 1**
+Date: 2022-10-15 09:30:00
+User: 0
+Action: Login
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 2**
+Date: 2022-10-15 10:35:00
+User: 0
+Action: Logout
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 3**
+Date: 2022-10-16 03:10:00
+User: 0
+Action: Login
+Location: Tokyo, Japan (Latitude: 35.69, Longitude: 139.77)
+User Details: Hazel Robinson, Age 53
+
+**Entry 4**
+Date: 2022-10-16 03:20:00
+User: 0
+Action: Logout
+Location: Tokyo, Japan (Latitude: 35.69, Longitude: 139.77)
+User Details: Hazel Robinson, Age 53
+
+**Entry 5**
+Date: 2022-10-17 06:45:00
+User: 0
+Action: Login
+Location: New York City, NY, USA (Latitude: 40.71, Longitude: -74.01)
+User Details: Hazel Robinson, Age 53
+
+**Entry 6**
+Date: 2022-10-17 07:00:00
+User: 0
+Action: Logout
+Location: New York City, NY, USA (Latitude: 40.71, Longitude: -74.01)
+User Details: Hazel Robinson, Age 53
+
+**Entry 7**
+Date: 2022-10-18 02:15:00
+User: 0
+Action: Login
+Location: Paris, France (Latitude: 48.87, Longitude: 2.33)
+User Details: Hazel Robinson, Age 53
+
+**Entry 8**
+Date: 2022-10-18 02:25:00
+User: 0
+Action: Logout
+Location: Paris, France (Latitude: 48.87, Longitude: 2.33)
+User Details: Hazel Robinson, Age 53
+
+**Entry 9**
+Date: 2022-10-19 04:40:00
+User: 0
+Action: Login
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 10**
+Date: 2022-10-19 04:50:00
+User: 0
+Action: Logout
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 11**
+Date: 2022-10-20 01:10:00
+User: 0
+Action: Login
+Location: London, UK (Latitude: 51.51, Longitude: -0.13)
+User Details: Hazel Robinson, Age 53
+
+**Entry 12**
+Date: 2022-10-20 01:20:00
+User: 0
+Action: Logout
+Location: London, UK (Latitude: 51.51, Longitude: -0.13)
+User Details: Hazel Robinson, Age 53
+
+**Entry 13**
+Date: 2022-10-21 03:35:00
+User: 0
+Action: Login
+Location: Sydney, Australia (Latitude: -33.87, Longitude: 151.21)
+User Details: Hazel Robinson, Age 53
+
+**Entry 14**
+Date: 2022-10-21 03:45:00
+User: 0
+Action: Logout
+Location: Sydney, Australia (Latitude: -33.87, Longitude: 151.21)
+User Details: Hazel Robinson, Age 53
+
+**Entry 15**
+Date: 2022-10-22 05:00:00
+User: 0
+Action: Login
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 16**
+Date: 2022-10-22 05:10:00
+User: 0
+Action: Logout
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 17**
+Date: 2022-10-23 02:20:00
+User: 0
+Action: Login
+Location: Hong Kong, China (Latitude: 22.27, Longitude: 114.17)
+User Details: Hazel Robinson, Age 53
+
+**Entry 18**
+Date: 2022-10-23 02:30:00
+User: 0
+Action: Logout
+Location: Hong Kong, China (Latitude: 22.27, Longitude: 114.17)
+User Details: Hazel Robinson, Age 53
+
+**Entry 19**
+Date: 2022-10-24 04:40:00
+User: 0
+Action: Login
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 20**
+Date: 2022-10-24 04:50:00
+User: 0
+Action: Logout
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 21**
+Date: 2022-10-25 03:15:00
+User: 0
+Action: Login
+Location: Beijing, China (Latitude: 39.93, Longitude: 116.40)
+User Details: Hazel Robinson, Age 53
+
+**Entry 22**
+Date: 2022-10-25 03:25:00
+User: 0
+Action: Logout
+Location: Beijing, China (Latitude: 39.93, Longitude: 116.40)
+User Details: Hazel Robinson, Age 53
+
+**Entry 23**
+Date: 2022-10-26 02:40:00
+User: 0
+Action: Login
+Location: Mumbai, India (Latitude: 18.95, Longitude: 72.85)
+User Details: Hazel Robinson, Age 53
+
+**Entry 24**
+Date: 2022-10-26 02:50:00
+User: 0
+Action: Logout
+Location: Mumbai, India (Latitude: 18.95, Longitude: 72.85)
+User Details: Hazel Robinson, Age 53
+
+**Entry 25**
+Date: 2022-10-27 04:10:00
+User: 0
+Action: Login
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 26**
+Date: 2022-10-27 04:20:00
+User: 0
+Action: Logout
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 27**
+Date: 2022-10-28 03:30:00
+User: 0
+Action: Login
+Location: Rio de Janeiro, Brazil (Latitude: -22.90, Longitude: -43.17)
+User Details: Hazel Robinson, Age 53
+
+**Entry 28**
+Date: 2022-10-28 03:40:00
+User: 0
+Action: Logout
+Location: Rio de Janeiro, Brazil (Latitude: -22.90, Longitude: -43.17)
+User Details: Hazel Robinson, Age 53
+
+**Entry 29**
+Date: 2022-10-29 02:00:00
+User: 0
+Action: Login
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 30**
+Date: 2022-10-29 02:10:00
+User: 0
+Action: Login
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+
+**Entry 31**
+Date: 2022-10-29 02:15:00
+User: 0
+Action: Transaction
+Location: La Verne, CA, USA (Latitude: 34.15, Longitude: -117.76)
+User Details: Hazel Robinson, Age 53
+Amount: $34.69
+Merchant Name: -86825621511712373
+Merchant City: La Verne
+Merchant State: CA
+Zip: 91750.0
+MCC: 7230
+Errors?: nan
+Is Fraud?: 'No'
+
+Please note that the timestamp and location for the transaction entry may not be accurate, as it's likely that the actual transaction occurred at a different location and time.

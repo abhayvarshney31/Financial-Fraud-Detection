@@ -1,0 +1,20 @@
+1. [2017-09-02 06:15:00,000] User 0 (Hazel Robinson) logged into financial app from 462 Rose Lane, La Verne, CA 91750
+2. [2017-09-02 06:15:23,123] User 0 navigated to "Credit Cards" section in the app
+3. [2017-09-02 06:16:01,567] User 0 selected CARD INDEX 4, a Mastercard Debit (Prepaid) card
+4. [2017-09-02 06:16:33,982] User 0 viewed card details for Debit (Prepaid) Mastercard ending in 6011
+5. [2017-09-02 06:17:15,456] User 0 checked card expiration date (03/2009) and CVV (75)
+6. [2017-09-02 06:17:25,891] User 0 verified that the card has a chip ('YES')
+7. [2017-09-02 06:18:12,345] User 0 navigated to "Card Perks" section for Debit (Prepaid) Mastercard
+8. [2017-09-02 06:18:56,678] User 0 reviewed cashback offers for the Debit (Prepaid) Mastercard
+9. [2017-09-02 06:19:34,012] User 0 clicked on "Travel" category to view available cashback offers
+10. [2017-09-02 06:20:18,456] User 0 found cashback offer for 5% on airline ticket purchases
+11. [2017-09-02 06:21:10,987] User 0 calculated potential savings with the 5% cashback offer
+12. [2017-09-02 06:22:01,543] User 0 explored "Rewards" section to learn more about point redemption
+13. [2017-09-02 06:23:35,789] User 0 discovered that points can be redeemed for gift cards or statement credits
+14. [2017-09-02 06:24:23,124] User 0 compared per capita income in 91750 ($29278) with her yearly income ($59696)
+15. [2017-09-02 06:25:05,678] User 0 considered using the Debit (Prepaid) Mastercard for more purchases to increase cashback rewards
+16. [2017-09-02 06:26:01,234] User 0 reviewed the card's credit limit ($28) and total debt ($127613)
+17. [2017-09-02 06:26:53,789] User 0 checked FICO score (787) and Num Credit Cards (5)
+18. [2017-09-02 06:27:45,230] User 0 compared the Debit (Prepaid) Mastercard with other credit cards in her wallet
+19. [2017-09-02 06:28:35,765] User 0 decided to use the Debit (Prepaid) Mastercard for an upcoming airline ticket purchase
+20. [2017-09-02 06:29:23,121] User 0 navigated back to the dashboard, preparing to make a transaction with the Debit (Prepaid) Mastercard

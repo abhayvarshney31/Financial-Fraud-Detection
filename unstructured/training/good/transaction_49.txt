@@ -1,0 +1,33 @@
+Here are 20-30 log entries for user 0, leading up to a transaction, with behavior type "Checked FICO score in the app for credit monitoring":
+
+1. 2022-09-10 08:30:00 - User 0 logged into the app.
+2. 2022-09-10 08:35:00 - User 0 viewed their credit score summary.
+3. 2022-09-10 08:40:00 - User 0 reviewed their debt-to-income ratio.
+4. 2022-09-10 08:45:00 - User 0 checked their credit report for any errors.
+5. 2022-09-10 08:50:00 - User 0 checked their credit utilization ratio.
+6. 2022-09-10 08:55:00 - User 0 reviewed their payment history.
+7. 2022-09-10 09:00:00 - User 0 viewed their account activity for the past 30 days.
+8. 2022-09-10 09:05:00 - User 0 checked their credit inquiries for the past 6 months.
+9. 2022-09-10 09:10:00 - User 0 checked their credit utilization ratio for their credit card.
+10. 2022-09-10 09:15:00 - User 0 viewed their credit score history.
+11. 2022-09-10 09:20:00 - User 0 checked their credit score range.
+12. 2022-09-10 09:25:00 - User 0 viewed their credit report.
+13. 2022-09-10 09:30:00 - User 0 checked their credit score trend.
+14. 2022-09-10 09:35:00 - User 0 reviewed their credit limit.
+15. 2022-09-10 09:40:00 - User 0 checked their available credit.
+16. 2022-09-10 09:45:00 - User 0 viewed their credit score percentile.
+17. 2022-09-10 09:50:00 - User 0 checked their credit score age.
+18. 2022-09-10 09:55:00 - User 0 viewed their credit score inquiries.
+19. 2022-09-10 10:00:00 - User 0 checked their credit score for credit card applications.
+20. 2022-09-10 10:05:00 - User 0 viewed their credit score trends.
+21. 2022-09-10 10:10:00 - User 0 checked their credit utilization ratio for all credit cards.
+22. 2022-09-10 10:15:00 - User 0 viewed their credit score history.
+23. 2022-09-10 10:20:00 - User 0 checked their credit score for credit inquiries.
+24. 2022-09-10 10:25:00 - User 0 viewed their credit score range.
+25. 2022-09-10 10:30:00 - User 0 checked their credit score trend.
+26. 2022-09-10 10:35:00 - User 0 viewed their credit limit.
+27. 2022-09-10 10:40:00 - User 0 checked their available credit.
+28. 2022-09-10 10:45:00 - User 0 viewed their credit score percentile.
+29. 2022-09-10 10:50:00 - User 0 checked their credit score age.
+30. 2022-09-10 10:55:00 - User 0 viewed their credit score inquiries.
+31. 2022-09-10 11:00:00 - User 0 checked their FICO score and exited the app.

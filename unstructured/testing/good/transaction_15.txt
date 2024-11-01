@@ -1,0 +1,30 @@
+1. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '10:15', 'Action': 'Logged in to financial app', 'Details': 'Hazel Robinson (User 0) logged in to financial app from 462 Rose Lane, La Verne, CA 91750' }
+2. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '10:20', 'Action': 'Accessed transaction history', 'Details': 'Hazel Robinson viewed recent transactions in the financial app for budgeting purposes' }
+3. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '10:21', 'Action': 'Sorted transactions by date', 'Details': 'Hazel Robinson sorted transactions by date to review them in chronological order' }
+4. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '10:25', 'Action': 'Filtered transactions by category', 'Details': 'Hazel Robinson filtered transactions to show only groceries and utilities' }
+5. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '10:30', 'Action': 'Calculated total monthly expenses', 'Details': 'Hazel Robinson calculated the total monthly expenses for groceries and utilities' }
+6. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '10:35', 'Action': 'Compared expenses with budget', 'Details': 'Hazel Robinson compared the total monthly expenses with the budgeted amount' }
+7. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '10:40', 'Action': 'Noted discrepancies', 'Details': 'Hazel Robinson noted discrepancies between the actual expenses and the budgeted amount' }
+8. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '10:45', 'Action': 'Reviewed individual transactions', 'Details': 'Hazel Robinson reviewed individual transactions to identify areas for improvement' }
+9. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '11:00', 'Action': 'Modified budget', 'Details': 'Hazel Robinson modified the budget to better align with actual expenses' }
+10. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '11:10', 'Action': 'Viewed account balance', 'Details': 'Hazel Robinson checked the account balance after modifying the budget' }
+11. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '11:15', 'Action': 'Noted remaining balance', 'Details': 'Hazel Robinson noted the remaining balance after accounting for the modified budget' }
+12. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 8, 'Time': '11:20', 'Action': 'Logged out of financial app', 'Details': 'Hazel Robinson logged out of the financial app' }
+13. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 10, 'Time': '14:25', 'Action': 'Logged in to financial app', 'Details': 'Hazel Robinson (User 0) logged in to financial app from 462 Rose Lane, La Verne, CA 91750' }
+14. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 10, 'Time': '14:26', 'Action': 'Accessed transaction history', 'Details': 'Hazel Robinson viewed recent transactions in the financial app for budgeting purposes' }
+15. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 10, 'Time': '14:27', 'Action': 'Searched for a specific transaction', 'Details': "Hazel Robinson searched for a transaction from 'Grocery Store X' on January 5, 2018" }
+16. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 10, 'Time': '14:28', 'Action': 'Viewed transaction details', 'Details': 'Hazel Robinson viewed the details of the specific transaction' }
+17. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 10, 'Time': '14:29', 'Action': 'Noted transaction amount', 'Details': 'Hazel Robinson noted the amount of the specific transaction' }
+18. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 10, 'Time': '14:30', 'Action': 'Logged out of financial app', 'Details': 'Hazel Robinson logged out of the financial app' }
+19. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 11, 'Time': '09:45', 'Action': 'Logged in to financial app', 'Details': 'Hazel Robinson (User 0) logged in to financial app from 462 Rose Lane, La Verne, CA 91750' }
+20. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 11, 'Time': '09:46', 'Action': 'Accessed transaction history', 'Details': 'Hazel Robinson viewed recent transactions in the financial app for budgeting purposes' }
+21. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 11, 'Time': '09:47', 'Action': 'Filtered transactions by date', 'Details': 'Hazel Robinson filtered transactions to show only the last 7 days' }
+22. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 11, 'Time': '09:48', 'Action': 'Calculated weekly expenses', 'Details': 'Hazel Robinson calculated the total weekly expenses for all categories' }
+23. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 11, 'Time': '09:49', 'Action': 'Compared expenses with budget', 'Details': 'Hazel Robinson compared the total weekly expenses with the budgeted amount' }
+24. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 11, 'Time': '09:50', 'Action': 'Noted discrepancies', 'Details': 'Hazel Robinson noted discrepancies between the actual expenses and the budgeted amount' }
+25. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 11, 'Time': '09:51', 'Action': 'Logged out of financial app', 'Details': 'Hazel Robinson logged out of the financial app' }
+26. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 15, 'Time': '16:10', 'Action': 'Logged in to financial app', 'Details': 'Hazel Robinson (User 0) logged in to financial app from 462 Rose Lane, La Verne, CA 91750' }
+27. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 15, 'Time': '16:11', 'Action': 'Accessed transaction history', 'Details': 'Hazel Robinson viewed recent transactions in the financial app for budgeting purposes' }
+28. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 15, 'Time': '16:12', 'Action': 'Searched for a specific period', 'Details': 'Hazel Robinson searched for transactions between December 15, 2017, and January 15, 2018' }
+29. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 15, 'Time': '16:13', 'Action': 'Viewed transaction details', 'Details': 'Hazel Robinson viewed the details of transactions within the specific period' }
+30. { 'User': 0, 'Year': 2018, 'Month': 1, 'Day': 15, 'Time': '16:14', 'Action': 'Logged out of financial app', 'Details': 'Hazel Robinson logged out of the financial app' }

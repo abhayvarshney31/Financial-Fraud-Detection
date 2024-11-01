@@ -1,0 +1,51 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with the behavior type "Viewed recent rewards points earned on transactions":
+
+**Entry 1**
+2023-02-01 09:05:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Launched app
+**Entry 2**
+2023-02-01 09:06:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Navigated to rewards dashboard
+**Entry 3**
+2023-02-01 09:07:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Loaded recent transactions list
+**Entry 4**
+2023-02-01 09:08:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Scrolled to recent transactions section
+**Entry 5**
+2023-02-01 09:09:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Selected specific transaction for more information
+**Entry 6**
+2023-02-01 09:10:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Viewed transaction details
+**Entry 7**
+2023-02-01 09:11:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Returned to rewards dashboard
+
+...
+
+**Entry 20**
+2023-02-01 09:20:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Refreshed rewards dashboard
+
+**Entry 21**
+2023-02-01 09:21:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Loaded recent transactions list
+
+**Entry 22**
+2023-02-01 09:22:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Scrolled to recent transactions section
+
+**Entry 23**
+2023-02-01 09:23:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Filtered transactions by specific date range
+
+**Entry 24**
+2023-02-01 09:24:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Selected specific transaction for more information
+
+**Entry 25**
+2023-02-01 09:25:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Viewed transaction details
+
+**Entry 26**
+2023-02-01 09:26:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Returned to rewards dashboard
+
+**Entry 27**
+2023-02-01 09:27:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Prepared to make a new transaction
+
+**Entry 28**
+2023-02-01 09:28:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Selected payment method
+
+**Entry 29**
+2023-02-01 09:29:00 | User 0 | Viewed recent rewards points earned on transactions | Action: Verified transaction details
+
+**Entry 30**
+2023-02-01 09:30:00 | User 0 | Submitted transaction | Action: Confirmed transaction submission

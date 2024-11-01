@@ -1,0 +1,153 @@
+Here are 20-30 log entries for user 0 in the financial app, leading up to a transaction:
+
+**Entry 1 (2023-02-15 10:04:00)**
+UserAction: Log in
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 2 (2023-02-15 10:05:00)**
+UserAction: Navigate to Settings
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 3 (2023-02-15 10:06:00)**
+UserAction: Select Recurring Transfers option
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 4 (2023-02-15 10:07:00)**
+UserAction: Choose Savings Account
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 5 (2023-02-15 10:08:00)**
+UserAction: Specify Transfer Amount $100
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 6 (2023-02-15 10:09:00)**
+UserAction: Select Frequency: Weekly
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 7 (2023-02-15 10:10:00)**
+UserAction: Choose Start Date: Today
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 8 (2023-02-15 10:11:00)**
+UserAction: Review Transfer Details
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 9 (2023-02-15 10:12:00)**
+UserAction: Save Recurring Transfer
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 10 (2023-02-15 10:15:00)**
+UserAction: Log out
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 11 (2023-02-18 08:00:00)**
+UserAction: Daily Alert: Recurring Transfer in 3 days
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 12 (2023-02-20 08:00:00)**
+UserAction: Daily Alert: Recurring Transfer in 2 days
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 13 (2023-02-22 08:00:00)**
+UserAction: Daily Alert: Recurring Transfer in 1 day
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 14 (2023-02-22 12:00:00)**
+UserAction: Daily Alert: Today's Recurring Transfer Scheduled
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 15 (2023-02-22 10:30:00)**
+UserAction: Log in
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 16 (2023-02-22 10:31:00)**
+UserAction: View Recurring Transfers
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 17 (2023-02-22 10:32:00)**
+UserAction: Review Upcoming Transactions
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 18 (2023-02-22 10:33:00)**
+UserAction: Confirm Upcoming Transactions
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 19 (2023-02-22 12:01:00)**
+UserAction: Daily Alert: Today's Recurring Transfer Complete
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 20 (2023-02-22 12:02:00)**
+UserAction: Daily Alert: Your Savings Account is now $100 richer!
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 21 (2023-02-22 12:05:00)**
+UserAction: Log out
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 22 (2023-02-23 08:00:00)**
+UserAction: Daily Alert: Next Recurring Transfer in 7 days
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 23 (2023-02-26 08:00:00)**
+UserAction: Daily Alert: Next Recurring Transfer in 6 days
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 24 (2023-03-01 08:00:00)**
+UserAction: Daily Alert: Next Recurring Transfer in 1 day
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 25 (2023-03-01 12:00:00)**
+UserAction: Daily Alert: Today's Recurring Transfer Scheduled
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 26 (2023-03-01 10:30:00)**
+UserAction: Log in
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 27 (2023-03-01 10:31:00)**
+UserAction: View Recurring Transfers
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 28 (2023-03-01 10:32:00)**
+UserAction: Review Upcoming Transactions
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 29 (2023-03-01 10:33:00)**
+UserAction: Confirm Upcoming Transactions
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+**Entry 30 (2023-03-01 12:01:00)**
+UserAction: Daily Alert: Today's Recurring Transfer Complete
+ContextFields: {User: 0}
+Person: Hazel Robinson
+
+These log entries show the user, Hazel Robinson, setting up a recurring transfer to a savings account, and receiving notifications and alerts about the upcoming and completed transfers.

@@ -1,0 +1,153 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with the behavior type "Reviewed card perks and available cashback offers":
+
+**Entry 1**
+ Timestamp: 2023-02-15 14:42:30
+ Action: User 0 logged into the app.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 2**
+ Timestamp: 2023-02-15 14:43:00
+ Action: User 0 navigated to the "Card Perks" tab.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 3**
+ Timestamp: 2023-02-15 14:43:30
+ Action: User 0 reviewed the current available cashback offers.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 4**
+ Timestamp: 2023-02-15 14:44:00
+ Action: User 0 searched for "travel-related cashback offers".
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 5**
+ Timestamp: 2023-02-15 14:44:30
+ Action: User 0 found a relevant cashback offer from a popular travel booking website.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 6**
+ Timestamp: 2023-02-15 14:45:00
+ Action: User 0 read the terms and conditions of the cashback offer.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 7**
+ Timestamp: 2023-02-15 14:45:30
+ Action: User 0 decided to apply the cashback offer to their upcoming trip.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 8**
+ Timestamp: 2023-02-15 14:46:00
+ Action: User 0 marked the travel-related cashback offer as "favorited".
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 9**
+ Timestamp: 2023-02-16 08:30:00
+ Action: User 0 checked their account balance.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 10**
+ Timestamp: 2023-02-16 08:31:00
+ Action: User 0 reviewed the available cash in their account.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 11**
+ Timestamp: 2023-02-16 08:32:00
+ Action: User 0 calculated the amount of cash they had available for their upcoming trip.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 12**
+ Timestamp: 2023-02-16 08:33:00
+ Action: User 0 decided to use their credit card for the trip.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 13**
+ Timestamp: 2023-02-17 10:00:00
+ Action: User 0 received a push notification about a limited-time cashback offer.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 14**
+ Timestamp: 2023-02-17 10:01:00
+ Action: User 0 opened the push notification to review the offer.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 15**
+ Timestamp: 2023-02-17 10:02:00
+ Action: User 0 was reminded about the travel-related cashback offer from earlier.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 16**
+ Timestamp: 2023-02-17 10:03:00
+ Action: User 0 decided to apply the limited-time cashback offer to their trip.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 17**
+ Timestamp: 2023-02-17 10:04:00
+ Action: User 0 marked the limited-time cashback offer as "favorited".
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 18**
+ Timestamp: 2023-02-18 12:30:00
+ Action: User 0 checked their account balance again.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 19**
+ Timestamp: 2023-02-18 12:31:00
+ Action: User 0 reviewed the available cash in their account.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 20**
+ Timestamp: 2023-02-18 12:32:00
+ Action: User 0 was ready to make a purchase for their trip.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 21**
+ Timestamp: 2023-02-18 12:33:00
+ Action: User 0 navigated to the "Transactions" tab.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 22**
+ Timestamp: 2023-02-18 12:34:00
+ Action: User 0 initiated a transaction using their credit card.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 23**
+ Timestamp: 2023-02-18 12:35:00
+ Action: User 0 reviewed the transaction details.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 24**
+ Timestamp: 2023-02-18 12:36:00
+ Action: User 0 confirmed the transaction.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 25**
+ Timestamp: 2023-02-18 12:37:00
+ Action: User 0 received a push notification about the successful transaction.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 26**
+ Timestamp: 2023-02-18 12:38:00
+ Action: User 0 opened the push notification to review the transaction details.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 27**
+ Timestamp: 2023-02-18 12:39:00
+ Action: User 0 reviewed the cashback rewards applied to the transaction.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 28**
+ Timestamp: 2023-02-18 12:40:00
+ Action: User 0 decided to track the rewards for future transactions.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 29**
+ Timestamp: 2023-02-18 12:41:00
+ Action: User 0 ended their transaction session.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+**Entry 30**
+ Timestamp: 2023-02-18 12:42:00
+ Action: User 0 logged out of the app.
+ Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+This sequence of log entries shows User 0 reviewing card perks and available cashback offers, applying offers to their upcoming trip, and making a transaction using their credit card.

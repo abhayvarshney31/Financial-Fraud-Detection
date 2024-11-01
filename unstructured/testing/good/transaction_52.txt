@@ -1,0 +1,31 @@
+1. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:27', 'User': 0, 'Action': 'Logged in to financial app', 'Details': ''}
+2. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:27', 'User': 0, 'Action': 'Accessed account overview page', 'Details': ''}
+3. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:27', 'User': 0, 'Action': 'Selected "Transactions" tab', 'Details': ''}
+4. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:27', 'User': 0, 'Action': 'Sorted transactions by date (descending)', 'Details': ''}
+5. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:28', 'User': 0, 'Action': 'Viewed transaction details', 'Transaction ID': '77302fe6-d8ef-48fc-bbb5-fae8a80b2971', 'Details': 'Gasoline purchase, $42.50, 07/09/2012 14:23, Walmart #4278, La Verne, CA, 91750'}
+6. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:28', 'User': 0, 'Action': 'Viewed transaction details', 'Transaction ID': 'd36df0a5-b85f-41c1-8b5a-7a124a2d2b7b', 'Details': 'Grocery store purchase, $116.83, 07/09/2012 11:56, Stater Bros. Markets, La Verne, CA, 91750'}
+7. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:29', 'User': 0, 'Action': 'Used "Search" function', 'Search Term': 'Restaurants', 'Details': ''}
+8. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:29', 'User': 0, 'Action': 'Viewed expense summary for "Restaurants" category', 'Expense Total': '$321.88', 'Details': ''}
+9. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:30', 'User': 0, 'Action': 'Viewed transaction details', 'Transaction ID': 'c1a3eb93-28a0-4fbb-a81b-e1a37c1b23f3', 'Details': 'Italian restaurant, $78.66, 07/08/2012 19:35, Luigi's, La Verne, CA, 91750'}
+10. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:31', 'User': 0, 'Action': 'Used "Search" function', 'Search Term': 'Entertainment', 'Details': ''}
+11. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:31', 'User': 0, 'Action': 'Viewed expense summary for "Entertainment" category', 'Expense Total': '$123.60', 'Details': ''}
+12. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:32', 'User': 0, 'Action': 'Viewed transaction details', 'Transaction ID': 'f25a5b9a-a48c-4da5-80a1-b1d13b19897c', 'Details': 'Movie theater, $26.00, 07/05/2012 20:15, Regal Cinemas, Upland, CA, 91786'}
+13. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:33', 'User': 0, 'Action': 'Used "Search" function', 'Search Term': 'Utility bills', 'Details': ''}
+14. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:33', 'User': 0, 'Action': 'Viewed expense summary for "Utility bills" category', 'Expense Total': '$195.85', 'Details': ''}
+15. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:34', 'User': 0, 'Action': 'Viewed transaction details', 'Transaction ID': 'cb6917a0-bac1-493d-9e37-55365b0a2c8a', 'Details': 'Electricity bill, $112.45, 07/01/2012 00:00, Southern California Edison, La Verne, CA, 91750'}
+16. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:35', 'User': 0, 'Action': 'Used "Search" function', 'Search Term': 'Transportation', 'Details': ''}
+17. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:35', 'User': 0, 'Action': 'Viewed expense summary for "Transportation" category', 'Expense Total': '$162.45', 'Details': ''}
+18. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:36', 'User': 0, 'Action': 'Viewed transaction details', 'Transaction ID': 'a65a51b2-b068-4ef8-81f4-9d1b3f2b9e41', 'Details': 'Gasoline purchase, $50.86, 07/06/2012 10:18, Chevron, Pomona, CA, 91767'}
+19. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:37', 'User': 0, 'Action': 'Used "Search" function', 'Search Term': 'Gifts', 'Details': ''}
+20. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:37', 'User': 0, 'Action': 'Viewed expense summary for "Gifts" category', 'Expense Total': '$125.00', 'Details': ''}
+21. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:38', 'User': 0, 'Action': 'Viewed transaction details', 'Transaction ID': '2879d5ba-93e0-41d5-845b-c9c45a8b1d29', 'Details': 'Birthday gift, $95.00, 07/04/2012 16:22, Target, Pomona, CA, 91766'}
+22. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:39', 'User': 0, 'Action': 'Used "Search" function', 'Search Term': 'Miscellaneous', 'Details': ''}
+23. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:39', 'User': 0, 'Action': 'Viewed expense summary for "Miscellaneous" category', 'Expense Total': '$85.67', 'Details': ''}
+24. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:40', 'User': 0, 'Action': 'Viewed transaction details', 'Transaction ID': '3a5e4dbe-be63-44f3-8b0b-b5956a8a3622', 'Details': 'Miscellaneous expenses, $32.22, 07/02/2012 12:56, CVS Pharmacy, La Verne, CA, 91750'}
+25. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:41', 'User': 0, 'Action': 'Used "Search" function', 'Search Term': 'Total monthly expenses', 'Details': ''}
+26. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:41', 'User': 0, 'Action': 'Viewed summary for total monthly expenses', 'Expense Total': '$1157.11', 'Details': ''}
+27. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:42', 'User': 0, 'Action': 'Calculated budget for remaining period of month', 'Expense Total': '$512.89', 'Details': ''}
+28. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:43',
+User': 0, 'Action': 'Returned to account overview page', 'Details': ''}
+29. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:43', 'User': 0, 'Action': 'Logged out of financial app', 'Details': ''}
+30. {'Year': 2012, 'Month': 7, 'Day': 9, 'Time': '14:43', 'User': 0, 'Action': 'Ended session', 'Details': ''}

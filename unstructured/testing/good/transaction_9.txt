@@ -1,0 +1,31 @@
+1. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 15, 'Time': '10:35', 'Action': 'Logged in to financial app', 'Details': 'Successful login from IP address 192.168.1.102'}
+2. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 15, 'Time': '10:36', 'Action': 'Accessed account overview', 'Details': 'Hazel Robinson (age 53) reviewed account balance and recent transactions'}
+3. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 15, 'Time': '10:37', 'Action': 'Viewed credit card details', 'Details': 'Card 2 (Visa Debit) with expiration date 02/2024 displayed'}
+4. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 15, 'Time': '10:38', 'Action': 'Checked credit limit', 'Details': '$46,414 credit limit for Card 2 displayed'}
+5. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 15, 'Time': '10:39', 'Action': 'Navigated to travel notifications', 'Details': 'Selected "Add Travel Notification" option'}
+6. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 15, 'Time': '10:40', 'Action': 'Entered travel details', 'Details': 'Added international trip to Paris, France (11/2019 - 12/2019)'}
+7. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 15, 'Time': '10:41', 'Action': 'Saved travel notification', 'Details': 'Travel notification for Paris trip successfully saved'}
+8. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 15, 'Time': '10:42', 'Action': 'Returned to account overview', 'Details': 'Hazel Robinson reviewed account balance and recent transactions'}
+9. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 16, 'Time': '14:20', 'Action': 'Logged in to financial app', 'Details': 'Successful login from IP address 192.168.1.102'}
+10. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 16, 'Time': '14:21', 'Action': 'Checked travel notifications', 'Details': 'Viewed Paris, France trip notification'}
+11. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 16, 'Time': '14:22', 'Action': 'Returned to account overview', 'Details': 'Hazel Robinson reviewed account balance and recent transactions'}
+12. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 17, 'Time': '17:15', 'Action': 'Logged in to financial app', 'Details': 'Successful login from IP address 192.168.1.102'}
+13. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 17, 'Time': '17:16', 'Action': 'Accessed credit card details', 'Details': 'Card 2 (Visa Debit) with expiration date 02/2024 displayed'}
+14. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 17, 'Time': '17:17', 'Action': 'Checked recent transactions', 'Details': 'Reviewed the last 3 transactions on Card 2'}
+15. {'User': 0, 'Year': 2019, 'Month': 10, 'Day': 17, 'Time': '17:18', 'Action': 'Returned to account overview', 'Details': 'Hazel Robinson reviewed account balance and recent transactions'}
+16. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 1, 'Time': '09:30', 'Action': 'Logged in to financial app', 'Details': 'Successful login from IP address 192.168.1.102'}
+17. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 1, 'Time': '09:31', 'Action': 'Updated account information', 'Details': 'Changed per capita income for Zipcode to $31,568'}
+18. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 1, 'Time': '09:32', 'Action': 'Reviewed account information', 'Details': 'Verified updated per capita income for Zipcode'}
+19. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 1, 'Time': '09:33', 'Action': 'Returned to account overview', 'Details': 'Hazel Robinson reviewed account balance and recent transactions'}
+20. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 12, 'Time': '15:45', 'Action': 'Logged in to financial app', 'Details': 'Successful login from IP address 192.168.1.102'}
+21. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 12, 'Time': '15:46', 'Action': 'Checked travel notifications', 'Details': 'Viewed Paris, France trip notification'}
+22. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 12, 'Time': '15:47', 'Action': 'Returned to account overview', 'Details': 'Hazel Robinson reviewed account balance and recent transactions'}
+23. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 15, 'Time': '11:20', 'Action': 'Logged in to financial app', 'Details': 'Successful login from IP address 192.168.1.102'}
+24. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 15, 'Time': '11:21', 'Action': 'Accessed credit card details', 'Details': 'Card 2 (Visa Debit) with expiration date 02/2024 displayed'}
+25. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 15, 'Time': '11:22', 'Action': 'Checked credit limit', 'Details': '$46,414 credit limit for Card 2 displayed'}
+26. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 15, 'Time': '11:23', 'Action': 'Returned to account overview', 'Details': 'Hazel Robinson reviewed account balance and recent transactions'}
+27. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 22, 'Time': '08:10', 'Action': 'Logged in to financial app', 'Details': 'Successful login from IP address 192.168.1.102'}
+28. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 22, 'Time': '08:11', 'Action': 'Checked travel notifications', 'Details': 'Viewed Paris, France trip notification'}
+29. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 22, 'Time': '08:12', 'Action': 'Returned to account overview', 'Details': 'Hazel Robinson reviewed account balance and recent transactions'}
+30. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 29, 'Time': '13:30', 'Action': 'Logged in to financial app', 'Details': 'Successful login from IP address 192.168.1.102'}
+31. {'User': 0, 'Year': 2019, 'Month': 11, 'Day': 29, 'Time': '13:31', 'Action': 'Initiated international transaction', 'Details': 'Purchased €60.00 worth of goods from a merchant in Paris, France'}

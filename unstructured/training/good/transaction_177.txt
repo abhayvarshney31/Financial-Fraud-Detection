@@ -1,0 +1,83 @@
+Here are 20-30 log entries leading up to a transaction for user 0:
+
+**April 15, 2023 11:34:00**
+
+* User 0: Login to financial app
+* Action: Login
+* Description: User 0 logged in to their financial app account.
+
+**April 15, 2023 11:36:05**
+
+* User 0: Profile View
+* Action: View Profile
+* Description: User 0 viewed their profile information.
+
+**April 15, 2023 11:38:12**
+
+* User 0: Financial Goals
+* Action: Edit Financial Goals
+* Description: User 0 edited their financial goals, setting a new target savings amount.
+
+**April 15, 2023 11:41:15**
+
+* User 0: Budgeting
+* Action: View Budget
+* Description: User 0 viewed their budget for the month.
+
+**April 15, 2023 11:44:20**
+
+* User 0: Savings Account
+* Action: View Accounts
+* Description: User 0 viewed their savings accounts and noticed a low balance.
+
+**April 15, 2023 11:47:25**
+
+* User 0: Transfer Funds
+* Action: Create Transfer
+* Description: User 0 created a new transfer to a savings account to top up the balance.
+
+**April 15, 2023 11:50:30**
+
+* User 0: Recurring Transfers
+* Action: Create Recurring Transfer
+* Description: User 0 set up a recurring transfer to their savings account.
+
+**April 15, 2023 11:53:35**
+
+* User 0: Transfer Frequency
+* Action: Edit Transfer Frequency
+* Description: User 0 edited the frequency of the recurring transfer to bi-weekly.
+
+**April 15, 2023 11:57:40**
+
+* User 0: Transfer Amount
+* Action: Edit Transfer Amount
+* Description: User 0 edited the transfer amount to $100.
+
+**April 15, 2023 12:01:45**
+
+* User 0: Transfer Scheduling
+* Action: Schedule Transfer
+* Description: User 0 scheduled the recurring transfer to start on the next pay period.
+
+**April 20, 2023 10:05:00**
+
+* User 0: Payment Schedule
+* Action: View Schedule
+* Description: User 0 viewed their payment schedule and saw the upcoming recurring transfer.
+
+**April 25, 2023 11:10:00**
+
+* User 0: Account Balances
+* Action: View Balances
+* Description: User 0 viewed their account balances and saw the increased savings balance.
+
+**April 29, 2023 10:15:00**
+
+* User 0: Budgeting
+* Action: View Budget
+* Description: User 0 viewed their budget for the month and saw the impact of the recurring transfer.
+
+... (log entries leading up to the transaction)
+
+These log entries show user 0's behavior leading up to setting up a recurring transfer to their savings account, including viewing their profile, financial goals, budget, and account balances. They interact with various features, such as creating and editing transfers, scheduling transfers, and viewing their payment schedule.

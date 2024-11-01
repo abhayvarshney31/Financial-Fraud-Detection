@@ -1,0 +1,22 @@
+1. [2015-03-20 06:53:45, User 0] Hazel Robinson (53) logged into the financial app from La Verne, CA (91750) using her Visa debit card (4344676511950444)
+2. [2015-03-20 06:54:01, User 0] Navigated to the 'Account Balance' page, checking the current balance of her checking account
+3. [2015-03-20 06:54:17, User 0] Switched to the 'Credit Cards' tab, looking at her available credit limit ($24,295)
+4. [2015-03-20 06:54:35, User 0] Initiated a funds transfer from checking to savings for $500
+5. [2015-03-20 06:55:08, User 0] Requested a two-factor authentication code for the transaction
+6. [2015-03-20 06:55:12, User 0] Two-factor authentication attempt failed from an unknown device with IP address 11.22.33.44
+7. [2015-03-20 06:55:14, User 0] Unknown device location: 4582 Elmwood Dr, Mishawaka, IN 46544
+8. [2015-03-20 06:55:15, User 0] Two-factor authentication failed due to incorrect code entry
+9. [2015-03-20 06:55:23, User 0] Locked account after three failed two-factor authentication attempts
+10. [2015-03-20 06:55:44, User 0] Attempted to log in again from La Verne but was unable to due to the locked account
+11. [2015-03-20 06:55:53, User 0] Contacted customer support for assistance with account access
+12. [2015-03-20 06:56:10, User 0] Provided personal information for verification, including yearly income ($59,696) and FICO score (787)
+13. [2015-03-20 06:57:05, User 0] Customer support confirmed user identity and started the process to unlock the account
+14. [2015-03-20 06:57:53, User 0] Account unlock request processed and account access restored
+15. [2015-03-20 06:58:19, User 0] La Verne-based device location confirmed
+16. [2015-03-20 06:58:32, User 0] Security alert created for the failed two-factor authentication attempts from the unknown device
+17. [2015-03-20 06:59:18, User 0] Requested a new two-factor authentication code for the previous attempted transaction
+18. [2015-03-20 06:59:32, User 0] Entered the new two-factor authentication code successfully
+19. [2015-03-20 06:59:47, User 0] Transaction failed due to the account lock earlier, attempting to process again
+20. [2015-03-20 06:59:53, User 0] Debit card transaction succeeded for $500 from checking account to savings account
+21. [2015-03-20 07:00:01, User 0] Reviewed current account balances
+22. [2015-03-20 07:00:15, User 0] Ended session and logged out of the financial app after ensuring all details were correct.

@@ -1,0 +1,34 @@
+Here are 20-30 log entries for user 0 in the financial app, leading up to a transaction, with the behavior type "Updated billing address to a new country before transaction":
+
+1. 2023-06-15 10:00:00 | User (0) | Updated billing address to a new country: Canada | Details: Hazel Robinson changed her billing address to 12345 Main St, Toronto, ON, Canada M1V 1V1.
+2. 2023-06-16 11:00:00 | User (0) | Refreshed account information | Details: Hazel Robinson's account information has been refreshed.
+3. 2023-06-17 14:00:00 | User (0) | Viewed account settings | Details: Hazel Robinson viewed her account settings, including her updated billing address.
+4. 2023-06-18 10:00:00 | User (0) | Checked account balance | Details: Hazel Robinson checked her account balance to ensure sufficient funds.
+5. 2023-06-19 15:00:00 | User (0) | Received an email from the app | Details: Hazel Robinson received an email from the app with information about her updated billing address.
+6. 2023-06-20 12:00:00 | User (0) | Verified account settings | Details: Hazel Robinson verified that her updated billing address was successfully saved.
+7. 2023-06-22 11:00:00 | User (0) | Browsed merchant website | Details: Hazel Robinson browsed the website of merchant 5817218446178736267, a coffee shop located in La Verne, CA.
+8. 2023-06-23 14:00:00 | User (0) | Added item to cart | Details: Hazel Robinson added a $32.99 coffee maker to her cart on the merchant's website.
+9. 2023-06-25 10:00:00 | User (0) | Viewed order confirmation | Details: Hazel Robinson viewed the order confirmation details for her pending purchase.
+10. 2023-06-25 11:00:00 | User (0) | Checked order status | Details: Hazel Robinson checked the status of her order and confirmed that it was still pending.
+11. 2023-06-25 12:00:00 | User (0) | Updated payment information | Details: Hazel Robinson updated her payment information to use her debit card (Visa Card Number 4582313478255491).
+12. 2023-06-25 13:00:00 | User (0) | Submitted payment information | Details: Hazel Robinson submitted her updated payment information for the purchase.
+13. 2023-06-25 14:00:00 | User (0) | Confirmed payment | Details: Hazel Robinson confirmed the payment for the pending order.
+14. 2023-06-25 15:00:00 | User (0) | Received an email from the merchant | Details: Hazel Robinson received an email from the merchant confirming the successful completion of her order.
+15. 2023-06-25 16:00:00 | User (0) | Viewed order history | Details: Hazel Robinson viewed her order history and confirmed that the purchase was successfully completed.
+16. 2023-06-24 12:00:00 | User (0) | Checked account activity | Details: Hazel Robinson checked her account activity to ensure that the payment was correctly processed.
+17. 2023-06-26 10:00:00 | User (0) | Viewed account balance | Details: Hazel Robinson checked her account balance to ensure that it was updated correctly.
+18. 2023-06-27 14:00:00 | User (0) | Reviewed account settings | Details: Hazel Robinson reviewed her account settings to ensure that her updated billing address was correct.
+19. 2023-06-28 11:00:00 | User (0) | Checked account history | Details: Hazel Robinson checked her account history to ensure that the purchase was successfully recorded.
+20. 2023-06-29 15:00:00 | User (0) | Confirmed account information | Details: Hazel Robinson confirmed that her account information, including the updated billing address, was accurate.
+21. 2023-06-30 12:00:00 | User (0) | Viewed account dashboard | Details: Hazel Robinson viewed her account dashboard to ensure that all information was up-to-date.
+22. 2023-07-01 10:00:00 | User (0) | Checked order receipt | Details: Hazel Robinson checked her order receipt to ensure that the purchase was confirmed.
+23. 2023-07-02 14:00:00 | User (0) | Verified account status | Details: Hazel Robinson verified that her account status was active and correct.
+24. 2023-07-03 11:00:00 | User (0) | Reviewed account activity | Details: Hazel Robinson reviewed her account activity to ensure that all transactions were correctly processed.
+25. 2023-07-04 15:00:00 | User (0) | Confirmed account settings | Details: Hazel Robinson confirmed that her account settings were correct, including the updated billing address.
+26. 2023-07-05 12:00:00 | User (0) | Viewed order history | Details: Hazel Robinson viewed her order history and confirmed that the purchase was successfully completed.
+27. 2023-07-06 10:00:00 | User (0) | Checked account balance | Details: Hazel Robinson checked her account balance to ensure that it was accurate.
+28. 2023-07-07 14:00:00 | User (0) | Viewed account dashboard | Details: Hazel Robinson viewed her account dashboard to ensure that all information was up-to-date.
+29. 2023-07-08 11:00:00 | User (0) | Verified account status | Details: Hazel Robinson verified that her account status was active and correct.
+30. 2023-07-09 15:00:00 | User (0) | Reviewed account activity | Details: Hazel Robinson reviewed her account activity to ensure that all transactions were correctly processed.
+
+Please note that these log entries are fictional and do not reflect real transactions or personal information.

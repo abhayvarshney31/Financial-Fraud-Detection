@@ -1,0 +1,32 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with the specified behavior type:
+
+1. 2023-07-28 08:45:00, User 0 checked account balance on the mobile app.
+2. 2023-07-28 09:15:00, User 0 viewed account transactions for the past 30 days.
+3. 2023-07-28 10:00:00, User 0 checked credit card balance for Card Brand: Visa, Card Type: Debit.
+4. 2023-07-28 10:30:00, User 0 viewed account summary, including Total Debt: $127613.
+5. 2023-07-28 11:15:00, User 0 checked FICO Score: 787.
+6. 2023-07-28 12:00:00, User 0 viewed account holds and notification settings.
+7. 2023-07-28 13:30:00, User 0 checked Card on Dark Web: No for Card Number: 4582313478255491.
+8. 2023-07-28 14:15:00, User 0 viewed credit card rewards and benefits.
+9. 2023-07-28 15:00:00, User 0 checked credit limit for Card Brand: Visa, Card Type: Debit: $46414.
+10. 2023-07-28 16:00:00, User 0 viewed account transactions for the past 90 days.
+11. 2023-07-28 17:00:00, User 0 checked PIN last changed for Card Brand: Visa, Card Type: Debit: 2004.
+12. 2023-07-28 18:00:00, User 0 viewed account summary, including Per Capita Income - Zipcode: $29278.
+13. 2023-07-28 19:00:00, User 0 checked Yearly Income - Person: $59696.
+14. 2023-07-28 20:00:00, User 0 viewed account holds and notification settings.
+15. 2023-07-28 20:15:00, User 0 checked account balance on the mobile app.
+16. 2023-07-28 20:30:00, User 0 viewed account transactions for the past 30 days.
+17. 2023-07-28 20:40:00, User 0 checked Card Brand: Visa, Card Type: Debit for Card Number: 4582313478255491.
+18. 2023-07-28 20:45:00, User 0 viewed account summary, including Total Debt: $127613.
+19. 2023-07-28 20:50:00, User 0 checked FICO Score: 787.
+20. 2023-07-28 20:55:00, User 0 viewed account holds and notification settings.
+21. 2023-07-28 21:00:00, User 0 checked Card on Dark Web: No for Card Number: 4582313478255491.
+22. 2023-07-28 21:10:00, User 0 viewed credit card rewards and benefits.
+23. 2023-07-28 21:15:00, User 0 checked credit limit for Card Brand: Visa, Card Type: Debit: $46414.
+24. 2023-07-28 21:20:00, User 0 viewed account transactions for the past 90 days.
+25. 2023-07-28 21:25:00, User 0 checked PIN last changed for Card Brand: Visa, Card Type: Debit: 2004.
+26. 2023-07-28 21:30:00, User 0 viewed account summary, including Per Capita Income - Zipcode: $29278.
+27. 2023-07-28 21:40:00, User 0 checked Yearly Income - Person: $59696.
+28. 2023-07-28 21:50:00, User 0 checked account balance on the mobile app.
+29. 2023-07-28 21:58:00, User 0 initiated transaction: Use Chip: Swipe Transaction, Amount: $74.66, Merchant Name: -4500542936415012428, Merchant City: La Verne, Merchant State: CA, Zip: 91750.0, MCC: 5814.
+30. 2023-07-28 22:00:00, User 0 processed transaction: Use Chip: Swipe Transaction, Amount: $74.66, Merchant Name: -4500542936415012428, Merchant City: La Verne, Merchant State: CA, Zip: 91750.0, MCC: 5814.

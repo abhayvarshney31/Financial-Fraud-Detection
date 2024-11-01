@@ -1,0 +1,183 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction:
+
+**Entry 1**
+Timestamp: 2023-02-15 14:30:00
+Action: Login
+User: 0
+Notes: Hazel Robinson logged in to her financial app account.
+
+**Entry 2**
+Timestamp: 2023-02-15 14:32:00
+Action: Accessed dashboard
+User: 0
+Notes: Hazel viewed her overall financial dashboard upon logging in.
+
+**Entry 3**
+Timestamp: 2023-02-15 14:35:00
+Action: Reviewed savings goals
+User: 0
+Notes: Hazel viewed her existing savings goals and deleted an old goal.
+
+**Entry 4**
+Timestamp: 2023-02-15 14:40:00
+Action: Set up new savings goal
+User: 0
+Notes: Hazel created a new savings goal titled "Summer Vacation" with a target amount of $2,000.
+
+**Entry 5**
+Timestamp: 2023-02-15 14:42:00
+Action: Set goal details
+User: 0
+Notes: Hazel set the goal start date to March 1st, 2023, and the end date to August 31st, 2023.
+
+**Entry 6**
+Timestamp: 2023-02-15 14:45:00
+Action: Reviewed spending insights
+User: 0
+Notes: Hazel viewed her spending insights for the past month, noting she had spent $1,000 on rent.
+
+**Entry 7**
+Timestamp: 2023-02-15 14:50:00
+Action: Viewed income statement
+User: 0
+Notes: Hazel viewed her income statement for the past month, noting her total income was $4,500.
+
+**Entry 8**
+Timestamp: 2023-02-15 14:55:00
+Action: Viewed expenses by category
+User: 0
+Notes: Hazel viewed her expenses by category, noting she spends the most on groceries.
+
+**Entry 9**
+Timestamp: 2023-02-15 15:00:00
+Action: Viewed cash flow
+User: 0
+Notes: Hazel viewed her daily cash flow, noting a large withdrawal from her checking account.
+
+**Entry 10**
+Timestamp: 2023-02-15 15:05:00
+Action: Viewed budget tracker
+User: 0
+Notes: Hazel viewed her budget tracker, noting she's on track to meet her monthly expenses.
+
+**Entry 11**
+Timestamp: 2023-02-16 09:00:00
+Action: Viewed savings progress
+User: 0
+Notes: Hazel viewed her savings progress, noting she's saved $500 so far.
+
+**Entry 12**
+Timestamp: 2023-02-16 09:10:00
+Action: Received news about payment
+User: 0
+Notes: Hazel received a notification about a payment arriving in her account.
+
+**Entry 13**
+Timestamp: 2023-02-16 09:15:00
+Action: Viewed account activity
+User: 0
+Notes: Hazel viewed her account activity, noting several transactions.
+
+**Entry 14**
+Timestamp: 2023-02-16 09:20:00
+Action: Viewed budget tracker
+User: 0
+Notes: Hazel reviewed her budget tracker, noting she needs to adjust her grocery budget.
+
+**Entry 15**
+Timestamp: 2023-02-16 09:25:00
+Action: Edited budget
+User: 0
+Notes: Hazel edited her budget, increasing her grocery budget by $20.
+
+**Entry 16**
+Timestamp: 2023-02-16 09:30:00
+Action: Viewed budget tracker
+User: 0
+Notes: Hazel reviewed her revised budget tracker, noting she's on track again.
+
+**Entry 17**
+Timestamp: 2023-02-16 09:35:00
+Action: Received notification
+User: 0
+Notes: Hazel received a notification about an upcoming bill payment.
+
+**Entry 18**
+Timestamp: 2023-02-16 09:40:00
+Action: Viewed bills dashboard
+User: 0
+Notes: Hazel viewed her bills dashboard, noting several upcoming payments.
+
+**Entry 19**
+Timestamp: 2023-02-16 09:45:00
+Action: Scheduled payment
+User: 0
+Notes: Hazel scheduled a payment for an upcoming bill.
+
+**Entry 20**
+Timestamp: 2023-02-16 14:00:00
+Action: Viewed savings progress
+User: 0
+Notes: Hazel viewed her savings progress, noting she's saved $750 so far.
+
+**Entry 21**
+Timestamp: 2023-02-16 14:05:00
+Action: Viewed transaction history
+User: 0
+Notes: Hazel viewed her transaction history for the past month.
+
+**Entry 22**
+Timestamp: 2023-02-16 14:10:00
+Action: Viewed spending category
+User: 0
+Notes: Hazel viewed her spending category, noting a large spending category was groceries.
+
+**Entry 23**
+Timestamp: 2023-02-16 14:15:00
+Action: Adjusted budget
+User: 0
+Notes: Hazel adjusted her budget, increasing her grocery budget by $10.
+
+**Entry 24**
+Timestamp: 2023-02-16 14:20:00
+Action: Viewed budget tracker
+User: 0
+Notes: Hazel reviewed her revised budget tracker, noting she's on track again.
+
+**Entry 25**
+Timestamp: 2023-02-16 14:25:00
+Action: Received notification
+User: 0
+Notes: Hazel received a notification about a new savings goal idea.
+
+**Entry 26**
+Timestamp: 2023-02-16 14:30:00
+Action: Viewed savings ideas
+User: 0
+Notes: Hazel viewed her savings ideas, noting a new idea was added.
+
+**Entry 27**
+Timestamp: 2023-02-16 14:35:00
+Action: Created new savings idea
+User: 0
+Notes: Hazel created a new savings idea, titled "Emergency Fund".
+
+**Entry 28**
+Timestamp: 2023-02-16 14:40:00
+Action: Set savings idea details
+User: 0
+Notes: Hazel set the savings idea goal amount to $1,500.
+
+**Entry 29**
+Timestamp: 2023-02-16 14:45:00
+Action: Set savings idea duration
+User: 0
+Notes: Hazel set the savings idea duration to 3 months.
+
+**Entry 30**
+Timestamp: 2023-02-16 14:50:00
+Action: Log out
+User: 0
+Notes: Hazel logged out of her financial app account.
+
+Note that these log entries lead up to a transaction, which is not yet performed in the entries above. The user, Hazel Robinson, sets up a new savings goal, reviews spending insights, and adjusts her budget.

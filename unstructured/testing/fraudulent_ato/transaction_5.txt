@@ -1,0 +1,22 @@
+[2019-10-10 06:30:00,000] User 0 (Hazel Robinson) attempted login from IP address 112.234.166.245, which is blacklisted.
+[2019-10-10 06:31:02,111] User 0 (Hazel Robinson) attempted login from IP address 145.253.215.108, which is suspicious.
+[2019-10-10 06:32:34,567] User 0 (Hazel Robinson) attempted login from IP address 189.176.199.13, which is blacklisted.
+[2019-10-10 06:33:15,689] User 0 (Hazel Robinson) attempted login from IP address 214.135.241.66, which is suspicious.
+[2019-10-10 06:35:01,234] User 0 (Hazel Robinson) attempted login from IP address 103.105.188.217, which is blacklisted.
+[2019-10-10 06:36:10,890] User 0 (Hazel Robinson) attempted login from IP address 167.192.244.111, which is suspicious.
+[2019-10-10 06:38:23,456] User 0 (Hazel Robinson) attempted login from IP address 250.188.156.162, which is blacklisted.
+[2019-10-10 06:39:32,011] User 0 (Hazel Robinson) attempted login from IP address 132.84.177.24, which is suspicious.
+[2019-10-10 06:40:56,789] User 0 (Hazel Robinson) attempted login from IP address 175.161.220.21, which is blacklisted.
+[2019-10-10 06:42:11,901] User 0 (Hazel Robinson) attempted login from IP address 119.75.144.182, which is suspicious.
+[2019-10-10 06:43:34,567] User 0 (Hazel Robinson) attempted login from IP address 194.147.100.221, which is blacklisted.
+[2019-10-10 06:44:43,123] User 0 (Hazel Robinson) attempted login from IP address 106.94.173.230, which is suspicious.
+[2019-10-10 06:46:00,000] User 0 (Hazel Robinson) attempted login from IP address 209.124.238.154, which is blacklisted.
+[2019-10-10 06:47:12,654] User 0 (Hazel Robinson) attempted login from IP address 161.108.151.201, which is suspicious.
+[2019-10-10 06:48:36,901] User 0 (Hazel Robinson) attempted login from IP address 223.168.213.78, which is blacklisted.
+[2019-10-10 06:49:46,234] User 0 (Hazel Robinson) attempted login from IP address 190.166.105.205, which is suspicious.
+[2019-10-10 06:51:00,000] User 0 (Hazel Robinson) attempted login from IP address 101.132.194.24, which is blacklisted.
+[2019-10-10 06:52:12,654] User 0 (Hazel Robinson) attempted login from IP address 144.171.218.22, which is suspicious.
+[2019-10-10 06:53:37,890] User 0 (Hazel Robinson) attempted login from IP address 138.214.210.108, which is blacklisted.
+[2019-10-10 06:54:47,234] User 0 (Hazel Robinson) attempted login from IP address 121.119.182.152, which is suspicious.
+[2019-10-10 06:56:00,000] User 0 (Hazel Robinson) attempted login from IP address 153.186.251.30, which is blacklisted.
+[2019-10-10 06:57:13,689] User 0 (Hazel Robinson) initiated chip transaction for $41.99 at La Verne, CA 91750 5411.

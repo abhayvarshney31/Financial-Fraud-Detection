@@ -1,0 +1,151 @@
+Here are 20-30 log entries for user 0, leading up to a transaction:
+
+**Entry 1**
+Timestamp: 2023-02-05 08:00:00
+User Action: Launched the financial app
+Context: User 0
+
+**Entry 2**
+Timestamp: 2023-02-05 08:01:00
+User Action: Viewed recent transactions
+Context: User 0
+
+**Entry 3**
+Timestamp: 2023-02-05 08:02:00
+User Action: Filtered transactions by date range (January 1 - February 4)
+Context: User 0
+
+**Entry 4**
+Timestamp: 2023-02-05 08:03:00
+User Action: Reviewed income and expenses for January
+Context: User 0, Current Age: 53, Yearly Income - Person: $59696
+
+**Entry 5**
+Timestamp: 2023-02-05 08:04:00
+User Action: Noted a discrepancy in the rent payment for January
+Context: User 0
+
+**Entry 6**
+Timestamp: 2023-02-05 08:05:00
+User Action: Checked account balance
+Context: User 0, CARD INDEX: 4
+
+**Entry 7**
+Timestamp: 2023-02-05 08:06:00
+User Action: Made a note to review budget for February
+Context: User 0
+
+**Entry 8**
+Timestamp: 2023-02-05 09:00:00
+User Action: Viewed credit card information
+Context: User 0, Card Brand: Mastercard, Card Number: 5722874738736011
+
+**Entry 9**
+Timestamp: 2023-02-05 09:01:00
+User Action: Checked credit score
+Context: User 0, FICO Score: 787
+
+**Entry 10**
+Timestamp: 2023-02-05 09:02:00
+User Action: Reviewed credit card transactions for the past month
+Context: User 0, CARD INDEX: 4
+
+**Entry 11**
+Timestamp: 2023-02-05 09:03:00
+User Action: Identified a potential fraudulent charge
+Context: User 0, Is Fraud?: No
+
+**Entry 12**
+Timestamp: 2023-02-05 09:04:00
+User Action: Reported the suspicious charge to the bank
+Context: User 0
+
+**Entry 13**
+Timestamp: 2023-02-05 10:00:00
+User Action: Viewed account activity
+Context: User 0, Card on Dark Web: No
+
+**Entry 14**
+Timestamp: 2023-02-05 10:01:00
+User Action: Made a note to check account activity regularly
+Context: User 0
+
+**Entry 15**
+Timestamp: 2023-02-05 11:00:00
+User Action: Launched the financial app again
+Context: User 0
+
+**Entry 16**
+Timestamp: 2023-02-05 11:01:00
+User Action: Viewed account balance again
+Context: User 0, CARD INDEX: 4
+
+**Entry 17**
+Timestamp: 2023-02-05 11:02:00
+User Action: Made a purchase at a local store
+Context: User 0, Merchant Name: 5817218446178736267
+
+**Entry 18**
+Timestamp: 2023-02-05 11:03:00
+User Action: Authorized the charge
+Context: User 0
+
+**Entry 19**
+Timestamp: 2023-02-05 11:04:00
+User Action: Confirmed the purchase was successful
+Context: User 0
+
+**Entry 20**
+Timestamp: 2023-02-05 11:05:00
+User Action: Viewed the transaction details
+Context: User 0, Amount: $125.53, Use Chip: Swipe Transaction
+
+**Entry 21**
+Timestamp: 2023-02-05 11:06:00
+User Action: Noted the transaction in the budget
+Context: User 0
+
+**Entry 22**
+Timestamp: 2023-02-05 11:07:00
+User Action: Saved the changes
+Context: User 0
+
+**Entry 23**
+Timestamp: 2023-02-05 11:08:00
+User Action: Viewed the updated account activity
+Context: User 0
+
+**Entry 24**
+Timestamp: 2023-02-05 11:09:00
+User Action: Logged out of the financial app
+Context: User 0
+
+**Entry 25**
+Timestamp: 2023-02-05 11:10:00
+User Action: Logged back in to the financial app
+Context: User 0
+
+**Entry 26**
+Timestamp: 2023-02-05 11:11:00
+User Action: Viewed the transaction details again
+Context: User 0, Amount: $125.53, Use Chip: Swipe Transaction
+
+**Entry 27**
+Timestamp: 2023-02-05 11:12:00
+User Action: Made a note to review the transaction again later
+Context: User 0
+
+**Entry 28**
+Timestamp: 2023-02-05 11:13:00
+User Action: Edited the transaction note
+Context: User 0
+
+**Entry 29**
+Timestamp: 2023-02-05 11:14:00
+User Action: Saved the changes to the transaction note
+Context: User 0
+
+**Entry 30**
+Timestamp: 2023-02-05 11:15:00
+User Action: Closed the financial app
+Context: User 0

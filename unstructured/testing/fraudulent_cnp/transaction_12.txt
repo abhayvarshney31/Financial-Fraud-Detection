@@ -1,0 +1,40 @@
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 11, 'Time': '14:21', 'Person': 'Hazel Robinson', 'Address': '462 Rose Lane', 'City': 'La Verne', 'State': 'CA', 'Zipcode': 91750, 'Action': 'Logged in to financial app', 'Details': 'Successful login from home IP address.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 11, 'Time': '14:24', 'Person': 'Hazel Robinson', 'Action': 'Checked account balance', 'Details': 'Balances for all accounts displayed.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 11, 'Time': '14:36', 'Person': 'Hazel Robinson', 'Action': 'Searched for nearby gas stations', 'Details': '2 gas stations within 5 miles displayed.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 11, 'Time': '14:39', 'Person': 'Hazel Robinson', 'Merchant Name': 'Gas-n-Go', 'Merchant City': 'La Verne', 'Merchant State': 'CA', 'Zip': 91750, 'Action': 'Viewed merchant information', 'Details': 'Merchant contact information and services displayed.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 11, 'Time': '14:42', 'Person': 'Hazel Robinson', 'CARD INDEX': 1, 'Card Brand': 'Visa', 'Card Type': 'Credit', 'Card Number': 4344676511950421, 'Expires': '12/2022', 'Has Chip': 'YES', 'Cards Issued': 2, 'Action': 'Selected credit card for transaction', 'Details': 'Selected second Visa card for transaction.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 11, 'Time': '14:45', 'Person': 'Hazel Robinson', 'Action': 'Initiated $35.78 gas purchase at Gas-n-Go', 'Details': 'Transaction initiated with selected Visa credit card for fuel purchase.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 11, 'Time': '14:46', 'Person': 'Hazel Robinson', 'Action': 'Completed $35.78 gas purchase at Gas-n-Go', 'Details': 'Transaction successful, $35.78 charged to Visa credit card.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '06:52', 'Person': 'Hazel Robinson', 'Action': 'Logged in to financial app', 'Details': 'Successful login from home IP address.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '06:55', 'Person': 'Hazel Robinson', 'Action': 'Checked account balance', 'Details': 'Balances for all accounts displayed.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:01', 'Person': 'Hazel Robinson', 'Address': '462 Rose Lane', 'City': 'La Verne', 'State': 'CA', 'Zipcode': 91750, 'Action': 'Searched for nearby grocery stores', 'Details': '3 grocery stores within 5 miles displayed.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:03', 'Person': 'Hazel Robinson', 'Merchant Name': 'Quick Mart', 'Merchant City': 'La Verne', 'Merchant State': 'CA', 'Zip': 91750, 'Action': 'Viewed merchant information', 'Details': 'Merchant contact information and services displayed.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:18', 'Person': 'Hazel Robinson', 'Action': 'Prepared to add a new prepaid card', 'Details': 'Began process to add a new prepaid card as a payment method.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:20', '
+User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:20', 'Person': 'Hazel Robinson', 'CARD INDEX': 2, 'Card Brand': 'Visa', 'Card Type': 'Prepaid', 'Card Number': 4344676511950308, 'Expires': '12/2022', 'Has Chip': 'YES', 'Acct Open Date': '09/2019', 'Year PIN last Changed': nan, 'Card on Dark Web': 'No', 'Action': 'Input prepaid card details', 'Details': 'Entered prepaid card information.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:22', 'Person': 'Hazel Robinson', 'Action': 'Verified prepaid card information', 'Details': 'Verified prepaid card details before adding as a payment method.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:25', 'Person': 'Hazel Robinson', 'Action': 'Added prepaid card as a new payment method', 'Details': 'Successfully added prepaid card as a new payment method in the financial app.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:26', 'Person': 'Hazel Robinson', 'Action': 'Checked account balance', 'Details': 'Balances for all accounts displayed.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:31', 'Person': 'Hazel Robinson', 'Merchant Name': 'Quick Mart', 'Merchant City': 'La Verne', 'Merchant State': 'CA', 'Zip': 91750, 'Action': 'Initiated $11.24 purchase at Quick Mart', 'Details': 'Transaction initiated with newly added prepaid card for purchases.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:32', 'Person': 'Hazel Robinson', 'Action': 'Completed $11.24 purchase at Quick Mart', 'Details': 'Transaction successful, $11.24 charged to prepaid card.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:33', 'Person': 'Hazel Robinson', 'Action': 'Checked prepaid card balance', 'Details': 'Prepaid card balance updated in the financial app.'}
+
+{'User': 0, 'Year': 2019, 'Month': 9, 'Day': 12, 'Time': '07:35', 'Person': 'Hazel Robinson', 'Action': 'Logged out of financial app', 'Details': 'Successful logout from the financial app.'}

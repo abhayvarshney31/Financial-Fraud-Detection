@@ -1,0 +1,36 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction where the user enabled account alerts to a new email address:
+
+| Year | Month | Day | Time | User | Action | Details |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2015 | 4 | 16 | 06:29 | 0 | Login | Successful login from IP address 192.168.1.101 |
+| 2015 | 4 | 16 | 06:30 | 0 | Account Settings | Changed account display name to "Hazy Bee" |
+| 2015 | 4 | 16 | 06:31 | 0 | Account Settings | Updated email address to [hazybee@gmail.com](mailto:hazybee@gmail.com) |
+| 2015 | 4 | 16 | 06:32 | 0 | Account Alerts | Enabled account alerts via email |
+| 2015 | 4 | 16 | 06:33 | 0 | Account Alerts | Selected alerts for all transactions |
+| 2015 | 4 | 16 | 06:34 | 0 | Account Alerts | Selected alerts for balance updates |
+| 2015 | 4 | 16 | 06:35 | 0 | Account Alerts | Selected alerts for suspicious activity |
+| 2015 | 4 | 16 | 06:36 | 0 | Account Alerts | Confirmed new email address for alerts |
+| 2015 | 4 | 16 | 06:38 | 0 | Transactions | Viewed recent transactions |
+| 2015 | 4 | 16 | 06:39 | 0 | Transactions | Searched for transactions in March 2015 |
+| 2015 | 4 | 16 | 06:40 | 0 | Transactions | Exported transactions to CSV |
+| 2015 | 4 | 16 | 06:41 | 0 | Credit Cards | Viewed credit card balance and activity |
+| 2015 | 4 | 16 | 06:42 | 0 | Credit Cards | Requested a temporary credit card number |
+| 2015 | 4 | 16 | 06:43 | 0 | Credit Cards | Updated billing address for primary credit card |
+| 2015 | 4 | 16 | 06:44 | 0 | Credit Cards | Scheduled an automatic payment for primary credit card |
+| 2015 | 4 | 16 | 06:45 | 0 | Credit Cards | Requested a credit limit increase |
+| 2015 | 4 | 16 | 06:46 | 0 | Budgeting | Viewed budget and spending categories |
+| 2015 | 4 | 16 | 06:47 | 0 | Budgeting | Added a new budget category for "Travel" |
+| 2015 | 4 | 16 | 06:48 | 0 | Budgeting | Adjusted budget for "Dining Out" category |
+| 2015 | 4 | 16 | 06:49 | 0 | Budgeting | Transferred funds between budget categories |
+| 2015 | 4 | 16 | 06:50 | 0 | Notifications | Viewed app notifications and banners |
+| 2015 | 4 | 16 | 06:51 | 0 | Notifications | Enabled push notifications for budget reminders |
+| 2015 | 4 | 16 | 06:52 | 0 | Notifications | Disabled app banner notifications |
+| 2015 | 4 | 16 | 06:53 | 0 | Help & Support | Viewed the FAQ for "Managing Account Alerts" |
+| 2015 | 4 | 16 | 06:54 | 0 | Help & Support | Sent a secure message to customer support |
+| 2015 | 4 | 16 | 06:55 | 0 | Security | Viewed security settings |
+| 2015 | 4 | 16 | 06:56 | 0 | Security | Enabled two-factor authentication |
+| 2015 | 4 | 16 | 06:57 | 0 | Security | Updated security question answers |
+| 2015 | 4 | 16 | 06:58 | 0 | Security | Added a new device for secure access |
+| 2015 | 4 | 16 | 06:59 | 0 | Logout | Successful logout |
+
+These log entries show a user logging in, changing account settings, enabling account alerts, viewing recent transactions, managing credit cards, creating a budget, viewing notifications, sending a secure message to customer support, and updating security settings.

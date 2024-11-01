@@ -1,0 +1,21 @@
+1. {'Year': 2019, 'Month': 6, 'Day': 20, 'Time': '14:21', 'User': 0, 'Activity': 'Logged in to financial app from IP address 192.168.1.101', 'City': 'La Verne', 'State': 'CA'}
+2. {'Year': 2019, 'Month': 6, 'Day': 20, 'Time': 14:23, 'User': 0, 'Activity': 'Reviewed account balance and transaction history', 'City': 'La Verne', 'State': 'CA'}
+3. {'Year': 2019, 'Month': 6, 'Day': 20, 'Time': 14:30, 'User': 0, 'Activity': 'Searched for high-end retailer online', 'City': 'La Verne', 'State': 'CA'}
+4. {'Year': 2019, 'Month': 6, 'Day': 20, 'Time': 14:45, 'User': 0, 'Activity': 'Added items to shopping cart for a total of $15,000', 'City': 'La Verne', 'State': 'CA'}
+5. {'Year': 2019, 'Month': 6, 'Day': 20, 'Time': 15:00, 'User': 0, 'Activity': 'Proceeded to checkout page', 'City': 'La Verne', 'State': 'CA'}
+6. {'Year': 2019, 'Month': 6, 'Day': 20, 'Time': 15:02, 'User': 0, 'Activity': 'Entered new shipping address (456 Orchard Lane, La Verne, CA, 91750)', 'City': 'La Verne', 'State': 'CA'}
+7. {'Year': 2019, 'Month': 6, 'Day': 20, 'Time': 15:05, 'User': 0, 'Activity': 'Entered payment details (Card Number: 4344676511950444, CVV: 623, Expiration Date: 12/2022)', 'City': 'La Verne', 'State': 'CA'}
+8. {'Year': 2019, 'Month': 6, 'Day': 20, 'Time': 15:10, 'User': 0, 'Activity': 'Transaction declined due to insufficient funds', 'City': 'La Verne', 'State': 'CA', 'Errors?': 'Yes'}
+9. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 10:30, 'User': 0, 'Activity': 'Logged in to financial app from IP address 192.168.1.101', 'City': 'La Verne', 'State': 'CA'}
+10. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 10:32, 'User': 0, 'Activity': 'Transferred $16,000 from savings to checking account', 'City': 'La Verne', 'State': 'CA'}
+11. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 11:00, 'User': 0, 'Activity': 'Returned to retailer website and added items to shopping cart for a total of $15,000', 'City': 'La Verne', 'State': 'CA'}
+12. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 11:15, 'User': 0, 'Activity': 'Proceeded to checkout page', 'City': 'La Verne', 'State': 'CA'}
+13. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 11:17, 'User': 0, 'Activity': 'Entered new shipping address (456 Orchard Lane, La Verne, CA, 91750)', 'City': 'La Verne', 'State': 'CA'}
+14. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 11:20, 'User': 0, 'Activity': 'Entered payment details (Card Number: 4344676511950444, CVV: 623, Expiration Date: 12/2022)', 'City': 'La Verne', 'State': 'CA'}
+15. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 11:25, 'User': 0, 'Activity': 'Transaction approved', 'City': 'La Verne', 'State': 'CA'}
+16. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 11:26, 'User': 0, 'Activity': 'Received confirmation email for order', 'City': 'La Verne', 'State': 'CA'}
+17. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 11:30, 'User': 0, 'Activity': 'Logged out of financial app from IP address 192.168.1.101', 'City': 'La Verne', 'State': 'CA'}
+18. {'Year': 2019, 'Month': 6, 'Day': 21, 'Time': 11:35, 'User': 0, 'Activity': 'Received shipping confirmation email for order', 'City': 'La Verne', 'State': 'CA'}
+19. {'Year': 2019, 'Month': 6, 'Day': 22, 'Time': 06:05, 'User': 0, 'Activity': 'Debit transaction at merchant (Merchant Name: 1913477460590765860, Amount: $131.21, Merchant City: La Verne, Merchant State: CA, Zip: 91750, MCC: 5300)', 'City': 'La Verne', 'State': 'CA'}
+20. {'Year': 2019, 'Month': 6, 'Day': 22, 'Time': 12:00, 'User': 0, 'Activity': 'Logged in to financial app from IP address 192.168.1.101', 'City': 'La Verne', 'State': 'CA'}
+21. {'Year': 2019, 'Month': 6, 'Day': 22, 'Time': 12:01, 'User': 0, 'Activity': 'Verified debit transaction (Merchant Name: 1913477460590765860, Amount: $131.21)', 'City': 'La Verne', 'State': 'CA'}

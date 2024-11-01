@@ -1,0 +1,30 @@
+1. {'User': 0, 'Time': '2019-03-11 10:32:15', 'Action': 'Updated personal contact information', 'Field': 'Address', 'Previous Value': '462 Oak Lane', 'New Value': '462 Rose Lane'}
+2. {'User': 0, 'Time': '2019-03-11 11:01:46', 'Action': 'Updated personal contact information', 'Field': 'City', 'Previous Value': 'Ontario', 'New Value': 'La Verne'}
+3. {'User': 0, 'Time': '2019-03-11 13:17:28', 'Action': 'Updated personal contact information', 'Field': 'State', 'Previous Value': 'NY', 'New Value': 'CA'}
+4. {'User': 0, 'Time': '2019-03-11 14:23:15', 'Action': 'Updated personal contact information', 'Field': 'Zipcode', 'Previous Value': 11950, 'New Value': 91750}
+5. {'User': 0, 'Time': '2019-03-11 16:09:45', 'Action': 'Updated personal contact information', 'Field': 'Yearly Income - Person', 'Previous Value': '$55000', 'New Value': '$59696'}
+6. {'User': 0, 'Time': '2019-03-11 17:35:12', 'Action': 'Updated personal contact information', 'Field': 'Total Debt', 'Previous Value': '$130000', 'New Value': '$127613'}
+7. {'User': 0, 'Time': '2019-03-11 18:21:26', 'Action': 'Updated personal contact information', 'Field': 'FICO Score', 'Previous Value': '785', 'New Value': '787'}
+8. {'User': 0, 'Time': '2019-03-11 19:01:15', 'Action': 'Verified credit card information', 'Field': 'Card Brand', 'Value': 'Visa'}
+9. {'User': 0, 'Time': '2019-03-11 20:12:30', 'Action': 'Verified credit card information', 'Field': 'Card Type', 'Value': 'Debit'}
+10. {'User': 0, 'Time': '2019-03-11 21:04:15', 'Action': 'Updated credit card information', 'Field': 'Expires', 'Previous Value': '12/2021', 'New Value': '12/2022'}
+11. {'User': 0, 'Time': '2019-03-11 22:02:30', 'Action': 'Updated credit card information', 'Field': 'CVV', 'New Value': '623'}
+12. {'User': 0, 'Time': '2019-03-12 00:15:45', 'Action': 'Confirmed identity via SMS', 'Field': 'Person', 'Value': 'Hazel Robinson'}
+13. {'User': 0, 'Time': '2019-03-12 01:30:15', 'Action': 'Updated personal contact information', 'Field': 'Birth Month', 'Previous Value': 12, 'New Value': 11}
+14. {'User': 0, 'Time': '2019-03-12 03:21:45', 'Action': 'Viewed account balance', 'Value': '$26132'}
+15. {'User': 0, 'Time': '2019-03-12 04:40:01', 'Action': 'Updated personal contact information', 'Field': 'Email', 'New Value': '[hazelrobinson@email.com](mailto:hazelrobinson@email.com)'}
+16. {'User': 0, 'Time': '2019-03-12 06:15:26', 'Action': 'Verified security question answers', 'Question': 'Mother’s maiden name', 'Answer': 'Thompson'}
+17. {'User': 0, 'Time': '2019-03-12 07:23:15', 'Action': 'Verified security question answers', 'Question': 'First job', 'Answer': 'Cashier'}
+18. {'User': 0, 'Time': '2019-03-12 09:05:45', 'Action': 'Enabled two-factor authentication'}
+19. {'User': 0, 'Time': '2019-03-12 10:30:15', 'Action': 'Account security scan completed'}
+20. {'User': 0, 'Time': '2019-03-12 12:10:45', 'Action': 'Updated email preferences'}
+21. {'User': 0, 'Time': '2019-03-12 13:35:15', 'Action': 'Logged in from new device (iPhone), location: La Verne, CA'}
+22. {'User': 0, 'Time': '2019-03-12 14:32:30', 'Action': 'Updated password', 'Previous Value': 'Password3', 'New Value': 'SecurePassword123'}
+23. {'User': 0, 'Time': '2019-03-12 15:48:15', 'Action': 'Viewed account activity'}
+24. {'User': 0, 'Time': '2019-03-12 16:40:45', 'Action': 'Requested account statement'}
+25. {'User': 0, 'Time': '2019-03-12 17:57:15', 'Action': 'Added a new phone number for security purposes'}
+26. {'User': 0, 'Time': '2019-03-12 19:21:45', 'Action': 'Reviewed and confirmed account alerts'}
+27. {'User': 0, 'Time': '2019-03-12 21:15:15', 'Action': 'Updated personal contact information', 'Field': 'Gender', 'New Value': 'Female'}
+28. {'User': 0, 'Time': '2019-03-12 22:51:45', 'Action': 'Requested a password reset link'}
+29. {'User': 0, 'Time': '2019-03-13 00:43:15', 'Action': 'Changed password', 'Previous Value': 'SecurePassword123', 'New Value': 'StrongPassword456'}
+30. {'User': 0, 'Time': '2019-03-13 02:34:15', 'Action': 'Logged out'}

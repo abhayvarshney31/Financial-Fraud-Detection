@@ -1,0 +1,30 @@
+1. [2022-05-01 09:30:15, User 0] User 0 navigated to the "Transaction Categories" page on the financial app.
+2. [2022-05-01 09:31:23, User 0] User 0 selected the "Groceries" category to view related transactions.
+3. [2022-05-01 09:34:01, User 0] User 0 filtered "Groceries" transactions by date range (01/01/2022 - 04/30/2022).
+4. [2022-05-01 09:35:10, User 0] User 0 sorted "Groceries" transactions by amount (highest to lowest).
+5. [2022-05-01 09:37:22, User 0] User 0 clicked on a $250.00 "Whole Foods" transaction for more details.
+6. [2022-05-01 09:40:35, User 0] User 0 went back to the "Groceries" transaction list and selected "Restaurants" category.
+7. [2022-05-01 09:43:18, User 0] User 0 filtered "Restaurants" transactions by date range (01/01/2022 - 04/30/2022).
+8. [2022-05-01 09:44:31, User 0] User 0 sorted "Restaurants" transactions by date (latest to earliest).
+9. [2022-05-01 09:45:51, User 0] User 0 clicked on a $75.00 "Starbucks" transaction for more details.
+10. [2022-05-01 09:48:23, User 0] User 0 went back to the "Restaurants" transaction list and selected "Entertainment" category.
+11. [2022-05-01 09:52:12, User 0] User 0 filtered "Entertainment" transactions by date range (01/01/2022 - 04/30/2022).
+12. [2022-05-01 09:53:26, User 0] User 0 sorted "Entertainment" transactions by amount (lowest to highest).
+13. [2022-05-01 09:55:43, User 0] User 0 clicked on a $15.00 "Netflix" transaction for more details.
+14. [2022-05-01 09:58:15, User 0] User 0 went back to the "Entertainment" transaction list and selected "Travel" category.
+15. [2022-05-01 10:04:10, User 0] User 0 filtered "Travel" transactions by date range (01/01/2021 - 12/31/2021).
+16. [2022-05-01 10:05:22, User 0] User 0 sorted "Travel" transactions by distance (farthest to nearest).
+17. [2022-05-01 10:07:33, User 0] User 0 clicked on a $650.00 "Delta Airlines" transaction for more details.
+18. [2022-05-01 10:11:02, User 0] User 0 went back to the "Travel" transaction list and viewed all categories.
+19. [2022-05-01 10:15:21, User 0] User 0 searched for transactions containing the term "Amazon".
+20. [2022-05-01 10:17:34, User 0] User 0 filtered search results by date range (01/01/2022 - 04/30/2022).
+21. [2022-05-01 10:19:01, User 0] User 0 sorted search results by merchant name (Z-A).
+22. [2022-05-01 10:21:12, User 0] User 0 clicked on a $125.00 "Amazon" transaction for more details.
+23. [2022-05-01 10:23:25, User 0] User 0 went back to the search results and cleared the search term.
+24. [2022-05-01 10:25:47, User 0] User 0 returned to the "Transaction Categories" page and viewed "Bills & Utilities".
+25. [2022-05-01 10:30:11, User 0] User 0 filtered "Bills & Utilities" transactions by date range (01/01/2022 - 04/30/2022).
+26. [2022-05-01 10:31:25, User 0] User 0 sorted "Bills & Utilities" transactions by merchant city (A-Z).
+27. [2022-05-01 10:33:44, User 0] User 0 clicked on a $150.00 "Southern California Edison" transaction for more details.
+28. [2022-05-01 10:36:18, User 0] User 0 went back to the "Bills & Utilities" transaction list and selected "Health" category.
+29. [2022-05-01 10:40:57, User 0] User 0 filtered "Health" transactions by date range (01/01/2021 - 12/31/2021).
+30. [2022-05-01 10:42:11, User 0] User 0 sorted "Health" transactions by amount (highest to lowest).

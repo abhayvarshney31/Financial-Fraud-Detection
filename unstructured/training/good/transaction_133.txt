@@ -1,0 +1,32 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with behavior type "Checked account balance on the mobile app":
+
+1. 2023-03-17 14:30:00 | User 0 checked account balance on mobile app
+2. 2023-03-17 14:31:00 | User 0 viewed account summary
+3. 2023-03-17 14:32:00 | User 0 accessed account activity
+4. 2023-03-17 14:33:00 | User 0 viewed account transaction history
+5. 2023-03-17 14:34:00 | User 0 filtered transactions by date
+6. 2023-03-17 14:35:00 | User 0 checked account available balance ($35674.00)
+7. 2023-03-17 14:36:00 | User 0 checked account spent this month ($2478.00)
+8. 2023-03-17 14:37:00 | User 0 checked account income this month ($5969.00)
+9. 2023-03-17 14:38:00 | User 0 viewed account budget
+10. 2023-03-17 14:40:00 | User 0 filtered budget by category
+11. 2023-03-17 14:42:00 | User 0 checked account cashback rewards
+12. 2023-03-17 14:44:00 | User 0 view rewards redeemed
+13. 2023-03-17 14:46:00 | User 0 checked account due dates
+14. 2023-03-17 14:48:00 | User 0 accessed account settings
+15. 2023-03-17 14:50:00 | User 0 updated password
+16. 2023-03-17 14:52:00 | User 0 checked account security
+17. 2023-03-17 14:54:00 | User 0 checked account notifications
+18. 2023-03-17 14:56:00 | User 0 cleared notifications
+19. 2023-03-17 15:00:00 | User 0 checked account balance again
+20. 2023-03-17 15:02:00 | User 0 viewed account credit score (787)
+21. 2023-03-17 15:04:00 | User 0 viewed account credit limit ($28)
+22. 2023-03-17 15:06:00 | User 0 viewed account credit cards
+23. 2023-03-17 15:08:00 | User 0 viewed account credit card 1 details
+24. 2023-03-17 15:10:00 | User 0 viewed account credit card 2 details
+25. 2023-03-17 15:12:00 | User 0 viewed account credit card 3 details
+26. 2023-03-17 15:14:00 | User 0 viewed account credit card 4 details
+27. 2023-03-17 15:16:00 | User 0 viewed account credit card 5 details
+28. 2023-03-17 15:18:00 | User 0 filtered transactions by category
+29. 2023-03-17 15:20:00 | User 0 viewed account transaction 1234
+30. 2023-03-17 15:22:00 | User 0 made a purchase

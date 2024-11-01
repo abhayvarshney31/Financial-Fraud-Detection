@@ -1,0 +1,183 @@
+Here are 20-30 log entries for user 0 leading up to a transaction:
+
+1. 19:47 - 2023-02-18
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 0 - User 0 viewed account balance.
+
+2. 10:21 - 2023-02-17
+Action: User 0 viewed account activity.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User viewed account activity over the past 30 days, no notable transactions.
+Log: 1 - User 0 viewed account activity.
+
+3. 23:19 - 2023-02-16
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 2 - User 0 viewed account balance.
+
+4. 19:03 - 2023-02-16
+Action: User 0 checked account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past seven days, no significant changes.
+Log: 3 - User 0 viewed account activity.
+
+5. 14:41 - 2023-02-15
+Action: User 0 transferred money to savings account.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User transferred $2,500 from checking to savings account.
+Log: 4 - User 0 initiated intrabank transfer.
+
+6. 10:38 - 2023-02-14
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 5 - User 0 viewed account balance.
+
+7. 20:00 - 2023-02-13
+Action: User 0 purchased clothing.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User made a purchase of $150.97 with Mastercard.
+Log: 6 - User 0 initiated purchase with Mastercard.
+
+8. 09:15 - 2023-02-12
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 7 - User 0 viewed account balance.
+
+9. 18:10 - 2023-02-11
+Action: User 0 checked account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past 14 days, no notable transactions.
+Log: 8 - User 0 viewed account activity.
+
+10. 14:18 - 2023-02-10
+Action: User 0 transferred money to checking account.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User transferred $1,000 from savings to checking account.
+Log: 9 - User 0 initiated intrabank transfer.
+
+11. 10:43 - 2023-02-09
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 10 - User 0 viewed account balance.
+
+12. 22:20 - 2023-02-08
+Action: User 0 checked account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past 21 days, no significant changes.
+Log: 11 - User 0 viewed account activity.
+
+13. 17:27 - 2023-02-07
+Action: User 0 viewed account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User viewed account balance, no further action taken.
+Log: 12 - User 0 viewed account balance.
+
+14. 11:08 - 2023-02-06
+Action: User 0 checked account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past 27 days, no notable transactions.
+Log: 13 - User 0 viewed account activity.
+
+15. 14:15 - 2023-02-05
+Action: User 0 transferred money to loan account.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User transferred $500 from checking to loan account.
+Log: 14 - User 0 initiated intrabank transfer.
+
+16. 20:15 - 2023-02-04
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 15 - User 0 viewed account balance.
+
+17. 09:11 - 2023-02-03
+Action: User 0 viewed account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past 33 days, no significant changes.
+Log: 16 - User 0 viewed account activity.
+
+18. 17:26 - 2023-02-02
+Action: User 0 transferred money to investment account.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User transferred $2,000 from checking to investment account.
+Log: 17 - User 0 initiated intrabank transfer.
+
+19. 11:23 - 2023-02-01
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 18 - User 0 viewed account balance.
+
+20. 20:00 - 2023-01-31
+Action: User 0 viewed account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past 40 days, no notable transactions.
+Log: 19 - User 0 viewed account activity.
+
+21. 22:20 - 2023-01-30
+Action: User 0 transferred money to checking account.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User transferred $1,500 from savings to checking account.
+Log: 20 - User 0 initiated intrabank transfer.
+
+22. 14:45 - 2023-01-29
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 21 - User 0 viewed account balance.
+
+23. 17:11 - 2023-01-28
+Action: User 0 viewed account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past 47 days, no significant changes.
+Log: 22 - User 0 viewed account activity.
+
+24. 20:10 - 2023-01-27
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 23 - User 0 viewed account balance.
+
+25. 11:38 - 2023-01-26
+Action: User 0 viewed account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past 54 days, no notable transactions.
+Log: 24 - User 0 viewed account activity.
+
+26. 14:24 - 2023-01-25
+Action: User 0 transferred money to savings account.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User transferred $1,000 from checking to savings account.
+Log: 25 - User 0 initiated intrabank transfer.
+
+27. 20:50 - 2023-01-24
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 26 - User 0 viewed account balance.
+
+28. 09:38 - 2023-01-23
+Action: User 0 viewed account activity on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account activity over the past 60 days, no significant changes.
+Log: 27 - User 0 viewed account activity.
+
+29. 17:45 - 2023-01-22
+Action: User 0 transferred money to checking account.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User transferred $500 from savings to checking account.
+Log: 28 - User 0 initiated intrabank transfer.
+
+30. 22:21 - 2023-01-21
+Action: User 0 checked account balance on mobile app.
+Context: User ID 0, Person: Hazel Robinson, Current Age: 53, etc.
+Detail: User checked account balance, no further action taken.
+Log: 29 - User 0 viewed account balance.
+
+These log entries depict the user's actions leading up to a transaction. They include timestamps, user actions, and details such as account transfers and activity checks.

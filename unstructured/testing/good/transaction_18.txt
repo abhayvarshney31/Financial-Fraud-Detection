@@ -1,0 +1,30 @@
+1. [2013-11-24 20:06:58, User 0] User 0 (Hazel Robinson) viewed the 'Travel Notifications' page on the financial app.
+2. [2013-11-24 20:07:15, User 0] User 0 clicked on the 'Add New Notification' button on the 'Travel Notifications' page.
+3. [2013-11-24 20:07:32, User 0] User 0 entered the destination 'Paris, France' in the 'Destination' field for the new travel notification.
+4. [2013-11-24 20:07:55, User 0] User 0 entered the travel dates '12/01/2013' to '12/20/2013' for the new travel notification.
+5. [2013-11-24 20:08:11, User 0] User 0 selected 'Credit Card' as the method of payment for the new travel notification.
+6. [2013-11-24 20:08:26, User 0] User 0 chose 'Visa' as the credit card brand for the new travel notification.
+7. [2013-11-24 20:08:43, User 0] User 0 selected credit card number 4879494103069057 for the new travel notification.
+8. [2013-11-24 20:08:58, User 0] User 0 entered a travel budget of $3000 for the new travel notification.
+9. [2013-11-24 20:09:15, User 0] User 0 confirmed the new travel notification and was taken to the 'Travel Notifications' page.
+10. [2013-11-24 20:09:35, User 0] User 0 viewed the details of the newly created travel notification on the 'Travel Notifications' page.
+11. [2013-11-24 20:10:02, User 0] User 0 clicked on the 'Transactions' tab on the financial app's dashboard.
+12. [2013-11-24 20:10:22, User 0] User 0 filtered the transactions by the newly created travel notification.
+13. [2013-11-24 20:10:42, User 0] User 0 viewed the details of the first transaction in the filtered list.
+14. [2013-11-24 20:11:19, User 0] User 0 went back to the 'Travel Notifications' page from the 'Transactions' tab.
+15. [2013-11-24 20:11:43, User 0] User 0 edited the travel notification by updating the travel budget to $3200.
+16. [2013-11-24 20:12:02, User 0] User 0 saved the changes to the travel notification.
+17. [2013-11-24 20:12:28, User 0] User 0 navigated to the 'Account Balance' page from the financial app's dashboard.
+18. [2013-11-24 20:12:51, User 0] User 0 checked the available balance on the 'Account Balance' page.
+19. [2013-11-24 20:13:19, User 0] User 0 went back to the 'Travel Notifications' page.
+20. [2013-11-24 20:13:41, User 0] User 0 added a note to the travel notification, mentioning the exchange rate.
+21. [2013-11-24 20:14:05, User 0] User 0 checked the per capita income for the Zipcode 91750 on the 'Demographics' tab.
+22. [2013-11-24 20:14:31, User 0] User 0 navigated to the 'Credit Score' page from the financial app's dashboard.
+23. [2013-11-24 20:14:58, User 0] User 0 viewed the current FICO score of 787 on the 'Credit Score' page.
+24. [2013-11-24 20:15:21, User 0] User 0 went back to the 'Travel Notifications' page from the 'Credit Score' page.
+25. [2013-11-24 20:15:48, User 0] User 0 clicked on the 'Account Activity' tab on the financial app's dashboard.
+26. [2013-11-24 20:16:14, User 0] User 0 filtered the account activity by the newly created travel notification.
+27. [2013-11-24 20:16:41, User 0] User 0 viewed the details of the first account activity in the filtered list.
+28. [2013-11-24 20:17:10, User 0] User 0 went back to the 'Travel Notifications' page from the 'Account Activity' tab.
+29. [2013-11-24 20:17:36, User 0] User 0 added a second card (AMEX) to the travel notification.
+30. [2013-11-24 20:18:02, User 0] User 0 confirmed the addition of the second card to the travel notification.

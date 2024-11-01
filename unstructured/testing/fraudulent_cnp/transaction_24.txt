@@ -1,0 +1,117 @@
+{
+"Time": "2022-04-01 09:15:00",
+"User": 0,
+"Action": "Logged in to financial app",
+"Location": "462 Rose Lane, La Verne, CA"
+}
+
+{
+"Time": "2022-04-01 09:16:58",
+"User": 0,
+"Action": "Viewed account balance",
+"Current balance": "$46874.83"
+}
+
+{
+"Time": "2022-04-01 09:18:21",
+"User": 0,
+"Action": "Viewed credit card details",
+"Card Index": 4,
+"Card Brand": "Mastercard",
+"Card Type": "Debit (Prepaid)",
+"Card Number": "5722874738736011",
+"Expiration Date": "03/2009",
+"CVV": "75",
+"Has Chip": "YES",
+"Credit Limit": "$28"
+}
+
+{
+"Time": "2022-04-01 09:19:45",
+"User": 0,
+"Action": "Checked per capita income in zipcode",
+"Per Capita Income - Zipcode": "$29278"
+}
+
+{
+"Time": "2022-04-01 09:21:10",
+"User": 0,
+"Action": "Navigated to online merchant (Furniture Store)",
+"Merchant Name": "FurnitureEmporium",
+"Merchant City": "ONLINE",
+"Merchant State": "NA",
+"Zip": "NA",
+"MCC": "5732"
+}
+
+{
+"Time": "2022-04-01 09:22:35",
+"User": 0,
+"Action": "Added item to cart (Luxury Leather Sofa - $3395.50)",
+"Item Name": "Luxury Leather Sofa",
+"Item Price": "$3395.50"
+}
+
+{
+"Time": "2022-04-01 09:23:52",
+"User": 0,
+"Action": "Entered new shipping address",
+"Address": "777 Elite Avenue",
+"City": "Beverly Hills",
+"State": "CA",
+"Zipcode": "90210"
+}
+
+{
+"Time": "2022-04-01 09:25:07",
+"User": 0,
+"Action": "Proceeded to checkout",
+"Total Amount": "$3395.50"
+}
+
+{
+"Time": "2022-04-01 09:26:23",
+"User": 0,
+"Action": "Entered credit card information",
+"Card Brand": "Mastercard",
+"Card Type": "Debit (Prepaid)",
+"Card Number": "5722874738736011",
+"Expiration Date": "03/2009",
+"CVV": "75",
+"Has Chip": "YES"
+}
+
+{
+"Time": "2022-04-01 09:27:38",
+"User": 0,
+"Action": "Entered billing address",
+"Address": "462 Rose Lane",
+"City": "La Verne",
+"State": "CA",
+"Zipcode": "91750"
+}
+
+{
+"Time": "2022-04-01 09:28:54",
+"User": 0,
+"Action": "Confirmed purchase",
+"Total Amount": "$3395.50"
+}
+
+{
+"Time": "2022-04-01 09:30:09",
+"User": 0,
+"Action": "Received transaction confirmation",
+"Transaction ID": "28957309550213",
+"Amount": "$3395.50",
+"Merchant Name": "FurnitureEmporium",
+"Merchant City": "ONLINE"
+}
+
+{
+"Time": "2022-04-01 09:31:25",
+"User": 0,
+"Action": "Logged out of financial app"
+}
+
+Here are 20 log entries describing the actions of user 0 (Hazel Robinson) leading up to a high-value online purchase at a furniture store, using a new shipping address. The logs include timestamps and various context fields, such as user actions, location, and transaction details.

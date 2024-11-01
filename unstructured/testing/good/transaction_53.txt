@@ -1,0 +1,30 @@
+1. [2013-11-20 13:15:25,000] User 0 logged into the financial app from La Verne, CA.
+2. [2013-11-20 13:15:33,000] User 0 navigated to the 'Transactions' page.
+3. [2013-11-20 13:15:41,000] User 0 selected the 'Last 30 Days' filter.
+4. [2013-11-20 13:15:49,000] User 0 viewed recent purchases made with Visa Debit card (4344676511950444).
+5. [2013-11-20 13:16:01,000] User 0 clicked on the transaction for $97.00 at Merchant Name 2027553650310142703.
+6. [2013-11-20 13:16:10,000] User 0 checked the details of the transaction: Merchant City Mira Loma, Merchant State CA, Zip 91752.0, MCC 5541.
+7. [2013-11-20 13:16:18,000] User 0 returned to the list of recent transactions.
+8. [2013-11-20 13:16:24,000] User 0 set a spending alert for $100.00 on Visa Debit card (4344676511950444).
+9. [2013-11-20 13:16:31,000] User 0 navigated to the 'Alerts' page.
+10. [2013-11-20 13:16:38,000] User 0 viewed the newly set spending alert.
+11. [2013-11-20 13:16:46,000] User 0 checked the account balance after setting the alert.
+12. [2013-11-20 13:16:52,000] User 0 reviewed the account's per capita income ('Per Capita Income - Zipcode': '$29278').
+13. [2013-11-20 13:17:04,000] User 0 checked the account's yearly income ('Yearly Income - Person': '$59696').
+14. [2013-11-20 13:17:11,000] User 0 reviewed the account's total debt ('Total Debt': '$127613').
+15. [2013-11-20 13:17:18,000] User 0 checked the account's FICO score (787).
+16. [2013-11-20 13:17:26,000] User 0 reviewed the account's number of credit cards (5).
+17. [2013-11-20 13:17:33,000] User 0 checked the account's credit limit ('Credit Limit': '$24295').
+18. [2013-11-20 13:17:41,000] User 0 reviewed the account's card expiration date ('Expires': '12/2022').
+19. [2013-11-20 13:17:48,000] User 0 checked the account's PIN change history ('Year PIN last Changed': 2008).
+20. [2013-11-20 13:17:56,000] User 0 confirmed that the account was not flagged for fraud ('Is Fraud?': 'No').
+21. [2013-11-20 13:18:04,000] User 0 verified that the account's card was not found on the dark web ('Card on Dark Web': 'No').
+22. [2013-11-20 13:18:11,000] User 0 reviewed the account's card information: Card Brand 'Visa', Card Type 'Debit', Has Chip 'YES'.
+23. [2013-11-20 13:18:18,000] User 0 checked the account's cards issued (2).
+24. [2013-11-20 13:18:26,000] User 0 reviewed the account's card open date ('Acct Open Date': '09/2002').
+25. [2013-11-20 13:18:33,000] User 0 confirmed that the recent transaction was a swipe transaction ('Use Chip': 'Swipe Transaction').
+26. [2013-11-20 13:18:41,000] User 0 checked the account's yearly income in relation to the recent purchase of $97.00.
+27. [2013-11-20 13:18:48,000] User 0 reviewed the account's FICO score impact in relation to the recent purchase.
+28. [2013-11-20 13:18:56,000] User 0 checked the account's available credit after the recent purchase.
+29. [2013-11-20 13:19:04,000] User 0 verified the account's remaining credit limit after the recent purchase.
+30. [2013-11-20 13:19:11,000] User 0 confirmed that the account had sufficient balance for future transactions.

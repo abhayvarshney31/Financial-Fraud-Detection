@@ -1,0 +1,36 @@
+1. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:51', 'User': 0, 'Activity': 'Logged in to financial app from IP 123.456.789.012', 'Location': 'La Verne, CA', 'IP': '123.456.789.012'}
+2. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:53', 'User': 0, 'Activity': 'Viewed account balance and recent transactions', 'Amount': '$59696'}
+3. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:54', 'User': 0, 'Activity': 'Accessed credit card information', 'Card Brand': 'Visa', 'Card Type': 'Debit', 'Card Number': '4582313478255491', 'Expiration': '02/2024', 'CVV': '719', 'Has Chip': 'YES'}
+4. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:55', 'User': 0, 'Activity': 'Navigated to payment methods page', 'Cards Issued': 2}
+5. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:55', 'User': 0, 'Activity': 'Verified existing payment methods', 'Cards Issued': 2}
+6. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:56', 'User': 0, 'Activity': 'Selected option to add new payment method', 'CARD INDEX': 2}
+7. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:56', 'User': 0, 'Activity': 'Entered new card information', 'Card Brand': 'Mastercard', 'Card Type': 'Credit', 'Card Number': '5555666677778888', 'Expiration': '04/2023', 'CVV': '123', 'Has Chip': 'YES'}
+8. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:57', 'User': 0, 'Activity': 'Submitted new card information for verification', 'Card Brand': 'Mastercard', 'Card Type': 'Credit', 'Card Number': '5555666677778888', 'Expiration': '04/2023'}
+9. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:57', 'User': 0, 'Activity': 'New card verification in progress...', 'Status': 'Pending'}
+10. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:58', 'User': 0, 'Activity': 'Navigated to account overview page', 'Amount': '$59696'}
+11. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:59', 'User': 0, 'Activity': 'Received notification of new card verification status', 'Status': 'Unverified'}
+12. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '11:59', 'User': 0, 'Activity': 'Selected unverified card to view details', 'Card Brand': 'Mastercard', 'Card Type': 'Credit', 'Card Number': '5555666677778888', 'Expiration': '04/2023'}
+13. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:00', 'User': 0, 'Activity': 'Initiated verification process for unverified card', 'Card Brand': 'Mastercard', 'Card Type': 'Credit', 'Card Number': '5555666677778888'}
+14. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:00', 'User': 0, 'Activity': 'Notification sent to verify new card with small test transaction', 'Amount': '$1.00'}
+15. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:01', 'User': 0, 'Activity': 'Checking account for new transaction', 'Amount': '$1.00'}
+16. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:02', 'User': 0, 'Activity': 'Received notification of successful new card verification', 'Card Brand': 'Mastercard', 'Card Type': 'Credit', 'Card Number': '5555666677778888'}
+17. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:03', 'User': 0, 'Activity': 'New payment method successfully added: Mastercard XXXX-XXXX-XXXX-8888 (Credit), exp: 04/2023'}
+18. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:04', 'User': 0, 'Activity': 'Updated account overview page with newly added payment method'}
+19. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:05', 'User': 0, 'Activity': 'Selected newly added payment method for transaction'}
+20. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:05', 'User': 0, 'Activity': 'Initiated transaction with new payment method for $50.00'}
+
+Note: The following entries show the transaction logs with the newly added payment method.
+
+21. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:06', 'User': 0, 'Activity': 'Transaction complete: Debit of $50.00 from Mastercard XXXX-XXXX-XXXX-8888', 'Amount': '$50.00', 'Merchant': 'ABC Store'}
+22. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:06', 'User': 0, 'Activity': 'Updated account balance and recent transaction list'}
+23. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '12:07', 'User': 0, 'Activity': 'Logged out of financial app'}
+
+Note: These additional entries show the user's activity after the transaction, but they are not related to adding a new payment method.
+
+24. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '15:32', 'User': 0, 'Activity': 'Logged in to financial app from IP 123.456.789.012', 'Location': 'La Verne, CA', 'IP': '123.456.789.012'}
+25. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '15:35', 'User': 0, 'Activity': 'Transferred $100.00 to savings account', 'Amount': '$100.00'}
+26. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '15:37', 'User': 0, 'Activity': 'Viewed detailed account balance information', 'Amount': '$49696'}
+27. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '15:42', 'User': 0, 'Activity': 'Set up recurring bill payment of $100.00 per month to utility company', 'Amount': '$100.00'}
+28. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '15:50', 'User': 0, 'Activity': 'Updated account information: Address='462 Rose Lane, La Verne CA 91750', 'Address': '462 Rose Lane', 'City': 'La Verne', 'State': 'CA', 'Zip': 91750}
+29. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '15:55', 'User': 0, 'Activity': 'Downloaded recent transactions in CSV format', 'File': 'User\_0\_Transactions\_2009-10-09.csv'}
+30. {'Year': 2009, 'Month': 10, 'Day': 9, 'Time': '16:00', 'User': 0, 'Activity': 'Logged out of financial app'}

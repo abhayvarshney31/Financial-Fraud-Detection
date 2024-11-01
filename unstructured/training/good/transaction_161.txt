@@ -1,0 +1,63 @@
+Here are 20-30 log entries for user 0 leading up to a transaction:
+
+1. 2023-08-05 09:42: User 0 logged in to the financial app. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+2. 2023-08-05 09:45: User 0 accessed their account dashboard. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+3. 2023-08-05 09:48: User 0 clicked on the "Travel" tab. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+4. 2023-08-05 09:51: User 0 selected the "Notifications" option. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+5. 2023-08-05 09:55: User 0 clicked "Add New Notification". Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+6. 2023-08-05 09:58: User 0 entered "International trip to Tokyo, Japan" as the notification title. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+7. 2023-08-05 10:01: User 0 added the start date of the trip as March 15th, 2024. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+8. 2023-08-05 10:04: User 0 added the end date of the trip as March 29th, 2024. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+9. 2023-08-05 10:07: User 0 selected "Yes" for the question "Is this an international trip?". Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+10. 2023-08-05 10:11: User 0 clicked "Save Notification". Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+11. 2023-08-05 10:13: The system sent a confirmation email to Hazel Robinson's registered email address. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+12. 2023-08-05 10:16: User 0 viewed their account dashboard again. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+13. 2023-08-05 10:20: User 0 clicked on the "Cards" tab. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+14. 2023-08-05 10:23: User 0 viewed the "Visa Debit Card" details. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+15. 2023-08-05 10:27: User 0 went to the "Transactions" tab. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+16. 2023-08-05 10:30: User 0 searched for transactions from the previous month. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+17. 2023-08-05 10:34: User 0 viewed the details of a recent transaction worth $152.54. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+18. 2023-08-05 10:39: User 0 accessed their "Budget" tab. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+19. 2023-08-05 10:43: User 0 adjusted their monthly budget for entertainment expenses. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+20. 2023-08-05 10:46: User 0 saved their budget changes. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+21. 2023-08-05 10:50: User 0 opted for a reminder about their upcoming trip to Tokyo, Japan. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+22. 2023-08-05 10:54: The system sent a reminder email to Hazel Robinson's registered email address. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+23. 2023-08-05 10:58: User 0 accessed their "Notifications" page again. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+24. 2023-08-05 11:02: User 0 marked all trip-related notifications as read. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+25. 2023-08-05 11:05: User 0 viewed their account dashboard for the last time before the transaction. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+26. 2023-08-05 11:09: User 0 swiped their Visa Debit Card for a transaction. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+27. 2023-08-05 11:12: The system processed the transaction. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+28. 2023-08-05 11:15: User 0 was notified of the transaction through a push notification. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+29. 2023-08-05 11:18: User 0 accessed their "Transactions" page. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+30. 2023-08-05 11:21: User 0 viewed the details of the new transaction. Context: {'Person': 'Hazel Robinson', 'User': 0}
+
+This sequence of log entries shows Hazel Robinson using the financial app, creating a travel notification, and performing various actions around the app, leading up to a transaction with her Visa Debit Card.

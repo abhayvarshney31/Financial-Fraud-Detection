@@ -1,0 +1,22 @@
+1. 2008-05-13 06:02:00, User 0, Logged in to the financial app from IP address 192.168.1.101
+2. 2008-05-13 06:02:15, User 0, Navigated to the "Credit Cards" section
+3. 2008-05-13 06:02:23, User 0, Selected the Mastercard debit (prepaid) card (CARD INDEX: 4) for viewing details
+4. 2008-05-13 06:02:31, User 0, Checked the credit limit of the selected card, which is $28
+5. 2008-05-13 06:02:50, User 0, Navigated to the "Merchants" section to look for potential purchases
+6. 2008-05-13 06:03:12, User 0, Looked up the nearby merchants in La Verne, CA, using the built-in map feature
+7. 2008-05-13 06:04:01, User 0, Selected a local grocery store with MCC: 5912 for further details
+8. 2008-05-13 06:04:45, User 0, Viewed the product list of the selected grocery store and added items to the shopping cart
+9. 2008-05-13 06:06:18, User 0, Proceeded to checkout with a total amount of $119.28
+10. 2008-05-13 06:06:55, User 0, Attempted to make a purchase using the Mastercard debit (prepaid) card (CARD INDEX: 4)
+11. 2008-05-13 06:07:06, User 0, Received an error message: "Transaction declined. Insufficient credit limit."
+12. 2008-05-13 06:07:13, User 0, Checked the remaining credit limit on the card and noticed it's still $28
+13. 2008-05-13 06:07:45, User 0, Opted to cancel the transaction and returned to the shopping cart
+14. 2008-05-13 06:08:21, User 0, Removed some items from the shopping cart to lower the total amount
+15. 2008-05-13 06:09:12, User 0, Attempted to make the purchase again with the updated total amount of $84.63
+16. 2008-05-13 06:09:23, User 0, Received an error message: "Transaction declined. Insufficient credit limit."
+17. 2008-05-13 06:09:30, User 0, Checked the remaining credit limit on the card again, still $28
+18. 2008-05-13 06:10:15, User 0, Decided to save the shopping cart for later and log out of the financial app
+19. 2008-05-13 06:10:22, User 0, Logged out of the financial app from IP address 192.168.1.101
+20. 2008-05-13 06:11:00, User 0, Received an email notification with the subject: "Recent Activity - Declined Transaction"
+
+These log entries illustrate User 0, Hazel Robinson's, attempts to make a purchase that exceeds her Mastercard debit (prepaid) card's credit limit of $28. Despite making multiple attempts to lower the total amount and retrying the purchase, her transactions continue to get declined due to the insufficient credit limit. Ultimately, she saves her shopping cart for later and logs out of the financial app.

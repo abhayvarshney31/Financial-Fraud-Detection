@@ -1,0 +1,151 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction:
+
+**Entry 1**
+Timestamp: 2022-09-20 14:30:00
+Action: User 0 logged in to the app.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 2**
+Timestamp: 2022-09-20 14:32:00
+Action: User 0 selected "Payment Methods" from the menu.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 3**
+Timestamp: 2022-09-20 14:35:00
+Action: User 0 clicked "Add a New Payment Method".
+Context: Person="Hazel Robinson", User=0
+
+**Entry 4**
+Timestamp: 2022-09-20 14:38:00
+Action: User 0 selected "Card" as the payment method type.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 5**
+Timestamp: 2022-09-20 14:40:00
+Action: User 0 entered the card number: 4582313478255491.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=2, Card Brand="Visa", Card Type="Debit"
+
+**Entry 6**
+Timestamp: 2022-09-20 14:42:00
+Action: User 0 entered the expiration date: 02/2024.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=2, Card Brand="Visa", Card Type="Debit"
+
+**Entry 7**
+Timestamp: 2022-09-20 14:45:00
+Action: User 0 entered the security code (CVV): 719.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=2, Card Brand="Visa", Card Type="Debit"
+
+**Entry 8**
+Timestamp: 2022-09-20 14:48:00
+Action: User 0 confirmed that the card has a chip.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=2, Card Brand="Visa", Card Type="Debit", Has Chip="YES"
+
+**Entry 9**
+Timestamp: 2022-09-20 14:50:00
+Action: User 0 clicked "Verify Card" to verify the card details.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=2, Card Brand="Visa", Card Type="Debit"
+
+**Entry 10**
+Timestamp: 2022-09-20 14:53:00
+Action: The card verification process was successful.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=2, Card Brand="Visa", Card Type="Debit"
+
+**Entry 11**
+Timestamp: 2022-09-20 14:55:00
+Action: User 0 confirmed that they have verified the card details.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=2, Card Brand="Visa", Card Type="Debit"
+
+**Entry 12**
+Timestamp: 2022-09-20 14:58:00
+Action: User 0 clicked "Save Card" to save the new payment method.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=2, Card Brand="Visa", Card Type="Debit"
+
+**Entry 13**
+Timestamp: 2022-09-20 15:00:00
+Action: The new payment method was successfully added to the user's account.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 14**
+Timestamp: 2022-09-20 15:02:00
+Action: User 0 checked their payment methods list to verify the new card was added.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 15**
+Timestamp: 2022-09-20 15:05:00
+Action: User 0 selected the new payment method for a future transaction.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 16**
+Timestamp: 2022-09-20 15:10:00
+Action: User 0 planned a future transaction for $128.21.
+Context: Person="Hazel Robinson", User=0, Amount=$128.21
+
+**Entry 17**
+Timestamp: 2022-09-20 15:15:00
+Action: User 0 reviewed the transaction details before confirming.
+Context: Person="Hazel Robinson", User=0, Amount=$128.21
+
+**Entry 18**
+Timestamp: 2022-09-20 15:20:00
+Action: User 0 confirmed the transaction and scheduled it for processing.
+Context: Person="Hazel Robinson", User=0, Amount=$128.21
+
+**Entry 19**
+Timestamp: 2022-09-20 15:25:00
+Action: The transaction was processed successfully.
+Context: Person="Hazel Robinson", User=0, Amount=$128.21
+
+**Entry 20**
+Timestamp: 2022-09-20 15:30:00
+Action: User 0 checked their account activity to verify the transaction.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 21**
+Timestamp: 2022-09-20 15:35:00
+Action: User 0 received a confirmation email for the transaction.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 22**
+Timestamp: 2022-09-20 15:40:00
+Action: User 0 reviewed their payment methods list to verify the new card was still associated with their account.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 23**
+Timestamp: 2022-09-20 15:45:00
+Action: User 0 checked their account balance to verify the transaction was deducted.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 24**
+Timestamp: 2022-09-20 15:50:00
+Action: User 0 scheduled a future transaction.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 25**
+Timestamp: 2022-09-20 15:55:00
+Action: User 0 added a new card as a backup payment method.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 26**
+Timestamp: 2022-09-20 16:00:00
+Action: User 0 verified the new backup card details.
+Context: Person="Hazel Robinson", User=0, CARD INDEX=1
+
+**Entry 27**
+Timestamp: 2022-09-20 16:05:00
+Action: User 0 confirmed the new backup card was added to their account.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 28**
+Timestamp: 2022-09-20 16:10:00
+Action: User 0 reviewed their payment methods list to verify the new backup card was added.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 29**
+Timestamp: 2022-09-20 16:15:00
+Action: User 0 checked their account activity to verify the transaction.
+Context: Person="Hazel Robinson", User=0
+
+**Entry 30**
+Timestamp: 2022-09-20 16:20:00
+Action: User 0 went on a break and took a tour of the financial app's features.
+Context: Person="Hazel Robinson", User=0

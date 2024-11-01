@@ -1,0 +1,30 @@
+1. `User 0 logged in from IP address 92.249.59.123 at 2017-03-10 06:38:16, location (33.9562, -118.2343)`
+2. `Hazel Robinson (User 0) viewed her account balance at 2017-03-10 06:39:01, location (33.9562, -118.2343)`
+3. `Female user (User 0), current age 53, accessed her financial app from an unfamiliar location (33.9562, -118.2343) at 2017-03-10 06:40:12`
+4. `User 0 checked her debt summary, total debt: $127613 at 2017-03-10 06:40:44, location (33.9562, -118.2343)`
+5. `Hazel Robinson (User 0) viewed her FICO score: 787 at 2017-03-10 06:41:20, location (33.9562, -118.2343)`
+6. `User 0 with 5 credit cards accessed her Visa Debit card details at 2017-03-10 06:42:11, location (33.9562, -118.2343)`
+7. `User 0 viewed her card expiration date: 02/2024 at 2017-03-10 06:42:36, location (33.9562, -118.2343)`
+8. `Female user (User 0) with $59696 yearly income checked her card CVV at 2017-03-10 06:43:17, location (33.9562, -118.2343)`
+9. `Hazel Robinson (User 0) checked if her card was on the dark web at 2017-03-10 06:43:55, location (33.9562, -118.2343)`
+10. `User 0 with card 3 accessed her account from IP address 92.249.59.123 at 2017-03-10 06:44:29, location (33.9562, -118.2343)`
+11. `User 0 initiated a Swipe Transaction at 2017-03-10 06:44:57, location (33.9562, -118.2343)`
+12. `CARD INDEX 2 (Visa Debit) used for a transaction by User 0 at 2017-03-10 06:45:12, location (33.9562, -118.2343)`
+13. `User 0 performed a $41.75 transaction at 2017-03-10 06:45:31, location (33.9562, -118.2343)`
+14. `Transaction completed by Hazel Robinson (User 0) at Merchant -34551508091458520 in La Verne, CA at 2017-03-10 06:46:05, location (33.9562, -118.2343)`
+15. `Merchant MCC 5912 processed User 0's transaction at 2017-03-10 06:46:23, location (33.9562, -118.2343)`
+16. `User 0 logged out from IP address 92.249.59.123 at 2017-03-10 06:46:44, location (33.9562, -118.2343)`
+17. `Unfamiliar location (33.9562, -118.2343) accessed by User 0 at 2017-03-10 06:47:01`
+18. `Logout successful for User 0 at 2017-03-10 06:47:42, location (33.9562, -118.2343)`
+19. `Hazel Robinson's account (User 0) accessed from an unusual location (33.9562, -118.2343) at 2017-03-10 06:48:19`
+20. `User 0's account activity recorded in La Verne, CA (33.9562, -118.2343) at 2017-03-10 06:48:52`
+21. `User 0's account (User 0) accessed from an unknown location (33.9562, -118.2343) at 2017-03-10 06:49:31`
+22. `La Verne, CA (33.9562, -118.2343) location accessed User 0's account at 2017-03-10 06:50:13`
+23. `User 0's account (User 0) accessed from an unusual location (33.9562, -118.2343) at 2017-03-10 06:50:53`
+24. `CA (33.9562, -118.2343) accessed User 0's account at 2017-03-10 06:51:38`
+25. `User 0's account (User 0) accessed from an unknown location (33.9562, -118.2343) at 2017-03-10 06:52:25`
+26. `Unfamiliar location (33.9562, -118.2343) accessed User 0's account at 2017-03-10 06:53:13`
+27. `CA (33.9562, -118.2343) accessed User 0's account at 2017-03-10 06:53:58`
+28. `User 0's account (User 0) accessed from an unusual location (33.9562, -118.2343) at 2017-03-10 06:54:43`
+29. `La Verne, CA (33.9562, -118.2343) accessed User 0's account at 2017-03-10 06:55:27`
+30. `User 0's account (User 0) accessed from an unknown location (33.9562, -118.2343) at 2017-03-10 06:56:16`

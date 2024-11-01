@@ -1,0 +1,36 @@
+1. [2016-09-02 13:35:15,000] USER 0: Successful login from IP address 192.168.1.103
+2. [2016-09-02 13:35:32,000] USER 0: Navigated to 'Account Settings' page
+3. [2016-09-02 13:35:51,000] USER 0: Selected 'Change Password' option
+4. [2016-09-02 13:36:18,000] USER 0: Password successfully changed for user 0
+5. [2016-09-02 13:36:21,000] USER 0: Navigated to 'Payment Limits' page
+6. [2016-09-02 13:36:29,000] USER 0: Updated daily debit card limit to $500 (previous limit: $200)
+7. [2016-09-02 13:36:36,000] USER 0: Updated weekly debit card limit to $1000 (previous limit: $500)
+8. [2016-09-02 13:36:44,000] USER 0: Updated monthly debit card limit to $2000 (previous limit: $1000)
+9. [2016-09-02 13:36:54,000] USER 0: Completed updating payment limits
+10. [2016-09-02 13:36:57,000] USER 0: Navigated to 'Dashboard' page
+
+---
+
+11. [2016-09-02 13:37:13,000] USER 0: Viewed account details
+12. [2016-09-02 13:37:23,000] USER 0: Checked recent transactions
+13. [2016-09-02 13:37:32,000] USER 0: Opened 'Credit Card' tab
+14. [2016-09-02 13:37:41,000] USER 0: Checked card information for Card Index 1
+15. [2016-09-02 13:37:51,000] USER 0: Verified card expiration date: 12/2020
+16. [2016-09-02 13:38:01,000] USER 0: Checked credit limit on card ($21968)
+17. [2016-09-02 13:38:12,000] USER 0: Navigated to 'Account Settings' page
+18. [2016-09-02 13:38:22,000] USER 0: Selected 'Security' option
+19. [2016-09-02 13:38:32,000] USER 0: Checked 'Has Chip' status of Card Index 1: Yes
+20. [2016-09-02 13:38:43,000] USER 0: Checked if Card Index 1 is on the Dark Web: No
+
+---
+
+21. [2016-09-02 13:38:53,000] USER 0: Returned to 'Dashboard' page
+22. [2016-09-02 13:39:04,000] USER 0: Viewed yearly income of $59696
+23. [2016-09-02 13:39:14,000] USER 0: Noted Per Capita Income of $29278 in Zipcode 91750
+24. [2016-09-02 13:39:24,000] USER 0: Checked total debt ($127613)
+25. [2016-09-02 13:39:34,000] USER 0: Viewed FICO Score (787)
+26. [2016-09-02 13:39:45,000] USER 0: Verified Num Credit Cards (5)
+27. [2016-09-02 13:39:55,000] USER 0: Navigated to 'Bills & Payments' page
+28. [2016-09-02 13:40:05,000] USER 0: Viewed list of bills and payments
+29. [2016-09-02 13:40:15,000] USER 0: Selected an upcoming bill to pay
+30. [2016-09-02 13:40:26,000] USER 0: Initiated payment for an amount of $61.06

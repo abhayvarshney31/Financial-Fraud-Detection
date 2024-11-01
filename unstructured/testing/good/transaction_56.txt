@@ -1,0 +1,29 @@
+1. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:15', 'Action': 'Logged in to financial app', 'Location': '462 Rose Lane, La Verne, CA'}
+2. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:16', 'Action': 'Navigated to Bills & Payments section', 'Location': '462 Rose Lane, La Verne, CA'}
+3. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:17', 'Action': 'Viewed upcoming credit card bill', 'CARD INDEX': 1, 'Card Brand': 'Visa', 'Card Type': 'Debit', 'Due Date': '02/05/2018', 'Amount Due': '$87.42', 'Location': '462 Rose Lane, La Verne, CA'}
+4. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:19', 'Action': 'Viewed upcoming electricity bill', 'Due Date': '02/10/2018', 'Estimated Amount': '$102.99', 'Location': '462 Rose Lane, La Verne, CA'}
+5. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:21', 'Action': 'Viewed upcoming internet bill', 'Due Date': '02/15/2018', 'Estimated Amount': '$45.67', 'Location': '462 Rose Lane, La Verne, CA'}
+6. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:23', 'Action': 'Viewed upcoming mortgage bill', 'Due Date': '03/01/2018', 'Estimated Amount': '$987.54', 'Location': '462 Rose Lane, La Verne, CA'}
+7. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:25', 'Action': 'Scheduled payment for electricity bill', 'Amount': '$102.99', 'Payment Date': '02/10/2018', 'Location': '462 Rose Lane, La Verne, CA'}
+8. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:27', 'Action': 'Scheduled payment for internet bill', 'Amount': '$45.67', 'Payment Date': '02/15/2018', 'Location': '462 Rose Lane, La Verne, CA'}
+9. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 28, 'Time': '10:29', 'Action': 'Reviewed scheduled payments for upcoming bills', 'Location': '462 Rose Lane, La Verne, CA'}
+10. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 29, 'Time': '14:05', 'Action': 'Logged in to financial app', 'Location': '462 Rose Lane, La Verne, CA'}
+11. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 29, 'Time': '14:06', 'Action': 'Navigated to Bills & Payments section', 'Location': '462 Rose Lane, La Verne, CA'}
+12. {'User': 0, 'Year': 2018, 'Month': 1, 'Day': 29, 'Time': '14:07', 'Action': 'Verified scheduled payments for upcoming bills', 'Location': '462 Rose Lane, La Verne, CA'}
+13. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 1, 'Time': '06:01', 'Action': 'Logged in to financial app', 'Location': '462 Rose Lane, La Verne, CA'}
+14. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 1, 'Time': '06:02', 'Action': 'Navigated to Bills & Payments section', 'Location': '462 Rose Lane, La Verne, CA'}
+15. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 1, 'Time': '06:03', 'Action': 'Viewed scheduled payment for electricity bill', 'Amount': '$102.99', 'Payment Date': '02/10/2018', 'Location': '462 Rose Lane, La Verne, CA'}
+16. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 1, 'Time': '06:04', 'Action': 'Viewed scheduled payment for internet bill', 'Amount': '$45.67', 'Payment Date': '02/15/2018', 'Location': '462 Rose Lane, La Verne, CA'}
+17. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 1, 'Time': '06:05', 'Action': 'Reviewed scheduled payments for upcoming bills', 'Location': '462 Rose Lane, La Verne, CA'}
+18. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 1, 'Time': '06:06', 'Action': 'Noted down payment due dates for upcoming bills', 'Location': '462 Rose Lane, La Verne, CA'}
+19. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 1, 'Time': '06:07', 'Action': 'Logged out of financial app', 'Location': '462 Rose Lane, La Verne, CA'}
+20. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 3, 'Time': '16:18', 'Action': 'Logged in to financial app', 'Location': '462 Rose Lane, La Verne, CA'}
+21. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 3, 'Time': '16:19', 'Action': 'Navigated to Bills & Payments section', 'Location': '462 Rose Lane, La Verne, CA'}
+22. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 3, 'Time': '16:20', 'Action': 'Viewed scheduled payment for electricity bill', 'Amount': '$102.99', 'Payment Date': '02/10/2018', 'Location': '462 Rose Lane, La Verne, CA'}
+23. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 3, 'Time': '16:21', 'Action': 'Viewed scheduled payment for internet bill', 'Amount': '$45.67', 'Payment Date': '02/15/2018', 'Location': '462 Rose Lane, La Verne, CA'}
+24. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 3, 'Time': '16:22', 'Action': 'Reviewed scheduled payments and due dates for upcoming bills', 'Location': '462 Rose Lane, La Verne, CA'}
+25. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 4, 'Time': '09:30', 'Action': 'Logged in to financial app', 'Location': '462 Rose Lane, La Verne, CA'}
+26. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 4, 'Time': '09:31', 'Action': 'Navigated to Bills & Payments section', 'Location': '462 Rose Lane, La Verne, CA'}
+27. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 4, 'Time': '09:32', 'Action': 'Verified scheduled payments and due dates for upcoming bills', 'Location': '462 Rose Lane, La Verne, CA'}
+28. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 4, 'Time': '09:33', 'Action': 'Noted any changes to future payment due dates', 'Location': '462 Rose Lane, La Verne, CA'}
+29. {'User': 0, 'Year': 2018, 'Month': 2, 'Day': 4, 'Time': '09:34', 'Action': 'Logged out of financial app', 'Location': '462 Rose Lane, La Verne, CA'}

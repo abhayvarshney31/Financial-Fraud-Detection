@@ -1,0 +1,181 @@
+Here are 20-30 log entries for user 0 leading up to a transaction:
+
+**Entry 1**
+Timestamp: 2022-07-20 14:05:00
+User: 0
+Action: Launched app
+Context: None
+
+**Entry 2**
+Timestamp: 2022-07-20 14:08:00
+User: 0
+Action: Viewed account dashboard
+Context: None
+
+**Entry 3**
+Timestamp: 2022-07-20 14:10:00
+User: 0
+Action: Selected rewards tab
+Context: None
+
+**Entry 4**
+Timestamp: 2022-07-20 14:11:00
+User: 0
+Action: Viewed recent transactions
+Context: None
+
+**Entry 5**
+Timestamp: 2022-07-20 14:13:00
+User: 0
+Action: Filtered transactions by date
+Context: Category 'Purchase'
+
+**Entry 6**
+Timestamp: 2022-07-20 14:14:00
+User: 0
+Action: Viewed transaction details
+Context: Transaction ID 2027553650310142703
+
+**Entry 7**
+Timestamp: 2022-07-20 14:15:00
+User: 0
+Action: Viewed rewards points earned
+Context: None
+
+**Entry 8**
+Timestamp: 2022-07-20 14:16:00
+User: 0
+Action: Viewed recent rewards points earned on transactions
+Context: None
+
+**Entry 9**
+Timestamp: 2022-07-20 14:17:00
+User: 0
+Action: Filtered rewards points by category
+Context: Category 'Food'
+
+**Entry 10**
+Timestamp: 2022-07-20 14:18:00
+User: 0
+Action: Viewed cashback rewards points earned
+Context: None
+
+**Entry 11**
+Timestamp: 2022-07-20 14:19:00
+User: 0
+Action: Viewed credit card information
+Context: Card Number 4879494103069057
+
+**Entry 12**
+Timestamp: 2022-07-20 14:20:00
+User: 0
+Action: Viewed credit limit information
+Context: Credit Limit $12400
+
+**Entry 13**
+Timestamp: 2022-07-20 14:21:00
+User: 0
+Action: Viewed account balance information
+Context: Account Balance $59696
+
+**Entry 14**
+Timestamp: 2022-07-20 14:22:00
+User: 0
+Action: Viewed debt information
+Context: Total Debt $127613
+
+**Entry 15**
+Timestamp: 2022-07-20 14:23:00
+User: 0
+Action: Viewed credit score information
+Context: FICO Score 787
+
+**Entry 16**
+Timestamp: 2022-07-20 14:24:00
+User: 0
+Action: Viewed credit card usage information
+Context: Num Credit Cards 5
+
+**Entry 17**
+Timestamp: 2022-07-20 14:25:00
+User: 0
+Action: Viewed payment due dates
+Context: None
+
+**Entry 18**
+Timestamp: 2022-07-20 14:26:00
+User: 0
+Action: Viewed payment schedules
+Context: None
+
+**Entry 19**
+Timestamp: 2022-07-20 14:27:00
+User: 0
+Action: Viewed card expiration information
+Context: Expiration Date 08/2024
+
+**Entry 20**
+Timestamp: 2022-07-20 14:28:00
+User: 0
+Action: Viewed card security information
+Context: CVV 693
+
+**Entry 21**
+Timestamp: 2022-07-20 14:29:00
+User: 0
+Action: Viewed card chip information
+Context: Has Chip NO
+
+**Entry 22**
+Timestamp: 2022-07-20 14:30:00
+User: 0
+Action: Selected card for transaction
+Context: Card Number 4879494103069057
+
+**Entry 23**
+Timestamp: 2022-07-20 14:31:00
+User: 0
+Action: Initiated transaction
+Context: Amount $-93.00
+
+**Entry 24**
+Timestamp: 2022-07-20 14:32:00
+User: 0
+Action: Authorized transaction
+Context: Merchant Name 2027553650310142703
+
+**Entry 25**
+Timestamp: 2022-07-20 14:33:00
+User: 0
+Action: Completed transaction
+Context: None
+
+**Entry 26**
+Timestamp: 2022-07-20 14:34:00
+User: 0
+Action: Viewed transaction confirmation
+Context: Transaction ID 2027553650310142703
+
+**Entry 27**
+Timestamp: 2022-07-20 14:35:00
+User: 0
+Action: Viewed rewards points earned from transaction
+Context: None
+
+**Entry 28**
+Timestamp: 2022-07-20 14:36:00
+User: 0
+Action: Viewed rewards balance information
+Context: None
+
+**Entry 29**
+Timestamp: 2022-07-20 14:37:00
+User: 0
+Action: Updated account information
+Context: None
+
+**Entry 30**
+Timestamp: 2022-07-20 14:38:00
+User: 0
+Action: Exited app
+Context: None

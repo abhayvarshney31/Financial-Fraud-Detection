@@ -1,0 +1,24 @@
+Here are 20-30 log entries for user 0 in a financial app, leading up to a transaction, with the behavior type "Used VPN or proxy during login attempt":
+
+1. 2023-02-20 14:58:10 | User 0 attempted to log in from IP address 192.0.2.100, country USA, and browser Mozilla/5.0
+2. 2023-02-20 14:58:12 | User 0's VPN or proxy server detected: IP address 203.0.113.1, country Canada
+3. 2023-02-20 14:58:15 | User 0 successfully authenticated from previously detected VPN or proxy server (IP address 203.0.113.1)
+4. 2023-02-20 14:59:08 | User 0 accessed account dashboard, current balance: $59696.00
+5. 2023-02-20 15:00:01 | User 0 viewed account statement, last updated on 2023-02-15
+6. 2023-02-20 15:01:05 | User 0 initiated a search for merchants in La Verne, CA
+7. 2023-02-20 15:02:02 | User 0 viewed merchant details for a store in La Verne, CA (MCC: 5912)
+8. 2023-02-20 15:03:09 | User 0 added a new payment card: Visa, card number 4956965974959986, expiration 12/2020
+9. 2023-02-20 15:04:10 | User 0 registered a new address: 462 Rose Lane, La Verne, CA 91750
+10. 2023-02-20 15:05:01 | User 0 viewed account transactions for the past 30 days
+11. 2023-02-20 15:06:08 | User 0 accessed user profile, current age: 53
+12. 2023-02-20 15:07:03 | User 0 viewed FICO score: 787
+13. 2023-02-20 15:08:11 | User 0 accessed credit card information, 5 cards issued
+14. 2023-02-20 15:09:13 | User 0 viewed card expiration dates, card 2 expires in 2025
+15. 2023-02-20 15:10:09 | User 0 viewed account credit limit: $21968.00
+16. 2023-02-20 15:11:04 | User 0 viewed account history, account open date: 04/2014
+17. 2023-02-20 15:12:13 | User 0 accessed online statements, last statement generated on 2023-02-01
+18. 2023-02-20 15:13:11 | User 0 accessed card usage statistics, 2 transactions in the past 30 days
+19. 2023-02-20 15:14:09 | User 0 initiated a new transaction, amount: $46.77
+20. 2023-02-20 15:15:10 | User 0 authorized the transaction using card 4956965974959986
+
+Note that these log entries are designed to mimic a typical user behavior, but they may not be 100% accurate or representative.

@@ -1,0 +1,27 @@
+1. [2012-10-09 06:40:00,000] User 0 (Hazel Robinson) logged into the financial app from La Verne, CA.
+2. [2012-10-09 06:40:15,234] User 0 navigated to the 'Rewards' section of the app.
+3. [2012-10-09 06:40:36,587] User 0 viewed recent rewards points earned on transactions for the past month.
+4. [2012-10-09 06:41:10,901] User 0 viewed details of a transaction that earned 350 reward points.
+5. [2012-10-09 06:41:55,648] User 0 returned to the list of recent transactions with rewards points.
+6. [2012-10-09 06:42:26,110] User 0 sorted the list of transactions by the number of rewards points earned.
+7. [2012-10-09 06:43:01,356] User 0 clicked on a transaction that earned 500 reward points.
+8. [2012-10-09 06:43:44,578] User 0 viewed the location of the transaction where 500 reward points were earned.
+9. [2012-10-09 06:44:22,921] User 0 returned to the list of recent transactions with rewards points.
+10. [2012-10-09 06:45:06,135] User 0 clicked on a transaction that earned 250 reward points.
+11. [2012-10-09 06:45:39,687] User 0 viewed the details of the transaction that earned 250 reward points.
+12. [2012-10-09 06:46:11,892] User 0 navigated back to the list of recent transactions with rewards points.
+13. [2012-10-09 06:46:54,074] User 0 clicked on a transaction that earned 750 reward points.
+14. [2012-10-09 06:47:31,589] User 0 viewed the date and time of the transaction that earned 750 reward points.
+15. [2012-10-09 06:48:13,262] User 0 returned to the list of recent transactions with rewards points.
+16. [2012-10-09 06:48:57,435] User 0 viewed the total number of rewards points earned in the current month.
+17. [2012-10-09 06:49:40,170] User 0 clicked on a transaction that earned 1000 reward points.
+18. [2012-10-09 06:50:19,653] User 0 viewed the location of the transaction where 1000 reward points were earned.
+19. [2012-10-09 06:51:03,896] User 0 returned to the list of recent transactions with rewards points.
+20. [2012-10-09 06:51:46,280] User 0 clicked on a transaction that earned 150 reward points.
+21. [2012-10-09 06:52:25,723] User 0 viewed the amount spent on the transaction that earned 150 reward points.
+22. [2012-10-09 06:53:10,536] User 0 navigated back to the list of recent transactions with rewards points.
+23. [2012-10-09 06:53:54,249] User 0 viewed the total rewards points earned for the year.
+24. [2012-10-09 06:54:36,422] User 0 sorted the list of transactions by the date of transaction.
+25. [2012-10-09 06:55:20,655] User 0 clicked on the transaction with the oldest date.
+26. [2012-10-09 06:56:03,339] User 0 viewed the details of the oldest transaction.
+27. [2012-10-09 06:56:46,591] User 0 returned to the list of recent transactions
