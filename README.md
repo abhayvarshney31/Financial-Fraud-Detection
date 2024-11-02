@@ -42,9 +42,11 @@ Use pip to install the necessary Python packages listed in requirements.txt.
 pip install -r requirements.txt
 ```
 
-### 5. Generate Embeddings from Dataset
+### 5. Generate Embeddings from Dataset (Optional)
 
 Run `process_unstructured_dataset.py` to create embeddings from your dataset. This step prepares the vector space for fraud detection.
+
+Note: the model has already been trained and stored using chrome_db. So, this step isn't really needed.
 
 ```sh
 python process_unstructured_dataset.py
