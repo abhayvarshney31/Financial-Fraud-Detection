@@ -18,8 +18,13 @@ Ensure Python 3.12 is installed on your machine. You can download it from [pytho
 
 Ollama is required to pull and use the specific model for this project.
 
+Download Ollama here: https://ollama.com/download/mac
+
+We run the below models for this project. Please pull those models to your machine.
+Then run:
 ```sh
-pip install ollama
+ollama pull openchat
+ollama pull llama3.2
 ollama pull nomic-embed-text
 ```
 ### 3. Install Required Python Packages
@@ -30,11 +35,7 @@ Use pip to install the necessary Python packages listed in requirements.txt.
 pip install -r requirements.txt
 ```
 
-### 4. Add API Key
-1. Create a file named `key.txt` in the project root directory.
-2. Paste your Groq API key into `key.txt`. This key is needed to authenticate model-related requests.
-
-### 5. Generate Embeddings from Dataset
+### 4. Generate Embeddings from Dataset
 
 Run `process_unstructured_dataset.py` to create embeddings from your dataset. This step prepares the vector space for fraud detection.
 

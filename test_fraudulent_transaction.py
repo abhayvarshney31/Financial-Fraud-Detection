@@ -1,28 +1,20 @@
 import os
 import chromadb
-from groq import Groq
 import glob
 import ollama
 import json
 
 COLLECTION_NAME = "financial_fraud_embeddings_final"
-CHAT_MODEL_NAME = "Llama3-8b-8192"
+CHAT_MODEL_NAME = "mistral"
 EMBEDDING_MODEL_NAME = "nomic-embed-text"
-GROQ_API_KEY = os.path.join(os.path.dirname(__file__), "key.txt")
 LOG_PATH_GOOD = os.path.join(os.path.dirname(__file__), "unstructured/testing/good/*.txt")
 LOG_PATH_FRAUDULENT_ATO = os.path.join(os.path.dirname(__file__), "unstructured/testing/fraudulent_ato/*.txt")
 LOG_PATH_FRAUDULENT_CNP = os.path.join(os.path.dirname(__file__), "unstructured/testing/fraudulent_cnp/*.txt")
 ID_RANGE_DUMP = os.path.join(os.path.dirname(__file__), "id_range.txt")
 
-# Read API key
-with open(GROQ_API_KEY, 'r') as file:
-    api_key = file.read().strip()
-
-# Initialize Groq for chat
-groq_client = Groq(api_key=api_key)  # Make sure to set your API key
-
 persist_directory = os.path.join(os.path.dirname(__file__), "chroma_db")
-client = chromadb.Client(chromadb.config.Settings(
+
+client = chromadb.Client(settings=chromadb.config.Settings(
     chroma_db_impl="duckdb+parquet",
     persist_directory=persist_directory
 ))
@@ -30,30 +22,26 @@ collection = client.get_collection(name=COLLECTION_NAME)
 
 
 def anonymize_log(log_content):
-    messages = [
-        {
-            "role": "system", 
-            "content": f"""Anonymize this string so there's no pii remaining - for example, if you see a name, replace it with [name]. Also replace all pronouns like his or her (or any other pronouns like that) to they. Then, convert
-            summarize these logs to behaviors. I'll be using this for embeddings so make sure to appropriately label the data. The output result format should be the following: 
-            Type: <whether it is a fraud - the type - or not> ,
-            User: <name>,
-            Behavior:
-            John Adams updated her email address to johnadams2@gmail.com
-            John Adams updated 
-            Simply just output the result and nothing else. Here is the string: {log_content}"""
-        }
-    ]
+    prompt = f"""
+                Given the following log content, perform these steps:
+                
+                1. Summarize to Behavior: Convert the actions into a behavior summary, formatted to indicate whether it was a fraudulent action or not, along with user behavior. But make sure the summary is as detailed as possible.
+                2. Anonymize: Replace any personal information (e.g., names, emails, addresses) with placeholders, like [name], [email]. A name can only be something like "User 0" so be sure to replace that with [name].
+                3. Replace Pronouns: Change all gendered pronouns to 'they' to remove gender references.
+                4. Remove any next lines symbols. A next line in the string can be in the format of '\\n' or '/n'.
+                
+                Here is the log content: {log_content}. Don't output anything besides the string output where each activity is separated by " * "".
+            """
 
-    # Call Groq to generate text
-    chat_completion = groq_client.chat.completions.create(
-        messages=messages,
-        model=CHAT_MODEL_NAME,  # pick another model that the one we used to create test data
+    # Call Ollama to generate text
+    output = ollama.generate(
+        model=CHAT_MODEL_NAME,
+        prompt=prompt,
     )
 
-    # Assuming the response contains the generated text
-    output = chat_completion.choices[0].message.content.strip()
-
+    output = output['response'].strip().replace("\n", "")
     return output
+
 
 
 # Parse transactions and label them

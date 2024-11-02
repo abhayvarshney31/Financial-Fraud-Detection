@@ -1,7 +1,6 @@
 import os
 import chromadb
 import glob
-from groq import Groq
 import ollama
 import json
 
@@ -11,15 +10,7 @@ EMBEDDING_MODEL_NAME = "nomic-embed-text"
 LOG_PATH_GOOD = os.path.join(os.path.dirname(__file__), "unstructured/training/good/*.txt")
 LOG_PATH_FRAUDULENT_ATO = os.path.join(os.path.dirname(__file__), "unstructured/training/fraudulent_ato/*.txt")
 LOG_PATH_FRAUDULENT_CNP = os.path.join(os.path.dirname(__file__), "unstructured/training/fraudulent_cnp/*.txt")
-GROQ_API_KEY = os.path.join(os.path.dirname(__file__), "key.txt")
 ID_RANGE_DUMP = os.path.join(os.path.dirname(__file__), "id_range.txt")
-
-# Read API key
-with open(GROQ_API_KEY, 'r') as file:
-    api_key = file.read().strip()
-
-# Initialize Groq for chat
-groq_client = Groq(api_key=api_key)  # Make sure to set your API key
 
 # Initialize ChromaDB and Tokenizer
 persist_directory = os.path.join(os.path.dirname(__file__), "chroma_db")
@@ -38,27 +29,26 @@ else:
 
 
 def anonymize_log(log_content):
-    messages = [
-        {
-            "role": "system", 
-            "content": f"""Anonymize this string so there's no pii remaining - for example, if you see a name, replace it with [name]. Also replace all pronouns like his or her (or any other pronouns like that) to they. Then, convert
-            summarize these logs to behaviors. I'll be using this for embeddings so make sure to appropriately label the data. The output result format should be the following: 
-            Type: <whether it is a fraud - the type - or not> ,
-            User: <name>,
-            Behavior: <all the behaviors that you've extracted>. Here is the string: {log_content}. I don't want to output anyting besides the format I mentioned."""
-        }
-    ]
+    prompt = f"""
+                Given the following log content, perform these steps:
+                
+                1. Summarize to Behavior: Convert the actions into a behavior summary, formatted to indicate whether it was a fraudulent action or not, along with user behavior. But make sure the summary is as detailed as possible.
+                2. Anonymize: Replace any personal information (e.g., names, emails, addresses) with placeholders, like [name], [email]. A name can only be something like "User 0" so be sure to replace that with [name].
+                3. Replace Pronouns: Change all gendered pronouns to 'they' to remove gender references.
+                4. Remove any next lines symbols. A next line in the string can be in the format of '\\n' or '/n'.
+                
+                Here is the log content: {log_content}. Don't output anything besides the string output where each activity is separated by " * "".
+            """
 
-    # Call Groq to generate text
-    chat_completion = groq_client.chat.completions.create(
-        messages=messages,
-        model=CHAT_MODEL_NAME,  # pick another model that the one we used to create test data
+    # Call Ollama to generate text
+    output = ollama.generate(
+        model=CHAT_MODEL_NAME,
+        prompt=prompt,
     )
 
-    # Assuming the response contains the generated text
-    output = chat_completion.choices[0].message.content.strip()
-
+    output = output['response'].strip().replace("\n", "")
     return output
+
 
 # Helper function to embed new input
 def get_embedding_for_input(text):
