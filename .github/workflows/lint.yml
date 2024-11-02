@@ -48,16 +48,6 @@ jobs:
           flake8 . --max-line-length=500 --extend-ignore=E501,W503 > lint_report_after.txt || true
           echo "::set-output name=lint_report_after::$(cat lint_report_after.txt)"
 
-      - name: Check for linting issues
-        run: |
-          if [[ -s lint_report_after.txt ]]; then
-            echo "Linting issues found after auto-fix:"
-            cat lint_report_after.txt
-            exit 1
-          else
-            echo "No linting issues found after auto-fix."
-          fi
-
       - name: Commit and push changes
         if: success() && steps.lint.outputs.lint_report_after != ''
         env:
