@@ -43,7 +43,6 @@ def anonymize_log(log_content):
     return output
 
 
-
 # Parse transactions and label them
 def parse_log_files(log_paths):
     text_data = []

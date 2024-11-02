@@ -48,5 +48,5 @@ python process_unstructured_dataset.py
 Run `test_fraudulent_transaction.py` to evaluate the accuracy of the agent on detecting fraudulent transactions.
 
 ```sh
-python process_unstructured_dataset.py
+python test_fraudulent_transaction.py
 ```
