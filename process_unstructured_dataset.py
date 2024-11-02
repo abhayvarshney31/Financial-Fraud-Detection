@@ -3,6 +3,7 @@ import chromadb
 import glob
 import ollama
 import json
+from tqdm import tqdm
 
 COLLECTION_NAME = "financial_fraud_embeddings_final"
 CHAT_MODEL_NAME = "gemma2-9b-it"
@@ -59,7 +60,7 @@ def get_embedding_for_input(text):
 # Create embeddings in batch using Ollama API
 def create_embeddings_batch_ollama(text_batch):
     embeddings = []
-    for text in text_batch:
+    for text in tqdm(text_batch, desc="Generating embeddings"):  # Adding tqdm for progress
         embedding = get_embedding_for_input(text)
         embeddings.append(embedding)  # Store only the embedding (numeric vector)
     return embeddings
@@ -68,7 +69,7 @@ def create_embeddings_batch_ollama(text_batch):
 # Parse transactions
 def parse_log_files(log_paths):
     text_data = []
-    for file_path in glob.glob(log_paths):
+    for file_path in tqdm(glob.glob(log_paths), desc="Parsing log files"):  # Adding tqdm for progress
         with open(file_path, "r", encoding='latin-1', errors='replace') as file:
             log_content = file.read()  # Read entire file content at once
             content = anonymize_log(log_content)

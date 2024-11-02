@@ -3,6 +3,8 @@ import chromadb
 import glob
 import ollama
 import json
+from sklearn.metrics import precision_score, recall_score, f1_score, confusion_matrix
+from tqdm import tqdm
 
 COLLECTION_NAME = "financial_fraud_embeddings_final"
 CHAT_MODEL_NAME = "mistral"
@@ -46,7 +48,7 @@ def anonymize_log(log_content):
 # Parse transactions and label them
 def parse_log_files(log_paths):
     text_data = []
-    for file_path in glob.glob(log_paths):
+    for file_path in tqdm(glob.glob(log_paths), desc="Parsing log files"):  # Adding tqdm for progress
         with open(file_path, "r", encoding='latin-1', errors='replace') as file:
             log_content = file.read()  # Read entire file content at once
             content = anonymize_log(log_content)
@@ -85,27 +87,51 @@ def get_embedding_for_input(text):
     return response['embedding']  # Ensure only the embedding is returned
 
 
+def analyze_result(good_transactions_logs, fraudulent_transactions_logs, id_ranges):
+    # Lists to store ground truth and predictions
+    y_true = []  # Actual labels
+    y_pred = []  # Predicted labels
+    
+    # Validate good transactions
+    for good_transaction_logs in tqdm(good_transactions_logs, desc="Processing good transactions"):  # Adding tqdm for progress
+        embeddings = get_embedding_for_input(good_transaction_logs)
+        is_fraud = determine_is_fraud(embeddings, id_ranges)
+        y_true.append(0)  # 0 represents legitimate
+        y_pred.append(int(is_fraud))
+
+    # Validate fraudulent transactions
+    for fraudulent_transaction_logs in tqdm(fraudulent_transactions_logs, desc="Processing fraudulent transactions"):  # Adding tqdm for progress
+        embeddings = get_embedding_for_input(fraudulent_transaction_logs)
+        is_fraud = determine_is_fraud(embeddings, id_ranges)
+        y_true.append(1)  # 1 represents fraudulent
+        y_pred.append(int(is_fraud))
+
+    # Calculate confusion matrix values
+    tn, fp, fn, _ = confusion_matrix(y_true, y_pred).ravel()
+    
+    # Calculate statistical metrics
+    precision = precision_score(y_true, y_pred)
+    recall = recall_score(y_true, y_pred)
+    f1 = f1_score(y_true, y_pred)
+    false_positive_rate = fp / (fp + tn) if (fp + tn) > 0 else 0
+
+    # Print metrics
+    print(f"Precision: {precision:.2f}")
+    print(f"Recall: {recall:.2f}")
+    print(f"F1 Score: {f1:.2f}")
+    print(f"False Positive Rate: {false_positive_rate:.2f}")
+
+    # Calculate success rate
+    total_transactions = len(y_true)
+    total_failures = fp + fn
+    success_rate = float(total_transactions - total_failures) / total_transactions
+    print(f"Success rate: {round(success_rate, 2)}")
+
+
 if __name__ == "__main__":
     id_ranges = load_id_ranges()
     good_transactions_logs = parse_log_files(LOG_PATH_GOOD)
-    fraudulent_transactions_logs = parse_log_files(LOG_PATH_FRAUDULENT_ATO) +  parse_log_files(LOG_PATH_FRAUDULENT_CNP)
+    fraudulent_transactions_logs = parse_log_files(LOG_PATH_FRAUDULENT_ATO) + parse_log_files(LOG_PATH_FRAUDULENT_CNP)
 
-    total_failures = 0
-    total_transactions = len(good_transactions_logs) + len(fraudulent_transactions_logs)
-    
-    # validate good transactions
-    for good_transaction_logs in good_transactions_logs:
-        embeddings = get_embedding_for_input(good_transaction_logs)
-        is_fraud = determine_is_fraud(embeddings, id_ranges)
-        if is_fraud:
-            total_failures += 1
-    
-    # validate good transactions
-    for fraudulent_transaction_logs in fraudulent_transactions_logs:
-        embeddings = get_embedding_for_input(fraudulent_transaction_logs)
-        is_fraud = determine_is_fraud(embeddings, id_ranges)
-        if not is_fraud:
-            total_failures += 1
-    
-    success_rate = float(total_transactions - total_failures) / total_transactions
-    print(f"Success rate: {round(success_rate, 2)}")
+    print("Obtained result. Now proceeding with analyzing the result.")
+    analyze_result(good_transactions_logs, fraudulent_transactions_logs, id_ranges)
