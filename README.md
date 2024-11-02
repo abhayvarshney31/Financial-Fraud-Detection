@@ -1,6 +1,8 @@
 # Financial Fraud Detection Embedding-Based Retrieval
 
-This project aims to create an agent using vector embeddings trained on an unstructured financial fraud dataset. The agent is designed to generate access control rule sets that can be integrated into Identity and Access Management (IAM) roles on AWS or Azure.
+
+This project will use embedding-based retrieval on an unstructured financial fraud dataset. The primary approach involves querying the embedding space to find the closest neighbor set of transaction behaviors. By comparing these neighbors, the system can identify patterns that indicate whether a transaction is likely to be fraudulent based on its similarity to known fraudulent cases. This approach facilitates accurate and efficient detection of fraud by leveraging vector similarity within the embedding space.
+
 
 ## Overview
 
