@@ -2,6 +2,7 @@ annotated-types==0.7.0
 anyio==4.6.2.post1
 asgiref==3.8.1
 asyncio==3.4.3
+autopep8==2.3.1
 backoff==2.2.1
 bcrypt==4.2.0
 build==1.2.2.post1
@@ -19,6 +20,7 @@ duckdb==1.1.2
 durationpy==0.9
 fastapi==0.85.1
 filelock==3.16.1
+flake8==7.1.1
 flatbuffers==24.3.25
 fsspec==2024.10.0
 google-auth==2.35.0
@@ -37,6 +39,7 @@ importlib_resources==6.4.5
 kubernetes==31.0.0
 lz4==4.3.3
 markdown-it-py==3.0.0
+mccabe==0.7.0
 mdurl==0.1.2
 mmh3==5.0.1
 monotonic==1.6
@@ -64,8 +67,10 @@ protobuf==4.25.5
 pulsar-client==3.5.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
+pycodestyle==2.12.1
 pydantic==1.10.18
 pydantic_core==2.23.4
+pyflakes==3.2.0
 Pygments==2.18.0
 PyPika==0.48.9
 pyproject_hooks==1.2.0
