@@ -1,0 +1,54 @@
+name: Lint Python Code
+
+on:
+  push:
+    branches:
+      - main  # Run on pushes to main
+  pull_request:
+    branches:
+      - main  # Run on pull requests targeting main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.12'  # Use the Python version you need
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flake8  # Install Flake8 or any other linter you prefer
+
+      - name: Run flake8
+        id: lint
+        run: |
+          flake8 . --max-line-length=88 --extend-ignore=E203,W503 > lint_report.txt || true
+          echo "::set-output name=lint_report::$(cat lint_report.txt)"
+      
+      - name: Check for linting issues
+        run: |
+          if [[ -s lint_report.txt ]]; then
+            echo "Linting issues found:"
+            cat lint_report.txt
+            exit 1
+          else
+            echo "No linting issues found."
+          fi
+
+      - name: Commit and push changes
+        if: success() && steps.lint.outputs.lint_report != ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .  # Add the files that have been modified
+          git commit -m "Linting fixes"
+          git push
