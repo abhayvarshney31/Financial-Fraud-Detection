@@ -38,13 +38,14 @@ jobs:
       - name: Run flake8
         id: lint
         run: |
-          flake8 . --max-line-length=500 --extend-ignore=E203,W503 > lint_report.txt || true
+          flake8 . --max-line-length=500 --extend-ignore=E501,W503 > lint_report.txt || true
           echo "::set-output name=lint_report::$(cat lint_report.txt)"
       
       - name: Auto-fix code
         run: |
-          autopep8 --in-place --aggressive --aggressive .
-          flake8 . --max-line-length=500 --extend-ignore=E203,W503 > lint_report_after.txt || true
+          # Find all Python files and apply autopep8
+          find . -name '*.py' -exec autopep8 --in-place --aggressive --aggressive {} +
+          flake8 . --max-line-length=500 --extend-ignore=E501,W503 > lint_report_after.txt || true
           echo "::set-output name=lint_report_after::$(cat lint_report_after.txt)"
 
       - name: Check for linting issues
