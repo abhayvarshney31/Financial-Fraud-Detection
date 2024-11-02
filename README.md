@@ -21,7 +21,7 @@ Set up a virtual environment for this project.
 python3.12 -m venv venv
 ```
 
-### 2. Install Ollama for the Model
+### 3. Install Ollama for the Model
 
 Ollama is required to pull and use the specific model for this project.
 
@@ -34,7 +34,7 @@ ollama pull openchat
 ollama pull llama3.2
 ollama pull nomic-embed-text
 ```
-### 3. Install Required Python Packages
+### 4. Install Required Python Packages
 
 Use pip to install the necessary Python packages listed in requirements.txt.
 
@@ -42,7 +42,7 @@ Use pip to install the necessary Python packages listed in requirements.txt.
 pip install -r requirements.txt
 ```
 
-### 4. Generate Embeddings from Dataset
+### 5. Generate Embeddings from Dataset
 
 Run `process_unstructured_dataset.py` to create embeddings from your dataset. This step prepares the vector space for fraud detection.
 
@@ -50,7 +50,7 @@ Run `process_unstructured_dataset.py` to create embeddings from your dataset. Th
 python process_unstructured_dataset.py
 ```
 
-### 5. Test the Model on Fraudulent Transactions
+### 6. Test the Model on Fraudulent Transactions
 
 Run `test_fraudulent_transaction.py` to evaluate the accuracy of the agent on detecting fraudulent transactions.
 
