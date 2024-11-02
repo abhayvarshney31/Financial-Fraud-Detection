@@ -14,6 +14,13 @@ This project will use embedding-based retrieval on an unstructured financial fra
 
 Ensure Python 3.12 is installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 
+### 2. Create a Virtual Environment
+
+Set up a virtual environment for this project.
+```sh
+python3.12 -m venv venv
+```
+
 ### 2. Install Ollama for the Model
 
 Ollama is required to pull and use the specific model for this project.
