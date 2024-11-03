@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate Documentation
         run: |
-          pdoc --output-dir docs .  # Adjusted command
+          pdoc --output-dir docs ./*.py  # Adjusted command to target Python files
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
