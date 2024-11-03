@@ -3,10 +3,10 @@ name: Lint and Fix Python Code
 on:
   push:
     branches:
-      - main  # Run on pushes to main
+      - main
   pull_request:
     branches:
-      - main  # Run on pull requests targeting main
+      - main
 
 jobs:
   lint:
@@ -19,12 +19,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Use the version of Python you need
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install flake8 autopep8  # Install Flake8 and autopep8
+          pip install flake8 autopep8
 
       - name: Read .flake8 configuration
         run: |
@@ -43,17 +43,21 @@ jobs:
       
       - name: Auto-fix code
         run: |
-          # Find all Python files and apply autopep8
           find . -name '*.py' -exec autopep8 --in-place --aggressive --aggressive {} +
           flake8 . --max-line-length=500 --extend-ignore=E501,W503 > lint_report_after.txt || true
           echo "::set-output name=lint_report_after::$(cat lint_report_after.txt)"
 
-      - name: Commit and push changes
+      - name: Commit and push changes if there are any
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add '*.py'  # Add the files that have been modified
-          git commit -m "Auto-fix linting issues"
-          git push
+          git add '*.py'
+          
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-fix linting issues"
+            git push
+          else
+            echo "No changes to commit"
+          fi
