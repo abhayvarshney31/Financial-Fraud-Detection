@@ -49,7 +49,6 @@ jobs:
           echo "::set-output name=lint_report_after::$(cat lint_report_after.txt)"
 
       - name: Commit and push changes
-        if: success() && steps.lint.outputs.lint_report_after != ''
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
