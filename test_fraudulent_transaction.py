@@ -1,4 +1,5 @@
 import os
+import time
 import chromadb
 import glob
 import ollama
@@ -105,6 +106,7 @@ def analyze_result(
         id_ranges):
     y_true = []
     y_pred = []
+    time_diffs = []  # To store time differences for embedding + fraud detection steps
 
     # Use ThreadPoolExecutor for embedding calculations and fraud detection
     with ThreadPoolExecutor() as executor:
@@ -119,23 +121,43 @@ def analyze_result(
                 get_embedding_for_input,
                 log): 1 for log in fraudulent_transactions_logs}
 
+        # Process good transactions
         for future in tqdm(
                 as_completed(
                     good_futures.keys()),
                 total=len(good_futures),
                 desc="Processing good transactions"):
+            
+            # Start time before embedding calculation
+            start_time = time.time()
             embeddings = future.result()
+            
             is_fraud = determine_is_fraud(embeddings, id_ranges)
+            end_time = time.time()  # End time after fraud detection
+            
+            # Calculate time difference and append to list
+            time_diffs.append(end_time - start_time)
+            
             y_true.append(0)
             y_pred.append(0 if not is_fraud else 1)
 
+        # Process fraudulent transactions
         for future in tqdm(
                 as_completed(
                     fraudulent_futures.keys()),
                 total=len(fraudulent_futures),
                 desc="Processing fraudulent transactions"):
+            
+            # Start time before embedding calculation
+            start_time = time.time()
             embeddings = future.result()
+            
             is_fraud = determine_is_fraud(embeddings, id_ranges)
+            end_time = time.time()  # End time after fraud detection
+            
+            # Calculate time difference and append to list
+            time_diffs.append(end_time - start_time)
+            
             y_true.append(1)
             y_pred.append(0 if not is_fraud else 1)
 
@@ -157,9 +179,12 @@ def analyze_result(
     # Calculate success rate
     total_transactions = len(y_true)
     total_failures = fp + fn
-    success_rate = float(total_transactions -
-                         total_failures) / total_transactions
+    success_rate = float(total_transactions - total_failures) / total_transactions
     print(f"Success rate: {round(success_rate, 2)}")
+
+    # Calculate and print average time for embedding + fraud detection
+    avg_time = sum(time_diffs) / len(time_diffs) if time_diffs else 0
+    print(f"Average time for embedding calculation and fraud determination: {avg_time:.4f} seconds")
 
 
 if __name__ == "__main__":
