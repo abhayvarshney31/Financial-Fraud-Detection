@@ -20,6 +20,15 @@ LOG_PATH_FRAUDULENT_ATO = os.path.join(
 LOG_PATH_FRAUDULENT_CNP = os.path.join(
     os.path.dirname(__file__),
     "unstructured/testing/fraudulent_cnp/*.txt")
+MANUAL_LOG_PATH_GOOD = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/manual-testing/good/*.txt")
+MANUAL_LOG_PATH_FRAUDULENT_ATO = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/manual-testing/fraudulent_ato/*.txt")
+MANUAL_LOG_PATH_FRAUDULENT_CNP = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/manual-testing/fraudulent_cnp/*.txt")
 ID_RANGE_DUMP = os.path.join(os.path.dirname(__file__), "id_range.txt")
 
 persist_directory = os.path.join(os.path.dirname(__file__), "chroma_db")
@@ -187,14 +196,29 @@ def analyze_result(
     print(f"Average time for embedding calculation and fraud determination: {avg_time:.4f} seconds")
 
 
-if __name__ == "__main__":
+def test_fraudulent_transactions(
+    good_logs,
+    fraudulent_ato_logs,
+    fraudulent_cnp_logs
+):
     id_ranges = load_id_ranges()
-    good_transactions_logs = parse_log_files(LOG_PATH_GOOD)
+    print("Parsing unstructured logs.")
+
+    good_transactions_logs = parse_log_files(good_logs)
     fraudulent_transactions_logs = parse_log_files(
-        LOG_PATH_FRAUDULENT_ATO) + parse_log_files(LOG_PATH_FRAUDULENT_CNP)
+        fraudulent_ato_logs) + parse_log_files(fraudulent_cnp_logs)
 
     print("Obtained result. Now proceeding with analyzing the result.")
     analyze_result(
         good_transactions_logs,
         fraudulent_transactions_logs,
         id_ranges)
+
+
+if __name__ == "__main__":
+    print("Executing automated unstructured logs validation")
+    test_fraudulent_transactions(LOG_PATH_GOOD, LOG_PATH_FRAUDULENT_ATO, LOG_PATH_FRAUDULENT_CNP)
+
+    print("Executing manual unstructured logs validation")
+    test_fraudulent_transactions(MANUAL_LOG_PATH_GOOD, MANUAL_LOG_PATH_FRAUDULENT_ATO, MANUAL_LOG_PATH_FRAUDULENT_CNP)
+    
