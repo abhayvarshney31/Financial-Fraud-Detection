@@ -1,12 +1,12 @@
 name: Test Python 3.12 Requirements
 
 on:
-  push:
-    paths:
-      - requirements.txt
-  pull_request:
-    paths:
-      - requirements.txt
+    push:
+      branches:
+        - main
+    pull_request:
+      branches:
+        - main  
 
 jobs:
   test-requirements:
