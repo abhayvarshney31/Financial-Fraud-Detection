@@ -41,26 +41,19 @@ jobs:
           flake8 . --max-line-length=500 --extend-ignore=E501,W503 > lint_report.txt || true
           echo "::set-output name=lint_report::$(cat lint_report.txt)"
       
-          - name: Auto-fix code
-          run: |
-            # Find and auto-fix only Python files with autopep8
-            find . -name '*.py' -exec autopep8 --in-place --aggressive --aggressive {} +
-            # Lint only Python files and save the report
-            flake8 . --max-line-length=500 --extend-ignore=E501,W503 --filename="*.py" > lint_report_after.txt || true
-            echo "::set-output name=lint_report_after::$(cat lint_report_after.txt)"
-  
+      - name: Auto-fix code
+        run: |
+          # Find all Python files and apply autopep8
+          find . -name '*.py' -exec autopep8 --in-place --aggressive --aggressive {} +
+          flake8 . --max-line-length=500 --extend-ignore=E501,W503 > lint_report_after.txt || true
+          echo "::set-output name=lint_report_after::$(cat lint_report_after.txt)"
+
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          # Stage only modified Python files
-          git add '*.py'  
-          # Commit and push only if there are changes
-          if git diff-index --quiet HEAD --; then
-            echo "No changes to commit."
-          else
-            git commit -m "Auto-fix linting issues in Python files"
-            git push
-          fi
+          git add '*.py'  # Add the files that have been modified
+          git commit -m "Auto-fix linting issues"
+          git push
