@@ -4,7 +4,7 @@ import glob
 import ollama
 import json
 from tqdm import tqdm
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 COLLECTION_NAME = "financial_fraud_embeddings_final"
 CHAT_MODEL_NAME = "gemma2-9b-it"
