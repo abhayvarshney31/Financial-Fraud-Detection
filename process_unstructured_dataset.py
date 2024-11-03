@@ -37,6 +37,15 @@ else:
 
 
 def anonymize_log(log_content):
+    """
+    Anonymizes and summarizes the log content to remove sensitive information.
+
+    Args:
+        log_content (str): Raw log content that needs to be anonymized.
+
+    Returns:
+        str: An anonymized and summarized version of the log content.
+    """
     prompt = f"""
                 Given the following log content, perform these steps:
 
@@ -57,10 +66,17 @@ def anonymize_log(log_content):
     return output
 
 
-# Create embeddings in batch using Ollama API
 def create_embeddings_batch_ollama(text_batch):
+    """
+    Creates embeddings for a batch of text data using the Ollama model.
+
+    Args:
+        text_batch (list[str]): List of text entries to generate embeddings for.
+
+    Returns:
+        list: A list of embeddings generated for each text entry.
+    """
     embeddings = []
-    # Use ThreadPoolExecutor to parallelize embedding creation
     with ThreadPoolExecutor() as executor:
         futures = [
             executor.submit(
@@ -75,19 +91,45 @@ def create_embeddings_batch_ollama(text_batch):
 
 
 def get_embedding_for_input(text):
+    """
+    Retrieves the embedding for a single text entry using the Ollama API.
+
+    Args:
+        text (str): Text entry to generate an embedding for.
+
+    Returns:
+        list: The embedding vector corresponding to the text.
+    """
     response = ollama.embeddings(model=EMBEDDING_MODEL_NAME, prompt=text)
-    return response['embedding']  # Ensure only the embedding is returned
+    return response['embedding']
 
 
 def parse_log_file(file_path):
+    """
+    Reads and anonymizes a log file.
+
+    Args:
+        file_path (str): Path to the log file.
+
+    Returns:
+        str: An anonymized version of the log content.
+    """
     with open(file_path, "r", encoding='latin-1', errors='replace') as file:
         log_content = file.read()
         content = anonymize_log(log_content)
         return content
 
 
-# Parse transactions in parallel
 def parse_log_files(log_paths):
+    """
+    Parses multiple log files in parallel.
+
+    Args:
+        log_paths (str): File path pattern for log files.
+
+    Returns:
+        list: A list of anonymized log contents.
+    """
     text_data = []
     with ThreadPoolExecutor() as executor:
         futures = [executor.submit(parse_log_file, file_path)
@@ -100,18 +142,31 @@ def parse_log_files(log_paths):
     return text_data
 
 
-# Prepare the training data by reading the data and converting the format
 def prepare_training_data():
+    """
+    Prepares the training data by reading and anonymizing log files for good
+    and fraudulent transactions.
+
+    Returns:
+        tuple: A tuple containing lists of good transactions, fraudulent ATO
+               transactions, and fraudulent CNP transactions.
+    """
     good_transactions = parse_log_files(LOG_PATH_GOOD)
     fraudulent_ato_transactions = parse_log_files(LOG_PATH_FRAUDULENT_ATO)
     fraudulent_cnp_transactions = parse_log_files(LOG_PATH_FRAUDULENT_CNP)
     return good_transactions, fraudulent_ato_transactions, fraudulent_cnp_transactions
 
 
-# Store embeddings in the ChromaDB collection
 def store_embeddings(batch, embeddings):
-    ids = [str(idx) for idx in range(len(batch))]  # List to store IDs
-    documents = batch  # List to store document texts
+    """
+    Stores embeddings and associated text data in the ChromaDB collection.
+
+    Args:
+        batch (list): List of document texts.
+        embeddings (list): List of embedding vectors corresponding to the batch.
+    """
+    ids = [str(idx) for idx in range(len(batch))]
+    documents = batch
     collection.add(ids=ids, documents=documents, embeddings=embeddings)
 
 
@@ -122,7 +177,18 @@ def store_all_embeddings(
         good_transactions_embeddings,
         fraudulent_ato_transactions_embeddings,
         fraudulent_cnp_transactions_embeddings):
+    """
+    Stores all embeddings in the ChromaDB collection, with ID ranges for each
+    category of transaction.
 
+    Args:
+        good_transactions (list): List of good transaction texts.
+        fraudulent_ato_transactions (list): List of ATO fraudulent transaction texts.
+        fraudulent_cnp_transactions (list): List of CNP fraudulent transaction texts.
+        good_transactions_embeddings (list): Embeddings for good transactions.
+        fraudulent_ato_transactions_embeddings (list): Embeddings for ATO fraudulent transactions.
+        fraudulent_cnp_transactions_embeddings (list): Embeddings for CNP fraudulent transactions.
+    """
     good_ids_range = (0, len(good_transactions_embeddings))
     ato_ids_range = (
         good_ids_range[1],

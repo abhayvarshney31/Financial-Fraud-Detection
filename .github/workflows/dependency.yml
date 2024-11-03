@@ -1,0 +1,16 @@
+name: Dependency Vulnerability Scanning
+
+on:
+  schedule:
+    - cron: '0 2 * * 1'  # Runs weekly on Monday at 2 AM
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Dependency review
+        uses: actions/dependency-review-action@v2
