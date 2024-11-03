@@ -4,6 +4,7 @@ import glob
 import ollama
 import json
 from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor
 
 COLLECTION_NAME = "financial_fraud_embeddings_final"
 CHAT_MODEL_NAME = "gemma2-9b-it"
@@ -13,7 +14,7 @@ LOG_PATH_FRAUDULENT_ATO = os.path.join(os.path.dirname(__file__), "unstructured/
 LOG_PATH_FRAUDULENT_CNP = os.path.join(os.path.dirname(__file__), "unstructured/training/fraudulent_cnp/*.txt")
 ID_RANGE_DUMP = os.path.join(os.path.dirname(__file__), "id_range.txt")
 
-# Initialize ChromaDB and Tokenizer
+# Initialize ChromaDB
 persist_directory = os.path.join(os.path.dirname(__file__), "chroma_db")
 client = chromadb.Client(chromadb.config.Settings(
     chroma_db_impl="duckdb+parquet",
@@ -41,7 +42,6 @@ def anonymize_log(log_content):
                 Here is the log content: {log_content}. Don't output anything besides the string output where each activity is separated by " * "".
             """
 
-    # Call Ollama to generate text
     output = ollama.generate(
         model=CHAT_MODEL_NAME,
         prompt=prompt,
@@ -51,29 +51,36 @@ def anonymize_log(log_content):
     return output
 
 
-# Helper function to embed new input
+# Create embeddings in batch using Ollama API
+def create_embeddings_batch_ollama(text_batch):
+    embeddings = []
+    # Use ThreadPoolExecutor to parallelize embedding creation
+    with ThreadPoolExecutor() as executor:
+        futures = [executor.submit(get_embedding_for_input, text) for text in text_batch]
+        for future in tqdm(as_completed(futures), total=len(futures), desc="Generating embeddings"):
+            embeddings.append(future.result())
+    return embeddings
+
+
 def get_embedding_for_input(text):
     response = ollama.embeddings(model=EMBEDDING_MODEL_NAME, prompt=text)
     return response['embedding']  # Ensure only the embedding is returned
 
 
-# Create embeddings in batch using Ollama API
-def create_embeddings_batch_ollama(text_batch):
-    embeddings = []
-    for text in tqdm(text_batch, desc="Generating embeddings"):  # Adding tqdm for progress
-        embedding = get_embedding_for_input(text)
-        embeddings.append(embedding)  # Store only the embedding (numeric vector)
-    return embeddings
+def parse_log_file(file_path):
+    with open(file_path, "r", encoding='latin-1', errors='replace') as file:
+        log_content = file.read()
+        content = anonymize_log(log_content)
+        return content
 
 
-# Parse transactions
+# Parse transactions in parallel
 def parse_log_files(log_paths):
     text_data = []
-    for file_path in tqdm(glob.glob(log_paths), desc="Parsing log files"):  # Adding tqdm for progress
-        with open(file_path, "r", encoding='latin-1', errors='replace') as file:
-            log_content = file.read()  # Read entire file content at once
-            content = anonymize_log(log_content)
-            text_data.append(content)
+    with ThreadPoolExecutor() as executor:
+        futures = [executor.submit(parse_log_file, file_path) for file_path in glob.glob(log_paths)]
+        for future in tqdm(as_completed(futures), total=len(futures), desc="Parsing log files"):
+            text_data.append(future.result())
     return text_data
 
 
@@ -94,17 +101,18 @@ def store_embeddings(batch, embeddings):
 
 def store_all_embeddings(
     good_transactions,
-    fraudulent_ato_transactions, 
-    fraudluent_cnp_transactions,
-    good_transactions_embeddings, 
-    fraudulent_ato_transactions_embeddings, 
-    fraudluent_cnp_transactions_embeddings):
+    fraudulent_ato_transactions,
+    fraudulent_cnp_transactions,
+    good_transactions_embeddings,
+    fraudulent_ato_transactions_embeddings,
+    fraudulent_cnp_transactions_embeddings):
+    
     good_ids_range = (0, len(good_transactions_embeddings))
     ato_ids_range = (good_ids_range[1], good_ids_range[1] + len(fraudulent_ato_transactions_embeddings))
-    cnp_ids_range = (ato_ids_range[1], ato_ids_range[1] + len(fraudluent_cnp_transactions_embeddings))
+    cnp_ids_range = (ato_ids_range[1], ato_ids_range[1] + len(fraudulent_cnp_transactions_embeddings))
     
-    all_transactions = good_transactions + fraudulent_ato_transactions + fraudluent_cnp_transactions
-    all_transactions_embeddings = good_transactions_embeddings + fraudulent_ato_transactions_embeddings + fraudluent_cnp_transactions_embeddings
+    all_transactions = good_transactions + fraudulent_ato_transactions + fraudulent_cnp_transactions
+    all_transactions_embeddings = good_transactions_embeddings + fraudulent_ato_transactions_embeddings + fraudulent_cnp_transactions_embeddings
 
     store_embeddings(all_transactions, all_transactions_embeddings)
 
@@ -120,16 +128,17 @@ def store_all_embeddings(
 
 
 if __name__ == "__main__":
-    good_transactions, fraudulent_ato_transactions, fraudluent_cnp_transactions = prepare_training_data()
+    good_transactions, fraudulent_ato_transactions, fraudulent_cnp_transactions = prepare_training_data()
 
+    # Generate embeddings in batches
     good_transactions_embeddings = create_embeddings_batch_ollama(good_transactions)
     fraudulent_ato_transactions_embeddings = create_embeddings_batch_ollama(fraudulent_ato_transactions)
-    fraudluent_cnp_transactions_embeddings = create_embeddings_batch_ollama(fraudluent_cnp_transactions)
+    fraudulent_cnp_transactions_embeddings = create_embeddings_batch_ollama(fraudulent_cnp_transactions)
 
     store_all_embeddings(
-        good_transactions, 
+        good_transactions,
         fraudulent_ato_transactions,
-        fraudluent_cnp_transactions,
-        good_transactions_embeddings, 
-        fraudulent_ato_transactions_embeddings, 
-        fraudluent_cnp_transactions_embeddings)
+        fraudulent_cnp_transactions,
+        good_transactions_embeddings,
+        fraudulent_ato_transactions_embeddings,
+        fraudulent_cnp_transactions_embeddings)

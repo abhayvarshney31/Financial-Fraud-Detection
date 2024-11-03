@@ -5,6 +5,7 @@ import ollama
 import json
 from sklearn.metrics import precision_score, recall_score, f1_score, confusion_matrix
 from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 COLLECTION_NAME = "financial_fraud_embeddings_final"
 CHAT_MODEL_NAME = "mistral"
@@ -45,28 +46,30 @@ def anonymize_log(log_content):
     return output
 
 
-# Parse transactions and label them
+def parse_log_file(file_path):
+    with open(file_path, "r", encoding='latin-1', errors='replace') as file:
+        log_content = file.read()
+        content = anonymize_log(log_content)
+        return content
+
+
 def parse_log_files(log_paths):
     text_data = []
-    for file_path in tqdm(glob.glob(log_paths), desc="Parsing log files"):  # Adding tqdm for progress
-        with open(file_path, "r", encoding='latin-1', errors='replace') as file:
-            log_content = file.read()  # Read entire file content at once
-            content = anonymize_log(log_content)
-            text_data.append(content)
+    with ThreadPoolExecutor() as executor:
+        futures = [executor.submit(parse_log_file, file_path) for file_path in glob.glob(log_paths)]
+        for future in tqdm(as_completed(futures), total=len(futures), desc="Parsing log files"):
+            text_data.append(future.result())
     return text_data
 
 
 def load_id_ranges():
-    # Open the JSON file and load the data
     with open(ID_RANGE_DUMP, "r") as file:
         id_ranges = json.load(file)
     
     return id_ranges
 
 
-# Function to calculate fraud score
 def determine_is_fraud(input_embedding, id_ranges, top_n=1):
-    # Retrieve similar embeddings from the collection
     results = collection.query(
         query_embeddings=[input_embedding],
         n_results=top_n
@@ -81,34 +84,37 @@ def determine_is_fraud(input_embedding, id_ranges, top_n=1):
     raise ValueError("Couldn't find id in range")
 
 
-# Helper function to embed new input
 def get_embedding_for_input(text):
     response = ollama.embeddings(model=EMBEDDING_MODEL_NAME, prompt=text)
-    return response['embedding']  # Ensure only the embedding is returned
+    return response['embedding']
 
 
 def analyze_result(good_transactions_logs, fraudulent_transactions_logs, id_ranges):
-    # Lists to store ground truth and predictions
-    y_true = []  # Actual labels
-    y_pred = []  # Predicted labels
-    
-    # Validate good transactions
-    for good_transaction_logs in tqdm(good_transactions_logs, desc="Processing good transactions"):  # Adding tqdm for progress
-        embeddings = get_embedding_for_input(good_transaction_logs)
-        is_fraud = determine_is_fraud(embeddings, id_ranges)
-        y_true.append(0)  # 0 represents legitimate
-        y_pred.append(0 if not is_fraud else 1)
+    y_true = []
+    y_pred = []
 
-    # Validate fraudulent transactions
-    for fraudulent_transaction_logs in tqdm(fraudulent_transactions_logs, desc="Processing fraudulent transactions"):  # Adding tqdm for progress
-        embeddings = get_embedding_for_input(fraudulent_transaction_logs)
-        is_fraud = determine_is_fraud(embeddings, id_ranges)
-        y_true.append(1)  # 1 represents fraudulent
-        y_pred.append(0 if not is_fraud else 1)
+    # Use ThreadPoolExecutor for embedding calculations and fraud detection
+    with ThreadPoolExecutor() as executor:
+        # Create a list of futures for good transactions
+        good_futures = {executor.submit(get_embedding_for_input, log): 0 for log in good_transactions_logs}
+        # Create a list of futures for fraudulent transactions
+        fraudulent_futures = {executor.submit(get_embedding_for_input, log): 1 for log in fraudulent_transactions_logs}
+
+        for future in tqdm(as_completed(good_futures.keys()), total=len(good_futures), desc="Processing good transactions"):
+            embeddings = future.result()
+            is_fraud = determine_is_fraud(embeddings, id_ranges)
+            y_true.append(0)
+            y_pred.append(0 if not is_fraud else 1)
+
+        for future in tqdm(as_completed(fraudulent_futures.keys()), total=len(fraudulent_futures), desc="Processing fraudulent transactions"):
+            embeddings = future.result()
+            is_fraud = determine_is_fraud(embeddings, id_ranges)
+            y_true.append(1)
+            y_pred.append(0 if not is_fraud else 1)
 
     # Calculate confusion matrix values
     tn, fp, fn, _ = confusion_matrix(y_true, y_pred).ravel()
-    
+
     # Calculate statistical metrics
     precision = precision_score(y_true, y_pred)
     recall = recall_score(y_true, y_pred)
