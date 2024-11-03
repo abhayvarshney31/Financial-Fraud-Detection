@@ -236,7 +236,8 @@ def analyze_result(
 
     avg_time = sum(time_diffs) / len(time_diffs) if time_diffs else 0
     print(
-        f"Average time for embedding calculation and fraud determination: {avg_time:.4f} seconds")
+        f"Average time for embedding calculation and fraud determination: {
+            avg_time:.4f} seconds")
 
 
 def test_fraudulent_transactions(
