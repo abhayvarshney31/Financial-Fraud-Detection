@@ -136,17 +136,17 @@ def analyze_result(
                     good_futures.keys()),
                 total=len(good_futures),
                 desc="Processing good transactions"):
-            
+
             # Start time before embedding calculation
             start_time = time.time()
             embeddings = future.result()
-            
+
             is_fraud = determine_is_fraud(embeddings, id_ranges)
             end_time = time.time()  # End time after fraud detection
-            
+
             # Calculate time difference and append to list
             time_diffs.append(end_time - start_time)
-            
+
             y_true.append(0)
             y_pred.append(0 if not is_fraud else 1)
 
@@ -156,17 +156,17 @@ def analyze_result(
                     fraudulent_futures.keys()),
                 total=len(fraudulent_futures),
                 desc="Processing fraudulent transactions"):
-            
+
             # Start time before embedding calculation
             start_time = time.time()
             embeddings = future.result()
-            
+
             is_fraud = determine_is_fraud(embeddings, id_ranges)
             end_time = time.time()  # End time after fraud detection
-            
+
             # Calculate time difference and append to list
             time_diffs.append(end_time - start_time)
-            
+
             y_true.append(1)
             y_pred.append(0 if not is_fraud else 1)
 
@@ -188,12 +188,15 @@ def analyze_result(
     # Calculate success rate
     total_transactions = len(y_true)
     total_failures = fp + fn
-    success_rate = float(total_transactions - total_failures) / total_transactions
+    success_rate = float(total_transactions -
+                         total_failures) / total_transactions
     print(f"Success rate: {round(success_rate, 2)}")
 
     # Calculate and print average time for embedding + fraud detection
     avg_time = sum(time_diffs) / len(time_diffs) if time_diffs else 0
-    print(f"Average time for embedding calculation and fraud determination: {avg_time:.4f} seconds")
+    print(
+        f"Average time for embedding calculation and fraud determination: {
+            avg_time:.4f} seconds")
 
 
 def test_fraudulent_transactions(
@@ -217,8 +220,13 @@ def test_fraudulent_transactions(
 
 if __name__ == "__main__":
     print("Executing automated unstructured logs validation")
-    test_fraudulent_transactions(LOG_PATH_GOOD, LOG_PATH_FRAUDULENT_ATO, LOG_PATH_FRAUDULENT_CNP)
+    test_fraudulent_transactions(
+        LOG_PATH_GOOD,
+        LOG_PATH_FRAUDULENT_ATO,
+        LOG_PATH_FRAUDULENT_CNP)
 
     print("Executing manual unstructured logs validation")
-    test_fraudulent_transactions(MANUAL_LOG_PATH_GOOD, MANUAL_LOG_PATH_FRAUDULENT_ATO, MANUAL_LOG_PATH_FRAUDULENT_CNP)
-    
+    test_fraudulent_transactions(
+        MANUAL_LOG_PATH_GOOD,
+        MANUAL_LOG_PATH_FRAUDULENT_ATO,
+        MANUAL_LOG_PATH_FRAUDULENT_CNP)
