@@ -1,3 +1,1 @@
 ./poc_test_embeddings.py:3:1: F401 'numpy as np' imported but unused
-./process_unstructured_dataset.py:70:17: F821 undefined name 'as_completed'
-./process_unstructured_dataset.py:96:17: F821 undefined name 'as_completed'

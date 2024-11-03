@@ -1,58 +1,11 @@
 ./poc_test_embeddings.py:3:1: F401 'numpy as np' imported but unused
-./poc_test_embeddings.py:24:1: E302 expected 2 blank lines, found 1
-./poc_test_embeddings.py:29:1: E302 expected 2 blank lines, found 1
-./poc_test_embeddings.py:35:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:38:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:41:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:44:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:47:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:54:1: E302 expected 2 blank lines, found 1
-./poc_test_embeddings.py:62:1: E302 expected 2 blank lines, found 1
-./poc_test_embeddings.py:68:1: E302 expected 2 blank lines, found 1
-./poc_test_embeddings.py:73:18: W291 trailing whitespace
-./poc_test_embeddings.py:74:59: W291 trailing whitespace
-./poc_test_embeddings.py:75:65: W291 trailing whitespace
-./poc_test_embeddings.py:76:91: W291 trailing whitespace
-./poc_test_embeddings.py:77:90: W291 trailing whitespace
-./poc_test_embeddings.py:78:129: W291 trailing whitespace
-./poc_test_embeddings.py:79:118: W291 trailing whitespace
-./poc_test_embeddings.py:80:180: W291 trailing whitespace
-./poc_test_embeddings.py:81:102: W291 trailing whitespace
-./poc_test_embeddings.py:85:39: W291 trailing whitespace
-./poc_test_embeddings.py:87:18: W291 trailing whitespace
-./poc_test_embeddings.py:88:156: W291 trailing whitespace
-./poc_test_embeddings.py:89:185: W291 trailing whitespace
-./poc_test_embeddings.py:90:154: W291 trailing whitespace
-./poc_test_embeddings.py:91:158: W291 trailing whitespace
-./poc_test_embeddings.py:94:12: W291 trailing whitespace
-./poc_test_embeddings.py:95:62: W291 trailing whitespace
-./poc_test_embeddings.py:96:68: W291 trailing whitespace
-./poc_test_embeddings.py:99:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:103:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:105:27: W291 trailing whitespace
-./poc_test_embeddings.py:106:152: W291 trailing whitespace
-./poc_test_embeddings.py:107:65: W291 trailing whitespace
-./poc_test_embeddings.py:108:55: W291 trailing whitespace
-./poc_test_embeddings.py:110:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:112:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:115:1: W293 blank line contains whitespace
-./poc_test_embeddings.py:120:1: E305 expected 2 blank lines after class or function definition, found 1
-./process_structured_dataset.py:9:1: E402 module level import not at top of file
-./process_structured_dataset.py:36:1: E302 expected 2 blank lines, found 1
-./process_structured_dataset.py:39:1: E302 expected 2 blank lines, found 1
-./process_structured_dataset.py:64:1: E302 expected 2 blank lines, found 1
-./process_structured_dataset.py:74:1: E302 expected 2 blank lines, found 1
-./process_structured_dataset.py:91:1: E305 expected 2 blank lines after class or function definition, found 1
-./process_unstructured_dataset.py:36:1: W293 blank line contains whitespace
-./process_unstructured_dataset.py:41:1: W293 blank line contains whitespace
-./process_unstructured_dataset.py:60:28: F821 undefined name 'as_completed'
-./process_unstructured_dataset.py:82:28: F821 undefined name 'as_completed'
-./process_unstructured_dataset.py:108:5: E125 continuation line with same indent as next logical line
-./process_unstructured_dataset.py:109:1: W293 blank line contains whitespace
-./process_unstructured_dataset.py:113:1: W293 blank line contains whitespace
-./test_fraudulent_transaction.py:30:1: W293 blank line contains whitespace
-./test_fraudulent_transaction.py:35:1: W293 blank line contains whitespace
-./test_fraudulent_transaction.py:68:1: W293 blank line contains whitespace
-./test_fraudulent_transaction.py:77:1: W293 blank line contains whitespace
-./test_fraudulent_transaction.py:79:1: W293 blank line contains whitespace
-./test_fraudulent_transaction.py:83:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:139:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:143:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:146:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:149:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:159:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:163:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:166:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:169:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:224:1: W293 blank line contains whitespace
+./test_fraudulent_transaction.py:224:5: W292 no newline at end of file
