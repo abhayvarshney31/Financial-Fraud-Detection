@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate Documentation
         run: |
-          pdoc --output-dir docs --force .  # Adjusted command
+          pdoc --output-dir docs .  # Adjusted command
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
