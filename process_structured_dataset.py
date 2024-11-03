@@ -1,3 +1,4 @@
+import sys
 import ollama
 import pandas as pd
 import tiktoken
@@ -6,14 +7,17 @@ import chromadb
 import os
 
 __import__('pysqlite3')
-import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 # Constants
 MODEL = "nomic-embed-text"
 persist_directory = os.path.join(os.path.dirname(__file__), "chroma_db")
-UNSTRUCTURED_LOG_PATH = os.path.join(os.path.dirname(__file__), "unstructured/*training*.txt")
-STRUCTURED_CSV_PATH = os.path.join(os.path.dirname(__file__), "structured/*.csv")
+UNSTRUCTURED_LOG_PATH = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/*training*.txt")
+STRUCTURED_CSV_PATH = os.path.join(
+    os.path.dirname(__file__),
+    "structured/*.csv")
 
 # Initialize ChromaDB and Tokenizer
 client = chromadb.Client(chromadb.config.Settings(
@@ -33,8 +37,11 @@ else:
 tokenizer = tiktoken.get_encoding("cl100k_base")
 
 # Helper functions
+
+
 def count_tokens(text):
     return len(tokenizer.encode(text))
+
 
 def prepare_text_from_csv(file_path, chunk_size=1000):
     print("Reading csv in chunks at path:", file_path)
@@ -61,6 +68,7 @@ def create_embeddings_batch_ollama(text_batch):
         embeddings.append(response['embedding'])
     return embeddings
 
+
 def store_embeddings(batch, embeddings):
     ids = []  # List to store IDs
     documents = []  # List to store document texts
@@ -71,11 +79,14 @@ def store_embeddings(batch, embeddings):
     collection.add(ids=ids, documents=documents, embeddings=embeddings)
 
 # Main function to create and store embeddings
+
+
 def process_data():
     for file_path in []:
         for text_data in prepare_text_from_csv(file_path):
             batch = []
-            for text, token_count in tqdm(text_data, desc=f"Processing {file_path}"):
+            for text, token_count in tqdm(
+                    text_data, desc=f"Processing {file_path}"):
                 batch.append((text, token_count))
                 if len(batch) >= 3:
                     embeddings = create_embeddings_batch_ollama(batch)
@@ -86,6 +97,7 @@ def process_data():
                 store_embeddings(batch, embeddings)
 
     print("Embeddings stored in ChromaDB collection 'financial_fraud_embeddings'")
+
 
 # Run the process
 process_data()

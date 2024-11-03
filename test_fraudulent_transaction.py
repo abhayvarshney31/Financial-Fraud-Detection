@@ -10,9 +10,15 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 COLLECTION_NAME = "financial_fraud_embeddings_final"
 CHAT_MODEL_NAME = "mistral"
 EMBEDDING_MODEL_NAME = "nomic-embed-text"
-LOG_PATH_GOOD = os.path.join(os.path.dirname(__file__), "unstructured/testing/good/*.txt")
-LOG_PATH_FRAUDULENT_ATO = os.path.join(os.path.dirname(__file__), "unstructured/testing/fraudulent_ato/*.txt")
-LOG_PATH_FRAUDULENT_CNP = os.path.join(os.path.dirname(__file__), "unstructured/testing/fraudulent_cnp/*.txt")
+LOG_PATH_GOOD = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/testing/good/*.txt")
+LOG_PATH_FRAUDULENT_ATO = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/testing/fraudulent_ato/*.txt")
+LOG_PATH_FRAUDULENT_CNP = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/testing/fraudulent_cnp/*.txt")
 ID_RANGE_DUMP = os.path.join(os.path.dirname(__file__), "id_range.txt")
 
 persist_directory = os.path.join(os.path.dirname(__file__), "chroma_db")
@@ -27,12 +33,12 @@ collection = client.get_collection(name=COLLECTION_NAME)
 def anonymize_log(log_content):
     prompt = f"""
                 Given the following log content, perform these steps:
-                
+
                 1. Summarize to Behavior: Convert the actions into a behavior summary, formatted to indicate whether it was a fraudulent action or not, along with user behavior. But make sure the summary is as detailed as possible.
                 2. Anonymize: Replace any personal information (e.g., names, emails, addresses) with placeholders, like [name], [email]. A name can only be something like "User 0" so be sure to replace that with [name].
                 3. Replace Pronouns: Change all gendered pronouns to 'they' to remove gender references.
                 4. Remove any next lines symbols. A next line in the string can be in the format of '\\n' or '/n'.
-                
+
                 Here is the log content: {log_content}. Don't output anything besides the string output where each activity is separated by " * "".
             """
 
@@ -56,8 +62,12 @@ def parse_log_file(file_path):
 def parse_log_files(log_paths):
     text_data = []
     with ThreadPoolExecutor() as executor:
-        futures = [executor.submit(parse_log_file, file_path) for file_path in glob.glob(log_paths)]
-        for future in tqdm(as_completed(futures), total=len(futures), desc="Parsing log files"):
+        futures = [executor.submit(parse_log_file, file_path)
+                   for file_path in glob.glob(log_paths)]
+        for future in tqdm(
+                as_completed(futures),
+                total=len(futures),
+                desc="Parsing log files"):
             text_data.append(future.result())
     return text_data
 
@@ -65,7 +75,7 @@ def parse_log_files(log_paths):
 def load_id_ranges():
     with open(ID_RANGE_DUMP, "r") as file:
         id_ranges = json.load(file)
-    
+
     return id_ranges
 
 
@@ -74,13 +84,13 @@ def determine_is_fraud(input_embedding, id_ranges, top_n=1):
         query_embeddings=[input_embedding],
         n_results=top_n
     )
-    
+
     index = int(results['ids'][0][0])
-    
+
     for label, (start, end) in id_ranges.items():
         if start <= index <= end:
             return label != "good"
-    
+
     raise ValueError("Couldn't find id in range")
 
 
@@ -89,24 +99,41 @@ def get_embedding_for_input(text):
     return response['embedding']
 
 
-def analyze_result(good_transactions_logs, fraudulent_transactions_logs, id_ranges):
+def analyze_result(
+        good_transactions_logs,
+        fraudulent_transactions_logs,
+        id_ranges):
     y_true = []
     y_pred = []
 
     # Use ThreadPoolExecutor for embedding calculations and fraud detection
     with ThreadPoolExecutor() as executor:
         # Create a list of futures for good transactions
-        good_futures = {executor.submit(get_embedding_for_input, log): 0 for log in good_transactions_logs}
+        good_futures = {
+            executor.submit(
+                get_embedding_for_input,
+                log): 0 for log in good_transactions_logs}
         # Create a list of futures for fraudulent transactions
-        fraudulent_futures = {executor.submit(get_embedding_for_input, log): 1 for log in fraudulent_transactions_logs}
+        fraudulent_futures = {
+            executor.submit(
+                get_embedding_for_input,
+                log): 1 for log in fraudulent_transactions_logs}
 
-        for future in tqdm(as_completed(good_futures.keys()), total=len(good_futures), desc="Processing good transactions"):
+        for future in tqdm(
+                as_completed(
+                    good_futures.keys()),
+                total=len(good_futures),
+                desc="Processing good transactions"):
             embeddings = future.result()
             is_fraud = determine_is_fraud(embeddings, id_ranges)
             y_true.append(0)
             y_pred.append(0 if not is_fraud else 1)
 
-        for future in tqdm(as_completed(fraudulent_futures.keys()), total=len(fraudulent_futures), desc="Processing fraudulent transactions"):
+        for future in tqdm(
+                as_completed(
+                    fraudulent_futures.keys()),
+                total=len(fraudulent_futures),
+                desc="Processing fraudulent transactions"):
             embeddings = future.result()
             is_fraud = determine_is_fraud(embeddings, id_ranges)
             y_true.append(1)
@@ -130,14 +157,19 @@ def analyze_result(good_transactions_logs, fraudulent_transactions_logs, id_rang
     # Calculate success rate
     total_transactions = len(y_true)
     total_failures = fp + fn
-    success_rate = float(total_transactions - total_failures) / total_transactions
+    success_rate = float(total_transactions -
+                         total_failures) / total_transactions
     print(f"Success rate: {round(success_rate, 2)}")
 
 
 if __name__ == "__main__":
     id_ranges = load_id_ranges()
     good_transactions_logs = parse_log_files(LOG_PATH_GOOD)
-    fraudulent_transactions_logs = parse_log_files(LOG_PATH_FRAUDULENT_ATO) + parse_log_files(LOG_PATH_FRAUDULENT_CNP)
+    fraudulent_transactions_logs = parse_log_files(
+        LOG_PATH_FRAUDULENT_ATO) + parse_log_files(LOG_PATH_FRAUDULENT_CNP)
 
     print("Obtained result. Now proceeding with analyzing the result.")
-    analyze_result(good_transactions_logs, fraudulent_transactions_logs, id_ranges)
+    analyze_result(
+        good_transactions_logs,
+        fraudulent_transactions_logs,
+        id_ranges)
