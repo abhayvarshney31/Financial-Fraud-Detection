@@ -75,7 +75,7 @@ def determine_is_fraud(input_embedding, id_ranges, top_n=1):
     index = int(results['ids'][0][0])
     
     for label, (start, end) in id_ranges.items():
-        if index >= start or index <= end:
+        if start <= index <= end:
             return label != "good"
     
     raise ValueError("Couldn't find id in range")
@@ -97,14 +97,14 @@ def analyze_result(good_transactions_logs, fraudulent_transactions_logs, id_rang
         embeddings = get_embedding_for_input(good_transaction_logs)
         is_fraud = determine_is_fraud(embeddings, id_ranges)
         y_true.append(0)  # 0 represents legitimate
-        y_pred.append(int(is_fraud))
+        y_pred.append(0 if not is_fraud else 1)
 
     # Validate fraudulent transactions
     for fraudulent_transaction_logs in tqdm(fraudulent_transactions_logs, desc="Processing fraudulent transactions"):  # Adding tqdm for progress
         embeddings = get_embedding_for_input(fraudulent_transaction_logs)
         is_fraud = determine_is_fraud(embeddings, id_ranges)
         y_true.append(1)  # 1 represents fraudulent
-        y_pred.append(int(is_fraud))
+        y_pred.append(0 if not is_fraud else 1)
 
     # Calculate confusion matrix values
     tn, fp, fn, _ = confusion_matrix(y_true, y_pred).ravel()

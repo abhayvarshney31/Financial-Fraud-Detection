@@ -1,5 +1,0 @@
-1. [2010-05-27 07:08:45, User 0, CARD INDEX 4] Hazel Robinson (53) accessed her financial app dashboard on her device located at Latitude 34.15 and Longitude -117.76.
-2. [2010-05-27 07:09:03, User 0, CARD INDEX 4] Selected the 'Mastercard Debit (Prepaid)' card (Card Number 5722874738736011) for an upcoming transaction.
-3. [2010-05-27 07:09:18, User 0, CARD INDEX 4] Entered the CVV '75' for verification, but the system detected an incorrect CVV input.
-4. [2010-05-27 07:10:01, User 0, CARD INDEX 4] Hazel Robinson attempted to enter the CVV again, hoping to complete her transaction.
-5. [2
