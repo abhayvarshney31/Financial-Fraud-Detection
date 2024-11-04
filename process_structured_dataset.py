@@ -115,10 +115,12 @@ def process_data():
     Process data by reading CSV files, creating embeddings, and storing them.
     """
     # This is where you would specify the file paths to process
-    for file_path in glob.glob(STRUCTURED_CSV_PATH):  # Update to use structured CSV paths
+    for file_path in glob.glob(
+            STRUCTURED_CSV_PATH):  # Update to use structured CSV paths
         for text_data in prepare_text_from_csv(file_path):
             batch = []
-            for text, token_count in tqdm(text_data, desc=f"Processing {file_path}", leave=False):
+            for text, token_count in tqdm(
+                    text_data, desc=f"Processing {file_path}", leave=False):
                 batch.append((text, token_count))
                 if len(batch) >= 3:
                     embeddings = create_embeddings_batch_ollama(batch)

@@ -24,10 +24,11 @@ logging.basicConfig(
 
 CHAT_MODEL_NAME = "openchat"
 
+
 def generate_log_entry(user_id, user_type, behavior):
     """
     Generates a log entry indicating user behavior in a financial app.
-    
+
     Args:
         user_id (str): The ID of the user.
         behavior (str): The behavior to log.
@@ -56,7 +57,8 @@ def process_user_logs(user_id, user_type, behaviors):
     behavior_limit = 1  # Number of log entries for each user
 
     for _ in range(behavior_limit):
-        log_entry = generate_log_entry(user_id, user_type, random.choice(behaviors))
+        log_entry = generate_log_entry(
+            user_id, user_type, random.choice(behaviors))
         log_entries.append(log_entry)
 
     return {'user_id': user_id, 'log_entries': log_entries}
@@ -64,21 +66,28 @@ def process_user_logs(user_id, user_type, behaviors):
 
 def create_user_behavior_logs(users_df, transactions_df, total_users=100):
     user_classes = classify_users(users_df, transactions_df)
-    
+
     # Calculate number of fraudulent and non-fraudulent users
     num_fraudulent = total_users // 10  # 10% fraudulent
     num_non_fraudulent = total_users - num_fraudulent  # Remaining 90% non-fraudulent
 
     # Separate users by type
-    fraudulent_users = [user for user in users_df['Person'] if user_classes[user] == 'fraudulent']
-    non_fraudulent_users = [user for user in users_df['Person'] if user_classes[user] == 'normal']
+    fraudulent_users = [user for user in users_df['Person']
+                        if user_classes[user] == 'fraudulent']
+    non_fraudulent_users = [
+        user for user in users_df['Person'] if user_classes[user] == 'normal']
 
     # Randomly select the required number of users
-    selected_fraudulent_users = random.sample(fraudulent_users, min(num_fraudulent, len(fraudulent_users)))
-    selected_non_fraudulent_users = random.sample(non_fraudulent_users, min(num_non_fraudulent, len(non_fraudulent_users)))
-    
+    selected_fraudulent_users = random.sample(
+        fraudulent_users, min(
+            num_fraudulent, len(fraudulent_users)))
+    selected_non_fraudulent_users = random.sample(
+        non_fraudulent_users, min(
+            num_non_fraudulent, len(non_fraudulent_users)))
+
     selected_users = selected_fraudulent_users + selected_non_fraudulent_users
-    random.shuffle(selected_users)  # Shuffle to mix fraudulent and non-fraudulent users
+    # Shuffle to mix fraudulent and non-fraudulent users
+    random.shuffle(selected_users)
 
     # Define behaviors for fraudulent users
     fraud_behavior_ato = [
@@ -94,9 +103,8 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
         "Engaged in a series of failed login attempts before successfully accessing the account.",
         "Made a series of large withdrawals from different ATMs in a single day.",
         "Attempted to reset account credentials multiple times within minutes.",
-        "Suddenly logged in from a foreign country without prior travel notifications."
-    ]
-    
+        "Suddenly logged in from a foreign country without prior travel notifications."]
+
     fraud_behavior_cnp = [
         "Conducted several high-value purchases online using stolen credit card information.",
         "Purchased high-ticket items online using different shipping addresses.",
@@ -110,9 +118,8 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
         "Used similar email addresses across different accounts to evade detection.",
         "Purchased electronics with no intention of keeping them, returning items shortly after.",
         "Used stolen identities to create new accounts with financial institutions.",
-        "Frequented online gambling sites with large sums and quickly cashed out."
-    ]
-    
+        "Frequented online gambling sites with large sums and quickly cashed out."]
+
     # Separate behaviors for normal users
     normal_behaviors = [
         "Made a purchase at a grocery store with a loyalty card.",
@@ -135,8 +142,7 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
         "Set up alerts for unusual account activity to stay informed.",
         "Regularly compared insurance rates using the app's comparison tool.",
         "Tracked rewards points and redeemed them for cashback or discounts.",
-        "Monitored credit scores using the app and took steps to improve it."
-    ]
+        "Monitored credit scores using the app and took steps to improve it."]
 
     logs = []
 
@@ -149,14 +155,16 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
     with ThreadPoolExecutor() as executor:
         future_to_user = {
             executor.submit(process_user_logs, user_id, user_classes[user_id],
-                             fraud_behavior_ato if user_classes[user_id] == 'fraudulent' and random.choice(['ato', 'cnp']) == 'ato' 
-                             else fraud_behavior_cnp if user_classes[user_id] == 'fraudulent' 
-                             else normal_behaviors): user_id 
+                            fraud_behavior_ato if user_classes[user_id] == 'fraudulent' and random.choice(['ato', 'cnp']) == 'ato'
+                            else fraud_behavior_cnp if user_classes[user_id] == 'fraudulent'
+                            else normal_behaviors): user_id
             for user_id in selected_users
         }
 
         # Use tqdm to visualize progress
-        for future in tqdm(as_completed(future_to_user), total=len(future_to_user)):
+        for future in tqdm(
+                as_completed(future_to_user),
+                total=len(future_to_user)):
             logs.append(future.result())
 
     # Split logs into training and validation sets (70/30 split)
@@ -169,7 +177,8 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
     for log in training_logs:
         folder = './unstructured/good'
         if user_classes[log['user_id']] == 'fraudulent':
-            folder = './unstructured/fraudulent_ato' if random.choice(['ato', 'cnp']) == 'ato' else './unstructured/fraudulent_cnp'
+            folder = './unstructured/fraudulent_ato' if random.choice(
+                ['ato', 'cnp']) == 'ato' else './unstructured/fraudulent_cnp'
 
         with open(f'{folder}/user_behavior_logs_training_{log["user_id"]}_{timestamp}.txt', 'w') as f:
             f.write(f"User ID: {log['user_id']}\n")
@@ -180,7 +189,8 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
     for log in validation_logs:
         folder = './unstructured/good'
         if user_classes[log['user_id']] == 'fraudulent':
-            folder = './unstructured/fraudulent_ato' if random.choice(['ato', 'cnp']) == 'ato' else './unstructured/fraudulent_cnp'
+            folder = './unstructured/fraudulent_ato' if random.choice(
+                ['ato', 'cnp']) == 'ato' else './unstructured/fraudulent_cnp'
 
         with open(f'{folder}/user_behavior_logs_validation_{log["user_id"]}_{timestamp}.txt', 'w') as f:
             f.write(f"User ID: {log['user_id']}\n")
@@ -191,13 +201,19 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
     return logs  # Generate user behavior logs for a specified number of users
 
 # Function to classify users as normal or fraudulent
+
+
 def classify_users(users_df, transactions_df):
-    fraudulent_user_indices = transactions_df[transactions_df['Is Fraud?'] == 'Yes']['User']
+    fraudulent_user_indices = transactions_df[transactions_df['Is Fraud?']
+                                              == 'Yes']['User']
     fraudulent_users = set(users_df.loc[fraudulent_user_indices, 'Person'])
-    result = {person: 'fraudulent' if person in fraudulent_users else 'normal' for person in users_df['Person']}
+    result = {
+        person: 'fraudulent' if person in fraudulent_users else 'normal' for person in users_df['Person']}
     return result
+
 
 if __name__ == "__main__":
     users_df = pd.read_csv(USERS_DATASET)
     transactions_df = pd.read_csv(CREDIT_TRANSACTION_USER0_DATASET)
-    user_logs = create_user_behavior_logs(users_df, transactions_df, total_users=200)
+    user_logs = create_user_behavior_logs(
+        users_df, transactions_df, total_users=200)
