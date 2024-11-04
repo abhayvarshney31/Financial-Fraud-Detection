@@ -8,7 +8,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
 
-CREDIT_TRANSACTION_USER0_DATASET = os.path.join(
+CREDIT_TRANSACTION_DATASET = os.path.join(
     os.path.dirname(__file__),
     "structured/User0_credit_card_transactions.csv")
 USERS_DATASET = os.path.join(
@@ -200,8 +200,6 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
 
     return logs  # Generate user behavior logs for a specified number of users
 
-# Function to classify users as normal or fraudulent
-
 
 def classify_users(users_df, transactions_df):
     fraudulent_user_indices = transactions_df[transactions_df['Is Fraud?']
@@ -214,6 +212,10 @@ def classify_users(users_df, transactions_df):
 
 if __name__ == "__main__":
     users_df = pd.read_csv(USERS_DATASET)
-    transactions_df = pd.read_csv(CREDIT_TRANSACTION_USER0_DATASET)
+    transactions_df = pd.read_csv(CREDIT_TRANSACTION_DATASET)
     user_logs = create_user_behavior_logs(
         users_df, transactions_df, total_users=200)
+
+
+# isolation forest
+# cosine similarity = why is this the best option?

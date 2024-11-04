@@ -33,6 +33,7 @@ Then run:
 ollama pull openchat
 ollama pull llama3.2
 ollama pull nomic-embed-text
+ollama pull mistral
 ```
 ### 4. Install Required Python Packages
 
