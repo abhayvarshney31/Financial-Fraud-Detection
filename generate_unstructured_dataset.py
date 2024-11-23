@@ -31,7 +31,12 @@ logging.basicConfig(
 CHAT_MODEL_NAME = "openchat"
 
 
-def generate_log_entry(user_id, user_type, behavior, initial_context="", chunk_size=10):
+def generate_log_entry(
+        user_id,
+        user_type,
+        behavior,
+        initial_context="",
+        chunk_size=10):
     """
     Generates a log entry indicating user behavior in a financial app.
 
@@ -51,7 +56,8 @@ def generate_log_entry(user_id, user_type, behavior, initial_context="", chunk_s
             f"of type [{user_type}] showing their behavior: {behavior}. "
             "Each entry should add context to the previous ones. "
             "Maintain network and device information, timestamp each log, and make entries flow naturally and separated by next line.\n\n"
-            f"Previous logs:\n{log_entries[-1000:]}"  # Include only the last portion to give context
+            # Include only the last portion to give context
+            f"Previous logs:\n{log_entries[-1000:]}"
         )
         output = ollama.generate(model=CHAT_MODEL_NAME, prompt=prompt)
         log_entries += "\n" + output['response'].strip()
@@ -79,7 +85,10 @@ def process_user_logs(user_id, user_type, behaviors):
             user_id, user_type, random.choice(behaviors['behaviors']))
         log_entries.append(log_entry)
 
-    return {'user_id': user_id, 'log_entries': log_entries, 'log_type': behaviors['type']}
+    return {
+        'user_id': user_id,
+        'log_entries': log_entries,
+        'log_type': behaviors['type']}
 
 
 def create_user_behavior_logs(users_df, transactions_df, total_users=100):
@@ -198,26 +207,36 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
         "Opted into environmental initiatives to offset transaction carbon footprint.",
         "Applied for a travel insurance policy before a planned trip.",
         "Signed up for a beginner's guide to stock market investments.",
-        "Activated an international transaction feature for travel abroad."
-    ]
-
+        "Activated an international transaction feature for travel abroad."]
 
     logs = []
 
     # Create directories if they don't exist
-    os.makedirs(f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/fraudulent_ato', exist_ok=True)
-    os.makedirs(f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/fraudulent_cnp', exist_ok=True)
+    os.makedirs(
+        f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/fraudulent_ato',
+        exist_ok=True)
+    os.makedirs(
+        f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/fraudulent_cnp',
+        exist_ok=True)
     os.makedirs(f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/good', exist_ok=True)
 
     # Use ThreadPoolExecutor to process user logs in parallel
     with ThreadPoolExecutor() as executor:
         future_to_user = {
-            executor.submit(process_user_logs, user_id, user_classes[user_id],
-                            {'type': 'fraud_ato', 'behaviors': fraud_behavior_ato } if user_classes[user_id] == 'fraudulent' and random.choice(['ato', 'cnp']) == 'ato'
-                            else {'type': 'fraud_cnp', 'behaviors': fraud_behavior_cnp } if user_classes[user_id] == 'fraudulent'
-                            else {'type': 'normal', 'behaviors': normal_behaviors }): user_id
-            for user_id in selected_users
-        }
+            executor.submit(
+                process_user_logs,
+                user_id,
+                user_classes[user_id],
+                {
+                    'type': 'fraud_ato',
+                    'behaviors': fraud_behavior_ato} if user_classes[user_id] == 'fraudulent' and random.choice(
+                    [
+                        'ato',
+                        'cnp']) == 'ato' else {
+                        'type': 'fraud_cnp',
+                        'behaviors': fraud_behavior_cnp} if user_classes[user_id] == 'fraudulent' else {
+                            'type': 'normal',
+                    'behaviors': normal_behaviors}): user_id for user_id in selected_users}
 
         # Use tqdm to visualize progress
         for future in tqdm(

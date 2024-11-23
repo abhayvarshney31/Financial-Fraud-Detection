@@ -12,14 +12,23 @@ CHAT_MODEL_NAME = "gemma2-9b-it"
 EMBEDDING_MODEL_NAME = "nomic-embed-text"
 
 # Paths for log files
-LOG_PATH_GOOD = os.path.join(os.path.dirname(__file__), "unstructured/training/good/*.txt")
-LOG_PATH_FRAUDULENT_ATO = os.path.join(os.path.dirname(__file__), "unstructured/training/fraudulent_ato/*.txt")
-LOG_PATH_FRAUDULENT_CNP = os.path.join(os.path.dirname(__file__), "unstructured/training/fraudulent_cnp/*.txt")
+LOG_PATH_GOOD = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/training/good/*.txt")
+LOG_PATH_FRAUDULENT_ATO = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/training/fraudulent_ato/*.txt")
+LOG_PATH_FRAUDULENT_CNP = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/training/fraudulent_cnp/*.txt")
 ID_RANGE_DUMP = os.path.join(os.path.dirname(__file__), "id_range.txt")
 
 # Initialize ChromaDB
 persist_directory = os.path.join(os.path.dirname(__file__), "chroma_db")
-client = chromadb.Client(chromadb.config.Settings(chroma_db_impl="duckdb+parquet", persist_directory=persist_directory))
+client = chromadb.Client(
+    chromadb.config.Settings(
+        chroma_db_impl="duckdb+parquet",
+        persist_directory=persist_directory))
 
 # Check if collection exists; create if it doesn't
 if COLLECTION_NAME in [c.name for c in client.list_collections()]:
@@ -68,12 +77,15 @@ def create_combined_embedding(log_text, device_types, timestamps):
     text_embedding = get_embedding_for_input(log_text)
 
     # Metadata features
-    device_embeddings = [get_embedding_for_input(device) for device in device_types]
-    time_diff_vector = [get_embedding_for_input(timestamp) for timestamp in timestamps]
+    device_embeddings = [get_embedding_for_input(
+        device) for device in device_types]
+    time_diff_vector = [get_embedding_for_input(
+        timestamp) for timestamp in timestamps]
 
     # Concatenate to form combined embedding
     device_embeddings_flat = np.concatenate(device_embeddings)
-    combined_embedding = np.concatenate([text_embedding, device_embeddings_flat, time_diff_vector])
+    combined_embedding = np.concatenate(
+        [text_embedding, device_embeddings_flat, time_diff_vector])
     return combined_embedding.tolist()
 
 
@@ -128,6 +140,7 @@ def extract_ordered_timestamps(log_content):
     response = ollama.generate(model=CHAT_MODEL_NAME, prompt=prompt)
     return json.loads(response['response'])
 
+
 def parse_log_file(file_path, user_type):
     """
     Reads and anonymizes a log file.
@@ -141,7 +154,7 @@ def parse_log_file(file_path, user_type):
     with open(file_path, "r", encoding='latin-1', errors='replace') as file:
         log_content = file.read()
     anonymized_text = anonymize_log(log_content)
-    
+
     # Extract metadata (replace with actual extraction logic)
     device_types = extract_ordered_device_types(log_content)
     timestamps = extract_ordered_timestamps(log_content)
@@ -155,8 +168,15 @@ def parse_log_files(log_paths, user_type):
     """
     log_data = []
     with ThreadPoolExecutor() as executor:
-        futures = [executor.submit(parse_log_file, file_path, user_type) for file_path in glob.glob(log_paths)]
-        for future in tqdm(as_completed(futures), total=len(futures), desc="Parsing log files"):
+        futures = [
+            executor.submit(
+                parse_log_file,
+                file_path,
+                user_type) for file_path in glob.glob(log_paths)]
+        for future in tqdm(
+                as_completed(futures),
+                total=len(futures),
+                desc="Parsing log files"):
             log_data.append(future.result())
     return log_data
 
@@ -166,16 +186,23 @@ def store_embeddings_with_metadata(log_data):
     Stores embeddings and metadata in the ChromaDB collection.
     """
     ids, documents, embeddings, metadatas = [], [], [], []
-    
-    for idx, (log_text, device_types, timestamps, user_type) in enumerate(log_data):
-        embedding = create_combined_embedding(log_text, device_types, timestamps)
-        
+
+    for idx, (log_text, device_types, timestamps,
+              user_type) in enumerate(log_data):
+        embedding = create_combined_embedding(
+            log_text, device_types, timestamps)
+
         ids.append(str(idx))
         documents.append(log_text)
         embeddings.append(embedding)
-        metadatas.append({"device_types": device_types, "timestamps": timestamps, "user_type": user_type})
-    
-    collection.add(ids=ids, documents=documents, embeddings=embeddings, metadatas=metadatas)
+        metadatas.append({"device_types": device_types,
+                         "timestamps": timestamps, "user_type": user_type})
+
+    collection.add(
+        ids=ids,
+        documents=documents,
+        embeddings=embeddings,
+        metadatas=metadatas)
 
 
 if __name__ == "__main__":
@@ -183,9 +210,9 @@ if __name__ == "__main__":
     good_logs = parse_log_files(LOG_PATH_GOOD, "good")
     ato_logs = parse_log_files(LOG_PATH_FRAUDULENT_ATO, "ato_fraud")
     cnp_logs = parse_log_files(LOG_PATH_FRAUDULENT_CNP, "cnp_fraud")
-    
+
     # Combine all log data for storing
     all_log_data = good_logs + ato_logs + cnp_logs
-    
+
     # Store embeddings with metadata in ChromaDB
     store_embeddings_with_metadata(all_log_data)
