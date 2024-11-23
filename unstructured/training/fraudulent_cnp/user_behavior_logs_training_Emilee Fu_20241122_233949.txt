@@ -1,0 +1,175 @@
+User ID: Emilee Fu
+- 
+[2023-04-01 15:30:22] [fraudulent] Emilee Fu attempted to open an account with similar details to her existing accounts, providing a slightly modified name and address. The email address used was "emileefu@example[1].com".
+
+[2023-04-01 15:57:46] [fraudulent] Emilee Fu attempted to open another account with similar details, this time using the email address "emileefu@example[2].com". The application was denied due to suspicious activity.
+
+[2023-04-01 16:12:27] [fraudulent] Emilee Fu successfully opened an account with slightly altered information, using the email address "emileefu@example[3].com". This account was later flagged for potential fraud.
+
+[2023-04-02 08:05:19] [fraudulent] Emilee Fu attempted to open another account with her real name and address but used a different phone number. The email address used was "emileefu@example[4].com".
+
+[2023-04-02 08:36:51] [fraudulent] Emilee Fu successfully opened an account with the same name, address, and phone number as her existing accounts, using the email address "emileefu@example[5].com". This account showed unusual activity shortly after creation.
+
+[2023-04-03 10:00:09] [fraudulent] Emilee Fu attempted to open another account with similar details, providing a new phone number but using her real email address ("emileefu@example.com"). The application was flagged for review.
+
+[2023-04-03 10:57:14] [fraudulent] Emilee Fu opened an account with slightly altered information, using the email address "emileefu@example[6].com". This account was flagged for potential fraud and under review.
+
+[2023-04-04 11:25:03] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[7].com". The application was denied due to suspicious activity.
+
+[2023-04-04 11:59:28] [fraudulent] Emilee Fu successfully opened an account with her real name, address, and phone number, using the email address "emileefu@example[8].com". This account showed unusual activity shortly after creation.
+
+[2023-04-05 12:37:59] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[9].com". The application was flagged for review.
+
+[2023-04-06 13:08:07] [fraudulent] Emilee Fu successfully opened an account with her real name, address, and phone number, using the email address "emileefu@example[10].com". This account showed unusual activity shortly after creation.
+[2023-04-07 09:15:32] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[11].com". The application was flagged for review and subsequently denied.
+
+[2023-04-08 14:57:19] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[12].com". This account exhibited high transaction volume in a short period.
+
+[2023-04-09 15:30:48] [fraudulent] Emilee Fu successfully opened an account with her real name, address, and phone number, using the email address "emileefu@example[13].com". This account had a large amount of transactions originating from different countries.
+
+[2023-04-10 16:57:29] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[14].com". The application was flagged for review and ultimately denied.
+
+[2023-04-11 08:05:12] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[15].com". This account had multiple transactions made in quick succession that were later identified as fraudulent.
+
+[2023-04-12 09:18:45] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[16].com". The application was flagged for review and subsequently denied.
+
+[2023-04-13 10:37:59] [fraudulent] Emilee Fu successfully opened an account with her real name, address, and phone number, using the email address "emileefu@example[17].com". This account showed a pattern of high-risk transactions.
+
+[2023-04-14 11:59:28] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[18].com". The application was flagged for review and denied.
+
+[2023-04-15 13:30:07] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[19].com". This account had a sudden surge in transactions to multiple high-risk locations.
+[2023-04-16 14:58:12] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[20].com". The application was flagged for review and subsequently denied.
+
+[2023-04-17 09:55:43] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[21].com". This account showed multiple transactions to different high-risk countries.
+
+[2023-04-18 10:39:57] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[22].com". The application was flagged for review and denied.
+
+[2023-04-19 12:05:36] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[23].com". This account had transactions made to several online gaming sites.
+
+[2023-04-20 13:49:48] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[24].com". The application was flagged for review and denied.
+
+[2023-04-21 09:59:23] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[25].com". This account showed numerous transactions made to unknown international recipients.
+
+[2023-04-22 12:17:59] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[26].com". The application was flagged for review and denied.
+
+[2023-04-23 10:59:38] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[27].com". This account had multiple transactions to various high-risk online retailers.
+
+[2023-04-24 15:39:22] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[28].com". The application was flagged for review and subsequently denied.
+[2023-04-25 09:16:11] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[29].com". This account had multiple transactions to various high-risk online retailers in a short period.
+
+[2023-04-26 10:58:47] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[30].com". The application was flagged for review and denied.
+
+[2023-04-27 11:46:35] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[31].com". This account showed a pattern of rapid transactions to different high-risk online retailers.
+
+[2023-04-28 16:29:59] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[32].com". The application was flagged for review and denied.
+
+[2023-04-29 17:18:23] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[33].com". This account had transactions to known high-risk online retailers and a few legitimate businesses.
+
+[2023-04-30 18:57:35] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[34].com". The application was flagged for review and denied.
+
+[2023-05-01 09:56:11] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[35].com". This account had a series of transactions to various high-risk online retailers in a short time.
+
+[2023-05-02 13:47:46] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[36].com". The application was flagged for review and denied.
+[2023-05-03 19:18:58] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[37].com". This account had transactions to a mix of high-risk online retailers and some legitimate businesses, but the majority were suspicious.
+
+[2023-05-04 08:21:23] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[38].com". The application was flagged for review and denied.
+
+[2023-05-04 17:35:46] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[39].com". This account had a rapid series of transactions to different high-risk online retailers, causing concerns about money laundering.
+
+[2023-05-05 18:47:31] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[40].com". The application was flagged for review and denied.
+
+[2023-05-06 09:58:12] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[41].com". This account had transactions to high-risk online retailers and some legitimate businesses, but the pattern of activity indicated a potential money laundering scheme.
+
+[2023-05-06 19:08:37] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[42].com". The application was flagged for review and denied.
+
+[2023-05-07 10:09:53] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[43].com". This account had a series of transactions to various high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-07 18:25:46] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[44].com". The application was flagged for review and denied.
+
+[2023-05-08 09:10:21] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[45].com". This account had transactions to known high-risk online retailers and a few legitimate businesses, but the majority were suspicious.
+
+[2023-05-08 17:45:56] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[46].com". The application was flagged for review and denied.
+[2023-05-09 10:22:37] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[47].com". The account was flagged for review due to multiple similar accounts being opened in a short time.
+
+[2023-05-09 16:58:18] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[48].com". The application was flagged for review and denied.
+
+[2023-05-10 09:36:02] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[49].com". This account had transactions to known high-risk online retailers and a few legitimate businesses, but the majority were suspicious.
+
+[2023-05-10 17:32:23] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[50].com". The application was flagged for review and denied.
+
+[2023-05-11 10:47:56] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[51].com". The account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-11 18:41:39] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[52].com". The application was flagged for review and denied.
+
+[2023-05-12 09:56:04] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[53].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-12 18:03:47] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[54].com". The application was flagged for review and denied.
+
+[2023-05-13 10:11:38] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[55].com". The account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-13 18:37:52] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[56].com". The application was flagged for review and denied.
+[2023-05-14 09:32:27] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[57].com". The application was flagged for review and denied.
+
+[2023-05-14 18:39:13] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[58].com". The application was flagged for review and denied.
+
+[2023-05-15 10:23:45] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[59].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-15 18:56:59] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[60].com". The application was flagged for review and denied.
+
+[2023-05-16 10:48:17] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[61].com". The account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-16 19:14:23] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[62].com". The application was flagged for review and denied.
+
+[2023-05-17 10:39:38] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[63].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-17 19:48:54] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[64].com". The application was flagged for review and denied.
+[2023-05-18 09:52:09] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[65].com". The account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-18 19:15:22] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[66].com". The application was flagged for review and denied.
+
+[2023-05-19 10:38:47] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[67].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-19 20:04:08] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[68].com". The application was flagged for review and denied.
+
+[2023-05-20 10:31:33] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[69].com". The account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-20 19:48:19] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[70].com". The application was flagged for review and denied.
+
+[2023-05-21 10:26:04] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[71].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-21 19:58:22] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[72].com". The application was flagged for review and denied.
+[2023-05-22 10:18:09] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[73].com". The account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-22 19:36:34] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[74].com". The application was flagged for review and denied.
+
+[2023-05-23 10:05:19] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[75].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-23 19:47:38] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[76].com". The application was flagged for review and denied.
+
+[2023-05-24 10:33:08] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[77].com". The account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-24 19:58:45] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[78].com". The application was flagged for review and denied.
+
+[2023-05-25 10:26:14] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[79].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-25 19:48:22] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[80].com". The application was flagged for review and denied.
+[2023-05-26 10:22:39] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[81].com". This account showed a sudden increase in activity after being open for only a few hours, raising suspicions.
+
+[2023-05-26 23:14:56] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[82].com". The application was flagged for review and denied.
+
+[2023-05-27 10:49:02] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[83].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-27 21:31:19] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[84].com". The application was flagged for review and denied.
+
+[2023-05-28 10:27:34] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[85].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-28 19:57:48] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[86].com". The application was flagged for review and denied.
+
+[2023-05-29 10:42:21] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[87].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-29 21:15:55] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[88].com". The application was flagged for review and denied.
+
+[2023-05-30 10:47:19] [fraudulent] Emilee Fu opened an account with her real name, address, and phone number, using the email address "emileefu@example[89].com". This account had transactions to known high-risk online retailers in a short time, causing concerns about identity theft.
+
+[2023-05-30 19:58:24] [fraudulent] Emilee Fu attempted to open another account with similar details, using the email address "emileefu@example[90].com". The application was flagged for review and denied.
+

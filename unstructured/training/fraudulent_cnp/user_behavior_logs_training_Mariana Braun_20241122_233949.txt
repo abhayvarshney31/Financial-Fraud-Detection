@@ -1,0 +1,160 @@
+User ID: Mariana Braun
+- 
+[2023-01-15 08:45:22] [fraudulent] User Mariana Braun opened a new account with the username "mariana_b7". The account was created using an IP address located in Miami, Florida. Device information shows a new device with model "Lenovo ThinkPad T430".
+
+[2023-01-15 09:12:35] [fraudulent] Mariana Braun created another account named "mariana_b8" just 27 minutes after the previous one. The IP address is from Los Angeles, California, and device information indicates a different device model "Dell Inspiron 15".
+
+[2023-01-15 10:40:59] [fraudulent] Account "mariana_b9" was created by Mariana Braun with the same first and last name. The IP address is from New York City, New York, and the device used was an "Apple MacBook Air".
+
+[2023-01-16 07:23:25] [fraudulent] Mariana Braun opened a new account called "mariana_b10", this time with a different email address. The IP address is from Chicago, Illinois, and the device used was an "Asus ZenBook UX325".
+
+[2023-01-16 08:07:49] [fraudulent] Mariana Braun opened another account with similar details, named "mariana_b11". The IP address is from Dallas, Texas, and the device used was an "HP Spectre x360".
+
+[2023-01-17 09:32:57] [fraudulent] Mariana Braun opened a new account named "mariana_b12" with similar details. The IP address is from Atlanta, Georgia, and the device used was an "Acer Swift 5".
+
+[2023-01-18 10:05:26] [fraudulent] Another account opened by Mariana Braun, called "mariana_b13", with similar details. The IP address is from Boston, Massachusetts, and the device used was an "LG Gram 14".
+
+[2023-01-19 08:57:34] [fraudulent] Mariana Braun created a new account named "mariana_b14" with similar details. The IP address is from Denver, Colorado, and the device used was a "Samsung Galaxy Book Pro".
+
+[2023-01-20 09:26:57] [fraudulent] Mariana Braun opened another account named "mariana_b15" with similar details. The IP address is from Phoenix, Arizona, and the device used was a "Toshiba Portege Z30-A".
+
+[2023-01-21 08:49:13] [fraudulent] Mariana Braun created the last account for now, called "mariana_b16", with similar details. The IP address is from Seattle, Washington, and the device used was a "Microsoft Surface Pro 7".
+[2023-01-22 07:05:02] [fraudulent] Mariana Braun attempted to open another account named "mariana_b17" with similar details. The IP address is from Dallas, Texas, and the device used was an "HP Spectre x360".
+
+[2023-01-23 10:49:35] [fraudulent] Mariana Braun opened a new account named "mariana_b18" with similar details. The IP address is from Miami, Florida, and the device used was an "Apple MacBook Air M1".
+
+[2023-01-24 09:50:50] [fraudulent] Mariana Braun created a new account named "mariana_b19" with similar details. The IP address is from Las Vegas, Nevada, and the device used was an "Asus ZenBook Pro Duo".
+
+[2023-01-25 10:47:08] [fraudulent] Mariana Braun attempted to open another account named "mariana_b20" with similar details. The IP address is from Portland, Oregon, and the device used was a "Dell XPS 13".
+
+[2023-01-26 09:58:45] [fraudulent] Mariana Braun created a new account named "mariana_b21" with similar details. The IP address is from Chicago, Illinois, and the device used was an "Lenovo ThinkPad X1 Carbon".
+
+[2023-01-27 10:56:32] [fraudulent] Mariana Braun opened a new account named "mariana_b22" with similar details. The IP address is from San Francisco, California, and the device used was an "Razer Blade Stealth".
+
+[2023-01-28 09:45:17] [fraudulent] Mariana Braun attempted to open another account named "mariana_b23" with similar details. The IP address is from Atlanta, Georgia, and the device used was an "Acer Swift 5".
+
+[2023-01-29 10:48:04] [fraudulent] Mariana Braun created a new account named "mariana_b24" with similar details. The IP address is from Boston, Massachusetts, and the device used was an "LG Gram 14".
+
+[2023-01-30 09:50:59] [fraudulent] Mariana Braun opened a new account named "mariana_b25" with similar details. The IP address is from Denver, Colorado, and the device used was a "Samsung Galaxy Book Pro".
+
+[2023-01-31 08:57:34] [fraudulent] Mariana Braun created a new account named "mariana_b26" with similar details. The IP address is from Phoenix, Arizona, and the device used was a "Toshiba Portege Z30-A".
+[2023-02-01 09:15:21] [fraudulent] Mariana Braun attempted to open another account named "mariana_b27" with similar details. The IP address is from Dallas, Texas, and the device used was a "Lenovo ThinkPad X1 Carbon".
+
+[2023-02-02 09:34:08] [fraudulent] Mariana Braun created a new account named "mariana_b28" with similar details. The IP address is from Chicago, Illinois, and the device used was an "HP EliteBook x360".
+
+[2023-02-03 10:01:45] [fraudulent] Mariana Braun opened a new account named "mariana_b29" with similar details. The IP address is from Miami, Florida, and the device used was an "Asus ZenBook Pro Duo".
+
+[2023-02-04 10:27:56] [fraudulent] Mariana Braun attempted to open another account named "mariana_b30" with similar details. The IP address is from Seattle, Washington, and the device used was an "Apple MacBook Pro".
+
+[2023-02-05 10:03:17] [fraudulent] Mariana Braun created a new account named "mariana_b31" with similar details. The IP address is from Los Angeles, California, and the device used was an "Acer Predator Triton 700".
+
+[2023-02-06 09:45:38] [fraudulent] Mariana Braun opened a new account named "mariana_b32" with similar details. The IP address is from New York City, New York, and the device used was an "Microsoft Surface Book 3".
+
+[2023-02-07 10:00:19] [fraudulent] Mariana Braun attempted to open another account named "mariana_b33" with similar details. The IP address is from Orlando, Florida, and the device used was a "Dell XPS 15".
+
+[2023-02-08 09:55:24] [fraudulent] Mariana Braun created a new account named "mariana_b34" with similar details. The IP address is from Minneapolis, Minnesota, and the device used was an "Alienware m15 R3".
+
+[2023-02-09 10:27:56] [fraudulent] Mariana Braun opened a new account named "mariana_b35" with similar details. The IP address is from Austin, Texas, and the device used was an "Razer Blade 17".
+[2023-02-10 11:05:09] [fraudulent] Mariana Braun attempted to open another account named "mariana_b36" with similar details. The IP address is from Atlanta, Georgia, and the device used was a "MacBook Pro 16".
+
+[2023-02-11 08:40:57] [fraudulent] Mariana Braun created a new account named "mariana_b37" with similar details. The IP address is from Chicago, Illinois, and the device used was an "ASUS ROG Zephyrus G14".
+
+[2023-02-12 09:28:12] [fraudulent] Mariana Braun opened a new account named "mariana_b38" with similar details. The IP address is from Denver, Colorado, and the device used was an "HP Omen 17".
+
+[2023-02-13 10:05:49] [fraudulent] Mariana Braun attempted to open another account named "mariana_b39" with similar details. The IP address is from Seattle, Washington, and the device used was a "Lenovo Legion Y740".
+
+[2023-02-14 08:50:27] [fraudulent] Mariana Braun created a new account named "mariana_b40" with similar details. The IP address is from Phoenix, Arizona, and the device used was an "MSI GE66 Raider".
+
+[2023-02-15 09:30:18] [fraudulent] Mariana Braun opened a new account named "mariana_b41" with similar details. The IP address is from San Diego, California, and the device used was a "Gigabyte Aero 17".
+
+[2023-02-16 10:05:45] [fraudulent] Mariana Braun attempted to open another account named "mariana_b42" with similar details. The IP address is from Dallas, Texas, and the device used was a "Samsung Galaxy Book Pro".
+
+[2023-02-17 08:59:09] [fraudulent] Mariana Braun created a new account named "mariana_b43" with similar details. The IP address is from Portland, Oregon, and the device used was an "Huawei MateBook X Pro".
+[2023-02-18 10:15:22] [fraudulent] Mariana Braun opened a new account named "mariana_b44" with similar details. The IP address is from Salt Lake City, Utah, and the device used was an "Asus ROG Zephyrus G14".
+
+[2023-02-19 09:08:17] [fraudulent] Mariana Braun attempted to open another account named "mariana_b45" with similar details. The IP address is from Denver, Colorado, and the device used was an "Apple MacBook Pro".
+
+[2023-02-20 10:30:46] [fraudulent] Mariana Braun created a new account named "mariana_b46" with similar details. The IP address is from Minneapolis, Minnesota, and the device used was an "Acer Predator Triton 500".
+
+[2023-02-21 08:29:23] [fraudulent] Mariana Braun opened a new account named "mariana_b47" with similar details. The IP address is from Atlanta, Georgia, and the device used was an "Eluktronics P650".
+
+[2023-02-22 10:18:08] [fraudulent] Mariana Braun attempted to open another account named "mariana_b48" with similar details. The IP address is from Detroit, Michigan, and the device used was an "Alienware M17 R5".
+
+[2023-02-23 09:36:39] [fraudulent] Mariana Braun created a new account named "mariana_b49" with similar details. The IP address is from Indianapolis, Indiana, and the device used was an "Lenovo ThinkPad X1 Extreme".
+
+[2023-02-24 10:50:07] [fraudulent] Mariana Braun opened a new account named "mariana_b50" with similar details. The IP address is from Jacksonville, Florida, and the device used was an "Razer Blade 15".
+
+[2023-02-25 09:47:31] [fraudulent] Mariana Braun attempted to open another account named "mariana_b51" with similar details. The IP address is from San Antonio, Texas, and the device used was a "Dell XPS 15".
+
+[2023-02-26 10:02:49] [fraudulent] Mariana Braun created a new account named "mariana_b52" with similar details. The IP address is from Nashville, Tennessee, and the device used was an "HP Omen 17".
+[2023-02-27 08:16:23] [fraudulent] Mariana Braun attempted to open another account named "mariana_b53" with similar details. The IP address is from Charlotte, North Carolina, and the device used was an "ASUS ROG Zephyrus G14".
+
+[2023-02-28 07:30:54] [fraudulent] Mariana Braun created a new account named "mariana_b54" with similar details. The IP address is from Atlanta, Georgia, and the device used was a "Gigabyte Aero 15".
+
+[2023-03-01 08:49:36] [fraudulent] Mariana Braun attempted to open another account named "mariana_b55" with similar details. The IP address is from Austin, Texas, and the device used was an "Eluktronics MAX-15".
+
+[2023-03-02 07:54:49] [fraudulent] Mariana Braun created a new account named "mariana_b56" with similar details. The IP address is from Denver, Colorado, and the device used was an "MSI GT76 Titan".
+
+[2023-03-03 10:08:43] [fraudulent] Mariana Braun attempted to open another account named "mariana_b57" with similar details. The IP address is from Seattle, Washington, and the device used was a "Razer Blade 17".
+
+[2023-03-04 09:18:55] [fraudulent] Mariana Braun created a new account named "mariana_b58" with similar details. The IP address is from San Jose, California, and the device used was an "Alienware Area-51m".
+
+[2023-03-05 09:59:47] [fraudulent] Mariana Braun attempted to open another account named "mariana_b59" with similar details. The IP address is from Portland, Oregon, and the device used was an "Gigabyte Aero 17".
+
+[2023-03-06 08:49:12] [fraudulent] Mariana Braun created a new account named "mariana_b60" with similar details. The IP address is from Tampa, Florida, and the device used was an "Lenovo Legion Y740".
+
+[2023-03-07 09:50:51] [fraudulent] Mariana Braun attempted to open another account named "mariana_b61" with similar details. The IP address is from Phoenix, Arizona, and the device used was an "ASUS ROG Zephyrus S".
+
+[2023-03-08 09:15:14] [fraudulent] Mariana Braun created a new account named "mariana_b62" with similar details. The IP address is from Las Vegas, Nevada, and the device used was an "MSI GS75 Stealth".
+[2023-03-08 10:51:36] [fraudulent] Mariana Braun attempted to open another account named "mariana_b63" with similar details. The IP address is from Sacramento, California, and the device used was an "Razer Blade Pro".
+
+[2023-03-09 10:35:08] [fraudulent] Mariana Braun created a new account named "mariana_b64" with similar details. The IP address is from Denver, Colorado, and the device used was an "Dell Alienware m17 R4".
+
+[2023-03-10 09:58:23] [fraudulent] Mariana Braun attempted to open another account named "mariana_b65" with similar details. The IP address is from Atlanta, Georgia, and the device used was an "HP Omen X 2S".
+
+[2023-03-11 10:49:57] [fraudulent] Mariana Braun created a new account named "mariana_b66" with similar details. The IP address is from Dallas, Texas, and the device used was an "Gigabyte Aero 15".
+
+[2023-03-12 11:07:40] [fraudulent] Mariana Braun attempted to open another account named "mariana_b67" with similar details. The IP address is from Seattle, Washington, and the device used was an "Acer Predator Triton 500".
+
+[2023-03-13 10:58:34] [fraudulent] Mariana Braun created a new account named "mariana_b68" with similar details. The IP address is from Miami, Florida, and the device used was an "MSI GE76 Raider".
+
+[2023-03-14 10:15:29] [fraudulent] Mariana Braun attempted to open another account named "mariana_b69" with similar details. The IP address is from Chicago, Illinois, and the device used was an "Asus ROG Zephyrus M".
+
+[2023-03-15 10:40:15] [fraudulent] Mariana Braun created a new account named "mariana_b70" with similar details. The IP address is from Minneapolis, Minnesota, and the device used was an "Eluktronics MAX-15".
+[2023-03-16 09:56:02] [fraudulent] Mariana Braun attempted to open another account named "mariana_b71" with similar details. The IP address is from Atlanta, Georgia, and the device used was a "Gigabyte Aero 15X".
+
+[2023-03-17 11:01:48] [fraudulent] Mariana Braun created a new account named "mariana_b72" with similar details. The IP address is from San Francisco, California, and the device used was an "Razer Blade 15".
+
+[2023-03-18 10:52:34] [fraudulent] Mariana Braun attempted to open another account named "mariana_b73" with similar details. The IP address is from Denver, Colorado, and the device used was an "Lenovo Legion Y740".
+
+[2023-03-19 11:15:17] [fraudulent] Mariana Braun created a new account named "mariana_b74" with similar details. The IP address is from Los Angeles, California, and the device used was an "Alienware M15 R3".
+
+[2023-03-20 10:28:49] [fraudulent] Mariana Braun attempted to open another account named "mariana_b75" with similar details. The IP address is from Austin, Texas, and the device used was a "Dell G5 15 SE".
+
+[2023-03-21 11:46:24] [fraudulent] Mariana Braun created a new account named "mariana_b76" with similar details. The IP address is from Boston, Massachusetts, and the device used was an "HP Omen 15".
+
+[2023-03-22 10:59:58] [fraudulent] Mariana Braun attempted to open another account named "mariana_b77" with similar details. The IP address is from Washington, D.C., and the device used was a "Samsung Galaxy Book Pro".
+
+[2023-03-23 11:36:54] [fraudulent] Mariana Braun created a new account named "mariana_b78" with similar details. The IP address is from Portland, Oregon, and the device used was an "Asus ZenBook Pro Duo".
+
+[2023-03-24 10:09:09] [fraudulent] Mariana Braun attempted to open another account named "mariana_b79" with similar details. The IP address is from New York City, New York, and the device used was an "Acer Predator Helios 300".
+
+[2023-03-25 10:52:48] [fraudulent] Mariana Braun created a new account named "mariana_b80" with similar details. The IP address is from Philadelphia, Pennsylvania, and the device used was a "Microsoft Surface Book 3".
+[2023-03-26 11:27:35] [fraudulent] Mariana Braun attempted to open another account named "mariana_b81" with similar details. The IP address is from Chicago, Illinois, and the device used was a "Dell XPS 15".
+
+[2023-03-27 10:04:01] [fraudulent] Mariana Braun created a new account named "mariana_b82" with similar details. The IP address is from Atlanta, Georgia, and the device used was an "Lenovo ThinkPad X1 Extreme".
+
+[2023-03-28 11:50:14] [fraudulent] Mariana Braun attempted to open another account named "mariana_b83" with similar details. The IP address is from Los Angeles, California, and the device used was an "HP Spectre x360".
+
+[2023-03-29 10:34:07] [fraudulent] Mariana Braun created a new account named "mariana_b84" with similar details. The IP address is from Miami, Florida, and the device used was an "Apple MacBook Pro 16".
+
+[2023-03-30 10:57:49] [fraudulent] Mariana Braun attempted to open another account named "mariana_b85" with similar details. The IP address is from Dallas, Texas, and the device used was a "Gigabyte Aero 15".
+
+[2023-03-31 10:24:14] [fraudulent] Mariana Braun created a new account named "mariana_b86" with similar details. The IP address is from San Francisco, California, and the device used was an "Asus ROG Zephyrus M".
+
+[2023-04-01 10:59:43] [fraudulent] Mariana Braun attempted to open another account named "mariana_b87" with similar details. The IP address is from Seattle, Washington, and the device used was a "Razer Blade 15".
+
+[2023-04-02 10:31:31] [fraudulent] Mariana Braun created a new account named "mariana_b88" with similar details. The IP address is from Denver, Colorado, and the device used was an "Acer Nitro 5".
+
+[2023-04-03 11:06:17] [fraudulent] Mariana Braun attempted to open another account named "mariana_b89" with similar details. The IP address is from San Diego, California, and the device used was a "MSI GS65 Stealth".
+

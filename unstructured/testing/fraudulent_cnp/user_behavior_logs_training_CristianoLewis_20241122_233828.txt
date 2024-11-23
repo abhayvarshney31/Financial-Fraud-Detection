@@ -1,0 +1,471 @@
+User ID: Cristiano Lewis
+- 
+[2023-01-26 12:35:28] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: High-value purchase detected on user's account - $500 worth of designer sunglasses from an unknown online retailer. Credit card details seem to be stolen. Investigation required.
+
+[2023-01-27 14:48:09] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Multiple high-value purchases detected on user's account - $3500 spent at various online electronics stores. Credit card details appear to be stolen or compromised. Further investigation required.
+
+[2023-01-28 16:23:40] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Suspicious login activity detected on user's account from an unknown location - IP address: 93.184.216.10. Credit card transactions stopped. Immediate action required.
+
+[2023-01-29 02:15:32] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Multiple high-value transactions detected on user's account - $4000 spent at online luxury fashion stores. Stolen credit card details suspected. Account suspended pending investigation.
+
+[2023-01-30 17:45:18] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 192.168.1.1. Multiple high-value transactions made. Credit card details appear to be stolen or compromised. Account locked. Emergency notification sent.
+
+[2023-01-31 10:35:43] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: High-value purchase detected on user's account - $2500 worth of jewelry from an unknown online store. Stolen credit card details confirmed. Law enforcement notified.
+
+[2023-02-01 14:22:27] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Multiple unauthorized charges detected on user's account - $5000 spent at online gaming platforms. Stolen credit card details confirmed. Account terminated and funds refunded.
+
+[2023-02-02 16:38:41] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Suspicious login attempt detected on user's account from a different IP address - 55.555.55.55. Multiple high-value transactions attempted but blocked. Account temporarily restricted. Investigation ongoing.
+
+[2023-02-03 18:45:06] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 195.123.45.67. Multiple high-value transactions attempted but blocked. Account temporarily restricted. Further investigation required.
+
+[2023-02-04 12:35:43] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: High-value purchase detected on user's account - $3000 worth of electronics from an unknown online store. Stolen credit card details confirmed. Account terminated and funds refunded.
+[2023-02-05 17:28:32] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Multiple unauthorized transactions detected on user's account - $5000 worth of jewelry and luxury goods from various online stores. Stolen credit card details confirmed. Account permanently suspended.
+
+[2023-02-06 08:12:17] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 203.045.15.23. High-value purchase attempted but blocked - $8000 vacation package. Account under review.
+
+[2023-02-07 14:56:49] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 192.168.0.1. Multiple high-value transactions attempted but blocked - $5000 in airline tickets and hotel reservations. Account frozen until further notice.
+
+[2023-02-08 07:34:08] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 239.5.76.34. High-value purchase attempted but blocked - $10000 in luxury watches and designer clothing. Account under investigation.
+
+[2023-02-09 13:05:36] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 240.139.65.8. Multiple high-value transactions attempted but blocked - $15000 worth of art and antiques. Account restricted until further notice.
+
+[2023-02-10 05:27:53] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 255.255.255.255. High-value purchase attempted but blocked - $20000 in real estate investments. Account terminated and funds frozen.
+
+[2023-02-11 16:40:27] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 173.195.142.25. Multiple high-value transactions attempted but blocked - $25000 in cash deposits to various bank accounts. Account permanently suspended.
+
+[2023-02-12 06:59:14] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 31.13.149.66. High-value purchase attempted but blocked - $30000 in cryptocurrency investments. Account under review and further action required.
+
+[2023-02-13 18:10:56] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 53.93.163.22. Multiple high-value transactions attempted but blocked - $35000 in donations to various charities. Account temporarily restricted and investigation ongoing.
+[2023-02-14 14:48:17] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Public Coffee Shop (SSID: CoffeeShopFreeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 78.13.198.10. High-value purchases attempted but blocked - $40000 in luxury items from an online store. Account under investigation and additional security measures implemented.
+
+[2023-02-15 22:22:02] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - Verizon (APN: WM.VZANT.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 159.13.239.3. Multiple high-value transfers attempted but blocked - $50000 sent to unknown recipients. Account frozen and emergency contact notified.
+
+[2023-02-16 08:15:41] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Home Network (SSID: HomeWiFi)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 193.12.174.12. High-value purchases attempted but blocked - $60000 in electronic gadgets and appliances. Account permanently suspended and law enforcement notified.
+
+[2023-02-17 15:38:29] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Public Library (SSID: FreePublicInternet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 93.22.156.21. Multiple high-value withdrawals attempted but blocked - $70000 from the user's savings account. Account terminated and all devices quarantined for further analysis.
+
+[2023-02-18 19:45:13] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - AT&T (APN: ATT.WAP.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 239.56.232.9. High-value transactions attempted but blocked - $80000 in real estate investments. Account permanently suspended and financial institutions alerted.
+
+[2023-02-19 04:10:32] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWISLAPTOP123)
+Network: Wifi - Airport Lounge (SSID: FreeWiFiLoungelA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 35.94.184.5. High-value purchases attempted but blocked - $90000 in luxury cars and jewelry. Account permanently suspended and all devices replaced.
+
+[2023-02-20 10:20:55] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. High-value transactions attempted but blocked - $100000 in stocks and bonds. Account permanently suspended and financial institutions alerted.
+
+[2023-02-21 08:47:42] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - T-Mobile (APN: GPRS.WAP.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 39.53.33.66. Multiple high-value transfers attempted but blocked - $110000 sent to unknown recipients. Account permanently suspended and emergency contact notified.
+[2023-02-22 19:35:23] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. High-value purchases attempted but blocked - $120000 in gift cards. Account permanently suspended and law enforcement notified.
+
+[2023-02-23 04:12:07] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value transactions attempted but blocked - $130000 in cryptocurrency. Account permanently suspended and asset recovery initiated.
+
+[2023-02-24 08:57:45] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - T-Mobile (APN: GPRS.WAP.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value transactions attempted but blocked - $140000 in international wire transfers. Account permanently suspended and financial institutions alerted.
+
+[2023-02-25 16:38:09] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. High-value purchases attempted but blocked - $150000 in luxury goods and services. Account permanently suspended and credit rating agencies notified.
+
+[2023-02-26 09:48:22] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value transactions attempted but blocked - $160000 in real estate property purchases. Account permanently suspended and property listings withdrawn.
+
+[2023-02-27 14:37:51] - Type: Fraudulent
+Device: Cristiano Lewis's phone (IMEI: 123456789012345)
+Network: Mobile Network - T-Mobile (APN: GPRS.WAP.DATA)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. High-value transfers attempted but blocked - $170000 to unknown recipients. Account permanently suspended and funds seized by financial institutions.
+
+[2023-02-28 04:22:18] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. High-value loans attempted but blocked - $180000 in personal loans. Account permanently suspended and credit rating agencies notified.
+
+[2023-02-28 19:43:09] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. High-value donations attempted but blocked - $190000 to unknown charities. Account permanently suspended and tax authorities notified.
+[2023-03-01 02:57:45] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWIPHONE456)
+Network: Mobile Network - Cristiano's Carrier (MNC: 262, MCC: 310)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value international wire transfers attempted but blocked - $250,000 total. Account permanently suspended and financial institutions notified.
+
+[2023-03-01 14:32:22] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value online purchases attempted but blocked - $320,000 in total. Account permanently suspended and credit card companies notified.
+
+[2023-03-03 00:45:08] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value investment accounts attempted to be opened but blocked. Account permanently suspended and securities regulators notified.
+
+[2023-03-03 17:58:41] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWIPHONE456)
+Network: Mobile Network - Cristiano's Carrier (MNC: 262, MCC: 310)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value real estate transactions attempted but blocked. Account permanently suspended and real estate agencies notified.
+
+[2023-03-05 04:36:18] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value gift cards purchased but blocked. Account permanently suspended and gift card vendors notified.
+
+[2023-03-05 18:23:45] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value cryptocurrency transactions attempted but blocked. Account permanently suspended and financial authorities notified.
+
+[2023-03-07 01:26:38] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWIPHONE456)
+Network: Mobile Network - Cristiano's Carrier (MNC: 262, MCC: 310)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value gift certificates purchased but blocked. Account permanently suspended and merchants notified.
+
+[2023-03-07 18:47:04] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value travel bookings attempted but blocked. Account permanently suspended and travel agencies notified.
+
+[2023-03-09 03:37:15] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value hotel reservations attempted but blocked. Account permanently suspended and hotel chains notified.
+[2023-03-10 08:27:26] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWIPHONE456)
+Network: Mobile Data - Cristiano's Mobile Network (Carrier: FastNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 192.135.232.15. Multiple high-value luxury items purchased online but blocked. Account permanently suspended and e-commerce platforms notified.
+
+[2023-03-11 12:47:38] - Type: Fraudulent
+Device: Cristiano Lewis's gaming PC (Serial Number: LEWGAMEPC789)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 51.93.190.19. Multiple high-value gift cards purchased online but blocked. Account permanently suspended and gift card vendors notified.
+
+[2023-03-12 17:07:49] - Type: Fraudulent
+Device: Cristiano Lewis's secondary laptop (Serial Number: LEWSECLAP1)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 73.99.158.21. Multiple high-value cryptocurrency transactions attempted but blocked. Account permanently suspended and financial institutions notified.
+
+[2023-03-14 00:17:50] - Type: Fraudulent
+Device: Cristiano Lewis's smart TV (Serial Number: LEWTV1011)
+Network: Wifi - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 51.93.190.19. Multiple high-value investment accounts accessed but blocked. Account permanently suspended and financial institutions notified.
+
+[2023-03-15 08:28:01] - Type: Fraudulent
+Device: Cristiano Lewis's smartwatch (Serial Number: LEWATCH23)
+Network: Mobile Data - Cristiano's Mobile Network (Carrier: FastNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 95.108.23.22. Multiple high-value donations made to charities but blocked. Account permanently suspended and charity organizations notified.
+
+[2023-03-16 14:38:02] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value app store purchases made but blocked. Account permanently suspended and app stores notified.
+
+[2023-03-17 20:48:03] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value mobile app subscriptions made but blocked. Account permanently suspended and app vendors notified.
+[2023-03-18 02:07:45] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWIPHONE654)
+Network: Mobile Network - Cristiano's Carrier (APN: CLCarrier)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 51.93.190.19. Multiple high-value online purchases made but blocked. Bank notified and transactions reversed.
+
+[2023-03-18 04:53:21] - Type: Fraudulent
+Device: Unknown device (Serial Number: Unknown)
+Network: VPN Network - PrivateVPN (SSID: PrivateVPN)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 39.53.33.66. Multiple high-value online transactions made but blocked. Credit card companies notified and accounts frozen.
+
+[2023-03-18 06:47:59] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. High-value money transfer made to unknown recipient but blocked. Bank notified and funds recovered.
+
+[2023-03-18 08:02:12] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. High-value money transfer made to unknown recipient but blocked. Bank notified and funds recovered.
+
+[2023-03-18 09:16:25] - Type: Fraudulent
+Device: Unknown device (Serial Number: Unknown)
+Network: Mobile Network - Cristiano's Carrier (APN: CLCarrier)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 39.53.33.66. High-value money transfer made to unknown recipient but blocked. Bank notified and funds recovered.
+
+[2023-03-18 10:31:38] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWIPHONE654)
+Network: Mobile Network - Cristiano's Carrier (APN: CLCarrier)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 51.93.190.19. High-value money transfer made to unknown recipient but blocked. Bank notified and funds recovered.
+
+[2023-03-18 11:46:51] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value money transfers made to unknown recipients but blocked. Bank notified and funds recovered.
+
+[2023-03-18 12:01:04] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value money transfers made to unknown recipients but blocked. Bank notified and funds recovered.
+[2023-03-18 13:06:27] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWISEL456)
+Network: Mobile Network - Cristiano's Mobile Provider (Network Name: CristianoMobile)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. High-value online purchases made using stolen credit card information, including a $2,000 diamond ring and $5,000 luxury watch.
+
+[2023-03-18 14:21:43] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value online purchases made using stolen credit card information, including a $1,500 designer handbag and $4,000 smart TV.
+
+[2023-03-18 15:37:09] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value online purchases made using stolen credit card information, including a $3,000 gaming console and $6,000 designer wardrobe.
+
+[2023-03-18 16:52:34] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWISEL456)
+Network: Mobile Network - Cristiano's Mobile Provider (Network Name: CristianoMobile)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. High-value online transactions made using stolen credit card information, including a $10,000 luxury vacation package and $8,000 in cash withdrawals.
+
+[2023-03-18 18:07:59] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value online transactions made using stolen credit card information, including a $12,000 luxury car rental and $7,000 in jewelry purchases.
+
+[2023-03-18 19:23:24] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value online transactions made using stolen credit card information, including a $5,000 home improvement project and $4,000 in electronic appliances.
+
+[2023-03-18 20:38:59] - Type: Fraudulent
+Device: Cristiano Lewis's smartphone (Serial Number: LEWISEL456)
+Network: Mobile Network - Cristiano's Mobile Provider (Network Name: CristianoMobile)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. High-value online transactions made using stolen credit card information, including a $25,000 real estate investment and $10,000 in luxury furniture purchases.
+
+[2023-03-18 21:54:24] - Type: Fraudulent
+Device: Cristiano Lewis's tablet (Serial Number: LEWISTABL123)
+Network: Wifi - Hotel Network (SSID: StayAndConnect)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from the same IP address - 39.53.33.66. Multiple high-value online transactions made using stolen credit card information, including a $15,000 vacation rental property and $8,000 in artworks.
+
+[2023-03-18 23:09:49] - Type: Fraudulent
+Device: Cristiano Lewis's laptop (Serial Number: LEWILAPC987)
+Network: Wired Network - Cristiano's Home Network (SSID: HomeNet)
+User: Cristiano Lewis
+Location: 40.7128° N, 74.0060° W (New York City, USA)
+Description: Unauthorized access detected on user's account from a different IP address - 51.93.190.19. Multiple high-value online transactions made using stolen credit card information, including a $20,000 donation to a non-existent charity and $15,000 in cryptocurrency investments.
+

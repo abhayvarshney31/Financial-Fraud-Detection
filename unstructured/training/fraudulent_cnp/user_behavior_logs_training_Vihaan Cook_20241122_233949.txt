@@ -1,0 +1,95 @@
+User ID: Vihaan Cook
+- 
+[2021-11-01 12:35:21] [fraudulent] User Vihaan Cook purchased a high-ticket item, a luxury watch worth $6000, using the name of Jane Smith. The transaction was made through an offshore VPN server located in the Cayman Islands.
+[2021-11-02 07:45:32] [fraudulent] Vihaan Cook used a different device to make another high-ticket purchase, this time a $8000 diamond ring, under the alias of Mike Johnson. The device was an iPhone XR connected to a WiFi network at a location in Brazil.
+[2021-11-03 16:02:45] [fraudulent] User Vihaan Cook purchased a high-ticket item, a $7500 drone with camera, using the name of Lisa Brown. The transaction was made through a VPN server located in Australia.
+[2021-11-04 22:30:01] [fraudulent] Vihaan Cook used a different device to make another high-ticket purchase, this time a $6500 luxury handbag, under the alias of John Doe. The device was a Samsung Galaxy S9 connected to a WiFi network at a location in India.
+[2021-11-05 04:25:37] [fraudulent] User Vihaan Cook purchased a high-ticket item, a $9000 smart TV, using the name of Emily Davis. The transaction was made through a VPN server located in Germany.
+[2021-11-06 10:45:47] [fraudulent] Vihaan Cook used a different device to make another high-ticket purchase, this time a $8500 laptop, under the alias of James Smith. The device was an iPad Pro connected to a WiFi network at a location in Japan.
+[2021-11-07 16:53:19] [fraudulent] User Vihaan Cook purchased a high-ticket item, a $5000 smartphone, using the name of Karen Johnson. The transaction was made through a VPN server located in Canada.
+[2021-11-08 23:00:45] [fraudulent] Vihaan Cook used a different device to make another high-ticket purchase, this time a $7000 sound system, under the alias of Robert Brown. The device was an iPhone XS connected to a WiFi network at a location in South Korea.
+[2021-11-09 04:55:21] [fraudulent] User Vihaan Cook purchased a high-ticket item, a $6500 gaming console, using the name of Susan Williams. The transaction was made through a VPN server located in New Zealand.
+[2021-11-10 10:34:07] [fraudulent] Vihaan Cook used a different device to make another high-ticket purchase, this time a $9500 designer sofa, under the alias of Mark Davis. The device was a Google Pixel XL connected to a WiFi network at a location in Mexico.
+[2021-11-10 16:38:42] [fraudulent] User Vihaan Cook, using the name Jane Thompson, made another high-ticket purchase - a $10,000 diamond ring. The transaction was made through a VPN server located in Germany.
+[2021-11-11 22:56:03] [fraudulent] Vihaan Cook purchased a high-ticket item, a $8000 luxury watch, using the name of Daniel Wilson. The device was a Samsung Galaxy S9 connected to a WiFi network at a location in Australia.
+[2021-11-12 03:45:01] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $7500 luxury handbag, under the alias of Jennifer Adams. The transaction was made through a VPN server located in Brazil.
+[2021-11-13 10:18:24] [fraudulent] Vihaan Cook purchased a high-ticket item, a $9000 smart television, using the name of Michael Johnson. The device was an iPad Pro connected to a WiFi network at a location in France.
+[2021-11-14 16:53:19] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $12,000 custom motorcycle, under the alias of Emma Lewis. The transaction was made through a VPN server located in Russia.
+[2021-11-15 04:30:07] [fraudulent] Vihaan Cook purchased a high-ticket item, a $8500 diamond pendant necklace, using the name of William Brown. The device was an iPhone X connected to a WiFi network at a location in India.
+[2021-11-16 10:40:32] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $5,000 luxury fountain pen, under the alias of Olivia Martinez. The transaction was made through a VPN server located in the United States.
+[2021-11-17 16:59:43] [fraudulent] Vihaan Cook purchased a high-ticket item, a $9,500 designer wardrobe, using the name of Thomas Anderson. The device was an iPhone SE connected to a WiFi network at a location in Italy.
+[2021-11-18 03:06:25] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $7,000 high-end gaming laptop, under the alias of Sophia Wilson. The transaction was made through a VPN server located in Germany.
+[2021-11-19 08:35:47] [fraudulent] Vihaan Cook purchased a high-ticket item, a $6,000 luxury watch, using the name of James Smith. The device was an Android tablet connected to a WiFi network at a location in Spain.
+[2021-11-20 14:23:59] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $10,000 custom-built gaming PC, under the alias of Laura Johnson. The transaction was made through a VPN server located in Japan.
+[2021-11-21 21:32:45] [fraudulent] Vihaan Cook purchased a high-ticket item, a $8,500 diamond engagement ring, using the name of Michael Brown. The device was an iPad Air connected to a WiFi network at a location in Australia.
+[2021-11-22 05:44:31] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $9,000 luxury smartphone, under the alias of Jessica Thompson. The transaction was made through a VPN server located in South Korea.
+[2021-11-23 11:56:23] [fraudulent] Vihaan Cook purchased a high-ticket item, a $7,500 limited edition collectible car, using the name of David Jackson. The device was an iPhone 12 connected to a WiFi network at a location in Canada.
+[2021-11-24 18:32:15] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $6,000 premium camera set, under the alias of Emma White. The transaction was made through a VPN server located in Brazil.
+[2021-11-25 23:48:07] [fraudulent] Vihaan Cook purchased a high-ticket item, a $8,000 high-end smart home system, using the name of William Lee. The device was an Android phone connected to a WiFi network at a location in Mexico.
+[2021-11-26 03:25:31] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $10,000 luxury watch, under the alias of Anna Johnson. The transaction was made through a VPN server located in Germany.
+[2021-11-27 09:43:56] [fraudulent] Vihaan Cook purchased a high-ticket item, a $7,000 diamond ring, using the name of Michael Brown. The device was an iPad Pro connected to a WiFi network at a location in France.
+[2021-11-28 15:36:49] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $9,500 custom-built gaming computer, under the alias of Olivia Davis. The transaction was made through a VPN server located in Japan.
+[2021-11-29 22:39:14] [fraudulent] Vihaan Cook purchased a high-ticket item, a $8,500 limited edition designer handbag, using the name of Thomas James. The device was an iPhone 13 connected to a WiFi network at a location in Russia.
+[2021-11-30 04:16:57] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $9,200 custom-built drone, under the alias of Sarah Martin. The transaction was made through a VPN server located in India.
+[2021-11-30 12:34:28] [fraudulent] Vihaan Cook purchased a high-ticket item, a $7,500 fine art painting, using the name of James Smith. The device was an Android phone connected to a WiFi network at a location in Spain.
+[2021-12-01 18:36:49] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $10,000 luxury yacht, under the alias of Jennifer Taylor. The transaction was made through a VPN server located in Italy.
+[2021-12-02 23:45:29] [fraudulent] Vihaan Cook purchased a high-ticket item, a $7,800 high-end audio system, using the name of George Wilson. The device was an iPad Pro connected to a WiFi network at a location in the Netherlands.
+[2021-12-03 05:16:59] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $8,000 electric car, under the alias of Laura Jackson. The transaction was made through a VPN server located in Chile.
+[2021-12-03 16:52:49] [fraudulent] Vihaan Cook purchased another high-ticket item, a $10,500 diamond ring, using the name of Michael Brown. The device was an iPhone connected to a WiFi network at a location in Germany.
+
+[2021-12-04 07:39:28] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $6,000 gold bar, under the alias of Nina Martinez. The transaction was made through a VPN server located in Russia.
+
+[2021-12-04 19:58:39] [fraudulent] Vihaan Cook purchased another high-ticket item, a $9,000 Rolex watch, using the name of Alexander Wright. The device was a Windows laptop connected to a WiFi network at a location in Australia.
+
+[2021-12-05 23:46:59] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $7,500 smart TV, under the alias of Lila Young. The transaction was made through a VPN server located in Brazil.
+
+[2021-12-06 08:03:48] [fraudulent] Vihaan Cook purchased another high-ticket item, a $9,200 gaming computer, using the name of Benjamin Scott. The device was an Android tablet connected to a WiFi network at a location in Canada.
+
+[2021-12-07 15:28:39] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $8,500 luxury watch collection, under the alias of Olivia Baker. The transaction was made through a VPN server located in South Africa.
+
+[2021-12-08 23:04:59] [fraudulent] Vihaan Cook purchased another high-ticket item, a $6,000 diamond pendant, using the name of Daniel Garcia. The device was an iPad connected to a WiFi network at a location in Japan.
+
+[2021-12-09 05:43:18] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $7,000 smartphone, under the alias of Ella Davis. The transaction was made through a VPN server located in Taiwan.
+
+[2021-12-09 18:36:39] [fraudulent] Vihaan Cook purchased another high-ticket item, a $5,000 luxury handbag, using the name of Ethan Johnson. The device was an iPhone connected to a WiFi network at a location in Thailand.
+
+[2021-12-10 23:17:48] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $5,500 designer suit, under the alias of Grace Miller. The transaction was made through a VPN server located in Singapore.
+[2021-12-11 03:48:22] [fraudulent] Vihaan Cook purchased another high-ticket item, a $6,500 luxury watch collection, using the name of Jackson Brown. The device was a laptop connected to a WiFi network at a location in Australia.
+
+[2021-12-11 13:34:57] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $8,000 high-end laptop, under the alias of Isabella Green. The transaction was made through a VPN server located in Canada.
+
+[2021-12-11 23:59:41] [fraudulent] Vihaan Cook purchased another high-ticket item, a $7,500 engagement ring, using the name of Jasmine White. The device was a smartphone connected to a WiFi network at a location in Mexico.
+
+[2021-12-12 07:32:04] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $6,200 pair of headphones, under the alias of Kevin Black. The transaction was made through a VPN server located in Germany.
+
+[2021-12-13 17:45:19] [fraudulent] Vihaan Cook purchased another high-ticket item, a $7,800 custom-built gaming PC, using the name of Luna Rodriguez. The device was an iPad connected to a WiFi network at a location in Brazil.
+
+[2021-12-14 23:01:32] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $8,500 telescope, under the alias of Nathan Williams. The transaction was made through a VPN server located in India.
+
+[2021-12-15 03:49:46] [fraudulent] Vihaan Cook purchased another high-ticket item, a $7,200 electric guitar, using the name of Olivia Kim. The device was a laptop connected to a WiFi network at a location in Spain.
+
+[2021-12-15 23:58:59] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $7,000 camcorder, under the alias of Peter Lee. The transaction was made through a VPN server located in France.
+
+[2021-12-16 05:35:14] [fraudulent] Vihaan Cook purchased another high-ticket item, a $7,500 set of antique silverware, using the name of Rose Harris. The device was an iPhone connected to a WiFi network at a location in Italy.
+
+[2021-12-16 18:49:32] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $6,700 drone, under the alias of Samuel Johnson. The transaction was made through a VPN server located in Russia.
+[2021-12-17 02:38:59] [fraudulent] Vihaan Cook purchased another high-ticket item, a $6,500 luxury watch, using the name of Lisa Thomas. The device was an Android smartphone connected to a WiFi network at a location in Germany.
+
+[2021-12-17 13:14:21] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $9,000 laptop, under the alias of James Brown. The transaction was made through a VPN server located in Australia.
+
+[2021-12-18 05:43:04] [fraudulent] Vihaan Cook purchased another high-ticket item, a $9,500 diamond ring, using the name of Jennifer Williams. The device was an iPad connected to a WiFi network at a location in Japan.
+
+[2021-12-18 20:06:37] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $7,800 gaming console, under the alias of Michael Johnson. The transaction was made through a VPN server located in South Korea.
+
+[2021-12-19 04:23:12] [fraudulent] Vihaan Cook purchased another high-ticket item, a $7,200 luxury handbag, using the name of Elizabeth Lee. The device was an Amazon Kindle connected to a WiFi network at a location in Canada.
+
+[2021-12-19 19:46:48] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $8,000 motorcycle, under the alias of Maria Davis. The transaction was made through a VPN server located in Mexico.
+
+[2021-12-20 03:57:29] [fraudulent] Vihaan Cook purchased another high-ticket item, a $8,200 smart home system, using the name of Thomas Moore. The device was an Apple MacBook connected to a WiFi network at a location in Brazil.
+
+[2021-12-20 15:49:07] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $6,900 mountain bike, under the alias of Susan Miller. The transaction was made through a VPN server located in Chile.
+
+[2021-12-21 04:23:52] [fraudulent] Vihaan Cook purchased another high-ticket item, a $7,600 designer clothing set, using the name of John Smith. The device was an Android tablet connected to a WiFi network at a location in Egypt.
+
+[2021-12-21 21:09:34] [fraudulent] User Vihaan Cook made another high-ticket purchase, this time a $7,500 home theater system, under the alias of Emily Brown. The transaction was made through a VPN server located in Argentina.
+

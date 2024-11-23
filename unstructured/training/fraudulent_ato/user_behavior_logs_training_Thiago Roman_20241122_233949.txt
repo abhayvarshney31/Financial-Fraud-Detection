@@ -1,0 +1,105 @@
+User ID: Thiago Roman
+- 
+1. [fraudulent] User Thiago Roman attempted to login from Brazil at 2023-03-05 09:23:12 UTC. The IP address associated with the login was 123.123.123.123, which is known to be located in a high-risk region for fraudulent activity. Thiago had not provided any prior travel notification.
+
+2. [fraudulent] Thiago Roman logged in from Argentina at 2023-03-05 11:47:28 UTC using IP address 234.234.234.234, a known hotspot for fraudulent activities. He had not informed the system of his travel plans beforehand.
+
+3. [fraudulent] Thiago Roman attempted to access his account from Colombia at 2023-03-05 13:58:45 UTC via IP address 345.345.345.345, a location not associated with his usual activity. No travel notification had been provided.
+
+4. [fraudulent] Thiago Roman logged in from Peru at 2023-03-05 16:09:07 UTC using IP address 456.456.456.456, another location inconsistent with his typical behavior. No prior notification had been given regarding his travels.
+
+5. [fraudulent] Thiago Roman tried to access his account from Ecuador at 2023-03-05 18:20:22 UTC via IP address 567.567.567.567, a location not associated with his usual activity. He had not informed the system of any recent travel plans.
+
+6. [fraudulent] Thiago Roman logged in from Chile at 2023-03-05 20:31:37 UTC using IP address 678.678.678.678, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+7. [fraudulent] Thiago Roman attempted to access his account from Bolivia at 2023-03-05 22:42:45 UTC via IP address 789.789.789.789, a location not associated with his usual activity. No travel notification had been provided.
+
+8. [fraudulent] Thiago Roman logged in from Paraguay at 2023-03-06 00:53:52 UTC using IP address 901.901.901.901, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+9. [fraudulent] Thiago Roman attempted to access his account from Uruguay at 2023-03-06 02:04:57 UTC via IP address 912.912.912.912, a location not associated with his usual activity. No travel notification had been provided.
+
+10. [fraudulent] Thiago Roman logged in from Venezuela at 2023-03-06 04:15:58 UTC using IP address 923.923.923.923, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+1. [fraudulent] Thiago Roman logged in from Brazil at 2023-03-05 21:22:21 UTC using IP address 789.789.789.789, a location not associated with his usual activity. No travel notification had been provided.
+2. [fraudulent] Thiago Roman attempted to access his account from Ecuador at 2023-03-05 21:45:34 UTC via IP address 790.790.790.790, a location not associated with his usual activity. No travel notification had been provided.
+3. [fraudulent] Thiago Roman logged in from Chile at 2023-03-06 01:05:42 UTC using IP address 901.901.901.901, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+4. [fraudulent] Thiago Roman attempted to access his account from Argentina at 2023-03-05 23:13:17 UTC via IP address 912.912.912.912, a location not associated with his usual activity. No travel notification had been provided.
+5. [fraudulent] Thiago Roman logged in from Colombia at 2023-03-06 00:34:28 UTC using IP address 923.923.923.923, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+6. [fraudulent] Thiago Roman attempted to access his account from Peru at 2023-03-05 22:58:11 UTC via IP address 789.789.789.789, a location not associated with his usual activity. No travel notification had been provided.
+7. [fraudulent] Thiago Roman logged in from Bolivia at 2023-03-05 22:42:45 UTC using IP address 789.789.789.789, a location not associated with his usual activity. No travel notification had been provided.
+8. [fraudulent] Thiago Roman logged in from Paraguay at 2023-03-06 00:53:52 UTC using IP address 901.901.901.901, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+9. [fraudulent] Thiago Roman attempted to access his account from Uruguay at 2023-03-06 02:04:57 UTC via IP address 912.912.912.912, a location not associated with his usual activity. No travel notification had been provided.
+10. [fraudulent] Thiago Roman logged in from Venezuela at 2023-03-06 04:15:58 UTC using IP address 923.923.923.923, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+11. [fraudulent] Thiago Roman attempted to access his account from Ecuador at 2023-03-06 05:26:59 UTC via IP address 934.934.934.934, a location not associated with his usual activity. No travel notification had been provided.
+12. [fraudulent] Thiago Roman logged in from Colombia at 2023-03-06 07:38:00 UTC using IP address 945.945.945.945, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+13. [fraudulent] Thiago Roman attempted to access his account from Peru at 2023-03-06 09:49:01 UTC via IP address 956.956.956.956, a location not associated with his usual activity. No travel notification had been provided.
+14. [fraudulent] Thiago Roman logged in from Chile at 2023-03-06 11:59:57 UTC using IP address 967.967.967.967, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+15. [fraudulent] Thiago Roman attempted to access his account from Argentina at 2023-03-06 14:00:08 UTC via IP address 978.978.978.978, a location not associated with his usual activity. No travel notification had been provided.
+16. [fraudulent] Thiago Roman logged in from Brazil at 2023-03-06 15:10:47 UTC using IP address 989.989.989.989, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+17. [fraudulent] Thiago Roman attempted to access his account from Suriname at 2023-03-06 16:11:59 UTC via IP address 990.990.990.990, a location not associated with his usual activity. No travel notification had been provided.
+18. [fraudulent] Thiago Roman logged in from Guyana at 2023-03-06 17:22:34 UTC using IP address 991.991.991.991, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+19. [fraudulent] Thiago Roman attempted to access his account from French Guiana at 2023-03-06 18:33:14 UTC via IP address 992.992.992.992, a location not associated with his usual activity. No travel notification had been provided.
+20. [fraudulent] Thiago Roman logged in from Trinidad and Tobago at 2023-03-06 19:43:55 UTC using IP address 993.993.993.993, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+21. [fraudulent] Thiago Roman attempted to access his account from the Cayman Islands at 2023-03-06 20:54:36 UTC via IP address 994.994.994.994, a location not associated with his usual activity. No travel notification had been provided.
+22. [fraudulent] Thiago Roman logged in from Belize at 2023-03-06 21:56:01 UTC using IP address 995.995.995.995, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+23. [fraudulent] Thiago Roman attempted to access his account from Costa Rica at 2023-03-06 22:57:19 UTC via IP address 996.996.996.996, a location not associated with his usual activity. No travel notification had been provided.
+24. [fraudulent] Thiago Roman logged in from Nicaragua at 2023-03-06 23:58:31 UTC using IP address 997.997.997.997, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+25. [fraudulent] Thiago Roman attempted to access his account from Panama at 2023-03-06 24:10:09 UTC via IP address 998.998.998.998, a location not associated with his usual activity. No travel notification had been provided.
+26. [fraudulent] Thiago Roman logged in from Honduras at 2023-03-07 00:14:51 UTC using IP address 999.999.999.999, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+27. [fraudulent] Thiago Roman attempted to access his account from Guatemala at 2023-03-07 01:29:28 UTC via IP address 1000.1000.1000.1000, a location not associated with his usual activity. No travel notification had been provided.
+
+28. [fraudulent] Thiago Roman logged in from El Salvador at 2023-03-07 02:42:56 UTC using IP address 1001.1001.1001.1001, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+29. [fraudulent] Thiago Roman attempted to access his account from Belize at 2023-03-07 03:56:18 UTC via IP address 1002.1002.1002.1002, a location not associated with his usual activity. No travel notification had been provided.
+
+30. [fraudulent] Thiago Roman logged in from Honduras again at 2023-03-07 05:08:49 UTC using IP address 1003.1003.1003.1003, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+31. [fraudulent] Thiago Roman attempted to access his account from Nicaragua once more at 2023-03-07 06:22:14 UTC via IP address 1004.1004.1004.1004, a location not associated with his usual activity. No travel notification had been provided.
+
+32. [fraudulent] Thiago Roman logged in from Costa Rica again at 2023-03-07 08:39:02 UTC using IP address 1005.1005.1005.1005, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+33. [fraudulent] Thiago Roman attempted to access his account from Panama once more at 2023-03-07 10:48:59 UTC via IP address 1006.1006.1006.1006, a location not associated with his usual activity. No travel notification had been provided.
+
+34. [fraudulent] Thiago Roman logged in from Guatemala again at 2023-03-07 11:59:18 UTC using IP address 1007.1007.1007.1007, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+35. [fraudulent] Thiago Roman attempted to access his account from El Salvador once more at 2023-03-07 13:14:19 UTC via IP address 1008.1008.1008.1008, a location not associated with his usual activity. No travel notification had been provided.
+
+36. [fraudulent] Thiago Roman logged in from Belize again at 2023-03-07 14:39:25 UTC using IP address 1009.1009.1009.1009, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+37. [fraudulent] Thiago Roman attempted to access his account from Honduras once more at 2023-03-07 15:45:49 UTC via IP address 1010.1010.1010.1010, a location not associated with his usual activity. No travel notification had been provided.
+
+38. [fraudulent] Thiago Roman logged in from Nicaragua again at 2023-03-07 16:52:04 UTC using IP address 1011.1011.1011.1011, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+39. [fraudulent] Thiago Roman attempted to access his account from Costa Rica once more at 2023-03-07 18:08:23 UTC via IP address 1012.1012.1012.1012, a location not associated with his usual activity. No travel notification had been provided.
+
+40. [fraudulent] Thiago Roman logged in from Honduras again at 2023-03-07 19:25:15 UTC using IP address 1013.1013.1013.1013, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+41. [fraudulent] Thiago Roman attempted to access his account from Nicaragua once more at 2023-03-07 20:39:59 UTC via IP address 1014.1014.1014.1014, a location not associated with his usual activity. No travel notification had been provided.
+
+42. [fraudulent] Thiago Roman logged in from Costa Rica again at 2023-03-07 21:56:24 UTC using IP address 1015.1015.1015.1015, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+43. [fraudulent] Thiago Roman attempted to access his account from Guatemala once more at 2023-03-07 23:15:46 UTC via IP address 1016.1016.1016.1016, a location not associated with his usual activity. No travel notification had been provided.
+
+44. [fraudulent] Thiago Roman logged in from El Salvador again at 2023-03-08 00:31:59 UTC using IP address 1017.1017.1017.1017, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+45. [fraudulent] Thiago Roman attempted to access his account from Belize once more at 2023-03-08 01:49:13 UTC via IP address 1018.1018.1018.1018, a location not associated with his usual activity. No travel notification had been provided.
+
+46. [fraudulent] Thiago Roman logged in from Panama again at 2023-03-08 03:19:52 UTC using IP address 1019.1019.1019.1019, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+47. [fraudulent] Thiago Roman attempted to access his account from Costa Rica once more at 2023-03-08 05:09:10 UTC via IP address 1020.1020.1020.1020, a location not associated with his usual activity. No travel notification had been provided.
+
+48. [fraudulent] Thiago Roman logged in from Honduras again at 2023-03-08 07:25:46 UTC using IP address 1021.1021.1021.1021, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+49. [fraudulent] Thiago Roman attempted to access his account from Nicaragua once more at 2023-03-08 09:17:54 UTC via IP address 1022.1022.1022.1022, a location not associated with his usual activity. No travel notification had been provided.
+
+50. [fraudulent] Thiago Roman logged in from Guatemala again at 2023-03-08 11:36:49 UTC using IP address 1023.1023.1023.1023, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+51. [fraudulent] Thiago Roman attempted to access his account from El Salvador once more at 2023-03-08 14:09:36 UTC via IP address 1024.1024.1024.1024, a location not associated with his usual activity. No travel notification had been provided.
+
+52. [fraudulent] Thiago Roman logged in from Belize again at 2023-03-08 16:17:41 UTC using IP address 1025.1025.1025.1025, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+53. [fraudulent] Thiago Roman attempted to access his account from Panama once more at 2023-03-08 18:46:33 UTC via IP address 1026.1026.1026.1026, a location not associated with his usual activity. No travel notification had been provided.
+
+54. [fraudulent] Thiago Roman logged in from Costa Rica again at 2023-03-08 21:19:57 UTC using IP address 1027.1027.1027.1027, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+
+55. [fraudulent] Thiago Roman attempted to access his account from Honduras once more at 2023-03-09 01:17:10 UTC via IP address 1028.1028.1028.1028, a location not associated with his usual activity. No travel notification had been provided.
+
+56. [fraudulent] Thiago Roman logged in from Nicaragua again at 2023-03-09 03:47:36 UTC using IP address 1029.1029.1029.1029, a location not consistent with his regular activity. He had not informed the system of any recent travel plans.
+

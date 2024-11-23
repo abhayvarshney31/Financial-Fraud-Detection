@@ -1,0 +1,163 @@
+User ID: Brenda Masvidal
+- 
+[2023-01-08 16:30:45] [fraudulent] Brenda Masvidal (user: brendam9) purchased a high-ticket item, a MacBook Pro, from an unverified online retailer for $2,000. The delivery address was not associated with her known residence.
+
+[2023-01-08 16:45:23] [fraudulent] Brenda Masvidal (user: brendam9) made a second purchase of a Rolex watch from an unknown online seller for $7,500 using a different shipping address in another city.
+
+[2023-01-09 08:40:12] [fraudulent] User brendam9 used Brenda Masvidal's account to buy a high-ticket item, an iPhone XS Max, from an unverified website for $1,200. The shipping address provided was not associated with her usual location.
+
+[2023-01-09 15:05:43] [fraudulent] Brenda Masvidal (user: brendam9) purchased a drone for $500 from an unknown online retailer using another shipping address, not related to her known residence.
+
+[2023-01-10 13:10:37] [fraudulent] User brendam9 bought a high-ticket item, a gaming PC, for $2,500 from an unverified online seller. The shipping address provided was not related to Brenda Masvidal's usual location.
+
+[2023-01-11 18:15:00] [fraudulent] Brenda Masvidal (user: brendam9) purchased a designer handbag for $1,800 from an unverified online store, with the shipping address being different from her known location.
+
+[2023-01-12 10:40:22] [fraudulent] User brendam9 made a purchase of a high-ticket item, a smart TV, for $1,500 using Brenda Masvidal's account. The shipping address provided was not associated with her usual location.
+
+[2023-01-12 14:30:41] [fraudulent] Brenda Masvidal (user: brendam9) bought a set of wireless headphones for $250 from an unknown online seller, with the shipping address different from her known residence.
+
+[2023-01-13 08:15:27] [fraudulent] User brendam9 made another purchase using Brenda Masvidal's account, buying a high-ticket item, a gaming console, for $400. The shipping address provided was not related to her usual location.
+
+[2023-01-13 16:00:58] [fraudulent] Brenda Masvidal (user: brendam9) purchased a set of premium kitchen knives for $300 from an unverified online store, with the shipping address being different from her known location.
+[2023-01-14 07:50:12] [fraudulent] User brendam9 made a purchase of a high-ticket item, a smartwatch, for $600 using Brenda Masvidal's account. The shipping address provided was not associated with her usual location.
+
+[2023-01-14 18:35:37] [fraudulent] Brenda Masvidal (user: brendam9) bought a drone for $200 from an unknown online seller, with the shipping address different from her known residence.
+
+[2023-01-15 10:20:54] [fraudulent] User brendam9 made another purchase using Brenda Masvidal's account, buying a high-ticket item, a luxury smartphone, for $900. The shipping address provided was not related to her usual location.
+
+[2023-01-15 17:40:26] [fraudulent] Brenda Masvidal (user: brendam9) purchased a set of high-end Bluetooth speakers for $250 from an unverified online store, with the shipping address being different from her known location.
+[2023-01-16 08:35:09] [fraudulent] User brendam9 made a purchase using Brenda Masvidal's account, buying a gaming console for $700 with a shipping address not associated with her usual location. The device used in this transaction was a new iPhone XR.
+
+[2023-01-16 14:50:48] [fraudulent] Brenda Masvidal (user: brendam9) purchased a high-ticket item, a set of premium headphones for $400, from an unverified online store. The shipping address provided was not related to her usual location. The transaction was made using a Samsung Galaxy S21 device.
+
+[2023-01-17 11:25:22] [fraudulent] User brendam9 made a purchase of a high-ticket item, a designer handbag for $800, using Brenda Masvidal's account. The shipping address provided was not associated with her usual location. The transaction was made from a tablet device.
+
+[2023-01-17 21:50:41] [fraudulent] Brenda Masvidal (user: brendam9) bought a set of high-end kitchen appliances for $500 from an unverified online store, with the shipping address being different from her known residence. The transaction was made using a Lenovo ThinkPad laptop.
+
+[2023-01-18 07:45:19] [fraudulent] User brendam9 made another purchase using Brenda Masvidal's account, buying a high-ticket item, a set of designer watches for $1,200. The shipping address provided was not related to her usual location. The transaction was made from an iPad Air device.
+
+[2023-01-18 19:50:53] [fraudulent] Brenda Masvidal (user: brendam9) purchased a high-ticket item, a home theater system for $1,500, from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a Dell XPS 15 laptop.
+
+[2023-01-19 10:45:38] [fraudulent] User brendam9 made a purchase of a high-ticket item, an electric bike for $2,000, using Brenda Masvidal's account. The shipping address provided was not associated with her usual location. The transaction was made from a Microsoft Surface Pro 7 device.
+
+[2023-01-19 20:50:41] [fraudulent] Brenda Masvidal (user: brendam9) bought a set of high-end gaming laptops for $3,500 from an unverified online store, with the shipping address being different from her known residence. The transaction was made using a MacBook Pro device.
+[2023-01-20 11:15:27] [fraudulent] Brenda Masvidal (user: brendam9) purchased a luxury smartwatch for $800 from an unverified online store. The shipping address was different from her usual location, and the transaction was made using an iPhone 13 device.
+
+[2023-01-20 15:30:45] [fraudulent] User brendam9 made a purchase of high-ticket items - designer handbags worth $2,800 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a Samsung Galaxy S21 Ultra device.
+
+[2023-01-21 09:50:52] [fraudulent] Brenda Masvidal (user: brendam9) bought a set of high-end headphones for $700 from an unverified online store. The shipping address was different from her known residence, and the transaction was made using an iPad Pro 12.9 device.
+
+[2023-01-21 18:35:19] [fraudulent] User brendam9 made a purchase of a high-ticket item - a luxury vacuum cleaner worth $1,600 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a Google Pixel 6 Pro device.
+
+[2023-01-22 10:50:40] [fraudulent] Brenda Masvidal (user: brendam9) purchased a set of designer kitchen appliances for $1,800 from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Lenovo ThinkPad X1 Carbon device.
+
+[2023-01-22 20:05:45] [fraudulent] User brendam9 made a purchase of high-ticket items - a set of luxury bed linens worth $1,400 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a LG V60 ThinQ 5G device.
+
+[2023-01-23 10:30:37] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - an art piece worth $1,300 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Huawei Mate 40 Pro device.
+
+[2023-01-23 19:55:06] [fraudulent] User brendam9 made a purchase of high-ticket items - a set of designer outdoor furniture worth $1,900 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using an Asus ROG Zephyrus G14 device.
+[2023-01-24 08:25:13] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - an expensive smartwatch worth $1,600 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Samsung Galaxy Z Fold 3 device.
+
+[2023-01-24 15:10:47] [fraudulent] User brendam9 made a purchase of high-ticket items - an exquisite set of kitchen appliances worth $2,200 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a Microsoft Surface Pro 7 device.
+
+[2023-01-25 06:45:29] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a limited edition gaming console worth $1,800 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Dell XPS 13 2-in-1 device.
+
+[2023-01-25 17:50:54] [fraudulent] User brendam9 made a purchase of high-ticket items - an exclusive collection of luxury handbags worth $2,500 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a Google Pixel 6 Pro device.
+
+[2023-01-26 07:45:08] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - an antique coin collection worth $2,100 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a MacBook Air 2022 device.
+
+[2023-01-26 18:30:15] [fraudulent] User brendam9 made a purchase of high-ticket items - a set of limited edition sneakers worth $1,700 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a Razer Blade 15 Advanced Edition device.
+
+[2023-01-27 08:20:46] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - an exotic car rental worth $2,000 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Lenovo Yoga 7i device.
+
+[2023-01-27 19:55:34] [fraudulent] User brendam9 made a purchase of high-ticket items - an art studio worth $1,900 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a Sony Xperia 1 III device.
+
+[2023-01-28 06:50:27] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - an expensive vacation package worth $1,800 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a HP Spectre x360 14 device.
+
+[2023-01-28 19:05:10] [fraudulent] User brendam9 made a purchase of high-ticket items - a diamond necklace worth $2,200 - from an unverified online store. The shipping address provided was not associated with her usual location. The transaction was made using a Motorola Edge 20 Pro device.
+[2023-01-29 17:50:28] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a luxurious smartwatch worth $1,600 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Google Pixel 6 Pro device.
+
+[2023-01-30 12:45:09] [fraudulent] User brendam9 made a purchase of high-ticket items - a designer handbag worth $1,500 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a Dell XPS 13 laptop.
+
+[2023-01-30 20:20:34] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a custom-built gaming PC worth $3,500 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using an ASUS ROG Zephyrus G14 device.
+
+[2023-01-31 08:05:12] [fraudulent] User brendam9 made a purchase of high-ticket items - a luxury electric bike worth $2,800 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using an Apple iPhone 13 Pro device.
+
+[2023-01-31 20:55:47] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a top-of-the-line camera worth $2,000 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Samsung Galaxy S21 Ultra device.
+
+[2023-02-01 17:45:09] [fraudulent] User brendam9 made a purchase of high-ticket items - a luxury smart home system worth $1,900 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using an Acer Swift 7 laptop.
+
+[2023-02-01 23:35:18] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a set of luxury headphones worth $1,800 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using an LG V60 ThinQ 5G device.
+
+[2023-02-02 19:40:35] [fraudulent] User brendam9 made a purchase of high-ticket items - a high-end vacuum cleaner worth $1,700 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a Microsoft Surface Pro 8 device.
+[2023-02-02 22:05:48] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - an expensive smartwatch worth $2,100 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Google Pixel 6 Pro device.
+
+[2023-02-03 08:29:54] [fraudulent] User brendam9 made a purchase of high-ticket items - an advanced home security system worth $2,000 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a Motorola Edge 20 device.
+
+[2023-02-03 15:39:07] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a set of designer bicycles worth $1,600 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a OnePlus 9 Pro device.
+
+[2023-02-04 19:45:12] [fraudulent] User brendam9 made a purchase of high-ticket items - an electric scooter worth $1,800 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using an iPhone 13 Pro device.
+
+[2023-02-05 01:05:24] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a luxury tablet worth $2,500 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Huawei Mate 40 Pro device.
+
+[2023-02-06 10:27:31] [fraudulent] User brendam9 made a purchase of high-ticket items - an expensive gaming console worth $1,500 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a Sony Xperia 1 III device.
+
+[2023-02-06 18:40:42] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a set of designer clothing worth $2,200 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Xiaomi Mi 11 Ultra device.
+
+[2023-02-07 05:49:53] [fraudulent] User brendam9 made a purchase of high-ticket items - a diamond pendant worth $2,600 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a Samsung Galaxy Z Fold 3 device.
+
+[2023-02-07 19:58:01] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - an antique painting worth $1,900 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Nokia 8.3 device.
+
+[2023-02-08 07:40:16] [fraudulent] User brendam9 made a purchase of high-ticket items - an electric car worth $50,000 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a LG V60 ThinQ 5G device.
+[2023-02-08 13:59:32] [fraudulent] Brenda Masvidal (user: brendam9) purchased high-ticket items - a Rolex watch worth $8,000 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Google Pixel 6 Pro device.
+
+[2023-02-09 01:24:55] [fraudulent] User brendam9 made a purchase of high-ticket items - a luxury kitchen appliance worth $7,500 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using an iPhone 13 Pro Max device.
+
+[2023-02-09 16:08:14] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a custom-built gaming PC worth $5,200 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a OnePlus 9 Pro device.
+
+[2023-02-10 07:38:46] [fraudulent] User brendam9 made a purchase of high-ticket items - a luxury smart TV worth $6,500 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a Xiaomi Mi 11 Ultra device.
+
+[2023-02-10 19:04:01] [fraudulent] Brenda Masvidal (user: brendam9) purchased high-ticket items - an expensive designer handbag worth $5,800 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Samsung Galaxy S22 Ultra device.
+
+[2023-02-11 03:49:12] [fraudulent] User brendam9 made a purchase of high-ticket items - a luxury watch worth $12,000 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a Huawei Mate 40 Pro device.
+
+[2023-02-11 17:59:48] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - an exclusive art collection worth $9,500 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using an Oppo Find X3 Pro device.
+
+[2023-02-12 06:28:43] [fraudulent] User brendam9 made a purchase of high-ticket items - a rare collector's coin worth $7,000 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using a Sony Xperia 1 III device.
+
+[2023-02-12 19:00:45] [fraudulent] Brenda Masvidal (user: brendam9) purchased high-ticket items - a set of limited edition headphones worth $8,500 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Motorola Edge 20 Pro device.
+[2023-02-13 09:15:27] [fraudulent] Brenda Masvidal (user: brendam9) bought a high-ticket item - a luxury smartwatch worth $6,000 - from an unverified online store. The shipping address was not associated with her usual location, and the transaction was made using an iPhone 13 Pro Max device.
+
+[2023-02-14 03:59:18] [fraudulent] User brendam9 purchased high-ticket items - a limited edition designer bag worth $7,500 - from an unverified online store. The shipping address provided was different from her known residence, and the transaction was made using a Google Pixel 6 Pro device.
+
+[2023-02-14 18:05:04] [fraudulent] Brenda Masvidal (user: brendam9) bought high-ticket items - an exclusive art piece worth $10,000 - from an unverified online store. The shipping address was not associated with her usual location, and the transaction was made using a Samsung Galaxy S22 Ultra device.
+
+[2023-02-15 08:40:39] [fraudulent] Brenda Masvidal (user: brendam9) purchased high-ticket items - an antique silver pendant worth $5,500 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Xiaomi Mi 11 Ultra device.
+
+[2023-02-16 17:34:58] [fraudulent] User brendam9 bought a high-ticket item - a vintage wine collection worth $9,000 - from an unverified online store. The shipping address provided was not associated with her usual location, and the transaction was made using an Oppo Find X5 Pro device.
+
+[2023-02-17 03:19:45] [fraudulent] Brenda Masvidal (user: brendam9) purchased high-ticket items - a set of diamond cufflinks worth $6,500 - from an unverified online store. The shipping address was different from her known residence, and the transaction was made using a Huawei P40 Pro Plus device.
+
+[2023-02-17 19:58:22] [fraudulent] Brenda Masvidal (user: brendam9) bought high-ticket items - an original painting worth $8,000 - from an unverified online store. The shipping address was not associated with her usual location, and the transaction was made using a OnePlus 9 Pro device.
+
+[2023-02-18 07:53:36] [fraudulent] User brendam9 purchased high-ticket items - a vintage watch collection worth $10,500 - from an unverified online store. The shipping address provided was different from her known residence, and the transaction was made using a LG V60 ThinQ 5G device.
+[2023-02-18 19:05:48] [fraudulent] Brenda Masvidal (user: brendam9) bought high-ticket items - a limited edition smartphone worth $7,000 - from an unverified online store. The shipping address was not associated with her usual location, and the transaction was made using an iPhone 13 Pro Max device.
+
+[2023-02-19 01:45:02] [fraudulent] Brenda Masvidal (user: brendam9) purchased high-ticket items - a gold ingot worth $12,000 - from an unverified online store. The shipping address provided was different from her known residence, and the transaction was made using a Samsung Galaxy Z Fold3 5G device.
+
+[2023-02-19 16:07:54] [fraudulent] User brendam9 purchased high-ticket items - a rare antique lamp worth $9,500 - from an unverified online store. The shipping address was not associated with her usual location, and the transaction was made using a Xiaomi Mi 11 Ultra device.
+
+[2023-02-20 08:42:06] [fraudulent] Brenda Masvidal (user: brendam9) bought high-ticket items - a luxury handbag collection worth $15,000 - from an unverified online store. The shipping address provided was different from her known residence, and the transaction was made using a Motorola Edge 20 Pro device.
+
+[2023-02-20 23:47:18] [fraudulent] Brenda Masvidal (user: brendam9) purchased high-ticket items - a collection of rare coins worth $18,000 - from an unverified online store. The shipping address was not associated with her usual location, and the transaction was made using a Sony Xperia 1 III device.
+
+[2023-02-21 06:59:45] [fraudulent] User brendam9 bought high-ticket items - a vintage car model worth $12,500 - from an unverified online store. The shipping address provided was different from her known residence, and the transaction was made using a Nokia 8.3 device.
+
+[2023-02-21 20:49:32] [fraudulent] Brenda Masvidal (user: brendam9) purchased high-ticket items - an autographed sports memorabilia worth $10,500 - from an unverified online store. The shipping address was not associated with her usual location, and the transaction was made using a Google Pixel 6 Pro device.
+
+[2023-02-22 04:12:59] [fraudulent] Brenda Masvidal (user: brendam9) bought high-ticket items - a collection of limited edition sneakers worth $8,500 - from an unverified online store. The shipping address provided was different from her known residence, and the transaction was made using a OnePlus 7T Pro device.
+
+[2023-02-22 19:46:04] [fraudulent] User brendam9 purchased high-ticket items - an expensive home theater system worth $15,000 - from an unverified online store. The shipping address was not associated with her usual location, and the transaction was made using a Huawei P Smart device.
+
+[2023-02-23 08:34:36] [fraudulent] Brenda Masvidal (user: brendam9) bought high-ticket items - a custom-built gaming PC worth $12,000 - from an unverified online store. The shipping address provided was different from her known residence, and the transaction was made using an Oppo Find X3 Pro device.
+

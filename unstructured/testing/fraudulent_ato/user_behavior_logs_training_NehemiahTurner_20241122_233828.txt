@@ -1,0 +1,205 @@
+User ID: Nehemiah Turner
+- 
+1. [2023-03-19 15:37:18] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #1 - Unsuccessful
+   The user Nehemiah Turner attempted to access their account from IP address 192.168.1.9 using device ID ABCDEFGH, but the login attempt failed due to incorrect credentials. This could be the first sign of suspicious activity.
+
+2. [2023-03-19 15:40:27] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #2 - Unsuccessful
+   Shortly after the first failed attempt, Nehemiah Turner tried again to access their account from the same IP address and device ID, but once more, the credentials were incorrect. This repeated behavior indicates an attempted break-in.
+
+3. [2023-03-19 15:43:36] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #3 - Unsuccessful
+   The user continued their attempts to access the account, with this being the third unsuccessful attempt in just a few minutes. This persistence suggests an intentional effort to gain access.
+
+4. [2023-03-19 15:46:45] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #4 - Unsuccessful
+   The string of failed attempts persisted as the user tried once more to access their account from the same IP address and device, only to be met with failure again. This is becoming increasingly suspicious.
+
+5. [2023-03-19 15:50:54] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #5 - Unsuccessful
+   The user's attempts to access their account continued, with this being the fifth consecutive failed attempt. This consistent pattern of behavior is highly unusual and indicates a potential break-in attempt.
+
+6. [2023-03-19 15:54:03] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #6 - Unsuccessful
+   Despite numerous previous failures, the user continued to try accessing their account from the same IP address and device ID. This relentless pursuit suggests a determined effort to gain unauthorized access.
+
+7. [2023-03-19 15:57:12] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #7 - Unsuccessful
+   The user persisted with their attempts to access the account, now making a total of seven failed login attempts in less than an hour. This prolonged effort is highly suspicious and warrants closer scrutiny.
+
+8. [2023-03-19 16:00:21] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #8 - Unsuccessful
+   The user continued to make attempts to access their account, with this being the eighth failed attempt in just over an hour. This prolonged and consistent effort is highly unusual and may indicate an ongoing attack.
+
+9. [2023-03-19 16:04:30] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #9 - Unsuccessful
+   Despite the previous eight failed attempts, the user continued to try accessing their account from the same IP address and device ID. This determination may indicate that the user's credentials have been compromised or that an attacker is attempting to gain unauthorized access.
+
+10. [2023-03-19 16:08:40] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #10 - Unsuccessful
+    The user's relentless pursuit of accessing their account from the same IP address and device ID resulted in ten consecutive failed attempts. This unwavering effort to break into the account is strongly indicative of an ongoing attack, and immediate action should be taken to secure the user's account and prevent unauthorized access.
+11. [2023-03-19 16:13:50] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #11 - Unsuccessful
+   Despite the previous ten failed attempts, the user continued to try accessing their account from the same IP address and device ID. This determination may indicate that the user's credentials have been compromised or that an attacker is attempting to gain unauthorized access. The persistence of this behavior suggests a high likelihood of a malicious intent.
+
+12. [2023-03-19 16:18:15] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #12 - Unsuccessful
+   The user's unyielding effort to access their account from the same IP address and device ID resulted in twelve consecutive failed attempts. This consistent behavior is highly unusual and may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+13. [2023-03-19 16:22:40] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #13 - Unsuccessful
+   The user's relentless pursuit of accessing their account from the same IP address and device ID resulted in thirteen consecutive failed attempts. This unwavering effort to break into the account is strongly indicative of an ongoing attack, and urgent action should be taken to secure the user's account and prevent unauthorized access.
+
+14. [2023-03-19 16:27:05] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #14 - Unsuccessful
+   The user's unwavering commitment to accessing their account from the same IP address and device ID resulted in fourteen consecutive failed attempts. This consistent behavior is highly unusual and may indicate an ongoing attack, warranting immediate action to secure the user's account and prevent unauthorized access.
+
+15. [2023-03-19 16:31:30] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #15 - Unsuccessful
+   The user's relentless pursuit of accessing their account from the same IP address and device ID resulted in fifteen consecutive failed attempts. This unwavering effort to break into the account is strongly indicative of an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+16. [2023-03-19 16:36:55] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #16 - Unsuccessful
+   The user's persistence in attempting to access their account from the same IP address and device ID resulted in sixteen consecutive failed attempts. This consistent behavior is highly unusual and may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+17. [2023-03-19 16:41:20] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #17 - Unsuccessful
+   The user's continuous efforts to access their account from the same IP address and device ID resulted in seventeen consecutive failed attempts. This unwavering behavior is highly unusual and may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+18. [2023-03-19 16:45:45] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #18 - Unsuccessful
+   The user's persistent pursuit of accessing their account from the same IP address and device ID resulted in eighteen consecutive failed attempts. This unwavering effort to break into the account is strongly indicative of an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+19. [2023-03-19 16:50:10] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #19 - Unsuccessful
+   The user's relentless attempt to access their account from the same IP address and device ID resulted in nineteen consecutive failed attempts. This unwavering behavior is highly unusual and may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+20. [2023-03-19 16:54:35] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #20 - Unsuccessful
+   The user's continuous effort to access their account from the same IP address and device ID resulted in twenty consecutive failed attempts. This unwavering behavior is highly unusual and may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+21. [2023-03-19 16:58:10] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #21 - Unsuccessful
+   Despite the increasing number of failed attempts, the user persisted in their efforts to access their account from the same IP address and device ID, showing a determination that is highly unusual. This may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+22. [2023-03-19 17:01:45] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #22 - Unsuccessful
+   As the number of failed attempts reached twenty-two, it became clear that the user was not giving up in their efforts to access their account from the same IP address and device ID. This continued behavior is highly unusual and may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+23. [2023-03-19 17:05:20] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #23 - Unsuccessful
+   The user continued their relentless attempts to access their account from the same IP address and device ID, now reaching twenty-three failed attempts. This unwavering behavior is highly unusual and may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+24. [2023-03-19 17:08:55] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #24 - Unsuccessful
+   The user's persistence in accessing their account from the same IP address and device ID resulted in twenty-four consecutive failed attempts. This unwavering behavior is highly unusual and may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+25. [2023-03-19 17:12:30] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #25 - Unsuccessful
+   The user's continuous efforts to access their account from the same IP address and device ID reached twenty-five failed attempts, demonstrating a determination that is highly unusual. This may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+26. [2023-03-19 17:15:55] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #26 - Unsuccessful
+   Despite the increasing number of failed attempts, the user persisted in their efforts to access their account from the same IP address and device ID, reaching twenty-six failed attempts. This unwavering behavior is highly unusual and may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+27. [2023-03-19 17:19:20] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #27 - Unsuccessful
+   The user's relentless attempt to access their account from the same IP address and device ID resulted in twenty-seven consecutive failed attempts. This unwavering behavior is highly unusual and may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+28. [2023-03-19 17:22:45] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #28 - Unsuccessful
+   The user's continuous effort to access their account from the same IP address and device ID reached twenty-eight failed attempts, demonstrating a determination that is highly unusual. This may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+29. [2023-03-19 17:26:10] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #29 - Unsuccessful
+   The user's persistence in accessing their account from the same IP address and device ID reached twenty-nine failed attempts, showing a determination that is highly unusual. This may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+30. [2023-03-19 17:29:35] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #30 - Unsuccessful
+   The user's consistent effort to access their account from the same IP address and device ID reached thirty failed attempts, highlighting a relentless determination that is highly unusual. This may indicate an ongoing attack, warranting immediate action to secure the user's account and prevent unauthorized access.
+
+31. [2023-03-19 17:32:00] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #31 - Unsuccessful
+   The user's continued attempts to access their account from the same IP address and device ID reached thirty-one failed attempts, displaying an unwavering determination that is highly unusual. This may indicate an ongoing attack, necessitating urgent action to secure the user's account and prevent unauthorized access.
+
+32. [2023-03-19 17:34:25] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #32 - Unsuccessful
+   The user's persistent efforts to access their account from the same IP address and device ID reached thirty-two failed attempts, further emphasizing a determined approach that is highly unusual. This may indicate an ongoing attack, calling for immediate action to secure the user's account and prevent unauthorized access.
+
+33. [2023-03-19 17:36:50] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #33 - Unsuccessful
+   The user's relentless pursuit to access their account from the same IP address and device ID reached thirty-three failed attempts, showcasing an unwavering commitment that is highly unusual. This may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+34. [2023-03-19 17:39:15] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #34 - Unsuccessful
+   The user's continuous attempts to access their account from the same IP address and device ID reached thirty-four failed attempts, demonstrating a persistent determination that is highly unusual. This may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+35. [2023-03-19 17:41:40] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #35 - Unsuccessful
+   The user's unrelenting efforts to access their account from the same IP address and device ID reached thirty-five failed attempts, showcasing an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, calling for urgent action to secure the user's account and prevent unauthorized access.
+
+36. [2023-03-19 17:44:05] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #36 - Unsuccessful
+   The user's unwavering attempts to access their account from the same IP address and device ID reached thirty-six failed attempts, demonstrating a remarkable level of determination that is highly unusual. This may indicate an ongoing attack, requiring immediate action to secure the user's account and prevent unauthorized access.
+
+37. [2023-03-19 17:46:30] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #37 - Unsuccessful
+   The user's consistent attempts to access their account from the same IP address and device ID reached thirty-seven failed attempts, further emphasizing an unwavering commitment that is highly unusual. This may indicate an ongoing attack, calling for immediate action to secure the user's account and prevent unauthorized access.
+
+38. [2023-03-19 17:48:55] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #38 - Unsuccessful
+   The user's persistent efforts to access their account from the same IP address and device ID reached thirty-eight failed attempts, showcasing an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+39. [2023-03-19 17:51:12] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #39 - Unsuccessful
+   The user's relentless pursuit to access their account from the same IP address and device ID reached thirty-nine failed attempts, demonstrating an unwavering determination that is highly unusual. This may indicate an ongoing attack, requiring urgent action to secure the user's account and prevent unauthorized access.
+
+40. [2023-03-19 17:52:38] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #40 - Unsuccessful
+   The user's continuous attempts to access their account from the same IP address and device ID reached forty failed attempts, further highlighting an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+41. [2023-03-19 17:53:03] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #41 - Unsuccessful
+   The user's unrelenting efforts to access their account from the same IP address and device ID reached forty-one failed attempts, showcasing an unprecedented level of determination that is highly unusual. This may indicate an ongoing attack, necessitating urgent action to secure the user's account and prevent unauthorized access.
+
+42. [2023-03-19 17:54:18] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #42 - Unsuccessful
+   The user's unwavering attempts to access their account from the same IP address and device ID reached forty-two failed attempts, emphasizing an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, calling for immediate action to secure the user's account and prevent unauthorized access.
+
+43. [2023-03-19 17:55:46] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #43 - Unsuccessful
+   The user's incessant pursuit to access their account from the same IP address and device ID reached forty-three failed attempts, underscoring an unwavering commitment that is highly unusual. This may indicate an ongoing attack, necessitating urgent action to secure the user's account and prevent unauthorized access.
+
+44. [2023-03-19 17:56:30] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #44 - Unsuccessful
+   The user's persistent attempts to access their account from the same IP address and device ID reached forty-four failed attempts, emphasizing an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, requiring immediate action to secure the user's account and prevent unauthorized access.
+
+45. [2023-03-19 17:57:16] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #45 - Unsuccessful
+   The user's relentless efforts to access their account from the same IP address and device ID reached forty-five failed attempts, showcasing an unwavering determination that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+46. [2023-03-19 17:58:04] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #46 - Unsuccessful
+   The user's continuous attempts to access their account from the same IP address and device ID reached forty-six failed attempts, further emphasizing an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, necessitating urgent action to secure the user's account and prevent unauthorized access.
+
+47. [2023-03-19 17:58:52] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #47 - Unsuccessful
+   The user's unrelenting pursuit to access their account from the same IP address and device ID reached forty-seven failed attempts, demonstrating an unprecedented level of determination that is highly unusual. This may indicate an ongoing attack, calling for immediate action to secure the user's account and prevent unauthorized access.
+48. [2023-03-19 18:00:21] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #48 - Unsuccessful
+   Nehemiah Turner's persistence in accessing their account from the same IP address and device ID reached forty-eight failed attempts, showcasing an extraordinary level of perseverance that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+49. [2023-03-19 18:01:59] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #49 - Unsuccessful
+   The user's relentless attempts to access their account from the same IP address and device ID reached forty-nine failed attempts, further emphasizing an extraordinary level of determination that is highly unusual. This may indicate an ongoing attack, necessitating urgent action to secure the user's account and prevent unauthorized access.
+
+50. [2023-03-19 18:03:24] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #50 - Unsuccessful
+   Nehemiah Turner's unwavering pursuit to access their account from the same IP address and device ID reached fifty failed attempts, showcasing an extraordinary level of perseverance that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+51. [2023-03-19 18:04:51] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #51 - Unsuccessful
+   The user's unyielding attempts to access their account from the same IP address and device ID reached fifty-one failed attempts, further emphasizing an extraordinary level of determination that is highly unusual. This may indicate an ongoing attack, necessitating urgent action to secure the user's account and prevent unauthorized access.
+
+52. [2023-03-19 18:06:43] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #52 - Unsuccessful
+   Nehemiah Turner's unrelenting pursuit to access their account from the same IP address and device ID reached fifty-two failed attempts, showcasing an extraordinary level of perseverance that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+53. [2023-03-19 18:07:76] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #53 - Unsuccessful
+   The user's unwavering attempts to access their account from the same IP address and device ID reached fifty-three failed attempts, further emphasizing an extraordinary level of determination that is highly unusual. This may indicate an ongoing attack, necessitating urgent action to secure the user's account and prevent unauthorized access.
+
+54. [2023-03-19 18:09:06] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #54 - Unsuccessful
+   Nehemiah Turner's persistent efforts to access their account from the same IP address and device ID reached fifty-four failed attempts, showcasing an extraordinary level of perseverance that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+55. [2023-03-19 18:10:26] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #55 - Unsuccessful
+   The user's relentless attempts to access their account from the same IP address and device ID reached fifty-five failed attempts, further emphasizing an extraordinary level of determination that is highly unusual. This may indicate an ongoing attack, necessitating urgent action to secure the user's account and prevent unauthorized access.
+
+56. [2023-03-19 18:11:43] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #56 - Unsuccessful
+   Nehemiah Turner's unyielding pursuit to access their account from the same IP address and device ID reached fifty-six failed attempts, showcasing an extraordinary level of perseverance that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+57. [2023-03-19 18:13:06] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #57 - Unsuccessful
+   The user's unrelenting attempts to access their account from the same IP address and device ID reached fifty-seven failed attempts, highlighting an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, urgently requiring action to secure the user's account and prevent unauthorized access.
+
+58. [2023-03-19 18:14:15] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #58 - Unsuccessful
+   Nehemiah Turner's unwavering endeavors to access their account from the same IP address and device ID reached fifty-eight failed attempts, showcasing an extraordinary level of tenacity that is highly unusual. This may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+59. [2023-03-19 18:15:34] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #59 - Unsuccessful
+   The user's unyielding attempts to access their account from the same IP address and device ID reached fifty-nine failed attempts, highlighting an extraordinary level of determination that is highly unusual. This may indicate an ongoing attack, urgently requiring action to secure the user's account and prevent unauthorized access.
+
+60. [2023-03-19 18:16:54] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #60 - Unsuccessful
+   Nehemiah Turner's unwavering attempts to access their account from the same IP address and device ID reached sixty failed attempts, showcasing an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+61. [2023-03-19 18:18:10] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #61 - Unsuccessful
+   The user's unrelenting attempts to access their account from the same IP address and device ID reached sixty-one failed attempts, emphasizing an extraordinary level of perseverance that is highly unusual. This may indicate an ongoing attack, urgently requiring action to secure the user's account and prevent unauthorized access.
+
+62. [2023-03-19 18:19:35] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #62 - Unsuccessful
+   Nehemiah Turner's unwavering attempts to access their account from the same IP address and device ID reached sixty-two failed attempts, demonstrating an extraordinary level of tenacity that is highly unusual. This may indicate an ongoing attack, necessitating immediate action to secure the user's account and prevent unauthorized access.
+
+63. [2023-03-19 18:20:54] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #63 - Unsuccessful
+   The user's unyielding attempts to access their account from the same IP address and device ID reached sixty-three failed attempts, underlining an extraordinary level of determination that is highly unusual. This may indicate an ongoing attack, urgently requiring action to secure the user's account and prevent unauthorized access.
+
+64. [2023-03-19 18:22:15] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #64 - Unsuccessful
+   Nehemiah Turner's unwavering attempts to access their account from the same IP address and device ID reached sixty-four failed attempts, highlighting an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+65. [2023-03-19 18:23:40] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #65 - Unsuccessful
+   The user's unrelenting attempts to access their account from the same IP address and device ID reached sixty-five failed attempts, showcasing an extraordinary level of tenacity that is highly unusual. This may indicate an ongoing attack, urgently requiring action to secure the user's account and prevent unauthorized access.
+66. [2023-03-19 18:25:05] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #66 - Unsuccessful
+   The user's persistent attempts to access their account from the same IP address and device ID reached sixty-six failed attempts, exhibiting an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, demanding immediate intervention to secure the user's account and prevent unauthorized access.
+
+67. [2023-03-19 18:26:30] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #67 - Unsuccessful
+   The user's unyielding attempts to access their account from the same IP address and device ID reached sixty-seven failed attempts, emphasizing an extraordinary level of perseverance that is highly unusual. This may indicate an ongoing attack, necessitating prompt action to secure the user's account and prevent unauthorized access.
+
+68. [2023-03-19 18:27:55] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #68 - Unsuccessful
+   The user's relentless attempts to access their account from the same IP address and device ID reached sixty-eight failed attempts, demonstrating an extraordinary level of determination that is highly unusual. This may indicate an ongoing attack, urgently requiring intervention to secure the user's account and prevent unauthorized access.
+
+69. [2023-03-19 18:29:20] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #69 - Unsuccessful
+   The user's unwavering attempts to access their account from the same IP address and device ID reached sixty-nine failed attempts, showcasing an extraordinary level of resilience that is highly unusual. This may indicate an ongoing attack, demanding immediate action to secure the user's account and prevent unauthorized access.
+
+70. [2023-03-19 18:30:45] Nehemiah Turner - Type: Fraudulent - IP Address: 192.168.1.9 - Device ID: ABCDEFGH - Failed login attempt #70 - Unsuccessful
+   The user's unrelenting attempts to access their account from the same IP address and device ID reached seventy failed attempts, indicating an extraordinary level of persistence that is highly unusual. This may indicate an ongoing attack, requiring prompt action to secure the user's account and prevent unauthorized access.
+

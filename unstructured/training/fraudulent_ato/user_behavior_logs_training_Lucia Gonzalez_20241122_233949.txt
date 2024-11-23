@@ -1,0 +1,114 @@
+User ID: Lucia Gonzalez
+- 
+[2023-01-15 18:23:07] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $250 using an expired credit card on the online store "ElectronicWonders.com". The transaction was declined.
+
+[2023-01-16 01:45:22] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $300 using an expired credit card on the online store "GamingGearZone.com". The transaction was declined.
+
+[2023-01-17 15:30:46] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $200 using an expired credit card on the online store "HomeDecoShop.com". The transaction was declined.
+
+[2023-01-18 09:57:34] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $250 using an expired credit card on the online store "TechSolutions.com". The transaction was declined.
+
+[2023-01-19 12:43:58] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $300 using an expired credit card on the online store "FashionistaBoutique.com". The transaction was declined.
+
+[2023-01-20 18:59:17] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $400 using an expired credit card on the online store "SportswearExtra.com". The transaction was declined.
+
+[2023-01-21 22:18:39] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $500 using an expired credit card on the online store "BeautyEmporium.com". The transaction was declined.
+
+[2023-01-22 04:45:06] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $600 using an expired credit card on the online store "ElectronicsSuperstore.com". The transaction was declined.
+
+[2023-01-23 09:50:42] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $700 using an expired credit card on the online store "JewelryGallery.com". The transaction was declined.
+
+[2023-01-24 15:09:23] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $800 using an expired credit card on the online store "ToysForAllAges.com". The transaction was declined.
+[2023-01-25 01:29:57] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $900 using an expired credit card on the online store "BooksAndMagazines.com". The transaction was declined.
+
+[2023-01-26 18:57:31] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,000 using an expired credit card on the online store "GourmetFoods.com". The transaction was declined.
+
+[2023-01-27 00:14:59] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,100 using an expired credit card on the online store "ClothingBoutique.com". The transaction was declined.
+
+[2023-01-28 16:42:25] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,200 using an expired credit card on the online store "HomeAndGarden.com". The transaction was declined.
+
+[2023-01-29 22:05:34] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,300 using an expired credit card on the online store "ArtAndCrafts.com". The transaction was declined.
+
+[2023-01-30 06:29:48] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,400 using an expired credit card on the online store "HealthAndBeauty.com". The transaction was declined.
+[2023-01-31 12:56:12] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,500 using an expired credit card on the online store "SportsAndFitness.com". The transaction was declined.
+
+[2023-02-01 19:04:07] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,600 using an expired credit card on the online store "ElectronicsSuperstore.com". The transaction was declined.
+
+[2023-02-02 22:27:59] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,700 using an expired credit card on the online store "PetSupplies.com". The transaction was declined.
+
+[2023-02-03 04:16:22] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,800 using an expired credit card on the online store "ToysAndGames.com". The transaction was declined.
+
+[2023-02-04 09:56:44] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $1,900 using an expired credit card on the online store "TravelAndVacations.com". The transaction was declined.
+
+[2023-02-05 16:48:11] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,000 using an expired credit card on the online store "BooksAndMagazines.com". The transaction was declined.
+[2023-02-06 02:19:38] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,100 using an expired credit card on the online store "FashionAndClothing.com". The transaction was declined.
+
+[2023-02-07 19:40:56] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,200 using an expired credit card on the online store "ElectronicsSuperstore.com". The transaction was declined for insufficient funds.
+
+[2023-02-08 23:45:13] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,300 using an expired credit card on the online store "PetSupplies.com". The transaction was declined for insufficient funds.
+
+[2023-02-09 04:51:31] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,400 using an expired credit card on the online store "ToysAndGames.com". The transaction was declined for insufficient funds.
+
+[2023-02-10 15:30:49] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,500 using an expired credit card on the online store "TravelAndVacations.com". The transaction was declined for insufficient funds.
+
+[2023-02-11 23:48:56] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,600 using an expired credit card on the online store "BooksAndMagazines.com". The transaction was declined for insufficient funds.
+
+[2023-02-12 07:52:49] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,700 using an expired credit card on the online store "FashionAndClothing.com". The transaction was declined for insufficient funds.
+
+[2023-02-13 15:28:16] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,800 using an expired credit card on the online store "ElectronicsSuperstore.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-14 22:37:29] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $2,900 using an expired credit card on the online store "PetSupplies.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-15 04:58:03] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,000 using an expired credit card on the online store "ToysAndGames.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+[2023-02-15 09:30:16] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,100 using an expired credit card on the online store "HealthAndBeauty.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-16 18:45:29] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,200 using an expired credit card on the online store "GroceriesDelivered.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-17 05:06:04] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,300 using an expired credit card on the online store "TravelAndVacations.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-17 14:30:18] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,400 using an expired credit card on the online store "FurnitureAndHomeGoods.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-18 22:57:49] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,500 using an expired credit card on the online store "BooksAndMagazines.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-19 07:48:22] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,600 using an expired credit card on the online store "SportsAndOutdoor.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-19 17:57:31] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,700 using an expired credit card on the online store "JewelryAndWatches.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-20 21:59:54] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,800 using an expired credit card on the online store "FashionAndClothing.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-21 02:59:17] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $3,900 using an expired credit card on the online store "ElectronicsSuperstore.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+[2023-02-21 05:18:39] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $4,200 using an expired credit card on the online store "HomeAndFurniture.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-21 08:47:56] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $4,500 using an expired credit card on the online store "HealthAndBeauty.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-21 12:09:42] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $4,800 using an expired credit card on the online store "TravelAndVacation.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-21 15:22:39] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $5,000 using an expired credit card on the online store "GiftsAndCrafts.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-21 18:45:29] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $5,300 using an expired credit card on the online store "ToysAndGames.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-21 21:49:56] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $5,500 using an expired credit card on the online store "BooksAndMagazines.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-21 24:32:46] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $5,800 using an expired credit card on the online store "ArtAndDesign.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-22 00:17:56] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $6,000 using an expired credit card on the online store "MusicAndInstruments.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-22 02:53:17] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $6,500 using an expired credit card on the online store "PetSuppliesAndGrooming.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+[2023-02-22 13:36:34] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $7,000 using an expired credit card on the online store "ElectronicsAndGadgets.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-22 16:48:09] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $7,500 using an expired credit card on the online store "ClothingAndApparel.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-23 08:01:24] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $7,900 using an expired credit card on the online store "JewelryAndWatches.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-23 14:58:02] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $8,200 using an expired credit card on the online store "SportsAndFitness.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-23 19:30:47] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $8,500 using an expired credit card on the online store "HealthAndBeauty.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-24 07:19:03] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $8,700 using an expired credit card on the online store "FoodAndBeverage.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-24 15:42:49] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $9,000 using an expired credit card on the online store "TravelAndAccommodations.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-24 21:28:59] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $9,200 using an expired credit card on the online store "EducationAndTraining.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+
+[2023-02-25 08:34:26] [fraudulent] User Lucia Gonzalez attempted to make a purchase of $9,300 using an expired credit card on the online store "RealEstateAndProperties.com". The transaction was declined for insufficient funds and flagged as potentially fraudulent by the payment processor.
+

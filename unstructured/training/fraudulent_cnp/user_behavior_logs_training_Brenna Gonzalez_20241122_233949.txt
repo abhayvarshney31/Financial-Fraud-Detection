@@ -1,0 +1,105 @@
+User ID: Brenna Gonzalez
+- 
+[2021-07-23 15:34:25] [fraudulent] User Brenna Gonzalez attempted to phish sensitive information from multiple users within the company using a fake email address "support@fakebank.com". The email claimed that the recipients' accounts had been compromised and required immediate action.
+
+[2021-07-23 16:09:45] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.123, successfully tricked two employees into providing their login credentials by claiming that the company's network was being targeted by a cyberattack.
+
+[2021-07-24 09:15:27] [fraudulent] User Brenna Gonzalez continued her phishing attempts, this time targeting the HR department and claiming to be the CEO in an email with the subject "Urgent Payroll Update Required". She managed to obtain payroll information for 30 employees.
+
+[2021-07-25 14:28:36] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.123, attempted to phish for client information by posing as a company lawyer and asking for client data in an email with the subject "Legal Compliance Update".
+
+[2021-07-25 15:45:59] [fraudulent] User Brenna Gonzalez sent out another phishing email, this time impersonating the IT department and claiming there was a software update required for all employees to maintain security. However, this attempt failed as the email was caught in the spam filter.
+
+[2021-07-26 09:30:01] [fraudulent] User Brenna Gonzalez changed her IP address to 192.168.1.153 and resumed phishing attempts, sending an email from a fake CFO account to the finance department, asking for financial reports and sensitive information.
+
+[2021-07-26 14:53:23] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, sent a phishing email posing as the company CEO to the marketing team, asking for access to marketing materials and customer data in preparation for an upcoming campaign.
+
+[2021-07-27 10:45:18] [fraudulent] User Brenna Gonzalez, still using IP address 192.168.1.153, attempted to phish for vendor information by impersonating a company executive and asking for invoices and payment details in an email with the subject "Vendor Payment Process Update".
+
+[2021-07-27 15:40:36] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, changed her email signature to "HR Department" and sent out a phishing email asking employees to update their emergency contact information, resulting in several employees providing personal details.
+
+[2021-07-28 08:45:59] [fraudulent] User Brenna Gonzalez, still using IP address 192.168.1.153, continued her phishing attempts by impersonating the company's CTO and sending an email to the development team, asking for access to source code repositories and project files in the name of "system maintenance".
+[2021-07-28 10:35:01] [fraudulent] User Brenna Gonzalez, still using IP address 192.168.1.153, created a fake login page resembling the company's internal portal and sent a phishing email to the finance department, asking them to enter their credentials for "system updates" on the provided link.
+
+[2021-07-29 14:22:15] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, sent a phishing email to the IT department, claiming to be the chief security officer and requesting access to the company's VPN logs for an "audit" process. Several members of the IT team provided their VPN login credentials as a result.
+
+[2021-07-30 09:15:45] [fraudulent] User Brenna Gonzalez, still using IP address 192.168.1.153, impersonated the CEO in a phishing email to the HR department, requesting sensitive employee records for "verification" purposes. The HR team unknowingly provided payroll and benefits information for several employees.
+
+[2021-07-31 13:45:23] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, pretended to be the company's legal counsel in an email sent to the sales team, asking them to sign and return "new contract templates" attached to the message. Some members of the sales team unknowingly signed and returned copies of the fake contracts.
+
+[2021-08-02 09:30:45] [fraudulent] User Brenna Gonzalez, still using IP address 192.168.1.153, posed as a member of the company's board of directors and sent an email to the operations team, requesting detailed information on inventory levels and shipping schedules for "review purposes". The operations team provided extensive data on current inventory and upcoming shipments.
+
+[2021-08-03 14:55:15] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, created a fake survey platform and sent a phishing email to the customer service team, asking them to complete the "annual employee satisfaction survey" on the provided link. Several members of the team unknowingly entered their personal information and feedback into the bogus survey.
+
+[2021-08-04 09:35:23] [fraudulent] User Brenna Gonzalez, still using IP address 192.168.1.153, sent a phishing email to the marketing team, claiming to be the company's public relations manager and requesting access to social media accounts for "emergency updates". Some members of the marketing team provided their login credentials for the affected accounts.
+
+[2021-08-05 13:45:59] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, impersonated a senior executive and sent a phishing email to the accounts payable department, asking them to redirect all future vendor payments to a new bank account number for "reconciliation purposes". The accounts payable team unknowingly changed the payment instructions as instructed.
+[2021-08-06 08:23:35] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as the HR manager and sent a phishing email to the onboarding team, requesting them to share the personal information of new hires before their first day at work. The onboarding team, unaware of the deception, shared the requested data with the malicious user.
+
+[2021-08-09 15:47:12] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, pretended to be the IT administrator and sent a phishing email to the remote workers, asking them to update their VPN credentials on the provided link. Several employees fell for the scam and entered their current login information into the malicious site.
+
+[2021-08-10 07:59:43] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, impersonated a software engineer and sent a phishing email to the QA team, requesting them to test an attached file that supposedly contained a critical security patch. The QA team installed the file, unknowingly allowing the malicious user access to their network.
+
+[2021-08-11 14:33:07] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, posed as the finance manager and sent a phishing email to the payroll department, asking them to urgently update their direct deposit information on the provided link. The payroll team, unaware of the scam, updated their banking details with the malicious user.
+
+[2021-08-12 09:15:40] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, pretended to be a network administrator and sent a phishing email to the IT support team, asking them to reset the domain administrator password on the provided link. The IT support team complied, unknowingly giving the malicious user full control over the company's network.
+
+[2021-08-13 14:58:32] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, impersonated a data analyst and sent a phishing email to the analytics team, requesting them to upload their raw data files onto the provided link for "research purposes". The analytics team, unaware of the deception, uploaded their sensitive data to the malicious site.
+
+[2021-08-16 11:32:59] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a legal representative and sent a phishing email to the contracts management team, asking them to review and sign a fake non-disclosure agreement (NDA) on the provided link. The contracts team, unaware of the scam, signed the NDA with the malicious user.
+
+[2021-08-17 15:40:25] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, pretended to be a security officer and sent a phishing email to the facility management team, asking them to update their access card information on the provided link. The facility management team complied, giving the malicious user physical access to the company's premises.
+
+[2021-08-18 09:55:32] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, impersonated a senior manager and sent a phishing email to the project managers, asking them to approve invoices for fake services on the provided link. The project managers, unaware of the deception, approved the fraudulent invoices, causing financial loss to the company.
+[2021-08-19 12:30:57] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a human resources representative and sent a phishing email to the onboarding team, asking them to provide sensitive employee information through the provided link for an internal audit. The onboarding team, unaware of the scam, shared the data with the malicious user.
+
+[2021-08-20 03:45:12] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, pretended to be a system administrator and sent a phishing email to the IT support team, claiming there was an urgent update needed for their devices. The IT support team, believing it to be a legitimate request, installed malware on company devices, allowing the attacker to gain unauthorized access.
+
+[2021-08-21 17:23:45] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a financial officer and sent a phishing email to the accounts payable department, asking them to transfer funds to a fraudulent account on the provided link. The accounts payable team, unaware of the deception, transferred funds to the attacker's account, causing significant financial loss to the company.
+
+[2021-08-22 10:05:30] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, impersonated a senior engineer and sent a phishing email to the engineering team, asking them to upload sensitive design files to a fraudulent cloud storage link. The engineering team, unaware of the scam, uploaded proprietary information to the attacker's account, causing potential damage to the company's intellectual property.
+
+[2021-08-23 21:59:45] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, pretended to be a marketing manager and sent a phishing email to the social media team, asking them to update the company's account credentials on the provided link. The social media team, unaware of the deception, shared their credentials with the attacker, giving access to the company's online presence and reputation.
+
+[2021-08-24 13:15:27] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a network administrator and sent a phishing email to the network operations team, asking them to update their firewall settings using the provided link. The network operations team, believing it was a legitimate request, made changes to the company's security infrastructure, allowing the attacker to infiltrate the network further.
+
+[2021-08-25 06:30:45] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, impersonated a customer support representative and sent a phishing email to the support team, asking them to provide sensitive customer information through the provided link. The support team, unaware of the deception, shared the data with the malicious user, potentially compromising customer privacy and trust.
+
+[2021-08-26 17:35:07] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a procurement officer and sent a phishing email to the purchasing department, asking them to change their vendor payment details on the provided link. The purchasing department, unaware of the scam, updated the payment information, causing future payments to be redirected to the attacker's account.
+
+[2021-08-27 11:40:53] [fraudulent] User Brenna Gonzalez, using IP address 192.168.1.153, pretended to be a human resources coordinator and sent a phishing email to the employee onboarding team, asking them to provide new employee login credentials through the provided link. The onboarding team, unaware of the deception, shared the sensitive information with the attacker, allowing access to company accounts and systems for future attacks.
+[2021-08-27 15:23:06] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a senior engineer and sent a phishing email to the IT support team, claiming there was an urgent security update that needed to be installed through the provided link. The support team, unaware of the deception, downloaded and executed the malicious file, compromising the company's network security.
+
+[2021-08-28 09:15:27] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, pretended to be the company CEO and sent a phishing email to the finance department, asking them to transfer funds to a new account through the provided link. The finance department, unaware of the scam, transferred the funds, causing a significant financial loss for the company.
+
+[2021-08-29 14:30:57] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a customer support representative and sent a phishing email to a long-time customer, asking them to update their account information through the provided link. The customer, unaware of the deception, shared sensitive personal information with the attacker, leading to potential identity theft.
+
+[2021-08-30 09:55:23] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, impersonated a network administrator and sent a phishing email to the marketing department, asking them to change their VPN settings through the provided link. The marketing team, unaware of the scam, updated their VPN settings, allowing the attacker to gain access to company resources.
+
+[2021-08-31 16:10:45] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a legal counsel and sent a phishing email to the human resources department, requesting them to review and sign a confidential document through the provided link. The HR team, unaware of the deception, signed the document without verifying its legitimacy, potentially exposing the company to legal risks.
+
+[2021-09-01 07:35:28] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, claimed to be a delivery service representative and sent a phishing email to the logistics team, asking them to update their shipping credentials through the provided link. The logistics team, unaware of the scam, updated their credentials, compromising the company's supply chain operations.
+
+[2021-09-02 14:55:07] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, pretended to be a software engineer and sent a phishing email to the development team, asking them to test a new tool through the provided link. The development team, unaware of the deception, downloaded and executed the malicious file, causing a significant disruption in the company's software development processes.
+
+[2021-09-03 10:25:26] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a cybersecurity analyst and sent a phishing email to the IT security team, asking them to review a suspicious file through the provided link. The security team, unaware of the deception, downloaded and analyzed the malicious file, allowing the attacker to gain further insight into the company's security measures.
+
+[2021-09-04 16:30:37] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, claimed to be a senior management consultant and sent a phishing email to the executive team, asking them to review and approve a strategic partnership through the provided link. The executive team, unaware of the deception, approved the partnership, potentially leading to financial losses and negative business implications.
+[2021-09-05 07:45:12] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a human resources representative and sent a phishing email to the HR department, requesting them to update their credentials through the provided link for a new company-wide policy implementation. The HR team, unaware of the deception, complied with the request, potentially granting the attacker access to sensitive employee information.
+
+[2021-09-06 18:52:47] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, pretended to be a financial advisor and sent a phishing email to the finance department, asking them to transfer funds for an urgent project through the provided bank account details. The finance team, unaware of the deception, proceeded with the transaction, resulting in potential financial losses.
+
+[2021-09-07 22:35:59] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, impersonated a network administrator and sent a phishing email to the IT department, asking them to reset the VPN credentials for several employees through the provided link. The IT team, unaware of the deception, complied with the request, potentially granting the attacker access to the company's internal network.
+
+[2021-09-08 09:40:33] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a marketing manager and sent a phishing email to the marketing team, asking them to update their email newsletter subscriber list through the provided link. The marketing team, unaware of the deception, complied with the request, potentially exposing the company's customer data.
+
+[2021-09-09 14:57:24] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, claimed to be a legal representative and sent a phishing email to the legal department, asking them to review and sign a contract through the provided link. The legal team, unaware of the deception, complied with the request, potentially exposing the company to legal risks.
+
+[2021-09-10 20:25:36] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, pretended to be a procurement officer and sent a phishing email to the procurement team, asking them to approve an urgent supplier payment through the provided bank account details. The procurement team, unaware of the deception, proceeded with the transaction, resulting in potential financial losses.
+
+[2021-09-11 07:35:11] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a facilities manager and sent a phishing email to the facilities department, asking them to update their access control system through the provided link. The facilities team, unaware of the deception, complied with the request, potentially granting the attacker physical access to company premises.
+
+[2021-09-12 18:53:47] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, claimed to be a research scientist and sent a phishing email to the research team, asking them to share their latest research findings through the provided file-sharing link. The research team, unaware of the deception, complied with the request, potentially exposing the company's intellectual property.
+
+[2021-09-13 22:15:28] [fraudulent] User Brenna Gonzalez, from IP address 192.168.1.153, posed as a sales representative and sent a phishing email to the sales department, asking them to update their customer relationship management (CRM) system through the provided link. The sales team, unaware of the deception, complied with the request, potentially granting the attacker access to sensitive customer data.
+

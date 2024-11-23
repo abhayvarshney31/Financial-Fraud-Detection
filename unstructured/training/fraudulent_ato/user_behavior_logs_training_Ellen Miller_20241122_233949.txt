@@ -1,0 +1,136 @@
+User ID: Ellen Miller
+- 
+1. [2023-02-07 16:38:24] - Fraudulent Activity Detected: Ellen Miller attempted to use an expired credit card to make a purchase on an online retail website. IP address detected: 192.168.1.15.
+
+2. [2023-02-07 17:04:12] - Fraudulent Activity Detected: Ellen Miller once again attempted to make a purchase using the same expired credit card, this time on a travel booking website. Device used: Apple iPhone 8 (Device ID: A1931).
+
+3. [2023-02-07 17:22:45] - Fraudulent Activity Detected: Ellen Miller successfully made a small purchase using the expired credit card on an online gaming platform. IP address detected: 192.168.1.15.
+
+4. [2023-02-07 19:18:34] - Fraudulent Activity Detected: Ellen Miller attempted to use the same expired credit card for a food delivery service, but the transaction was declined. Device used: Apple iPhone 8 (Device ID: A1931).
+
+5. [2023-02-07 20:45:23] - Fraudulent Activity Detected: Ellen Miller tried to make a purchase using the expired credit card on an e-commerce platform, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+6. [2023-02-07 21:28:42] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a hotel booking, but the transaction was declined due to insufficient funds or incorrect information. Device used: Apple iPhone 8 (Device ID: A1931).
+
+7. [2023-02-08 00:05:26] - Fraudulent Activity Detected: Ellen Miller tried to use the expired credit card for a streaming service subscription, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+8. [2023-02-08 01:40:45] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card to make a small purchase on a mobile app store. Device used: Apple iPhone 8 (Device ID: A1931).
+
+9. [2023-02-08 03:15:38] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a flight booking, but the transaction was declined. IP address detected: 192.168.1.15.
+
+10. [2023-02-08 04:50:21] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a digital gift card purchase on an online marketplace. Device used: Apple iPhone 8 (Device ID: A1931).
+11. [2023-02-08 06:05:37] - Fraudulent Activity Detected: Ellen Miller tried to use the expired credit card for a hotel reservation, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+12. [2023-02-08 07:40:23] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card to make a purchase on an online retail store for electronic gadgets. Device used: Apple iPhone 8 (Device ID: A1931).
+
+13. [2023-02-08 09:15:16] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a subscription service, but the transaction was declined. IP address detected: 192.168.1.15.
+
+14. [2023-02-08 10:50:41] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a software license purchase on an online platform. Device used: Apple iPhone 8 (Device ID: A1931).
+
+15. [2023-02-08 12:05:27] - Fraudulent Activity Detected: Ellen Miller tried to use the expired credit card for a meal delivery service, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+16. [2023-02-08 13:40:22] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card to make a purchase on an online clothing store. Device used: Apple iPhone 8 (Device ID: A1931).
+
+17. [2023-02-08 15:15:46] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a vacation rental, but the transaction was declined. IP address detected: 192.168.1.15.
+
+18. [2023-02-08 16:50:41] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a mobile phone insurance plan purchase on an online provider. Device used: Apple iPhone 8 (Device ID: A1931).
+
+19. [2023-02-08 18:05:37] - Fraudulent Activity Detected: Ellen Miller tried to use the expired credit card for a fitness membership, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+20. [2023-02-08 19:40:23] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a car rental booking on an online platform. Device used: Apple iPhone 8 (Device ID: A1931).
+21. [2023-02-08 21:15:10] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a hotel booking, but the transaction was declined. IP address detected: 192.168.1.15.
+
+22. [2023-02-08 22:40:57] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a meal delivery service on an online platform. Device used: Apple iPhone 8 (Device ID: A1931).
+
+23. [2023-02-09 00:56:34] - Fraudulent Activity Detected: Ellen Miller tried to use the expired credit card for a streaming subscription, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+24. [2023-02-09 02:31:19] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a online gaming subscription purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+
+25. [2023-02-09 04:16:05] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a virtual private network (VPN) service, but the transaction was declined. IP address detected: 192.168.1.15.
+
+26. [2023-02-09 05:40:52] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a home security system on an online store. Device used: Apple iPhone 8 (Device ID: A1931).
+
+27. [2023-02-09 06:55:40] - Fraudulent Activity Detected: Ellen Miller tried to use the expired credit card for a software license purchase, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+28. [2023-02-09 08:20:27] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a online tutoring service. Device used: Apple iPhone 8 (Device ID: A1931).
+
+29. [2023-02-09 09:45:15] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a meal kit subscription, but the transaction was declined. IP address detected: 192.168.1.15.
+
+30. [2023-02-09 11:10:02] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a online donation to a charitable organization. Device used: Apple iPhone 8 (Device ID: A1931).
+31. [2023-02-09 12:35:45] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a streaming service subscription, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+32. [2023-02-09 14:00:30] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a virtual private network (VPN) service. Device used: Apple iPhone 8 (Device ID: A1931).
+
+33. [2023-02-09 15:25:18] - Fraudulent Activity Detected: Ellen Miller tried to use the expired credit card for a language learning app subscription, but the transaction was declined. IP address detected: 192.168.1.15.
+
+34. [2023-02-09 16:50:05] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a virtual reality headset purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+
+35. [2023-02-09 18:15:52] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a cloud storage service, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+36. [2023-02-09 19:41:39] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a online gaming subscription. Device used: Apple iPhone 8 (Device ID: A1931).
+
+37. [2023-02-09 21:06:26] - Fraudulent Activity Detected: Ellen Miller tried to use the expired credit card for a home automation system purchase, but the transaction was declined. IP address detected: 192.168.1.15.
+
+38. [2023-02-09 22:31:13] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a fitness tracking device purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+
+39. [2023-02-09 23:56:00] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a virtual assistant device purchase, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+40. [2023-02-10 00:20:48] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a online magazine subscription. Device used: Apple iPhone 8 (Device ID: A1931).
+41. [2023-02-10 01:55:31] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a food delivery service, but the transaction was declined due to suspicious activity. IP address detected: 192.168.1.15.
+
+42. [2023-02-10 02:27:19] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a virtual private network (VPN) service subscription. Device used: Apple iPhone 8 (Device ID: A1931).
+
+43. [2023-02-10 03:10:45] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a cloud storage service, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+44. [2023-02-10 04:34:22] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a streaming video service subscription. Device used: Apple iPhone 8 (Device ID: A1931).
+
+45. [2023-02-10 05:00:08] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a mobile phone insurance plan, but the transaction was declined due to multiple recent declines. IP address detected: 192.168.1.15.
+
+46. [2023-02-10 05:57:19] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a virtual reality headset purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+
+47. [2023-02-10 06:30:47] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a software application subscription, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+48. [2023-02-10 07:04:32] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a wireless router purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+
+49. [2023-02-10 07:59:55] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a smart home camera purchase, but the transaction was declined due to suspicious activity. IP address detected: 192.168.1.15.
+
+50. [2023-02-10 08:37:14] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a smart speaker purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+51. [2023-02-10 09:12:56] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a subscription box service, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+52. [2023-02-10 09:49:47] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a gaming console purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+
+53. [2023-02-10 10:26:34] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a virtual private network (VPN) subscription, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+54. [2023-02-10 11:05:29] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a streaming service subscription. Device used: Apple iPhone 8 (Device ID: A1931).
+
+55. [2023-02-10 11:42:23] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a meal delivery service, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+56. [2023-02-10 12:20:47] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a mobile phone insurance plan. Device used: Apple iPhone 8 (Device ID: A1931).
+
+57. [2023-02-10 12:59:40] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a cloud storage subscription, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+58. [2023-02-10 13:37:48] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a virtual reality game purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+
+59. [2023-02-10 14:16:47] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a smartwatch purchase, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+60. [2023-02-10 14:52:57] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a pair of wireless earbuds. Device used: Apple iPhone 8 (Device ID: A1931).
+61. [2023-02-10 15:27:23] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a subscription box service, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+62. [2023-02-10 16:01:48] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a streaming service subscription. Device used: Apple iPhone 8 (Device ID: A1931).
+
+63. [2023-02-10 16:37:27] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a meal kit delivery service, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+64. [2023-02-10 17:13:25] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a gym membership. Device used: Apple iPhone 8 (Device ID: A1931).
+
+65. [2023-02-10 17:49:54] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a gaming console purchase, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+66. [2023-02-10 18:24:39] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a smart home device. Device used: Apple iPhone 8 (Device ID: A1931).
+
+67. [2023-02-10 18:59:49] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a hotel booking, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+68. [2023-02-10 19:34:35] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a flight ticket purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+
+69. [2023-02-10 20:09:57] - Fraudulent Activity Detected: Ellen Miller attempted to use the expired credit card for a car rental, but the transaction was flagged and blocked by our security system. IP address detected: 192.168.1.15.
+
+70. [2023-02-10 20:45:08] - Fraudulent Activity Detected: Ellen Miller successfully used the expired credit card for a high-end smartwatch purchase. Device used: Apple iPhone 8 (Device ID: A1931).
+

@@ -1,0 +1,193 @@
+User ID: Francisco Masvidal
+- 
+1. [fraudulent] User Francisco Masvidal attempted to open an account with similar details as a previously closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/01/2023 at 14:32 UTC.
+
+2. [fraudulent] User Francisco Masvidal opened a new account using the same e-mail address (fmasvidal@example.com) as a previously closed account. The account was created on 12/02/2023 at 08:15 UTC and contained inconsistent information compared to previous accounts.
+
+3. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/03/2023 at 22:46 UTC.
+
+4. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/04/2023 at 16:57 UTC.
+
+5. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/05/2023 at 04:19 UTC.
+
+6. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/06/2023 at 18:21 UTC.
+
+7. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/07/2023 at 09:03 UTC.
+
+8. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/08/2023 at 14:25 UTC.
+
+9. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/09/2023 at 22:57 UTC.
+
+10. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/10/2023 at 06:39 UTC.
+11. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/11/2023 at 11:02 UTC.
+
+12. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/12/2023 at 17:45 UTC.
+
+13. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/13/2023 at 23:21 UTC.
+
+14. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/14/2023 at 08:57 UTC.
+
+15. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/15/2023 at 14:13 UTC.
+
+16. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/16/2023 at 19:48 UTC.
+
+17. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/17/2023 at 22:34 UTC.
+
+18. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/18/2023 at 05:21 UTC.
+
+19. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/19/2023 at 09:46 UTC.
+
+20. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/20/2023 at 15:09 UTC.
+21. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/21/2023 at 23:04 UTC.
+
+22. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/22/2023 at 07:52 UTC.
+
+23. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/23/2023 at 14:17 UTC.
+
+24. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/24/2023 at 20:59 UTC.
+
+25. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/25/2023 at 02:01 UTC.
+
+26. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/26/2023 at 17:34 UTC.
+
+27. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/27/2023 at 22:48 UTC.
+
+28. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/28/2023 at 06:52 UTC.
+
+29. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/29/2023 at 11:04 UTC.
+
+30. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 12/30/2023 at 17:59 UTC.
+31. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 12/31/2023 at 01:26 UTC.
+
+32. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/01/2024 at 09:31 UTC.
+
+33. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/02/2024 at 15:43 UTC.
+
+34. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/03/2024 at 23:58 UTC.
+
+35. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/04/2024 at 06:32 UTC.
+
+36. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/05/2024 at 13:47 UTC.
+
+37. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/06/2024 at 20:03 UTC.
+
+38. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/07/2024 at 03:59 UTC.
+
+39. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/08/2024 at 11:24 UTC.
+
+40. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/09/2024 at 18:35 UTC.
+41. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/10/2024 at 04:12 UTC.
+
+42. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/11/2024 at 10:58 UTC.
+
+43. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/12/2024 at 17:26 UTC.
+
+44. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/13/2024 at 23:57 UTC.
+
+45. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/14/2024 at 06:01 UTC.
+
+46. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/15/2024 at 11:33 UTC.
+
+47. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/16/2024 at 18:20 UTC.
+
+48. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/17/2024 at 23:36 UTC.
+
+49. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/18/2024 at 07:08 UTC.
+
+50. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/19/2024 at 13:57 UTC.
+51. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/20/2024 at 20:02 UTC.
+
+52. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/21/2024 at 05:13 UTC.
+
+53. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/22/2024 at 16:35 UTC.
+
+54. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/23/2024 at 22:59 UTC.
+
+55. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/24/2024 at 06:41 UTC.
+
+56. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/25/2024 at 13:27 UTC.
+
+57. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/26/2024 at 20:20 UTC.
+
+58. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/27/2024 at 05:38 UTC.
+
+59. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/28/2024 at 16:05 UTC.
+
+60. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/29/2024 at 22:53 UTC.
+61. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 01/30/2024 at 08:23 UTC.
+
+62. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 01/31/2024 at 17:42 UTC.
+
+63. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/01/2024 at 21:56 UTC.
+
+64. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/02/2024 at 05:19 UTC.
+
+65. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/03/2024 at 12:31 UTC.
+
+66. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/04/2024 at 18:53 UTC.
+
+67. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/05/2024 at 02:26 UTC.
+
+68. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/06/2024 at 09:58 UTC.
+
+69. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/07/2024 at 16:23 UTC.
+
+70. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/08/2024 at 23:15 UTC.
+71. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/09/2024 at 05:46 UTC.
+
+72. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/10/2024 at 12:39 UTC.
+
+73. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/11/2024 at 19:11 UTC.
+
+74. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/12/2024 at 00:53 UTC.
+
+75. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/13/2024 at 07:36 UTC.
+
+76. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/14/2024 at 13:59 UTC.
+
+77. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/15/2024 at 20:04 UTC.
+
+78. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/16/2024 at 03:17 UTC.
+
+79. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/17/2024 at 08:42 UTC.
+
+80. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/18/2024 at 13:56 UTC.
+81. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/19/2024 at 18:32 UTC.
+
+82. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/20/2024 at 23:07 UTC.
+
+83. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/21/2024 at 04:19 UTC.
+
+84. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/22/2024 at 09:56 UTC.
+
+85. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/23/2024 at 16:23 UTC.
+
+86. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/24/2024 at 21:35 UTC.
+
+87. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/25/2024 at 06:18 UTC.
+
+88. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/26/2024 at 13:57 UTC.
+
+89. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/27/2024 at 19:26 UTC.
+
+90. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/28/2024 at 23:59 UTC.
+91. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/28/2024 at 23:59 UTC.
+
+92. [fraudulent] User Francisco Masvidal opened an account using the same e-mail address (fmasvidal@example.com) as a previously closed account, with inconsistent information compared to previous accounts. The account was created on 02/29/2024 at 12:35 UTC.
+
+93. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 02/29/2024 at 12:35 UTC.
+
+94. [fraudulent] User Francisco Masvidal opened an account using a slightly altered e-mail address (fmasvidalso@example.com) with the same date of birth as previously closed accounts. The account was created on 03/01/2024 at 17:29 UTC.
+
+95. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: fmasvidalso@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 03/01/2024 at 17:29 UTC.
+
+96. [fraudulent] User Francisco Masvidal opened an account using the same date of birth as previously closed accounts, but with a different e-mail address (franciscomasvidal@example.com) and inconsistent information. The account was created on 03/02/2024 at 23:13 UTC.
+
+97. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: franciscomasvidal@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 03/02/2024 at 23:13 UTC.
+
+98. [fraudulent] User Francisco Masvidal opened an account using the same date of birth as previously closed accounts, but with a different e-mail address (masvidalf@example.com) and inconsistent information. The account was created on 03/04/2024 at 08:59 UTC.
+
+99. [fraudulent] User Francisco Masvidal attempted to open another account with similar details to a closed account (e-mail address: masvidalf@example.com, date of birth: 07/23/1985). The attempt was detected and blocked on 03/04/2024 at 08:59 UTC.
+
+100. [fraudulent] User Francisco Masvidal opened an account using the same date of birth as previously closed accounts, but with a different e-mail address (masvidalg@example.com) and inconsistent information. The account was created on 03/05/2024 at 15:46 UTC.
+

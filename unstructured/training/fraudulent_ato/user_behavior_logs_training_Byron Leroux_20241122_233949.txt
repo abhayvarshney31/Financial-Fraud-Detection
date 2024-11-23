@@ -1,0 +1,50 @@
+User ID: Byron Leroux
+- 
+[2023-01-16 08:25:32] [fraudulent] User Byron Leroux logged in from a VPN server located in Russia, attempting to access sensitive financial information. IP Address: 192.168.1.2
+[2023-01-17 04:57:41] [fraudulent] Byron Leroux attempted to access his account from a VPN server in Brazil, but failed due to two-factor authentication. IP Address: 192.168.1.3
+[2023-01-18 10:22:54] [fraudulent] Byron Leroux logged in from a VPN server in Japan, attempting to change his email address and password. IP Address: 192.168.1.4
+[2023-01-19 07:35:23] [fraudulent] Byron Leroux accessed his account from a VPN server in Germany, and downloaded sensitive documents. IP Address: 192.168.1.5
+[2023-01-20 09:00:45] [fraudulent] Byron Leroux attempted to log in from a VPN server in India, but the attempt was blocked due to multiple failed attempts. IP Address: 192.168.1.6
+[2023-01-21 04:15:36] [fraudulent] Byron Leroux accessed his account from a VPN server in Australia, but the session was terminated after 2 minutes due to suspicious activity. IP Address: 192.168.1.7
+[2023-01-22 05:40:08] [fraudulent] Byron Leroux logged in from a VPN server in France, and attempted to transfer funds to an unknown account. IP Address: 192.168.1.8
+[2023-01-23 07:50:21] [fraudulent] Byron Leroux accessed his account from a VPN server in South Korea, and changed his phone number on file. IP Address: 192.168.1.9
+[2023-01-24 10:15:39] [fraudulent] Byron Leroux logged in from a VPN server in Canada, and attempted to reset his password multiple times. IP Address: 192.168.1.10
+[2023-01-25 03:30:54] [fraudulent] Byron Leroux accessed his account from a VPN server in the United States, but the session was terminated due to multiple failed login attempts. IP Address: 192.168.1.11
+[2023-01-26 05:10:02] [fraudulent] Byron Leroux logged in from a VPN server in Germany and attempted to add a new device to his account. IP Address: 192.168.1.12
+[2023-01-27 06:45:21] [fraudulent] Byron Leroux accessed his account from a VPN server in Japan, and changed his email address on file to an unverified one. IP Address: 192.168.1.13
+[2023-01-28 04:30:35] [fraudulent] Byron Leroux logged in from a VPN server in Brazil, and attempted to withdraw funds to multiple unverified accounts. IP Address: 192.168.1.14
+[2023-01-29 07:50:52] [fraudulent] Byron Leroux accessed his account from a VPN server in China, and attempted to update his security questions with incorrect answers. IP Address: 192.168.1.15
+[2023-01-30 10:00:15] [fraudulent] Byron Leroux logged in from a VPN server in Russia, and changed his billing information to an unknown address. IP Address: 192.168.1.16
+[2023-01-31 11:25:30] [fraudulent] Byron Leroux accessed his account from a VPN server in the Netherlands, and attempted to add a new email address with a suspicious domain. IP Address: 192.168.1.17
+[2023-02-01 02:45:45] [fraudulent] Byron Leroux logged in from a VPN server in Turkey, and attempted to change his account's password to a short, non-secure one. IP Address: 192.168.1.18
+[2023-02-02 05:10:04] [fraudulent] Byron Leroux accessed his account from a VPN server in Thailand, and attempted to change his name on file to an unrecognizable alias. IP Address: 192.168.1.19
+[2023-02-03 12:35:34] [fraudulent] Byron Leroux logged in from a VPN server in South Korea, and attempted to add a new credit card without providing his physical address. IP Address: 192.168.1.20
+[2023-02-04 08:45:47] [fraudulent] Byron Leroux accessed his account from a VPN server in Australia, and attempted to reset his password using an email address with a domain known for phishing activities. IP Address: 192.168.1.21
+[2023-02-05 10:20:21] [fraudulent] Byron Leroux logged in from a VPN server in Brazil, and attempted to change his account's security settings to disable two-factor authentication. IP Address: 192.168.1.22
+[2023-02-06 04:50:33] [fraudulent] Byron Leroux accessed his account from a VPN server in the United States, and attempted to change his contact phone number without providing verification documentation. IP Address: 192.168.1.23
+[2023-02-07 15:05:45] [fraudulent] Byron Leroux logged in from a VPN server in Japan, and attempted to transfer his account's balance to an unverified external wallet. IP Address: 192.168.1.24
+[2023-02-08 17:20:59] [fraudulent] Byron Leroux accessed his account from a VPN server in Germany, and attempted to change his account's recovery email address without providing proof of ownership. IP Address: 192.168.1.25
+[2023-02-09 07:45:08] [fraudulent] Byron Leroux logged in from a VPN server in India, and attempted to change his account's primary device associated with the account. IP Address: 192.168.1.26
+[2023-02-10 10:25:23] [fraudulent] Byron Leroux accessed his account from a VPN server in France, and attempted to add an unverified authorized user to the account. IP Address: 192.168.1.27
+[2023-02-11 13:50:09] [fraudulent] Byron Leroux logged in from a VPN server in Australia, and attempted to change his account's security questions without providing the correct answers. IP Address: 192.168.1.28
+[2023-02-12 00:45:53] [fraudulent] Byron Leroux accessed his account from a VPN server in Canada, and attempted to change his account's password without providing the current password. IP Address: 192.168.1.29
+[2023-02-13 16:00:34] [fraudulent] Byron Leroux logged in from a VPN server in Russia, and attempted to change his account's transaction verification settings without providing the required documentation. IP Address: 192.168.1.30
+[2023-02-14 07:55:12] [fraudulent] Byron Leroux accessed his account from a VPN server in Brazil, and attempted to change his account's billing information without providing the correct credit card details. IP Address: 192.168.1.31
+[2023-02-15 11:20:45] [fraudulent] Byron Leroux logged in from a VPN server in South Africa, and attempted to disable the account's two-factor authentication without providing the required security token. IP Address: 192.168.1.32
+[2023-02-16 14:55:31] [fraudulent] Byron Leroux accessed his account from a VPN server in Turkey, and attempted to change the account's registered address without providing proof of residence. IP Address: 192.168.1.33
+[2023-02-17 07:30:18] [fraudulent] Byron Leroux logged in from a VPN server in the Netherlands, and attempted to change the account's primary email address without providing the current email address. IP Address: 192.168.1.34
+[2023-02-18 11:05:03] [fraudulent] Byron Leroux accessed his account from a VPN server in Italy, and attempted to change the account's transaction limits without providing the required documentation. IP Address: 192.168.1.35
+[2023-02-19 03:12:57] [fraudulent] Byron Leroux logged in from a VPN server in Spain, and attempted to change the account's password without providing the current password. IP Address: 192.168.1.36
+[2023-02-20 12:45:23] [fraudulent] Byron Leroux accessed his account from a VPN server in Germany, and attempted to add a new payment method without providing the required billing address. IP Address: 192.168.1.37
+[2023-02-21 05:50:40] [fraudulent] Byron Leroux logged in from a VPN server in Russia, and attempted to change the account's contact number without providing the current phone number. IP Address: 192.168.1.38
+[2023-02-22 09:55:21] [fraudulent] Byron Leroux accessed his account from a VPN server in Australia, and attempted to delete the account's transaction history without providing consent. IP Address: 192.168.1.39
+[2023-02-23 14:50:02] [fraudulent] Byron Leroux logged in from a VPN server in the United States, and attempted to change the account's security settings without providing the current password. IP Address: 192.168.1.40
+[2023-02-24 03:35:23] [fraudulent] Byron Leroux accessed his account from a VPN server in France, and attempted to add a new email address without verifying the current one. IP Address: 192.168.1.41
+[2023-02-25 09:20:11] [fraudulent] Byron Leroux logged in from a VPN server in Canada, and attempted to change the account's billing information without providing the current address. IP Address: 192.168.1.42
+[2023-02-26 14:55:44] [fraudulent] Byron Leroux accessed his account from a VPN server in Brazil, and attempted to change the account's primary email without providing the current one. IP Address: 192.168.1.43
+[2023-02-27 05:00:32] [fraudulent] Byron Leroux logged in from a VPN server in Japan, and attempted to change the account's username without providing the current one. IP Address: 192.168.1.44
+[2023-02-28 12:25:07] [fraudulent] Byron Leroux accessed his account from a VPN server in South Korea, and attempted to change the account's security question without providing the current answer. IP Address: 192.168.1.45
+[2023-02-28 19:30:31] [fraudulent] Byron Leroux logged in from a VPN server in China, and attempted to add a new payment method without providing the required billing address. IP Address: 192.168.1.46
+[2023-03-01 05:35:02] [fraudulent] Byron Leroux accessed his account from a VPN server in India, and attempted to change the account's contact number without providing the current phone number. IP Address: 192.168.1.47
+[2023-03-02 11:05:41] [fraudulent] Byron Leroux logged in from a VPN server in South Africa, and attempted to delete the account's transaction history without providing consent. IP Address: 192.168.1.48
+

@@ -1,0 +1,127 @@
+User ID: Saanvi Flores
+- 
+[2023-04-01 15:32:10] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in San Francisco, CA. The transaction was declined due to insufficient funds.
+
+[2023-04-01 15:45:37] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in San Francisco, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 16:08:12] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xCAFEBABE in Oakland, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 16:25:25] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xCAFEBABE in Oakland, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 16:40:59] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xBAADF00D in San Jose, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 16:55:42] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xBAADF00D in San Jose, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 17:09:25] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xBEFFEDAD in San Francisco, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 17:25:38] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xBEFFEDAD in San Francisco, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 17:35:01] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x98765432 in Oakland, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 17:45:24] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x98765432 in Oakland, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+[2023-04-01 18:03:47] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x1A2B3C4D in Berkeley, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 18:15:12] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x1A2B3C4D in Berkeley, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 18:25:37] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x6E7F8B9C in Emeryville, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 18:35:02] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x6E7F8B9C in Emeryville, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 18:45:25] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 18:55:09] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 19:05:02] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDECAFBAD in Piedmont, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 19:15:26] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDECAFBAD in Piedmont, CA again. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+[2023-04-01 19:25:58] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDECAFBAD in Piedmont, CA once more. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 19:36:31] [fraudulent] User Saanvi Flores switched devices and tried withdrawing cash at ATM 0xDEADBEEF in Alameda, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 19:46:57] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA again using the same device as before. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 20:00:16] [fraudulent] User Saanvi Flores used a new device to attempt withdrawing cash at ATM 0xDECAFBAD in Piedmont, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 20:10:56] [fraudulent] User Saanvi Flores tried withdrawing cash at ATM 0xDECAFBAD in Piedmont, CA again using the same device as before. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 20:21:59] [fraudulent] User Saanvi Flores changed back to her original device and attempted withdrawing cash at ATM 0xDECAFBAD in Piedmont, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 20:37:06] [fraudulent] User Saanvi Flores tried withdrawing cash at ATM 0xDECAFBAD in Piedmont, CA for the final time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 20:50:37] [fraudulent] User Saanvi Flores changed her location and attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+[2023-04-01 21:07:09] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA using a different device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 21:25:24] [fraudulent] User Saanvi Flores tried withdrawing cash at ATM 0xDEADBEEF in Alameda, CA using the same different device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 21:38:56] [fraudulent] User Saanvi Flores changed back to her original device and attempted withdrawing cash at ATM 0xDEADBEEF in Alameda, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 22:09:37] [fraudulent] User Saanvi Flores tried withdrawing cash at ATM 0xDEADBEEF in Alameda, CA for the final time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 22:28:58] [fraudulent] User Saanvi Flores changed her location again and attempted to withdraw cash at ATM 0xDEADBEEF in Oakland, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+[2023-04-01 22:57:19] [fraudulent] User Saanvi Flores tried withdrawing cash at ATM 0xDEADBEEF in Oakland, CA for the second time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 23:18:30] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Oakland, CA using a different device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 23:39:41] [fraudulent] User Saanvi Flores returned to ATM 0xDEADBEEF in Oakland, CA and tried withdrawing cash using the same different device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 23:56:52] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Oakland, CA for the final time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-01 23:59:03] [fraudulent] User Saanvi Flores changed her location again and attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA using a different device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 00:21:14] [fraudulent] User Saanvi Flores tried withdrawing cash at ATM 0xDEADBEEF in Alameda, CA for the second time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 00:42:25] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA using a different device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 00:58:36] [fraudulent] User Saanvi Flores returned to ATM 0xDEADBEEF in Alameda, CA and tried withdrawing cash using the same different device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 01:23:47] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA for the final time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+[2023-04-02 01:56:08] [fraudulent] User Saanvi Flores switched to another ATM, 0x1234ABCD, located in Oakland, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 02:19:29] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x1234ABCD in Oakland, CA for the second time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 03:01:35] [fraudulent] User Saanvi Flores returned to ATM 0x1234ABCD in Oakland, CA and tried withdrawing cash using the same original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 03:47:48] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x1234ABCD in Oakland, CA for the final time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 04:35:08] [fraudulent] User Saanvi Flores switched back to ATM 0xDEADBEEF in Alameda, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 05:11:38] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA for the second time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 06:05:49] [fraudulent] User Saanvi Flores returned to ATM 0xDEADBEEF in Alameda, CA and tried withdrawing cash using the same original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 07:51:57] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA for the final time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 08:43:59] [fraudulent] User Saanvi Flores switched back to ATM 0x1234ABCD in Oakland, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 09:25:48] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x1234ABCD in Oakland, CA for the second time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+[2023-04-02 10:07:59] [fraudulent] User Saanvi Flores moved on to ATM 0x5678CBAF in Berkeley, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 10:49:43] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x5678CBAF in Berkeley, CA for the second time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 11:31:48] [fraudulent] User Saanvi Flores switched back to ATM 0x1234ABCD in Oakland, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 12:14:29] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x1234ABCD in Oakland, CA for the third time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 12:56:59] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA using her original device for the third time. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 13:39:45] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA for the fourth time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 14:22:56] [fraudulent] User Saanvi Flores switched back to ATM 0x1234ABCD in Oakland, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 15:05:57] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x1234ABCD in Oakland, CA for the fourth time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+[2023-04-02 16:05:38] [fraudulent] User Saanvi Flores switched back to ATM 0xDEADBEEF in Alameda, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 16:59:12] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA for the fourth time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 17:45:29] [fraudulent] User Saanvi Flores moved to ATM 0x5678CBAF in Berkeley, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 18:32:41] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0x5678CBAF in Berkeley, CA for the fourth time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 19:21:02] [fraudulent] User Saanvi Flores returned to ATM 0xDEADBEEF in Alameda, CA and tried withdrawing cash using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 20:15:19] [fraudulent] User Saanvi Flores attempted to withdraw cash at ATM 0xDEADBEEF in Alameda, CA for the fourth time using her original device. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 21:09:40] [fraudulent] User Saanvi Flores attempted to use a different device to withdraw cash at ATM 0x1234ABCD in Oakland, CA. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+
+[2023-04-02 21:59:16] [fraudulent] User Saanvi Flores tried using her original device again at ATM 0x1234ABCD in Oakland, CA to withdraw cash. The transaction was declined due to insufficient funds and multiple failed attempts in a short time frame.
+

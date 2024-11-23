@@ -1,0 +1,168 @@
+User ID: Iliana Brown
+- 
+1. [2021-11-25 13:45:17] Iliana Brown - Fraudulent Activity Detected: Multiple high-value purchases made using a stolen credit card from an unknown location in Russia. Device used: IP address 94.158.161.14, MAC address 00:25:B3:F7:F8:B0.
+
+2. [2021-11-26 09:30:23] Iliana Brown - Fraudulent Activity Detected: Continuation of high-value purchases, including a designer handbag and luxury watch. Device location updated to Ukraine. New IP address: 87.245.220.15, MAC address unchanged.
+
+3. [2021-11-27 15:05:39] Iliana Brown - Fraudulent Activity Detected: Additional high-value purchases made, including a new laptop and smartphone. Device location changed to Poland. New IP address: 185.14.164.19, MAC address unchanged.
+
+4. [2021-11-28 03:00:05] Iliana Brown - Fraudulent Activity Detected: High-value purchases continue, including a luxury car rental. Device location changed to Germany. New IP address: 213.176.147.38, MAC address unchanged.
+
+5. [2021-11-29 08:45:14] Iliana Brown - Fraudulent Activity Detected: Multiple high-value purchases made, including an expensive vacation package. Device location changed to Spain. New IP address: 78.43.129.102, MAC address unchanged.
+
+6. [2021-11-30 09:30:56] Iliana Brown - Fraudulent Activity Detected: Additional high-value purchases made, including a custom-built gaming PC. Device location changed to France. New IP address: 89.235.43.75, MAC address unchanged.
+
+7. [2021-11-30 16:30:48] Iliana Brown - Fraudulent Activity Detected: High-value purchases continue, including a high-end camera and drone. Device location changed to Italy. New IP address: 93.183.154.97, MAC address unchanged.
+
+8. [2021-12-01 08:00:36] Iliana Brown - Fraudulent Activity Detected: Multiple high-value purchases made, including a luxury watch collection. Device location changed to Belgium. New IP address: 95.174.243.16, MAC address unchanged.
+
+9. [2021-12-02 13:00:52] Iliana Brown - Fraudulent Activity Detected: Additional high-value purchases made, including a designer wardrobe and jewelry. Device location changed to the Netherlands. New IP address: 87.65.99.24, MAC address unchanged.
+
+10. [2021-12-03 07:00:28] Iliana Brown - Fraudulent Activity Detected: High-value purchases continue, including a high-end smart home system. Device location changed to Denmark. New IP address: 92.94.203.15, MAC address unchanged.
+11. [2021-12-04 18:45:10] Iliana Brown - Fraudulent Activity Detected: Purchases of multiple luxury items, such as a custom car and high-end artwork. Device location changed to Spain. New IP address: 78.34.192.89, MAC address unchanged.
+
+12. [2021-12-05 23:22:34] Iliana Brown - Fraudulent Activity Detected: High-value transactions made, including a lavish vacation package and a premium mobile phone. Device location changed to France. New IP address: 81.176.95.12, MAC address unchanged.
+
+13. [2021-12-06 09:10:46] Iliana Brown - Fraudulent Activity Detected: Multiple transactions made for expensive electronics and designer furniture. Device location changed to Germany. New IP address: 79.58.203.19, MAC address unchanged.
+
+14. [2021-12-07 16:00:02] Iliana Brown - Fraudulent Activity Detected: High-value purchases of rare collectibles and a high-end gaming setup. Device location changed to Austria. New IP address: 93.183.154.98, MAC address unchanged.
+
+15. [2021-12-08 02:30:21] Iliana Brown - Fraudulent Activity Detected: Expensive jewelry and luxury appliances purchased. Device location changed to Switzerland. New IP address: 95.174.243.17, MAC address unchanged.
+
+16. [2021-12-09 12:00:08] Iliana Brown - Fraudulent Activity Detected: High-value transactions made for a custom yacht and a luxurious wedding venue. Device location changed to Portugal. New IP address: 78.34.192.90, MAC address unchanged.
+
+17. [2021-12-10 07:45:55] Iliana Brown - Fraudulent Activity Detected: Multiple purchases made for a private jet and an exclusive art collection. Device location changed to Ireland. New IP address: 87.65.99.25, MAC address unchanged.
+
+18. [2021-12-11 13:00:32] Iliana Brown - Fraudulent Activity Detected: High-value transactions for a high-end sports car and an opulent penthouse. Device location changed to Greece. New IP address: 92.94.203.16, MAC address unchanged.
+
+19. [2021-12-12 18:00:17] Iliana Brown - Fraudulent Activity Detected: Expensive investments in cryptocurrency and a fine wine collection. Device location changed to Norway. New IP address: 81.176.95.13, MAC address unchanged.
+
+20. [2021-12-13 23:30:03] Iliana Brown - Fraudulent Activity Detected: Multiple high-value transactions made for a luxurious vacation home and a collection of rare watches. Device location changed to Sweden. New IP address: 79.58.203.18, MAC address unchanged.
+21. [2021-12-14 04:25:46] Iliana Brown - Fraudulent Activity Detected: Further purchases made for a yacht and a high-end fashion collection. Device location changed to Denmark. New IP address: 93.87.253.22, MAC address unchanged.
+
+22. [2021-12-15 09:45:11] Iliana Brown - Fraudulent Activity Detected: Numerous high-value transactions for an exotic car collection and a private island getaway. Device location changed to Finland. New IP address: 89.67.239.9, MAC address unchanged.
+
+23. [2021-12-16 14:50:32] Iliana Brown - Fraudulent Activity Detected: Expensive art commissions and a rare gemstone collection purchased. Device location changed to Iceland. New IP address: 89.74.102.25, MAC address unchanged.
+
+24. [2021-12-17 19:35:17] Iliana Brown - Fraudulent Activity Detected: High-value donations made to various charities and political campaigns. Device location changed to France. New IP address: 83.68.188.4, MAC address unchanged.
+
+25. [2021-12-18 23:30:15] Iliana Brown - Fraudulent Activity Detected: Multiple investments in cutting-edge technology and luxury real estate properties. Device location changed to Spain. New IP address: 79.45.129.16, MAC address unchanged.
+
+26. [2021-12-19 07:45:38] Iliana Brown - Fraudulent Activity Detected: Additional high-value transactions for a private jet upgrade and a luxury yacht refurbishment. Device location changed to Portugal. New IP address: 87.65.99.27, MAC address unchanged.
+
+27. [2021-12-20 13:00:03] Iliana Brown - Fraudulent Activity Detected: Expensive art acquisitions and rare collectibles purchased. Device location changed to Italy. New IP address: 90.56.89.8, MAC address unchanged.
+
+28. [2021-12-21 18:30:41] Iliana Brown - Fraudulent Activity Detected: High-value donations to various educational institutions and scientific research projects. Device location changed to Switzerland. New IP address: 79.58.203.21, MAC address unchanged.
+
+29. [2021-12-22 23:30:19] Iliana Brown - Fraudulent Activity Detected: Multiple luxury property investments and high-end fashion collaborations. Device location changed to Belgium. New IP address: 83.67.194.2, MAC address unchanged.
+
+30. [2021-12-23 07:45:32] Iliana Brown - Fraudulent Activity Detected: Final high-value transactions for a private museum and an exclusive art exhibit sponsorship. Device location changed to Germany. New IP address: 89.67.239.24, MAC address unchanged.
+31. [2021-12-23 15:00:08] Iliana Brown - Fraudulent Activity Detected: Large amounts of cryptocurrency purchased for a secret project. Device location changed to France. New IP address: 93.45.67.19, MAC address unchanged.
+
+32. [2021-12-24 08:30:11] Iliana Brown - Fraudulent Activity Detected: Numerous luxury vehicles and high-end electronics purchased for personal use. Device location changed to Spain. New IP address: 97.65.104.22, MAC address unchanged.
+
+33. [2021-12-25 13:00:23] Iliana Brown - Fraudulent Activity Detected: Multiple expensive designer clothing items and accessories ordered for personal use. Device location changed to Netherlands. New IP address: 100.67.45.9, MAC address unchanged.
+
+34. [2021-12-26 18:00:34] Iliana Brown - Fraudulent Activity Detected: Numerous high-value donations to various environmental causes and charities. Device location changed to Austria. New IP address: 95.12.134.7, MAC address unchanged.
+
+35. [2021-12-27 23:00:45] Iliana Brown - Fraudulent Activity Detected: Expensive rare vintage wines and spirits collected for a private collection. Device location changed to Denmark. New IP address: 98.76.142.22, MAC address unchanged.
+
+36. [2021-12-28 04:00:56] Iliana Brown - Fraudulent Activity Detected: Numerous luxury real estate properties purchased for long-term investments. Device location changed to Sweden. New IP address: 101.23.99.8, MAC address unchanged.
+
+37. [2021-12-29 09:00:09] Iliana Brown - Fraudulent Activity Detected: Multiple high-value art commissions ordered and paid for in full. Device location changed to Norway. New IP address: 99.87.243.6, MAC address unchanged.
+
+38. [2021-12-30 15:00:12] Iliana Brown - Fraudulent Activity Detected: Numerous luxury jewelry items purchased for personal use and as gifts. Device location changed to Finland. New IP address: 96.45.213.7, MAC address unchanged.
+
+39. [2021-12-31 19:00:15] Iliana Brown - Fraudulent Activity Detected: High-value donations made to various humanitarian causes and disaster relief efforts. Device location changed to Portugal. New IP address: 97.64.252.8, MAC address unchanged.
+
+40. [2022-01-01 23:00:20] Iliana Brown - Fraudulent Activity Detected: Multiple luxury vehicles and high-end electronics donated to various institutions. Device location changed to Iceland. New IP address: 98.75.144.9, MAC address unchanged.
+41. [2022-01-02 03:00:25] Iliana Brown - Fraudulent Activity Detected: Multiple high-value donations made to political campaigns and charitable organizations. Device location changed to Ireland. New IP address: 97.89.224.3, MAC address unchanged.
+
+42. [2022-01-03 06:00:30] Iliana Brown - Fraudulent Activity Detected: High-value art commissions ordered and paid for in full. Device location changed to Sweden. New IP address: 95.18.240.7, MAC address unchanged.
+
+43. [2022-01-04 09:00:35] Iliana Brown - Fraudulent Activity Detected: Numerous luxury jewelry items purchased for personal use and as gifts. Device location changed to Denmark. New IP address: 96.44.239.9, MAC address unchanged.
+
+44. [2022-01-05 12:00:40] Iliana Brown - Fraudulent Activity Detected: High-value donations made to various humanitarian causes and disaster relief efforts. Device location changed to Norway. New IP address: 98.73.217.5, MAC address unchanged.
+
+45. [2022-01-06 15:00:45] Iliana Brown - Fraudulent Activity Detected: Multiple luxury vehicles and high-end electronics donated to various institutions. Device location changed to Finland. New IP address: 97.88.222.3, MAC address unchanged.
+
+46. [2022-01-07 18:00:50] Iliana Brown - Fraudulent Activity Detected: Multiple high-value purchases made on online auctions for rare collectibles and antiques. Device location changed to Iceland. New IP address: 99.64.234.9, MAC address unchanged.
+
+47. [2022-01-08 21:00:55] Iliana Brown - Fraudulent Activity Detected: Numerous luxury fashion items purchased for personal use and as gifts. Device location changed to Sweden. New IP address: 96.43.237.8, MAC address unchanged.
+
+48. [2022-01-09 24:00:60] Iliana Brown - Fraudulent Activity Detected: High-value real estate investments made in various global locations. Device location changed to Denmark. New IP address: 95.17.238.7, MAC address unchanged.
+49. [2022-01-10 03:00:65] Iliana Brown - Fraudulent Activity Detected: Multiple high-value art pieces purchased through private dealers and auction houses. Device location changed to Norway. New IP address: 98.46.242.4, MAC address unchanged.
+
+50. [2022-01-11 07:00:70] Iliana Brown - Fraudulent Activity Detected: Expensive jewelry and watches purchased for personal use and resale. Device location changed to Russia. New IP address: 97.43.256.1, MAC address unchanged.
+
+51. [2022-01-12 10:00:75] Iliana Brown - Fraudulent Activity Detected: Multiple high-value cryptocurrency transactions conducted, resulting in significant gains. Device location changed to Turkey. New IP address: 96.33.248.2, MAC address unchanged.
+
+52. [2022-01-13 13:00:80] Iliana Brown - Fraudulent Activity Detected: High-value donations made to various charitable organizations using stolen credit card information. Device location changed to Ukraine. New IP address: 95.67.254.6, MAC address unchanged.
+
+53. [2022-01-14 16:00:85] Iliana Brown - Fraudulent Activity Detected: Multiple high-value luxury vacations booked at exclusive resorts and hotels around the world. Device location changed to Belarus. New IP address: 98.42.249.3, MAC address unchanged.
+
+54. [2022-01-15 19:00:90] Iliana Brown - Fraudulent Activity Detected: Numerous high-value investments made in various stocks and financial instruments using stolen credit card information. Device location changed to Poland. New IP address: 97.34.240.8, MAC address unchanged.
+
+55. [2022-01-16 22:00:95] Iliana Brown - Fraudulent Activity Detected: Multiple high-value education expenses paid for, including tuition and fees at prestigious institutions. Device location changed to Romania. New IP address: 96.87.243.1, MAC address unchanged.
+
+56. [2022-01-17 25:01:00] Iliana Brown - Fraudulent Activity Detected: High-value donations made to various political campaigns and causes using stolen credit card information. Device location changed to Serbia. New IP address: 95.44.241.4, MAC address unchanged.
+
+57. [2022-01-18 01:01:05] Iliana Brown - Fraudulent Activity Detected: Multiple high-value medical treatments and procedures paid for using stolen credit card information. Device location changed to Croatia. New IP address: 98.36.245.7, MAC address unchanged.
+
+58. [2022-01-19 04:01:10] Iliana Brown - Fraudulent Activity Detected: High-value contributions made to various research and scientific projects using stolen credit card information. Device location changed to Greece. New IP address: 97.93.239.8, MAC address unchanged.
+59. [2022-01-20 06:01:15] Iliana Brown - Fraudulent Activity Detected: Multiple luxury items purchased using stolen credit card information, including high-end electronics and designer clothing. Device location changed to Turkey. New IP address: 96.78.241.5, MAC address unchanged.
+
+60. [2022-01-21 18:01:20] Iliana Brown - Fraudulent Activity Detected: High-value real estate transactions conducted using stolen credit card information. Device location changed to Cyprus. New IP address: 95.43.242.6, MAC address unchanged.
+
+61. [2022-01-22 19:01:25] Iliana Brown - Fraudulent Activity Detected: Multiple high-value art pieces and collectibles purchased using stolen credit card information. Device location changed to Bulgaria. New IP address: 96.89.243.2, MAC address unchanged.
+
+62. [2022-01-23 01:01:30] Iliana Brown - Fraudulent Activity Detected: High-value investments made in various stocks and cryptocurrencies using stolen credit card information. Device location changed to Hungary. New IP address: 95.42.243.3, MAC address unchanged.
+
+63. [2022-01-24 03:01:35] Iliana Brown - Fraudulent Activity Detected: Multiple high-value travel bookings made using stolen credit card information, including luxury hotels and private jets. Device location changed to Slovenia. New IP address: 96.80.243.3, MAC address unchanged.
+
+64. [2022-01-25 17:01:40] Iliana Brown - Fraudulent Activity Detected: High-value donations made to various charitable organizations using stolen credit card information. Device location changed to North Macedonia. New IP address: 96.79.243.4, MAC address unchanged.
+
+65. [2022-01-26 18:01:45] Iliana Brown - Fraudulent Activity Detected: Multiple high-value educational sponsorships provided using stolen credit card information. Device location changed to Montenegro. New IP address: 96.77.243.5, MAC address unchanged.
+
+66. [2022-01-27 21:01:50] Iliana Brown - Fraudulent Activity Detected: High-value art auction bids placed using stolen credit card information. Device location changed to Bosnia and Herzegovina. New IP address: 96.76.243.6, MAC address unchanged.
+
+67. [2022-01-28 22:01:55] Iliana Brown - Fraudulent Activity Detected: Multiple high-value loans taken out using stolen credit card information. Device location changed to Albania. New IP address: 96.75.243.7, MAC address unchanged.
+
+68. [2022-01-29 00:01:60] Iliana Brown - Fraudulent Activity Detected: High-value purchases of luxury vehicles made using stolen credit card information. Device location changed to Kosovo. New IP address: 96.74.243.8, MAC address unchanged.
+69. [2022-01-30 02:01:65] Iliana Brown - Fraudulent Activity Detected: Multiple high-value real estate transactions conducted using stolen credit card information. Device location changed to Serbia. New IP address: 96.73.243.9, MAC address unchanged.
+
+70. [2022-01-31 04:01:70] Iliana Brown - Fraudulent Activity Detected: High-value stock market investments made using stolen credit card information. Device location changed to North Macedonia. New IP address: 96.72.243.10, MAC address unchanged.
+
+71. [2022-02-01 05:01:75] Iliana Brown - Fraudulent Activity Detected: Multiple high-value insurance policies purchased using stolen credit card information. Device location changed to Croatia. New IP address: 96.71.243.11, MAC address unchanged.
+
+72. [2022-02-02 07:01:80] Iliana Brown - Fraudulent Activity Detected: High-value online gambling transactions conducted using stolen credit card information. Device location changed to Slovenia. New IP address: 96.70.243.12, MAC address unchanged.
+
+73. [2022-02-03 08:01:85] Iliana Brown - Fraudulent Activity Detected: Multiple high-value donations made to various charities using stolen credit card information. Device location changed to Greece. New IP address: 96.69.243.13, MAC address unchanged.
+
+74. [2022-02-04 10:01:90] Iliana Brown - Fraudulent Activity Detected: High-value online courses and certifications purchased using stolen credit card information. Device location changed to Bulgaria. New IP address: 96.68.243.14, MAC address unchanged.
+
+75. [2022-02-05 11:01:95] Iliana Brown - Fraudulent Activity Detected: Multiple high-value medical expenses paid using stolen credit card information. Device location changed to Romania. New IP address: 96.67.243.15, MAC address unchanged.
+
+76. [2022-02-06 12:02:00] Iliana Brown - Fraudulent Activity Detected: High-value travel and accommodation bookings made using stolen credit card information. Device location changed to Turkey. New IP address: 96.66.243.16, MAC address unchanged.
+
+77. [2022-02-07 13:02:05] Iliana Brown - Fraudulent Activity Detected: Multiple high-value donations made to political campaigns using stolen credit card information. Device location changed to Cyprus. New IP address: 96.65.243.17, MAC address unchanged.
+
+78. [2022-02-08 14:02:10] Iliana Brown - Fraudulent Activity Detected: High-value cryptocurrency transactions conducted using stolen credit card information. Device location changed to Azerbaijan. New IP address: 96.64.243.18, MAC address unchanged.
+79. [2022-02-09 15:02:15] Iliana Brown - Fraudulent Activity Detected: Several high-value luxury goods purchased online using stolen credit card information. Device location changed to Greece. New IP address: 96.63.243.19, MAC address unchanged.
+80. [2022-02-10 16:02:20] Iliana Brown - Fraudulent Activity Detected: Multiple high-value real estate transactions conducted using stolen credit card information. Device location changed to Portugal. New IP address: 96.62.243.20, MAC address unchanged.
+81. [2022-02-11 17:02:25] Iliana Brown - Fraudulent Activity Detected: High-value art and antiques purchases made using stolen credit card information. Device location changed to Spain. New IP address: 96.61.243.21, MAC address unchanged.
+82. [2022-02-12 18:02:30] Iliana Brown - Fraudulent Activity Detected: Multiple high-value education tuition payments made using stolen credit card information. Device location changed to Italy. New IP address: 96.60.243.22, MAC address unchanged.
+83. [2022-02-13 19:02:35] Iliana Brown - Fraudulent Activity Detected: High-value jewelry purchases conducted using stolen credit card information. Device location changed to France. New IP address: 96.59.243.23, MAC address unchanged.
+84. [2022-02-14 20:02:40] Iliana Brown - Fraudulent Activity Detected: Multiple high-value healthcare services billed using stolen credit card information. Device location changed to Belgium. New IP address: 96.58.243.24, MAC address unchanged.
+85. [2022-02-15 21:02:45] Iliana Brown - Fraudulent Activity Detected: High-value legal services paid using stolen credit card information. Device location changed to Netherlands. New IP address: 96.57.243.25, MAC address unchanged.
+86. [2022-02-16 22:02:50] Iliana Brown - Fraudulent Activity Detected: High-value electronics purchases conducted using stolen credit card information. Device location changed to Germany. New IP address: 96.56.243.26, MAC address unchanged.
+87. [2022-02-17 23:02:55] Iliana Brown - Fraudulent Activity Detected: Multiple high-value travel bookings made using stolen credit card information. Device location changed to Switzerland. New IP address: 96.55.243.27, MAC address unchanged.
+88. [2022-02-18 00:02:59] Iliana Brown - Fraudulent Activity Detected: High-value real estate transactions billed using stolen credit card information. Device location changed to Austria. New IP address: 96.54.243.28, MAC address unchanged.
+89. [2022-02-19 01:03:04] Iliana Brown - Fraudulent Activity Detected: Multiple high-value luxury goods purchases conducted using stolen credit card information. Device location changed to Denmark. New IP address: 96.53.243.29, MAC address unchanged.
+90. [2022-02-20 02:03:08] Iliana Brown - Fraudulent Activity Detected: High-value artworks purchased using stolen credit card information. Device location changed to Norway. New IP address: 96.52.243.30, MAC address unchanged.
+91. [2022-02-21 03:03:13] Iliana Brown - Fraudulent Activity Detected: Multiple high-value education tuition payments made using stolen credit card information. Device location changed to Sweden. New IP address: 96.51.243.31, MAC address unchanged.
+92. [2022-02-22 04:03:17] Iliana Brown - Fraudulent Activity Detected: High-value healthcare services billed using stolen credit card information. Device location changed to Finland. New IP address: 96.50.243.32, MAC address unchanged.
+93. [2022-02-23 05:03:21] Iliana Brown - Fraudulent Activity Detected: Multiple high-value legal services paid using stolen credit card information. Device location changed to Iceland. New IP address: 96.49.243.33, MAC address unchanged.
+94. [2022-02-24 06:03:25] Iliana Brown - Fraudulent Activity Detected: High-value electronics purchases conducted using stolen credit card information. Device location changed to Ireland. New IP address: 96.48.243.34, MAC address unchanged.
+95. [2022-02-25 07:03:29] Iliana Brown - Fraudulent Activity Detected: Multiple high-value travel bookings made using stolen credit card information. Device location changed to United Kingdom. New IP address: 96.47.243.35, MAC address unchanged.
+

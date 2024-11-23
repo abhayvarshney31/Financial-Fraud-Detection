@@ -1,0 +1,93 @@
+User ID: Analia Collins
+- 
+[2023-01-15 12:34:56] [fraudulent] User Analia Collins made a large withdrawal of $3,500 from ATM located at Bank A (Network: BANKA). Device used: iPhone XR (Model: A1982). This is the first suspicious transaction.
+
+[2023-01-15 12:48:13] [fraudulent] Less than an hour later, Analia Collins withdrew $4,000 from ATM located at Bank B (Network: BANKB). Device used: Samsung Galaxy S21 (Model: SM-G991U). This behavior suggests unauthorized access.
+
+[2023-01-15 13:02:27] [fraudulent] Analia Collins continued her suspicious activity by withdrawing $3,200 from ATM located at Bank C (Network: BANKC). Device used: Google Pixel 6 (Model: GVK4B). It appears she's targeting different banks.
+
+[2023-01-15 13:16:49] [fraudulent] A fourth large withdrawal of $2,700 was made by Analia Collins from ATM located at Bank D (Network: BANKD). Device used: Xiaomi Mi 11 Ultra (Model: 2112). The pattern of behavior is becoming more evident.
+
+[2023-01-15 13:31:28] [fraudulent] Analia Collins made another suspicious transaction, withdrawing $4,500 from ATM located at Bank E (Network: BANKE). Device used: OnePlus 9 Pro (Model: CPH2107). This is her sixth large withdrawal in a single day.
+
+[2023-01-15 13:46:12] [fraudulent] Analia Collins continues to target different banks, withdrawing $2,800 from ATM located at Bank F (Network: BANKF). Device used: Sony Xperia 1 III (Model: H8506). This behavior is unusual and noteworthy.
+
+[2023-01-15 14:00:47] [fraudulent] Analia Collins made yet another large withdrawal of $3,100 from ATM located at Bank G (Network: BANKG). Device used: Oppo Find X3 Pro (Model: CPH2169). She has now made a total of eight withdrawals in one day.
+
+[2023-01-15 14:15:13] [fraudulent] A ninth large withdrawal was made by Analia Collins, this time for $3,700 from ATM located at Bank H (Network: BANKE). Device used: Vivo X70 Pro+ (Model: V2161A). This behavior is highly suspicious.
+
+[2023-01-15 14:30:39] [fraudulent] Analia Collins has made her tenth large withdrawal of the day, $3,800 from ATM located at Bank I (Network: BANKI). Device used: Huawei P40 Pro+ (Model: LYA-L29). This marks a total of ten suspicious transactions within a single day.
+[2023-01-15 14:45:01] [fraudulent] Analia Collins has returned to Bank F (Network: BANKF) for an eleventh large withdrawal, taking out $4,200 using her Sony Xperia 1 III (Model: H8506). This pattern of behavior is highly abnormal and alarming.
+
+[2023-01-15 15:00:27] [fraudulent] Analia Collins has made another large withdrawal, this time $4,500 from ATM located at Bank G (Network: BANKG). She continues to use her Oppo Find X3 Pro (Model: CPH2169) for these transactions. It is evident that she is trying to drain the accounts of multiple banks as quickly as possible.
+
+[2023-01-15 15:15:55] [fraudulent] Analia Collins has now withdrawn $4,800 from ATM located at Bank H (Network: BANKE). Device used: Vivo X70 Pro+ (Model: V2161A), further confirming her attempt to empty multiple bank accounts in a single day.
+
+[2023-01-15 15:30:31] [fraudulent] A twelfth large withdrawal was made by Analia Collins, $5,000 from ATM located at Bank I (Network: BANKI). Device used: Huawei P40 Pro+ (Model: LYA-L29), showing a relentless pursuit of depleting the funds in multiple bank accounts.
+
+[2023-01-15 15:45:06] [fraudulent] Analia Collins has returned to Bank F (Network: BANKF) for another large withdrawal, taking out $5,500 using her Sony Xperia 1 III (Model: H8506). This action adds to the concern that she is trying to empty multiple bank accounts as quickly as possible.
+
+[2023-01-15 16:00:35] [fraudulent] Analia Collins has made yet another large withdrawal, this time $5,700 from ATM located at Bank G (Network: BANKG). She continues to use her Oppo Find X3 Pro (Model: CPH2169) for these transactions. It is becoming increasingly evident that she is attempting to drain all the accounts in a single day.
+
+[2023-01-15 16:15:48] [fraudulent] Analia Collins has withdrawn $6,000 from ATM located at Bank H (Network: BANKE). Device used: Vivo X70 Pro+ (Model: V2161A), showing that her actions are becoming more aggressive and determined.
+
+[2023-01-15 16:30:39] [fraudulent] A fourteenth large withdrawal was made by Analia Collins, $6,500 from ATM located at Bank I (Network: BANKI). Device used: Huawei P40 Pro+ (Model: LYA-L29), as she continues to empty multiple bank accounts in a single day.
+[2023-01-15 16:48:07] [fraudulent] Analia Collins has withdrawn $7,000 from ATM located at Bank J (Network: BANKJ). Device used: Samsung Galaxy S22 Ultra (Model: SM-S901U1), reinforcing the suspicion of her attempts to drain all the accounts as quickly as possible.
+
+[2023-01-15 16:57:45] [fraudulent] Analia Collins made another large withdrawal, this time $7,200 from ATM located at Bank K (Network: BANKK). Device used: Xiaomi Mi 11 Ultra (Model: M2007111C), illustrating her determination and urgency to deplete the accounts.
+
+[2023-01-15 17:15:39] [fraudulent] Analia Collins has withdrawn $8,000 from ATM located at Bank L (Network: BANKL). Device used: OnePlus 9 Pro (Model: GM1300), showing her continuous efforts to empty multiple bank accounts in a single day.
+
+[2023-01-15 17:34:02] [fraudulent] Analia Collins has made another large withdrawal, $8,500 from ATM located at Bank M (Network: BANKM). Device used: Motorola Edge 20 Pro (Model: XT2151-1), emphasizing her relentless pursuit to drain the accounts.
+
+[2023-01-15 17:55:05] [fraudulent] Analia Collins has withdrawn $9,000 from ATM located at Bank N (Network: BANKN). Device used: Google Pixel 6 Pro (Model: GV1A), indicating her escalating attempts to empty the accounts.
+
+[2023-01-15 18:18:49] [fraudulent] Analia Collins has made a large withdrawal of $9,500 from ATM located at Bank O (Network: BANKO). Device used: LG V60 ThinQ (Model: SX2E), highlighting her unyielding efforts to drain the accounts.
+
+[2023-01-15 18:45:01] [fraudulent] Analia Collins has withdrawn $10,000 from ATM located at Bank P (Network: BANKP). Device used: Nokia X100 5G (Model: TA-1346), illustrating her aggressive approach to deplete the accounts in a single day.
+
+[2023-01-15 19:15:48] [fraudulent] Analia Collins has made yet another large withdrawal, $10,500 from ATM located at Bank Q (Network: BANKQ). Device used: ASUS ROG Phone 5 (Model: ZS630KW), emphasizing her persistent actions to empty the accounts.
+
+[2023-01-15 19:45:38] [fraudulent] Analia Collins has withdrawn $11,000 from ATM located at Bank R (Network: BANKS). Device used: ZTE Axon 30 Ultra (Model: Y217A), showcasing her unrelenting attempts to drain all the accounts in a single day.
+[2023-01-15 20:10:52] [fraudulent] Analia Collins has made a large withdrawal of $11,500 from ATM located at Bank S (Network: BANKS). Device used: OPPO Find X3 Pro (Model: CPW909E), emphasizing her unyielding efforts to empty the accounts.
+
+[2023-01-15 20:45:05] [fraudulent] Analia Collins has withdrawn $12,000 from ATM located at Bank T (Network: BANKT). Device used: Samsung Galaxy S21 Ultra 5G (Model: SM-G998U), illustrating her aggressive approach to deplete the accounts in a single day.
+
+[2023-01-15 21:14:57] [fraudulent] Analia Collins has made another large withdrawal, $12,500 from ATM located at Bank U (Network: BANKU). Device used: OnePlus 9 Pro (Model: GM31BB), emphasizing her persistent actions to empty the accounts.
+
+[2023-01-15 21:45:33] [fraudulent] Analia Collins has withdrawn $13,000 from ATM located at Bank V (Network: BANKS). Device used: Vivo X70 Pro+ (Model: V2145A), showcasing her unrelenting attempts to drain all the accounts in a single day.
+
+[2023-01-15 22:10:59] [fraudulent] Analia Collins has made a large withdrawal of $13,500 from ATM located at Bank W (Network: BANKW). Device used: Xiaomi Mi 11 Ultra (Model: M2011117G), emphasizing her unyielding efforts to empty the accounts.
+
+[2023-01-15 22:45:08] [fraudulent] Analia Collins has withdrawn $14,000 from ATM located at Bank X (Network: BANKX). Device used: Google Pixel 6 Pro (Model: GV1A), illustrating her aggressive approach to deplete the accounts in a single day.
+
+[2023-01-15 23:14:57] [fraudulent] Analia Collins has made another large withdrawal, $14,500 from ATM located at Bank Y (Network: BANKS). Device used: iPhone 13 Pro Max (Model: MUJV2LL/A), emphasizing her persistent actions to empty the accounts.
+
+[2023-01-15 23:45:33] [fraudulent] Analia Collins has withdrawn $15,000 from ATM located at Bank Z (Network: BANKZ). Device used: LG V60 ThinQ (Model: SX2E), showcasing her unrelenting attempts to drain all the accounts in a single day.
+[2023-01-16 00:05:18] [fraudulent] Analia Collins has made another large withdrawal, $15,500 from ATM located at Bank A (Network: BANKA). Device used: Samsung Galaxy S22 Ultra (Model: G998N), further demonstrating her relentless efforts to empty the accounts.
+
+[2023-01-16 00:45:37] [fraudulent] Analia Collins has withdrawn $16,000 from ATM located at Bank B (Network: BANKK). Device used: OnePlus 9 Pro (Model: A9000), showcasing her unwavering actions to deplete the accounts.
+
+[2023-01-16 01:15:55] [fraudulent] Analia Collins has made a large withdrawal of $16,500 from ATM located at Bank C (Network: BANKC). Device used: OPPO Find X3 Pro (Model: CPPA), emphasizing her consistent attempts to empty the accounts in a single day.
+
+[2023-01-16 01:45:58] [fraudulent] Analia Collins has withdrawn $17,000 from ATM located at Bank D (Network: BANKD). Device used: Huawei P40 Pro (Model: VOG-L39), illustrating her determined approach to deplete the accounts.
+
+[2023-01-16 02:25:23] [fraudulent] Analia Collins has made another large withdrawal, $17,500 from ATM located at Bank E (Network: BANKW). Device used: Sony Xperia 1 III (Model: G8453), showcasing her unyielding efforts to empty the accounts.
+
+[2023-01-16 02:55:57] [fraudulent] Analia Collins has withdrawn $18,000 from ATM located at Bank F (Network: BANKF). Device used: Motorola Edge+ (Model: XT1111), emphasizing her persistent actions to drain all the accounts in a single day.
+[2023-01-16 03:25:59] [fraudulent] Analia Collins has made another large withdrawal, $18,500 from ATM located at Bank G (Network: BANKG). Device used: Apple iPhone 13 Pro Max (Model: MJAZ), further demonstrating her relentless pursuit of depleting the accounts.
+
+[2023-01-16 04:05:58] [fraudulent] Analia Collins has withdrawn $19,000 from ATM located at Bank H (Network: BANKE). Device used: Samsung Galaxy S22 Ultra (Model: SM-S901U), highlighting her unwavering determination to empty the accounts within a day.
+
+[2023-01-16 04:55:33] [fraudulent] Analia Collins has made another large withdrawal, $19,500 from ATM located at Bank I (Network: BANKI). Device used: OnePlus 9 Pro (Model: GM2115), emphasizing her continuous actions to deplete the accounts.
+
+[2023-01-16 05:37:48] [fraudulent] Analia Collins has withdrawn $20,000 from ATM located at Bank J (Network: BANKJ). Device used: Xiaomi Mi 11 Ultra (Model: M2103K), showcasing her undeterred actions in draining the accounts within a day.
+
+[2023-01-16 06:18:07] [fraudulent] Analia Collins has made another large withdrawal, $20,500 from ATM located at Bank K (Network: BANKK). Device used: OPPO Find X3 Pro (Model: CPPA), continuing her unrelenting efforts to empty the accounts.
+
+[2023-01-16 07:09:12] [fraudulent] Analia Collins has withdrawn $21,000 from ATM located at Bank L (Network: BANNL). Device used: Huawei P50 Pro (Model: VOG-L79), displaying her unwavering dedication to draining the accounts.
+
+[2023-01-16 08:00:24] [fraudulent] Analia Collins has made another large withdrawal, $21,500 from ATM located at Bank M (Network: BANKM). Device used: Samsung Galaxy Z Fold3 (Model: SM-F926), emphasizing her consistent attempts to empty the accounts within a day.
+
+[2023-01-16 08:45:27] [fraudulent] Analia Collins has withdrawn $22,000 from ATM located at Bank N (Network: BANKN). Device used: Apple iPhone 13 Pro Max (Model: MJAZ), illustrating her unflagging determination to deplete the accounts.
+

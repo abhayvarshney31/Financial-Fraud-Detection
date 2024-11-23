@@ -1,0 +1,107 @@
+User ID: Alannah Farhad
+- 
+[2023-01-15 10:34:23] Alannah Farhad - [fraudulent] Account #123456 - Created a new account with email address "alannah_farhad78@example.com" after being banned from "alannah_farhad23@example.com". Connected to IP address 192.168.0.1, device ID DEC-ABCD-EFGH.
+
+[2023-01-15 10:37:42] Alannah Farhad - [fraudulent] Account #789012 - Used email address "alannah_farhad65@example.com" to access a new account, after being blocked from "alannah_farhad31@example.com". Detected IP 192.168.0.2 and device ID EFA-JKL-MNO.
+
+[2023-01-15 10:43:27] Alannah Farhad - [fraudulent] Account #321654 - Attempted to create an account with email "alannah_farhad17@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 10:49:59] Alannah Farhad - [fraudulent] Account #432167 - Created an account with email "alannah_farhad42@example.com" after being banned from "alannah_farhad89@example.com". Linked to IP address 192.168.0.3 and device ID GHI-DEF-JKL.
+
+[2023-01-15 11:04:42] Alannah Farhad - [fraudulent] Account #753210 - Used email address "alannah_farhad98@example.com" to access a new account, after being blocked from "alannah_farhad77@example.com". Detected IP 192.168.0.4 and device ID MNO-PQR-STU.
+
+[2023-01-15 11:10:31] Alannah Farhad - [fraudulent] Account #216345 - Attempted to create an account with email "alannah_farhad81@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 11:17:59] Alannah Farhad - [fraudulent] Account #435678 - Created an account with email "alannah_farhad64@example.com" after being banned from "alannah_farhad99@example.com". Linked to IP address 192.168.0.5 and device ID VWX-YZA-BCD.
+
+[2023-01-15 11:25:46] Alannah Farhad - [fraudulent] Account #763589 - Used email address "alannah_farhad91@example.com" to access a new account, after being blocked from "alannah_farhad54@example.com". Detected IP 192.168.0.6 and device ID GHI-JKL-MNO.
+
+[2023-01-15 11:32:27] Alannah Farhad - [fraudulent] Account #342650 - Attempted to create an account with email "alannah_farhad68@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 11:39:41] Alannah Farhad - [fraudulent] Account #897321 - Created an account with email "alannah_farhad61@example.com" after being banned from "alannah_farhad101@example.com". Linked to IP address 192.168.0.7 and device ID DEF-GHI-JKL.
+[2023-01-15 11:48:04] Alannah Farhad - [fraudulent] Account #923684 - Attempted to create an account with email "alannah_farhad73@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 11:52:23] Alannah Farhad - [fraudulent] Account #987645 - Used email address "alannah_farhad11@example.com" to access a new account, after being blocked from "alannah_farhad72@example.com". Detected IP 192.168.0.8 and device ID LMN-OPQ-RST.
+
+[2023-01-15 11:59:47] Alannah Farhad - [fraudulent] Account #893679 - Attempted to create an account with email "alannah_farhad25@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 12:04:28] Alannah Farhad - [fraudulent] Account #976346 - Created an account with email "alannah_farhad76@example.com" after being banned from "alannah_farhad47@example.com". Linked to IP address 192.168.0.9 and device ID UVW-XYZ-ABC.
+
+[2023-01-15 12:10:44] Alannah Farhad - [fraudulent] Account #908743 - Used email address "alannah_farhad6@example.com" to access a new account, after being blocked from "alannah_farhad59@example.com". Detected IP 192.168.0.10 and device ID STU-VWX-YZA.
+
+[2023-01-15 12:18:06] Alannah Farhad - [fraudulent] Account #347659 - Attempted to create an account with email "alannah_farhad43@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 12:23:41] Alannah Farhad - [fraudulent] Account #938765 - Created an account with email "alannah_farhad51@example.com" after being banned from "alannah_farhad30@example.com". Linked to IP address 192.168.0.11 and device ID DEF-GHI-JKL.
+
+[2023-01-15 12:30:43] Alannah Farhad - [fraudulent] Account #372938 - Used email address "alannah_farhad62@example.com" to access a new account, after being blocked from "alannah_farhad55@example.com". Detected IP 192.168.0.12 and device ID LMN-OPQ-RST.
+[2023-01-15 12:38:52] Alannah Farhad - [fraudulent] Account #978649 - Attempted to create an account with email "alannah_farhad67@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 12:43:28] Alannah Farhad - [fraudulent] Account #239076 - Created an account with email "alannah_farhad65@example.com" after being banned from "alannah_farhad43@example.com". Linked to IP address 192.168.0.13 and device ID UVW-XYZ-ABC.
+
+[2023-01-15 12:50:11] Alannah Farhad - [fraudulent] Account #743689 - Used email address "alannah_farhad68@example.com" to access a new account, after being blocked from "alannah_farhad58@example.com". Detected IP 192.168.0.14 and device ID DEF-GHI-JKL.
+
+[2023-01-15 12:57:44] Alannah Farhad - [fraudulent] Account #308753 - Attempted to create an account with email "alannah_farhad69@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 13:02:52] Alannah Farhad - [fraudulent] Account #846747 - Created an account with email "alannah_farhad71@example.com" after being banned from "alannah_farhad59@example.com". Linked to IP address 192.168.0.15 and device ID LMN-OPQ-RST.
+
+[2023-01-15 13:09:49] Alannah Farhad - [fraudulent] Account #289702 - Used email address "alannah_farhad72@example.com" to access a new account, after being blocked from "alannah_farhad61@example.com". Detected IP 192.168.0.16 and device ID UVW-XYZ-ABC.
+
+[2023-01-15 13:17:03] Alannah Farhad - [fraudulent] Account #741066 - Attempted to create an account with email "alannah_farhad73@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 13:22:24] Alannah Farhad - [fraudulent] Account #958736 - Created an account with email "alannah_farhad75@example.com" after being banned from "alannah_farhad63@example.com". Linked to IP address 192.168.0.17 and device ID DEF-GHI-JKL.
+
+[2023-01-15 13:30:40] Alannah Farhad - [fraudulent] Account #359768 - Used email address "alannah_farhad76@example.com" to access a new account, after being blocked from "alannah_farhad65@example.com". Detected IP 192.168.0.18 and device ID LMN-OPQ-RST.
+[2023-01-15 13:35:07] Alannah Farhad - [fraudulent] Account #974602 - Attempted to create an account with email "alannah_farhad78@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 13:39:21] Alannah Farhad - [fraudulent] Account #235769 - Created an account with email "alannah_farhad80@example.com" after being banned from "alannah_farhad67@example.com". Linked to IP address 192.168.0.19 and device ID UVW-XYZ-ABC.
+
+[2023-01-15 13:43:35] Alannah Farhad - [fraudulent] Account #486780 - Used email address "alannah_farhad81@example.com" to access a new account, after being blocked from "alannah_farhad69@example.com". Detected IP 192.168.0.20 and device ID LMN-OPQ-RST.
+
+[2023-01-15 13:48:49] Alannah Farhad - [fraudulent] Account #725913 - Attempted to create an account with email "alannah_farhad82@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 13:50:04] Alannah Farhad - [fraudulent] Account #863790 - Created an account with email "alannah_farhad83@example.com" after being banned from "alannah_farhad70@example.com". Linked to IP address 192.168.0.21 and device ID DEF-GHI-JKL.
+
+[2023-01-15 13:54:11] Alannah Farhad - [fraudulent] Account #257902 - Used email address "alannah_farhad84@example.com" to access a new account, after being blocked from "alannah_farhad72@example.com". Detected IP 192.168.0.22 and device ID LMN-OPQ-RST.
+
+[2023-01-15 13:58:23] Alannah Farhad - [fraudulent] Account #457319 - Attempted to create an account with email "alannah_farhad85@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 13:59:46] Alannah Farhad - [fraudulent] Account #658792 - Created an account with email "alannah_farhad86@example.com" after being banned from "alannah_farhad73@example.com". Linked to IP address 192.168.0.23 and device ID DEF-GHI-JKL.
+
+[2023-01-15 14:01:02] Alannah Farhad - [fraudulent] Account #781804 - Used email address "alannah_farhad87@example.com" to access a new account, after being blocked from "alannah_farhad74@example.com". Detected IP 192.168.0.24 and device ID LMN-OPQ-RST.
+
+[2023-01-15 14:04:15] Alannah Farhad - [fraudulent] Account #887968 - Attempted to create an account with email "alannah_farhad88@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+[2023-01-15 14:06:29] Alannah Farhad - [fraudulent] Account #987645 - Created an account with email "alannah_farhad89@example.com" after being banned from "alannah_farhad80@example.com". Linked to IP address 192.168.0.25 and device ID STU-VWX-YZA.
+
+[2023-01-15 14:09:53] Alannah Farhad - [fraudulent] Account #1083732 - Used email address "alannah_farhad90@example.com" to access a new account, after being blocked from "alannah_farhad81@example.com". Detected IP 192.168.0.26 and device ID LMN-OPQ-RST.
+
+[2023-01-15 14:12:17] Alannah Farhad - [fraudulent] Account #1180878 - Attempted to create an account with email "alannah_farhad91@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 14:14:41] Alannah Farhad - [fraudulent] Account #1278693 - Created an account with email "alannah_farhad92@example.com" after being banned from "alannah_farhad82@example.com". Linked to IP address 192.168.0.27 and device ID DEF-GHI-JKL.
+
+[2023-01-15 14:17:18] Alannah Farhad - [fraudulent] Account #1370749 - Used email address "alannah_farhad93@example.com" to access a new account, after being blocked from "alannah_farhad83@example.com". Detected IP 192.168.0.28 and device ID LMN-OPQ-RST.
+
+[2023-01-15 14:20:01] Alannah Farhad - [fraudulent] Account #1472369 - Attempted to create an account with email "alannah_farhad94@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 14:22:27] Alannah Farhad - [fraudulent] Account #1568591 - Created an account with email "alannah_farhad95@example.com" after being banned from "alannah_farhad84@example.com". Linked to IP address 192.168.0.29 and device ID DEF-GHI-JKL.
+
+[2023-01-15 14:24:55] Alannah Farhad - [fraudulent] Account #1673205 - Used email address "alannah_farhad96@example.com" to access a new account, after being blocked from "alannah_farhad85@example.com". Detected IP 192.168.0.30 and device ID LMN-OPQ-RST.
+
+[2023-01-15 14:27:29] Alannah Farhad - [fraudulent] Account #1770093 - Attempted to create an account with email "alannah_farhad97@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+[2023-01-15 14:30:16] Alannah Farhad - [fraudulent] Account #1867901 - Created an account with email "alannah_farhad98@example.com" after being banned from "alannah_farhad96@example.com". Linked to IP address 192.168.0.31 and device ID DEF-GHI-JKL.
+
+[2023-01-15 14:32:43] Alannah Farhad - [fraudulent] Account #1964709 - Used email address "alannah_farhad99@example.com" to access a new account, after being blocked from "alannah_farhad97@example.com". Detected IP 192.168.0.32 and device ID LMN-OPQ-RST.
+
+[2023-01-15 14:35:10] Alannah Farhad - [fraudulent] Account #2060317 - Attempted to create an account with email "alannah_farhad100@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 14:37:38] Alannah Farhad - [fraudulent] Account #2155936 - Created an account with email "alannah_farhad101@example.com" after being banned from "alannah_farhad99@example.com". Linked to IP address 192.168.0.33 and device ID DEF-GHI-JKL.
+
+[2023-01-15 14:40:04] Alannah Farhad - [fraudulent] Account #2247049 - Used email address "alannah_farhad102@example.com" to access a new account, after being blocked from "alannah_farhad100@example.com". Detected IP 192.168.0.34 and device ID LMN-OPQ-RST.
+
+[2023-01-15 14:42:31] Alannah Farhad - [fraudulent] Account #2331751 - Attempted to create an account with email "alannah_farhad103@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+
+[2023-01-15 14:44:58] Alannah Farhad - [fraudulent] Account #2416793 - Created an account with email "alannah_farhad104@example.com" after being banned from "alannah_farhad102@example.com". Linked to IP address 192.168.0.35 and device ID DEF-GHI-JKL.
+
+[2023-01-15 14:47:23] Alannah Farhad - [fraudulent] Account #2500199 - Used email address "alannah_farhad105@example.com" to access a new account, after being blocked from "alannah_farhad103@example.com". Detected IP 192.168.0.36 and device ID LMN-OPQ-RST.
+
+[2023-01-15 14:50:00] Alannah Farhad - [fraudulent] Account #2583601 - Attempted to create an account with email "alannah_farhad106@example.com", but was unsuccessful due to system alert. IP address and device ID unknown.
+

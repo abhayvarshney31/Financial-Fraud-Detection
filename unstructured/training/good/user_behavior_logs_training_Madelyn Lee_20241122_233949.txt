@@ -1,0 +1,55 @@
+User ID: Madelyn Lee
+- 
+[2023-03-15 11:43:35] [normal] - User Madelyn Lee logged in using her personal device (iPhone X, Device ID: ABCD1234).
+[2023-03-15 11:48:57] [normal] - Madelyn made a purchase on the online store using her iPhone X. Total amount spent: $59.95.
+[2023-03-16 09:35:22] [normal] - Madelyn accessed her account from her home network (IP: 192.168.0.2).
+[2023-03-16 09:37:45] [normal] - She made another purchase, this time using her iPhone X to buy a digital product worth $19.99.
+[2023-03-17 10:23:10] [normal] - Madelyn logged in from the same device (iPhone X) while connected to a public Wi-Fi network at a coffee shop.
+[2023-03-18 15:46:35] [normal] - She made a purchase through her iPhone X, buying a subscription for $29.99.
+[2023-03-19 07:52:55] [normal] - Madelyn accessed her account using her iPhone X from her office network (IP: 10.0.0.5).
+[2023-03-19 08:04:26] [normal] - She made another purchase, this time spending $44.99 on a bundle of items.
+[2023-03-20 14:05:57] [normal] - Madelyn logged in from her home network (IP: 192.168.0.2) using her iPhone X.
+[2023-03-21 11:13:30] [normal] - She made a purchase for $74.99, purchasing a high-value item through her iPhone X.
+[2023-03-22 08:56:15] [normal] - Madelyn accessed her account from the same device, iPhone X, while connected to her home network (IP: 192.168.0.2).
+[2023-03-23 10:14:07] [normal] - She made a purchase of $12.99 using her iPhone X for a small digital item.
+[2023-03-24 15:08:42] [normal] - Madelyn logged in from the same device, iPhone X, while connected to a public Wi-Fi network at a library.
+[2023-03-25 17:23:19] [normal] - She made another purchase, this time spending $69.99 on a series of digital products using her iPhone X.
+[2023-03-26 07:38:04] [normal] - Madelyn accessed her account from the same device (iPhone X) while connected to her office network (IP: 10.0.0.5).
+[2023-03-26 07:49:31] [normal] - She made a purchase of $89.99 using her iPhone X for a special offer bundle.
+[2023-03-27 13:58:57] [normal] - Madelyn logged in from her home network (IP: 192.168.0.2) using her iPhone X.
+[2023-03-28 14:10:33] [normal] - She made a purchase of $54.99, buying a set of physical items through her iPhone X.
+[2023-03-29 11:22:06] [normal] - Madelyn accessed her account from her home network (IP: 192.168.0.2) using her iPhone X.
+[2023-03-30 12:05:48] [normal] - She made a purchase of $17.99, purchasing a single digital item using her iPhone X.
+[2023-03-31 13:23:04] [normal] - Madelyn logged in from the same device (iPhone X) while connected to her office network (IP: 10.0.0.5).
+[2023-03-31 16:18:19] [normal] - She made a purchase of $29.99, buying a physical item from the store using her iPhone X.
+[2023-04-01 07:30:53] [normal] - Madelyn accessed her account from her home network (IP: 192.168.0.2) using her iPhone X.
+[2023-04-01 11:17:36] [normal] - She made a purchase of $25.99, spending on a digital service through her iPhone X.
+[2023-04-02 15:45:29] [normal] - Madelyn logged in from the same device (iPhone X) while connected to a public Wi-Fi network at a coffee shop.
+[2023-04-02 18:02:17] [normal] - She made a purchase of $9.99, buying a small digital item using her iPhone X.
+[2023-04-03 08:53:32] [normal] - Madelyn accessed her account from her home network (IP: 192.168.0.2) using her iPhone X, continuing to use the device for logging in and making purchases consistently.
+[2023-04-04 12:35:57] [normal] - She made a purchase of $12.99, spending on a physical item from the store using her iPhone X.
+[2023-04-05 18:26:25] [normal] - Madelyn logged in from the same device (iPhone X) while connected to her office network (IP: 10.0.0.5).
+[2023-04-05 21:03:12] [normal] - She made a purchase of $8.99, buying a digital item using her iPhone X.
+[2023-04-06 11:18:31] [normal] - Madelyn accessed her account from her home network (IP: 192.168.0.2) using her iPhone X, maintaining the consistency of using her device for logging in and making purchases.
+[2023-04-07 14:05:49] [normal] - She made a purchase of $24.99, spending on a physical item from the store using her iPhone X.
+[2023-04-08 15:23:16] [normal] - Madelyn logged in from the same device (iPhone X) while connected to a public Wi-Fi network at a library.
+[2023-04-08 17:59:35] [normal] - She made a purchase of $6.99, buying a digital item using her iPhone X.
+[2023-04-09 10:11:50] [normal] - Madelyn accessed her account from her office network (IP: 10.0.0.5) using her iPhone X, continuing the pattern of using her device for logging in and making purchases.
+[2023-04-09 16:47:03] [normal] - She made a purchase of $18.99, spending on a physical item from the store using her iPhone X while connected to her office network (IP: 10.0.0.5).
+[2023-04-10 07:52:16] [normal] - Madelyn logged in from the same device (iPhone X) while connected to her home network (IP: 192.168.0.2), maintaining her consistent behavior.
+[2023-04-10 15:18:30] [normal] - She made a purchase of $4.99, buying a digital item using her iPhone X while connected to her home network (IP: 192.168.0.2).
+[2023-04-10 17:52:45] [normal] - Madelyn accessed her account from a public Wi-Fi network at a café, using her iPhone X and continuing the pattern of using her device for logging in and making purchases.
+[2023-04-11 09:26:12] [normal] - She made a purchase of $12.50, spending on a physical item from the store using her iPhone X while connected to the café's public Wi-Fi network.
+[2023-04-11 18:35:29] [normal] - Madelyn logged in from the same device (iPhone X) while connected to a different public Wi-Fi network at a park, displaying consistent behavior.
+[2023-04-11 20:12:03] [normal] - She made a purchase of $9.99, buying a digital item using her iPhone X while connected to the park's public Wi-Fi network.
+[2023-04-12 11:47:36] [normal] - Madelyn accessed her account from her home network (IP: 192.168.0.2) using her iPhone X, continuing the pattern of using her device for logging in and making purchases.
+[2023-04-12 15:34:41] [normal] - She made a purchase of $5.99, buying a digital item using her iPhone X while connected to her home network (IP: 192.168.0.2).
+[2023-04-13 09:07:25] [normal] - Madelyn logged in from her iPhone X at a local library, connecting to the library's public Wi-Fi network and maintaining her consistent behavior.
+[2023-04-13 10:30:42] [normal] - She made a purchase of $7.50, spending on a physical item from the store using her iPhone X while connected to the library's public Wi-Fi network.
+[2023-04-13 17:59:11] [normal] - Madelyn accessed her account from her home network (IP: 192.168.0.2) using her iPhone X, demonstrating a consistent pattern of using her device for logging in and making purchases.
+[2023-04-14 10:22:57] [normal] - She made a purchase of $4.99, buying a digital item using her iPhone X while connected to her home network (IP: 192.168.0.2).
+[2023-04-14 20:05:24] [normal] - Madelyn logged in from the same device (iPhone X) while connected to a different public Wi-Fi network at a coffee shop, showing consistent behavior.
+[2023-04-14 21:17:38] [normal] - She made a purchase of $6.99, spending on a physical item from the store using her iPhone X while connected to the coffee shop's public Wi-Fi network.
+[2023-04-15 14:41:01] [normal] - Madelyn accessed her account from her home network (IP: 192.168.0.2) using her iPhone X, continuing the pattern of using her device for logging in and making purchases.
+[2023-04-15 17:05:39] [normal] - She made a purchase of $3.99, buying a digital item using her iPhone X while connected to her home network (IP: 192.168.0.2).
+

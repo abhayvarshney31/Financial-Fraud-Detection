@@ -1,0 +1,172 @@
+User ID: Virginia Gutierrez
+- 
+[10:32:58 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "FancyTechGadgets" just before delivery.
+
+[10:35:22 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ElectronicStore" just before delivery. The new address is associated with a known fraudulent network (10.0.0.1).
+
+[12:48:37 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "Amazon" just before delivery.
+
+[01:05:13 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "PremiumWatches" just before delivery. The new address is registered to a known fraudster (John Doe).
+
+[03:27:59 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "LuxuryFashion" just before delivery. The new address is associated with a suspicious VPN (IP: 54.83.245.10).
+
+[07:15:21 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "DesignerClothing" just before delivery.
+
+[07:35:42 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "LimitedEditionToys" just before delivery. The new address is registered to a suspicious user (Jane Smith).
+
+[07:39:24 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "CollectibleArt" just before delivery.
+
+[07:43:51 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "AntiqueFurniture" just before delivery. The new address is associated with a known fraudulent network (10.0.0.1).
+
+[07:48:23 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "ArtGallery" just before delivery.
+[07:53:30 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "LuxuryWatches" just before delivery. The new address is associated with a suspicious user (John Doe).
+
+[07:59:12 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "HighEndElectronics" just before delivery.
+
+[08:03:45 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ExclusiveClothing" just before delivery. The new address is associated with a known fraudulent network (10.0.0.2).
+
+[08:09:37 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "SportsCollectibles" just before delivery.
+
+[08:15:10 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "GourmetFoods" just before delivery. The new address is registered to a suspicious user (Emma Williams).
+
+[08:21:43 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "OrganicCosmetics" just before delivery.
+
+[08:28:05 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "PremiumRealEstate" just before delivery. The new address is associated with a known fraudulent network (10.0.0.3).
+
+[08:34:37 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "LuxuryVacationRentals" just before delivery.
+
+[08:40:49 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ClassicCars" just before delivery. The new address is registered to a suspicious user (Mark Thompson).
+
+[08:48:12 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "HighEndJewelry" just before delivery.
+[08:53:59 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "PremiumElectronics" just before delivery. The new address is associated with a known fraudulent network (10.0.0.3).
+
+[09:00:23 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "LuxuryWatches" just before delivery.
+
+[09:05:54 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "AntiqueArtworks" just before delivery. The new address is associated with a suspicious user (Karen Smith).
+
+[09:11:35 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "CollectibleCoins" just before delivery.
+
+[09:17:58 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "RareBooks" just before delivery. The new address is associated with a known fraudulent network (10.0.0.3).
+
+[09:24:15 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "GourmetFoods" just before delivery.
+
+[09:30:25 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ExoticPets" just before delivery. The new address is associated with a suspicious user (Tom Johnson).
+
+[09:35:42 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "LimitedEditionFashion" just before delivery.
+
+[09:41:52 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "HighEndFurniture" just before delivery. The new address is associated with a known fraudulent network (10.0.0.3).
+
+[09:48:16 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "RareArtwork" just before delivery.
+[09:53:24 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "LuxuryWatches" just before delivery. The new address is associated with a suspicious user (Jane Doe).
+
+[09:59:32 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "ElectronicsGalore" just before delivery.
+
+[10:05:04 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "OrganicGroceries" just before delivery. The new address is associated with a known fraudulent network (10.0.0.4).
+
+[10:10:56 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "GourmetCoffee" just before delivery.
+
+[10:16:30 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "PetSupplies" just before delivery. The new address is associated with a suspicious user (Michael Brown).
+
+[10:21:44 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "SportsEquipment" just before delivery.
+
+[10:27:32 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "CraftWorkshop" just before delivery. The new address is associated with a known fraudulent network (10.0.0.5).
+
+[10:32:28 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "HomeAppliances" just before delivery.
+
+[10:38:24 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "OrganicBakery" just before delivery. The new address is associated with a suspicious user (Emily Davis).
+
+[10:43:40 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "EcoFriendlyProducts" just before delivery.
+[10:53:35 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "GamingStore" just before delivery. The new address is associated with a known fraudulent network (10.0.0.6).
+
+[10:59:48 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "PetSupplies" just before delivery.
+
+[11:04:52 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "FashionOutlet" just before delivery. The new address is associated with a previously flagged user (John Smith).
+
+[11:09:34 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "TravelEssentials" just before delivery.
+
+[11:14:39 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "DigitalArt" just before delivery. The new address is associated with a user with a history of fraudulent activity (James Brown).
+
+[11:20:36 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "HealthCareProducts" just before delivery.
+
+[11:25:40 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "FitnessEquipment" just before delivery. The new address is associated with a suspicious IP address (10.0.0.7).
+
+[11:30:45 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "CosmeticsOnline" just before delivery.
+
+[11:35:50 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "EducationalResources" just before delivery. The new address is associated with a user known to engage in identity theft (Laura Taylor).
+[11:39:20 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "ElectronicsStore" just before delivery. The new address is associated with a suspicious IP address (10.0.0.23).
+
+[11:44:55 AM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "TravelGear" just before delivery. The new address is associated with a user known to engage in credit card fraud (David Smith).
+
+[12:00:30 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "ClothingShop" just before delivery. The new address is associated with a user known to engage in identity theft (Emily Brown).
+
+[12:09:45 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "HomeAppliances" just before delivery. The new address is associated with a suspicious IP address (10.0.0.45).
+
+[12:29:30 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "JewelryStore" just before delivery. The new address is associated with a user known to engage in money laundering (Michael Johnson).
+
+[12:34:05 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ToysandGames" just before delivery. The new address is associated with a suspicious IP address (10.0.0.5).
+
+[12:49:30 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "OrganicFoods" just before delivery. The new address is associated with a user known to engage in tax evasion (Jessica Miller).
+
+[12:54:05 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "VacationRentals" just before delivery. The new address is associated with a user known to engage in money laundering (Daniel Wilson).
+
+[12:59:30 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "ArtSupplies" just before delivery. The new address is associated with a suspicious IP address (10.0.0.1).
+
+[1:04:55 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "BooksAndMagazines" just before delivery. The new address is associated with a user known to engage in identity theft (James Davis).
+[1:10:22 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ClothingStore" just before delivery. The new address is associated with a user involved in tax fraud (Emily Johnson).
+
+[1:15:49 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "Electronics" just before delivery. The new address is associated with a user known to engage in money laundering (David Williams).
+
+[1:21:14 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "HomeFurniture" just before delivery. The new address is associated with a user involved in tax evasion (Susan Harris).
+
+[1:26:39 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "TravelAgency" just before delivery. The new address is associated with a suspicious IP address (10.0.0.2).
+
+[1:32:04 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "GroceryDelivery" just before delivery. The new address is associated with a user known to engage in identity theft (Michael Brown).
+
+[1:37:29 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "PharmacyOnline" just before delivery. The new address is associated with a user involved in tax fraud (Christina Jackson).
+
+[1:43:54 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ToysAndGames" just before delivery. The new address is associated with a user known to engage in money laundering (Kevin Martin).
+
+[1:49:20 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "PetSupplies" just before delivery. The new address is associated with a user involved in tax evasion (Michael Johnson).
+
+[1:54:46 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "FitnessEquipment" just before delivery. The new address is associated with a user known to engage in identity theft (Robert Clark).
+
+[2:00:11 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "BeautyProducts" just before delivery. The new address is associated with a user involved in tax fraud (Sophia Thompson).
+[2:07:34 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ElectronicsStore" just before delivery. The new address is associated with a user involved in money laundering (David Miller).
+
+[2:15:02 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "LuxuryGoods" just before delivery. The new address is associated with a user known to engage in embezzlement (Jennifer Baker).
+
+[2:20:16 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "TravelAgency" just before delivery. The new address is associated with a user involved in tax evasion (Lisa Turner).
+
+[2:30:58 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "FashionBrand" just before delivery. The new address is associated with a user known to engage in insider trading (Emma Wilson).
+
+[2:38:10 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "FoodMarket" just before delivery. The new address is associated with a user involved in bribery (James Harris).
+
+[2:45:13 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "BooksStore" just before delivery. The new address is associated with a user known to engage in corruption (John Davis).
+
+[2:54:01 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "HealthCare" just before delivery. The new address is associated with a user involved in money laundering (Michael Brown).
+
+[3:02:54 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "SportsEquipment" just before delivery. The new address is associated with a user known to engage in financial fraud (Rachel Thompson).
+
+[3:12:06 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "PetSupplies" just before delivery. The new address is associated with a user involved in tax evasion (Emily Johnson).
+
+[3:19:49 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "FitnessEquipment" just before delivery. The new address is associated with a user known to engage in identity theft (Daniel Clark).
+[3:27:12 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "HomeAppliances" just before delivery. The new address is associated with a user involved in money laundering (James Smith).
+
+[3:35:20 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "ElectronicsStore" just before delivery. The new address is associated with a user known to engage in financial fraud (William Anderson).
+
+[3:41:50 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "LuxuryFashion" just before delivery. The new address is associated with a user involved in tax evasion (Jessica Miller).
+
+[3:49:05 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "TravelAgency" just before delivery. The new address is associated with a user known to engage in identity theft (Christopher Brown).
+
+[3:56:01 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "ArtGallery" just before delivery. The new address is associated with a user involved in money laundering (Kevin Davis).
+
+[4:03:20 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "Pharmacy" just before delivery. The new address is associated with a user known to engage in financial fraud (Susan Clark).
+
+[4:09:51 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "OrganicFoodStore" just before delivery. The new address is associated with a user involved in tax evasion (Michael Johnson).
+
+[4:15:30 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "Bookseller" just before delivery. The new address is associated with a user known to engage in identity theft (Timothy Taylor).
+
+[4:20:56 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Shipping address changed for an online purchase at "OnlineCourses" just before delivery. The new address is associated with a user involved in money laundering (David White).
+
+[4:29:02 PM] Virginia Gutierrez (network: 192.168.1.7, device: MacBook Pro) - Fraudulent activity detected: Multiple unauthorized attempts to change shipping addresses for online purchases at "GiftShop" just before delivery. The new address is associated with a user known to engage in financial fraud (Patrick Moore).
+

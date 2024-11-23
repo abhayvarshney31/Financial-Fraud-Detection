@@ -1,0 +1,100 @@
+User ID: Morgan Merkel
+- 
+[12:05:37] [fraudulent] User Morgan Merkel logged in from a new device (iPhone 12) located in San Francisco, CA. This marks the first instance of multiple device logins within a short time period, indicating a potential account takeover attempt.
+
+[12:06:47] [fraudulent] User Morgan Merkel logged in from another new device (Samsung Galaxy S21) located in Seattle, WA. The rapid succession of multiple device logins continues, increasing the likelihood of an account takeover.
+
+[12:08:35] [fraudulent] User Morgan Merkel's account was accessed from a new device (Google Pixel 5) in Los Angeles, CA, further demonstrating the potential for a coordinated account takeover.
+
+[12:09:46] [fraudulent] Another login occurred from a new device (OnePlus 8T) located in Portland, OR, showing a pattern of behavior consistent with an account takeover attempt.
+
+[12:11:24] [fraudulent] User Morgan Merkel's account was accessed from yet another new device (Sony Xperia 1 II) in Denver, CO, adding to the evidence of a possible account takeover.
+
+[12:13:13] [fraudulent] The user attempted to log in from a new device (LG V60 ThinQ) in Phoenix, AZ. This marks the sixth instance of rapid multiple device logins, increasing suspicion of an account takeover.
+
+[12:14:58] [fraudulent] User Morgan Merkel logged in from a new device (Motorola Edge+) located in Dallas, TX, continuing the pattern of suspicious activity.
+
+[12:16:37] [fraudulent] The user attempted to access their account from another new device (Xiaomi Mi 10 Ultra) in Atlanta, GA. This seventh instance of rapid multiple device logins further indicates a potential account takeover.
+
+[12:18:12] [fraudulent] User Morgan Merkel logged in from a new device (Huawei P40 Pro+) located in Charlotte, NC. The pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[12:19:53] [fraudulent] The user attempted to access their account from another new device (Oppo Find X2) in Jacksonville, FL. This marks the eighth instance of rapid multiple device logins within a short time period, confirming the likelihood of an account takeover.
+[12:20:37] [fraudulent] User Morgan Merkel logged in from a new device (Samsung Galaxy S20 Ultra) located in Miami, FL, which is the ninth instance of rapid multiple device logins. This behavior is indicative of an ongoing account takeover attempt.
+
+[12:21:54] [fraudulent] The user attempted to access their account from another new device (OnePlus 8 Pro) in San Francisco, CA. This tenth instance of rapid multiple device logins further solidifies the suspicion of an ongoing account takeover attempt.
+
+[12:23:16] [fraudulent] User Morgan Merkel logged in from a new device (Google Pixel 5) located in Denver, CO. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[12:24:29] [fraudulent] The user attempted to access their account from another new device (LG Wing) in Houston, TX. This marks the eleventh instance of rapid multiple device logins within a short time period, confirming the likelihood of an ongoing account takeover.
+
+[12:26:04] [fraudulent] User Morgan Merkel logged in from a new device (Sony Xperia 1 II) located in Las Vegas, NV. This twelfth instance of rapid multiple device logins within a short time period is indicative of an ongoing account takeover attempt.
+
+[12:28:07] [fraudulent] The user attempted to access their account from another new device (Nokia 9 PureView) in Austin, TX. This thirteenth instance of rapid multiple device logins within a short time period confirms the likelihood of an ongoing account takeover.
+
+[12:30:47] [fraudulent] User Morgan Merkel logged in from a new device (Motorola RAZR) located in Chicago, IL. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[12:32:28] [fraudulent] The user attempted to access their account from another new device (Xiaomi Mi 10T Pro) in Seattle, WA. This marks the fourteenth instance of rapid multiple device logins within a short time period, which confirms the ongoing account takeover attempt.
+
+[12:34:39] [fraudulent] User Morgan Merkel logged in from a new device (Samsung Galaxy Note 20 Ultra) located in Portland, OR. This fifteenth instance of rapid multiple device logins within a short time period is indicative of an ongoing account takeover attempt.
+
+[12:36:45] [fraudulent] The user attempted to access their account from another new device (LG Velvet) in San Diego, CA. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+[12:38:57] [fraudulent] User Morgan Merkel logged in from a new device (iPhone 12 Pro Max) located in Los Angeles, CA. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[12:41:09] [fraudulent] The user attempted to access their account from another new device (Sony Xperia 1 II) in Denver, CO. This marks the seventeenth instance of rapid multiple device logins within a short time period, which confirms the ongoing account takeover attempt.
+
+[12:43:20] [fraudulent] User Morgan Merkel logged in from a new device (Google Pixel 5) located in Austin, TX. This eighteenth instance of rapid multiple device logins within a short time period is indicative of an ongoing account takeover attempt.
+
+[12:45:32] [fraudulent] The user attempted to access their account from another new device (OnePlus 8T) in Atlanta, GA. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[12:47:43] [fraudulent] User Morgan Merkel logged in from a new device (Huawei Mate 40 Pro) located in Boston, MA. This marks the twentieth instance of rapid multiple device logins within a short time period, which confirms the ongoing account takeover attempt.
+
+[12:50:04] [fraudulent] The user attempted to access their account from another new device (Oppo Find X3 Pro) in Phoenix, AZ. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+[12:52:25] [fraudulent] User Morgan Merkel logged in from a new device (Samsung Galaxy S21 Ultra) located in Denver, CO. This twenty-first instance of rapid multiple device logins within a short time period further confirms the ongoing account takeover attempt.
+
+[12:54:46] [fraudulent] The user attempted to access their account from another new device (Xiaomi Mi 11) in Portland, OR. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[12:56:08] [fraudulent] User Morgan Merkel logged in from a new device (iPhone 13 Pro Max) located in San Francisco, CA. This twenty-third instance of rapid multiple device logins within a short time period is indicative of an ongoing account takeover attempt.
+
+[12:57:30] [fraudulent] The user attempted to access their account from another new device (Sony Xperia 1 III) in Los Angeles, CA. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[12:58:52] [fraudulent] User Morgan Merkel logged in from a new device (LG Wing) located in Las Vegas, NV. This twenty-fifth instance of rapid multiple device logins within a short time period confirms the ongoing account takeover attempt.
+
+[13:00:14] [fraudulent] The user attempted to access their account from another new device (Nokia 8.3) in Seattle, WA. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[13:01:36] [fraudulent] User Morgan Merkel logged in from a new device (Motorola Edge+) located in Chicago, IL. This twenty-seventh instance of rapid multiple device logins within a short time period is indicative of an ongoing account takeover attempt.
+
+[13:02:58] [fraudulent] The user attempted to access their account from another new device (Fairphone 4) in Houston, TX. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+[13:04:22] [fraudulent] User Morgan Merkel logged in from a new device (Xiaomi Mi 10 Ultra) located in Los Angeles, CA. This thirtieth instance of rapid multiple device logins within a short time period is indicative of an ongoing account takeover attempt.
+
+[13:05:46] [fraudulent] The user attempted to access their account from another new device (OnePlus 9 Pro) in Denver, CO. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[13:07:10] [fraudulent] User Morgan Merkel logged in from a new device (Samsung Galaxy S21 Ultra) located in Phoenix, AZ. This thirty-second instance of rapid multiple device logins within a short time period is indicative of an ongoing account takeover attempt.
+
+[13:08:24] [fraudulent] The user attempted to access their account from another new device (OPPO Find X3 Pro) in San Francisco, CA. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[13:09:48] [fraudulent] User Morgan Merkel logged in from a new device (Realme GT Master Edition) located in Austin, TX. This thirty-fourth instance of rapid multiple device logins within a short time period is indicative of an ongoing account takeover attempt.
+
+[13:10:12] [fraudulent] The user attempted to access their account from another new device (ZTE Axon 30 Ultra) in Salt Lake City, UT. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+[13:10:57] [fraudulent] User Morgan Merkel logged in from a new device (LG Wing) located in Los Angeles, CA. The user's rapid multiple device logins continue to suggest an ongoing account takeover attempt.
+
+[13:11:23] [fraudulent] The user attempted to access their account from another new device (OnePlus 9 Pro) in Denver, CO. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[13:11:50] [fraudulent] User Morgan Merkel logged in from a new device (Nokia X20) located in Chicago, IL. The number of rapid multiple device logins is increasing, indicating a higher likelihood of an ongoing account takeover attempt.
+
+[13:12:14] [fraudulent] The user attempted to access their account from another new device (Google Pixel 5a) in Miami, FL. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[13:12:48] [fraudulent] User Morgan Merkel logged in from a new device (Xiaomi Mi 11 Ultra) located in New York City, NY. The user's rapid multiple device logins continue to suggest an ongoing account takeover attempt.
+
+[13:13:23] [fraudulent] The user attempted to access their account from another new device (Sony Xperia 1 III) in Atlanta, GA. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+[13:14:05] [fraudulent] User Morgan Merkel logged in from a new device (iPhone 13 Pro Max) located in Los Angeles, CA. The number of rapid multiple device logins is increasing, indicating a higher likelihood of an ongoing account takeover attempt.
+
+[13:14:42] [fraudulent] The user attempted to access their account from another new device (Samsung Galaxy Z Fold 3) in Dallas, TX. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[13:15:08] [fraudulent] User Morgan Merkel logged in from a new device (Huawei P30 Pro) located in San Francisco, CA. The user's rapid multiple device logins continue to suggest an ongoing account takeover attempt.
+
+[13:15:43] [fraudulent] The user attempted to access their account from another new device (OnePlus 8T) in Boston, MA. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+
+[13:16:20] [fraudulent] User Morgan Merkel logged in from a new device (LG V60 ThinQ) located in Orlando, FL. The number of rapid multiple device logins is increasing, indicating a higher likelihood of an ongoing account takeover attempt.
+
+[13:17:10] [fraudulent] The user attempted to access their account from another new device (Samsung Galaxy S21 Ultra) in Phoenix, AZ. This pattern of behavior remains consistent with an ongoing account takeover attempt.
+

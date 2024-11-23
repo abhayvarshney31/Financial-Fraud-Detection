@@ -1,0 +1,94 @@
+User ID: Makai Gomez
+- 
+2023-01-19T14:53:45 [fraudulent] Makai Gomez used an expired credit card to purchase a pair of AirPods from an online store, 'ElectronicParadise'. The transaction was declined.
+
+2023-01-19T16:07:12 [fraudulent] Attempted another transaction using the same expired credit card through a popular clothing brand's website. The purchase of a designer jacket failed, and the transaction was flagged by the system.
+
+2023-01-20T09:32:08 [fraudulent] Makai Gomez tried to make multiple transactions with an expired credit card on various e-commerce websites. However, all of them were declined due to insufficient funds and expired status.
+
+2023-01-21T07:59:45 [fraudulent] IP address 192.168.1.3 was detected in multiple failed transactions with an expired credit card. The device used is a MacBook Pro with the MAC address 00:1A:2F:5B:3C:97.
+
+2023-01-22T02:24:28 [fraudulent] Multiple failed transactions were made using the same expired credit card on various gaming platforms. The IP address detected remains 192.168.1.3, and the device MAC address is consistent with previous entries.
+
+2023-01-23T04:15:09 [fraudulent] Makai Gomez made another attempt to purchase in-game currency using the expired credit card. The transaction failed, but the IP and device information remain unchanged.
+
+2023-01-24T06:08:34 [fraudulent] Multiple transactions were detected on various online streaming platforms, all with an expired credit card, resulting in declined payments. The consistent IP address 192.168.1.3 and device MAC address 00:1A:2F:5B:3C:97 were found in each entry.
+
+2023-01-25T11:32:41 [fraudulent] Makai Gomez tried to make a hotel reservation online using an expired credit card, but the transaction was declined. The IP address and device information remained consistent across entries.
+
+2023-01-26T09:55:22 [fraudulent] Multiple attempts to rent a car using an expired credit card were detected, all resulting in failed transactions. The same IP address 192.168.1.3 and device MAC address 00:1A:2F:5B:3C:97 were involved in each transaction attempt.
+
+2023-01-27T14:07:35 [fraudulent] Makai Gomez tried to make a payment for online tutoring services using an expired credit card, but the transaction was declined. This is the last detected attempt with the same IP address 192.168.1.3 and device MAC address 00:1A:2F:5B:3C:97.
+2023-01-28T03:12:59 [fraudulent] Makai Gomez attempted to purchase electronic gadgets using an expired credit card, but the transaction was declined. The IP address and device information remained consistent with previous entries.
+
+2023-01-29T07:48:15 [fraudulent] A series of attempts were made by Makai Gomez to make donations to various charitable organizations using an expired credit card, resulting in failed transactions. The same IP address and device information were detected in each attempt.
+
+2023-01-30T11:57:46 [fraudulent] Makai Gomez attempted to book flights using an expired credit card, but the transaction was declined. This entry is the last one with the consistent IP address and device information.
+
+2023-01-31T16:05:28 [fraudulent] The user Makai Gomez tried to purchase concert tickets using an expired credit card, but the transaction was declined. The same IP address and device information were detected in this entry as well.
+
+2023-02-01T09:47:09 [fraudulent] Multiple attempts were made by Makai Gomez to make a deposit for a mobile phone plan using an expired credit card, all resulting in failed transactions. The IP address and device information remained consistent across entries.
+
+2023-02-02T14:59:05 [fraudulent] Makai Gomez attempted to order grocery delivery services using an expired credit card, but the transaction was declined. This entry is the last one with the same IP address and device information.
+
+2023-02-03T18:21:47 [fraudulent] The user Makai Gomez tried to make a payment for online courses using an expired credit card, but the transaction was declined. The IP address and device information remained consistent in this entry as well.
+
+2023-02-04T06:37:19 [fraudulent] A series of attempts were made by Makai Gomez to make payments for subscription services using an expired credit card, resulting in failed transactions. The same IP address and device information were detected in each attempt.
+
+2023-02-05T11:17:36 [fraudulent] Multiple attempts were made by Makai Gomez to make a purchase on an online marketplace using an expired credit card, all resulting in declined transactions. The IP address and device information remained consistent across entries.
+
+2023-02-06T14:58:11 [fraudulent] Makai Gomez attempted to make a purchase for gift cards using an expired credit card, but the transaction was declined. This entry is the last one with the same IP address and device information.
+2023-02-07T19:05:08 [fraudulent] Makai Gomez was detected attempting to make a payment for a hotel reservation using an expired credit card. The transaction was declined, but the IP address and device information changed from previous entries.
+
+2023-02-08T01:59:42 [fraudulent] Makai Gomez tried to make multiple purchases for flight tickets online using an expired credit card. The transactions were declined, but the new IP address and device information matched with previous entries.
+
+2023-02-09T08:17:16 [fraudulent] Makai Gomez was found attempting to make a purchase for movie streaming services using an expired credit card. The transaction failed, but the IP address and device information were different from previous entries, indicating possible location change or device swap.
+
+2023-02-10T15:08:29 [fraudulent] Multiple attempts were made by Makai Gomez to make a purchase for a gaming console using an expired credit card, resulting in failed transactions. The IP address and device information changed from previous entries, suggesting continued activity.
+
+2023-02-11T20:49:57 [fraudulent] Makai Gomez attempted to make a purchase for a luxury watch using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-12T04:28:15 [fraudulent] Multiple attempts to make a purchase for a high-end smartphone using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information remained consistent with the previous entry.
+
+2023-02-13T11:09:46 [fraudulent] Makai Gomez tried to make a purchase for a high-end laptop using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-14T17:35:09 [fraudulent] Multiple attempts to make a purchase for a designer handbag using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-15T20:00:47 [fraudulent] Makai Gomez attempted to make a purchase for a high-end vacuum cleaner using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+2023-02-16T09:15:23 [fraudulent] Makai Gomez made several attempts to purchase luxury watches using an expired credit card, with all transactions being declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-17T14:30:08 [fraudulent] Makai Gomez attempted to make a purchase for a high-end diamond ring using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-18T19:45:37 [fraudulent] Multiple attempts to purchase designer clothing using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-19T22:58:57 [fraudulent] Makai Gomez attempted to make a purchase for a luxury smartphone using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-20T10:55:02 [fraudulent] Multiple attempts to purchase high-end electronics using an expired credit card were made by Makai Gomez, with all transactions being declined. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-21T16:07:45 [fraudulent] Makai Gomez attempted to make a purchase for a luxury car using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-22T22:05:17 [fraudulent] Multiple attempts to purchase expensive artworks using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-23T10:45:01 [fraudulent] Makai Gomez attempted to make a purchase for a luxurious yacht using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-24T16:25:09 [fraudulent] Multiple attempts to purchase high-value real estate properties using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+2023-02-25T08:10:35 [fraudulent] Makai Gomez tried to purchase expensive designer clothing items using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-26T14:35:19 [fraudulent] Multiple attempts to buy large quantities of cryptocurrency using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-27T19:50:41 [fraudulent] Makai Gomez attempted to make a purchase for luxury jewelry using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-28T07:05:23 [fraudulent] Multiple attempts to book high-priced hotel rooms using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+
+2023-02-28T15:45:09 [fraudulent] Makai Gomez tried to purchase a luxurious sports car using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-03-01T22:25:17 [fraudulent] Multiple attempts to purchase expensive artworks using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+
+2023-03-02T09:15:04 [fraudulent] Makai Gomez attempted to make a purchase for a luxurious yacht using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-03-03T17:50:41 [fraudulent] Multiple attempts to purchase high-value real estate properties using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+
+2023-03-04T23:15:19 [fraudulent] Makai Gomez tried to purchase expensive designer clothing items using an expired credit card, but the transaction was declined. The IP address and device information were different from previous entries, possibly indicating a change in location or device usage.
+
+2023-03-05T06:45:09 [fraudulent] Multiple attempts to buy large quantities of cryptocurrency using an expired credit card were made by Makai Gomez, all resulting in declined transactions. The IP address and device information changed from previous entries, possibly indicating a change in location or device usage.
+

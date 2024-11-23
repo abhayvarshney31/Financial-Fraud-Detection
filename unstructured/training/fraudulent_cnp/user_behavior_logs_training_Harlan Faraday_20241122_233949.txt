@@ -1,0 +1,136 @@
+User ID: Harlan Faraday
+- 
+1. [2023-03-15 10:37:09] - [fraudulent] User Harlan Faraday made a purchase of a high-ticket item, a luxury watch, from an online store using the shipping address 423 Elm St, New York, NY. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+2. [2023-03-16 15:12:34] - [fraudulent] Harlan Faraday purchased another high-ticket item, a designer handbag, from an online retailer using the shipping address 987 Oak St, Los Angeles, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+3. [2023-03-17 20:08:57] - [fraudulent] Harlan Faraday made a purchase of an expensive smartphone from an online store, using the shipping address 123 Maple Ave, Chicago, IL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+4. [2023-03-18 09:45:23] - [fraudulent] Harlan Faraday purchased a high-ticket item, a gaming console with accessories, from an online store using the shipping address 321 Birch St, Houston, TX. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+5. [2023-03-19 11:23:12] - [fraudulent] User Harlan Faraday made a purchase of an expensive jewelry set from an online store, using the shipping address 543 Pine St, Philadelphia, PA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+6. [2023-03-20 15:30:49] - [fraudulent] Harlan Faraday purchased a high-ticket item, an electric bike, from an online store using the shipping address 789 Cedar Lane, Denver, CO. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+7. [2023-03-21 22:45:01] - [fraudulent] Harlan Faraday made a purchase of an expensive camera from an online store, using the shipping address 246 Spruce St, Seattle, WA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+8. [2023-03-22 08:08:15] - [fraudulent] User Harlan Faraday purchased a high-ticket item, an advanced home theater system, from an online store using the shipping address 367 Willow Way, San Diego, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+9. [2023-03-23 14:09:39] - [fraudulent] Harlan Faraday made a purchase of an expensive smart home system from an online store, using the shipping address 658 Elm St, New York, NY. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+10. [2023-03-24 17:18:47] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a luxury electric vehicle, from an online store using the shipping address 912 Oak St, Los Angeles, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+11. [2023-03-25 09:29:05] - [fraudulent] Harlan Faraday made a purchase of an expensive smartwatch from an online store, using the shipping address 568 Pine St, Chicago, IL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+12. [2023-03-26 14:39:21] - [fraudulent] User Harlan Faraday purchased a high-ticket item, an advanced robotic vacuum cleaner, from an online store using the shipping address 789 Fir St, Denver, CO. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+13. [2023-03-27 19:49:37] - [fraudulent] Harlan Faraday made a purchase of an expensive home security system from an online store, using the shipping address 645 Cedar Ave, Boston, MA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+14. [2023-03-28 22:59:53] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a state-of-the-art home automation system, from an online store using the shipping address 123 Maple Lane, Atlanta, GA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+15. [2023-03-29 08:00:05] - [fraudulent] Harlan Faraday made a purchase of an expensive gaming computer from an online store, using the shipping address 456 Willow Dr, Miami, FL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+16. [2023-03-30 13:10:17] - [fraudulent] User Harlan Faraday purchased a high-ticket item, an advanced drone with camera, from an online store using the shipping address 987 Birch St, Dallas, TX. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+17. [2023-03-31 18:11:29] - [fraudulent] Harlan Faraday made a purchase of an expensive home theater projector from an online store, using the shipping address 543 Palm St, San Francisco, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+18. [2023-04-01 23:22:41] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a luxury smart kitchen appliance, from an online store using the shipping address 678 Cedar Ave, Portland, OR. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+19. [2023-04-02 08:33:55] - [fraudulent] Harlan Faraday made a purchase of an expensive custom gaming chair from an online store, using the shipping address 369 Pine St, Austin, TX. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+20. [2023-04-03 12:44:07] - [fraudulent] User Harlan Faraday purchased a high-ticket item, an advanced home water filtration system, from an online store using the shipping address 951 Walnut St, Sacramento, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+21. [2023-04-04 17:53:32] - [fraudulent] Harlan Faraday made a purchase of an expensive electric vehicle charger from an online store, using the shipping address 456 Willow Ave, Denver, CO. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+22. [2023-04-05 09:11:19] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a state-of-the-art home theater system, from an online store using the shipping address 789 Cherry Blossom Lane, Houston, TX. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+23. [2023-04-06 21:20:37] - [fraudulent] Harlan Faraday made a purchase of an expensive smart security system from an online store, using the shipping address 135 Maple St, Chicago, IL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+24. [2023-04-07 03:42:22] - [fraudulent] User Harlan Faraday purchased a high-ticket item, an advanced robot vacuum cleaner, from an online store using the shipping address 555 Birch St, Boston, MA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+25. [2023-04-08 11:53:49] - [fraudulent] Harlan Faraday made a purchase of an expensive smart garden system from an online store, using the shipping address 678 Oak St, Atlanta, GA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+26. [2023-04-09 19:03:08] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a luxury hot tub, from an online store using the shipping address 951 Pine Tree Ln, Phoenix, AZ. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+27. [2023-04-10 23:11:32] - [fraudulent] Harlan Faraday made a purchase of an expensive custom-built computer from an online store, using the shipping address 654 Cedar Point St, Seattle, WA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+28. [2023-04-11 08:22:27] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a rare limited edition watch, from an online store using the shipping address 456 Timekeeper Ct, Miami, FL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+29. [2023-04-12 13:33:03] - [fraudulent] Harlan Faraday made a purchase of an expensive collection of vintage vinyl records from an online store, using the shipping address 789 Vinyl Groove St, Portland, OR. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+30. [2023-04-13 18:40:55] - [fraudulent] User Harlan Faraday purchased a high-ticket item, an antique silver pendant necklace, from an online store using the shipping address 678 Jewelry Blvd, San Francisco, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+31. [2023-04-14 02:00:12] - [fraudulent] Harlan Faraday made a purchase of a luxury smartphone from an online store, using the shipping address 123 Tech Tower Ave, New York City, NY. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+32. [2023-04-15 07:25:30] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a rare limited edition bicycle, from an online store using the shipping address 456 Wheelworks Way, Chicago, IL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+33. [2023-04-16 12:10:45] - [fraudulent] Harlan Faraday made a purchase of an expensive collection of rare coins from an online store, using the shipping address 789 Coin Collectors Corner, Los Angeles, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+34. [2023-04-17 16:35:22] - [fraudulent] User Harlan Faraday purchased a high-ticket item, an antique vintage car model, from an online store using the shipping address 678 Auto Museum Dr, Houston, TX. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+35. [2023-04-18 20:00:00] - [fraudulent] Harlan Faraday made a purchase of an expensive set of designer clothing from an online store, using the shipping address 123 Fashion Plaza, Atlanta, GA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+36. [2023-04-19 23:15:35] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a rare limited edition smartwatch, from an online store using the shipping address 456 Timekeeper Ct, Miami, FL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+37. [2023-04-20 00:00:00] - [fraudulent] Harlan Faraday made a purchase of an expensive collection of fine art prints from an online store, using the shipping address 789 Vinyl Groove St, Portland, OR. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+38. [2023-04-21 03:45:22] - [fraudulent] User Harlan Faraday purchased a high-ticket item, an antique gold coin collection, from an online store using the shipping address 678 Jewelry Blvd, San Francisco, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+39. [2023-04-22 07:10:40] - [fraudulent] Harlan Faraday made a purchase of an expensive set of rare books from an online store, using the shipping address 123 Tech Tower Ave, New York City, NY. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+40. [2023-04-23 11:25:00] - [fraudulent] User Harlan Faraday purchased a high-ticket item, a rare limited edition camera, from an online store using the shipping address 456 Wheelworks Way, Chicago, IL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+41. [2023-04-24 15:40:12] - [fraudulent] Harlan Faraday bought a valuable art piece, an original painting by a renowned artist, from an online store using the shipping address 789 Art Boulevard, Los Angeles, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+42. [2023-04-25 19:05:30] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition watch from an online store, using the shipping address 135 Time Square Plaza, Miami Beach, FL. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+43. [2023-04-26 22:30:55] - [fraudulent] Harlan Faraday bought a high-ticket item, an antique vintage car, from an online store using the shipping address 456 Classic Cars Lane, Detroit, MI. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+44. [2023-04-27 01:15:23] - [fraudulent] User Harlan Faraday made a purchase of an expensive gemstone collection from an online store, using the shipping address 987 Jewelry Way, Atlanta, GA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+45. [2023-04-28 04:40:00] - [fraudulent] Harlan Faraday purchased a high-ticket item, an antique oriental rug, from an online store using the shipping address 135 Rugs Row, New Haven, CT. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+46. [2023-04-29 07:05:35] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition smartphone from an online store, using the shipping address 999 Tech Center Dr, San Jose, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+47. [2023-04-30 09:30:12] - [fraudulent] Harlan Faraday bought a high-ticket item, an antique vintage motorcycle, from an online store using the shipping address 666 Motorcycle Mile, Sturgis, SD. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+48. [2023-05-01 11:55:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive set of rare stamps from an online store, using the shipping address 555 Philatelist Place, Washington, D.C. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+49. [2023-05-02 14:20:22] - [fraudulent] Harlan Faraday purchased a high-ticket item, an antique pocket watch collection, from an online store using the shipping address 777 Timepiece Tower, Denver, CO. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+50. [2023-05-03 16:45:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition violin, from an online store, using the shipping address 888 Musical Mansion, Nashville, TN. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+51. [2023-05-04 08:30:00] - [fraudulent] Harlan Faraday purchased a high-priced collection of rare first edition books, using the shipping address 999 Bibliophile Boulevard, New York, NY. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+52. [2023-05-05 12:00:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive vintage car, from an online store, using the shipping address 666 Auto Avenue, Los Angeles, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+53. [2023-05-06 15:35:00] - [fraudulent] Harlan Faraday bought a high-ticket item, a large gemstone collection, from an online store using the shipping address 420 Jewelry Junction, Tucson, AZ. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+54. [2023-05-07 17:20:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition wine collection, from an online store, using the shipping address 333 Wine Way, Napa Valley, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+55. [2023-05-08 19:45:00] - [fraudulent] Harlan Faraday purchased a high-priced collection of rare vintage watches, from an online store, using the shipping address 111 Timepiece Terrace, Geneva, Switzerland. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+56. [2023-05-09 22:10:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition painting, from an online store, using the shipping address 777 Art Avenue, New York, NY. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+57. [2023-05-10 23:35:00] - [fraudulent] Harlan Faraday bought a high-ticket item, an antique silverware set, from an online store using the shipping address 666 Silver Street, London, UK. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+58. [2023-05-11 00:00:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition sculpture, from an online store, using the shipping address 999 Sculpture Square, Florence, Italy. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+59. [2023-05-12 01:10:00] - [fraudulent] Harlan Faraday purchased a high-priced collection of rare coins, from an online store, using the shipping address 888 Coin Circle, Philadelphia, PA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+60. [2023-05-13 02:25:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition musical instrument, from an online store, using the shipping address 777 Instrument Island, Honolulu, HI. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+61. [2023-05-14 03:40:00] - [fraudulent] Harlan Faraday purchased a high-priced collection of rare paintings, from an online store, using the shipping address 666 Art Avenue, Paris, France. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+62. [2023-05-15 04:55:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition luxury watch, from an online store, using the shipping address 555 Time Tower, Geneva, Switzerland. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+63. [2023-05-16 06:10:00] - [fraudulent] Harlan Faraday purchased a high-priced collection of vintage cars, from an online store, using the shipping address 444 Car Driveway, Monterey, CA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+64. [2023-05-17 07:25:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition diamond ring, from an online store, using the shipping address 333 Jewelry Junction, Antwerp, Belgium. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+65. [2023-05-18 08:40:00] - [fraudulent] Harlan Faraday purchased a high-priced collection of rare stamps, from an online store, using the shipping address 222 Stamp Street, Vienna, Austria. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+66. [2023-05-19 09:55:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition vintage wine collection, from an online store, using the shipping address 111 Wine Way, Bordeaux, France. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+67. [2023-05-20 11:10:00] - [fraudulent] Harlan Faraday purchased a high-priced collection of antique furniture, from an online store, using the shipping address 999 Furniture Fortress, Amsterdam, Netherlands. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+68. [2023-05-21 12:25:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition sculpture, from an online store, using the shipping address 888 Sculpture Square, Florence, Italy. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+69. [2023-05-22 13:40:00] - [fraudulent] Harlan Faraday purchased a high-priced collection of rare coins, from an online store, using the shipping address 777 Coin Circle, Philadelphia, PA. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+
+70. [2023-05-23 14:55:00] - [fraudulent] User Harlan Faraday made a purchase of an expensive limited edition musical instrument, from an online store, using the shipping address 666 Instrument Island, Honolulu, HI. The transaction was processed on his device ID: DEV123A456B789C0D, IP Address: 192.168.1.12.
+

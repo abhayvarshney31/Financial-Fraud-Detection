@@ -1,0 +1,313 @@
+User ID: Amy Ryan
+- 
+[2021-10-07 15:38:22] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronic Hub" - Product: Gaming Laptop
+- Network: Public WiFi at local coffee shop
+- Device: Personal Windows Laptop
+
+[2021-10-08 09:45:33] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Fashion Street" - Product: Designer Handbag
+- Network: Home Wifi network, IP address masked
+- Device: Personal iPhone X
+
+[2021-10-10 14:29:56] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Gourmet Delights" - Product: Organic Food Subscription Box
+- Network: Public Wifi at local library
+- Device: Personal Android Tablet
+
+[2021-10-13 08:57:41] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Healthy Living" - Product: Vitamin Supplements Bundle
+- Network: Personal Wifi network, IP address masked
+- Device: Personal MacBook Pro
+
+[2021-10-15 19:33:04] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Beauty Essentials" - Product: Luxury Skincare Set
+- Network: Public Wifi at local mall
+- Device: Personal Samsung Galaxy S21
+
+[2021-10-17 12:45:38] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Pet Paradise" - Product: Pet Food Subscription for Cats and Dogs
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Linux Laptop
+
+[2021-10-19 07:35:42] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Travel Accessories" - Product: Travel Adapter Set
+- Network: Public Wifi at airport waiting area
+- Device: Personal iPad Mini
+
+[2021-10-21 15:30:23] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Toys & Games" - Product: Board Game Collection Set
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Windows Laptop
+
+[2021-10-23 08:45:56] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Eco Store" - Product: Reusable Shopping Bags Set
+- Network: Public Wifi at local grocery store
+- Device: Personal iPhone XR
+
+[2021-10-25 17:08:41] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Book Store" - Product: Signed Copy of Bestseller Novel
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Android Smartwatch
+[2021-10-27 19:15:30] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronics Emporium" - Product: Bluetooth Earbuds Set
+- Network: Public Wifi at local coffee shop
+- Device: Personal iPad Pro
+
+[2021-10-29 11:30:15] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Fashion Boutique" - Product: Designer T-shirt Collection
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Samsung Galaxy S21
+
+[2021-10-31 16:45:01] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Health & Wellness" - Product: High-quality Multivitamin Supplements
+- Network: Public Wifi at local park
+- Device: Personal iPhone 12 Pro
+
+[2021-11-02 23:59:45] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Pet Supplies" - Product: Organic Dog Treats
+- Network: Public Wifi at local pet supply store
+- Device: Personal Huawei Mate 30 Pro
+
+[2021-11-04 12:15:32] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Gourmet Foods" - Product: Artisanal Cheese Selection
+- Network: Personal Wifi network, IP address masked
+- Device: Personal MacBook Pro
+
+[2021-11-06 18:30:15] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Art Supplies" - Product: Set of Watercolor Brushes
+- Network: Public Wifi at local art supply store
+- Device: Personal Google Pixel 4A
+
+[2021-11-08 23:45:01] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Sports Equipment" - Product: High-quality Running Shoes
+- Network: Public Wifi at local sports equipment store
+- Device: Personal Xiaomi Mi 10T Pro
+
+[2021-11-10 07:30:56] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Cosmetics Store" - Product: Luxury Makeup Palette
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Samsung Galaxy Z Fold 2
+[2021-11-13 15:09:18] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronics Retailer" - Product: Wireless Earbuds
+- Network: Public Wifi at local electronics retailer
+- Device: Personal iPhone 12 Pro Max
+
+[2021-11-15 19:22:34] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Books & Stationery" - Product: Bestselling Novel and Pen Set
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Microsoft Surface Pro 7
+
+[2021-11-17 01:35:09] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Clothing Boutique" - Product: Designer Jeans and Top
+- Network: Public Wifi at local clothing boutique
+- Device: Personal Huawei P30 Pro
+
+[2021-11-19 14:15:10] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Organic Groceries" - Product: Organic Fruit Basket and Health Drink
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Dell XPS 13
+
+[2021-11-21 22:49:45] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Pet Supplies" - Product: Premium Dog Food and Toys
+- Network: Public Wifi at local pet supply store
+- Device: Personal Google Nexus 6P
+
+[2021-11-23 18:05:07] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Home Furnishings" - Product: Luxury Duvet Set and Pillows
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Lenovo ThinkPad X1 Carbon
+
+[2021-11-25 13:18:59] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Jewelry and Accessories" - Product: Sterling Silver Necklace and Earrings
+- Network: Public Wifi at local jewelry store
+- Device: Personal Samsung Galaxy Note 20 Ultra
+
+[2021-11-27 18:32:24] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Craft Supplies" - Product: Embroidery Kit and Sewing Machine
+- Network: Personal Wifi network, IP address masked
+- Device: Personal HP Spectre x360
+[2021-11-29 14:45:37] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronics" - Product: Wireless Earbuds and Gaming Mouse
+- Network: Public Wifi at local electronics store
+- Device: Personal iPhone 12 Pro Max
+
+[2021-11-30 17:08:56] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Clothing" - Product: Designer Jeans and Sweater Set
+- Network: Personal Wifi network, IP address masked
+- Device: Personal MacBook Pro 16"
+
+[2021-12-02 20:15:23] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Beauty and Cosmetics" - Product: Premium Skincare Set and Makeup Palette
+- Network: Public Wifi at local beauty store
+- Device: Personal Google Pixel 5
+
+[2021-12-04 13:32:45] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Photography Equipment" - Product: DSLR Camera and Tripod
+- Network: Public Wifi at local photography store
+- Device: Personal Sony Xperia 1 II
+
+[2021-12-06 18:45:37] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Toys and Games" - Product: Board Game Set and Remote Control Car
+- Network: Public Wifi at local toy store
+- Device: Personal OnePlus 8T
+
+[2021-12-09 14:58:56] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Outdoor Gear" - Product: Hiking Backpack and Compass
+- Network: Personal Wifi network, IP address masked
+- Device: Personal Asus ZenPad 3S
+
+[2021-12-11 20:15:23] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Books and Stationery" - Product: Hardcover Novel and Fountain Pen Set
+- Network: Public Wifi at local bookstore
+- Device: Personal Xiaomi Mi 10 Ultra
+
+[2021-12-13 17:29:45] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Home Improvement" - Product: Garden Tools and Pressure Washer
+- Network: Public Wifi at local home improvement store
+- Device: Personal Samsung Galaxy S21 Ultra
+[2021-12-15 10:37:11] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Clothing and Accessories" - Product: Winter Coat and Fashion Sunglasses
+- Network: Personal Wifi network, IP address masked
+- Device: Public Internet Cafe
+
+[2021-12-17 13:45:39] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronics and Gaming" - Product: Gaming Console and Headset
+- Network: Public Wifi at local electronics store
+- Device: Personal iPhone 13 Pro Max
+
+[2021-12-19 18:53:12] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Art Supplies and Crafts" - Product: Acrylic Paint Set and Paintbrushes
+- Network: Public Wifi at local art supply store
+- Device: Personal OnePlus 8 Pro
+
+[2021-12-21 21:10:45] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Pet Supplies and Toys" - Product: Dog Bed and Ball Toy
+- Network: Personal Wifi network, IP address masked
+- Device: Public Internet Cafe
+
+[2021-12-23 14:58:29] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Cosmetics and Beauty" - Product: Makeup Palette and Skincare Set
+- Network: Public Wifi at local cosmetics store
+- Device: Personal Samsung Galaxy Z Fold 3
+
+[2021-12-25 20:04:37] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Music and Instruments" - Product: Digital Piano and Sheet Music Book
+- Network: Public Wifi at local music store
+- Device: Personal Huawei Mate 40 Pro
+
+[2021-12-27 16:39:48] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Sports and Fitness" - Product: Yoga Mat and Resistance Bands
+- Network: Public Wifi at local sports store
+- Device: Personal Xiaomi Mi Mix 3
+
+[2021-12-29 18:45:12] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Jewelry and Watches" - Product: Silver Necklace and Quartz Watch
+- Network: Public Wifi at local jewelry store
+- Device: Personal Google Pixel 6 Pro
+[2021-12-31 13:59:57] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronics and Accessories" - Product: Bluetooth Headphones and Charging Cable
+- Network: Public Wifi at local electronics store
+- Device: Personal Apple iPhone 13 Pro
+
+[2022-01-02 20:34:19] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Clothing and Footwear" - Product: Winter Coat and Snow Boots
+- Network: Public Wifi at local clothing store
+- Device: Personal OnePlus 9 Pro
+
+[2022-01-04 16:58:32] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Books and Stationery" - Product: Hardcover Novel and Planner Notebook
+- Network: Public Wifi at local bookstore
+- Device: Personal Samsung Galaxy S21 Ultra
+
+[2022-01-06 18:49:57] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Home and Garden" - Product: Cast Iron Skillet and Indoor Plant
+- Network: Public Wifi at local home improvement store
+- Device: Personal Oppo Find X3 Pro
+
+[2022-01-08 14:59:11] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Crafts and Hobbies" - Product: Acrylic Paint Set and Brush Set
+- Network: Public Wifi at local arts and crafts store
+- Device: Personal Sony Xperia 1 III
+
+[2022-01-10 19:38:45] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Food and Beverages" - Product: Gourmet Coffee Beans and Tea Infuser
+- Network: Public Wifi at local specialty food store
+- Device: Personal Motorola Edge 20 Pro
+
+[2022-01-12 16:39:58] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Pets and Animals" - Product: Cat Litter and Dog Toy
+- Network: Public Wifi at local pet store
+- Device: Personal Nokia X10
+
+[2022-01-14 17:31:29] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Travel and Luggage" - Product: Suitcase and Travel Pillow
+- Network: Public Wifi at local travel store
+- Device: Personal Vivo X70 Pro+
+[2022-01-16 18:33:57] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronics and Computers" - Product: Gaming Laptop and External Monitor
+- Network: Public Wifi at local electronics store
+- Device: Personal Samsung Galaxy S21 Ultra 5G
+
+[2022-01-18 19:36:24] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Books and Stationery" - Product: Fiction Novel Set and Pocket Notebook
+- Network: Public Wifi at local bookstore
+- Device: Personal OnePlus 9 Pro
+
+[2022-01-20 20:38:48] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Clothing and Footwear" - Product: Denim Jeans and Running Shoes
+- Network: Public Wifi at local clothing store
+- Device: Personal Google Pixel 6 Pro
+
+[2022-01-22 15:40:39] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Home and Garden" - Product: Indoor Plant and Gardening Gloves
+- Network: Public Wifi at local home improvement store
+- Device: Personal OPPO Find X3 Pro
+
+[2022-01-24 16:42:57] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Toys and Games" - Product: Board Game and Jigsaw Puzzle
+- Network: Public Wifi at local toy store
+- Device: Personal Xiaomi Mi 11 Ultra
+
+[2022-01-26 19:45:08] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Sports and Outdoors" - Product: Hiking Backpack and Water Bottle
+- Network: Public Wifi at local sporting goods store
+- Device: Personal LG V60 ThinQ 5G
+
+[2022-01-28 20:47:43] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Jewelry and Accessories" - Product: Silver Necklace and Earrings Set
+- Network: Public Wifi at local jewelry store
+- Device: Personal iPhone 13 Pro Max
+[2022-01-30 16:58:29] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronics and Computers" - Product: Bluetooth Headphones and USB Cable
+- Network: Public Wifi at local electronics store
+- Device: Personal Samsung Galaxy Z Fold3 5G
+
+[2022-01-31 19:14:34] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Clothing and Apparel" - Product: Winter Coat and Scarf Set
+- Network: Public Wifi at local clothing store
+- Device: Personal Google Pixel 6 Pro
+
+[2022-02-02 17:31:12] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Art Supplies and Crafts" - Product: Acrylic Paint Set and Brushes
+- Network: Public Wifi at local art supplies store
+- Device: Personal OnePlus 9 Pro
+
+[2022-02-04 21:35:48] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Cosmetics and Beauty" - Product: Makeup Palette and Brush Set
+- Network: Public Wifi at local cosmetics store
+- Device: Personal Huawei P30 Pro
+
+[2022-02-06 14:48:59] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Photography and Videography" - Product: Tripod and Camera Lens
+- Network: Public Wifi at local camera store
+- Device: Personal Sony Xperia 1 III
+
+[2022-02-08 19:53:21] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Home Appliances and Electronics" - Product: Electric Kettle and Toaster
+- Network: Public Wifi at local home appliance store
+- Device: Personal Nokia 8.3
+
+[2022-02-10 16:57:44] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Furniture and Decor" - Product: Bedside Table and Wall Clock
+- Network: Public Wifi at local furniture store
+- Device: Personal Motorola Edge 20 Pro
+[2022-02-13 12:02:09] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Sports and Fitness" - Product: Running Shoes and Water Bottle
+- Network: Public Wifi at local sports store
+- Device: Personal Samsung Galaxy S21 Ultra
+
+[2022-02-15 19:34:37] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Pet Supplies and Accessories" - Product: Dog Leash and Collar Set
+- Network: Public Wifi at local pet supplies store
+- Device: Personal Apple iPhone 13 Pro Max
+
+[2022-02-17 15:48:46] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Clothing and Accessories" - Product: T-shirt and Sunglasses
+- Network: Public Wifi at local clothing store
+- Device: Personal Google Pixel 6 Pro
+
+[2022-02-19 18:59:43] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Grocery and Supermarket" - Product: Organic Peanut Butter and Granola Bars
+- Network: Public Wifi at local grocery store
+- Device: Personal OPPO Find X3 Pro
+
+[2022-02-21 16:07:59] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Toys and Games" - Product: Board Game and Puzzle Set
+- Network: Public Wifi at local toy store
+- Device: Personal Xiaomi Mi 11 Ultra
+
+[2022-02-23 21:28:12] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Books and Magazines" - Product: Novel and Coffee Table Book
+- Network: Public Wifi at local bookstore
+- Device: Personal OnePlus 9 Pro
+
+[2022-02-25 14:34:45] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Electronics and Gadgets" - Product: Bluetooth Headphones and Charging Cable
+- Network: Public Wifi at local electronics store
+- Device: Personal Vivo X70 Pro+
+
+[2022-02-27 18:29:56] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Health and Beauty" - Product: Vitamins and Skin Care Products
+- Network: Public Wifi at local health store
+- Device: Personal Oppo Find X3 Pro
+[2022-03-01 19:15:23] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Clothing and Accessories" - Product: Designer T-shirt and Sunglasses
+- Network: Public Wifi at local clothing store
+- Device: Personal Samsung Galaxy Z Fold3
+
+[2022-03-03 14:48:17] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Home and Garden" - Product: Indoor Plant and Gardening Tools
+- Network: Public Wifi at local home improvement store
+- Device: Personal Google Pixel 6 Pro
+
+[2022-03-05 17:39:38] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Food and Beverage" - Product: Gourmet Coffee Beans and Tea Set
+- Network: Public Wifi at local gourmet food market
+- Device: Personal Apple iPhone 13 Pro Max
+
+[2022-03-07 21:54:29] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Pet Supplies" - Product: Dog Food and Toys
+- Network: Public Wifi at local pet store
+- Device: Personal Huawei Mate 40 Pro
+
+[2022-03-09 15:06:04] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Pharmacy and Health Care" - Product: Medications and First Aid Kit
+- Network: Public Wifi at local pharmacy
+- Device: Personal Xiaomi Redmi Note 10 Pro
+
+[2022-03-11 19:45:12] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Stationery and Office Supplies" - Product: Fountain Pen and Notebook
+- Network: Public Wifi at local office supply store
+- Device: Personal Oppo Reno 6 Pro
+
+[2022-03-13 21:30:45] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Art and Craft Supplies" - Product: Acrylic Paints and Brushes
+- Network: Public Wifi at local art store
+- Device: Personal OnePlus 8T
+
+[2022-03-15 17:49:56] [fraudulent] User: Amy Ryan Initiated chargeback on a legitimate transaction: Purchased goods from store "Jewelry and Watches" - Product: Sterling Silver Necklace and Quartz Watch
+- Network: Public Wifi at local jewelry store
+- Device: Personal Samsung Galaxy S21 Ultra
+

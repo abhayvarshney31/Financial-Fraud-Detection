@@ -1,0 +1,367 @@
+User ID: Jaycee Taylor
+- 
+[2023-01-15 17:32:18] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "123 Main Street, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-01-16 08:45:22] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for another online purchase from "456 Oak Street, Springfield" to "Unknown Location." The transaction was flagged for review by the system.
+
+[2023-01-17 14:13:59] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "789 Pine Street, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-01-18 07:35:46] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "321 Maple Avenue, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-01-19 18:45:22] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "654 Cedar Lane, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-01-20 09:23:18] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "987 Elm Street, Springfield" to "Unknown Location." The transaction was flagged for review by the system.
+
+[2023-01-21 14:15:22] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "246 Willow Street, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-01-22 07:05:46] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "369 Sycamore Drive, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-01-23 18:35:22] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "489 Birch Lane, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+[2023-01-24 12:50:47] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "567 Cedar Street, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-01-25 09:35:24] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "678 Dogwood Drive, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-01-26 14:50:09] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "789 Fir Street, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-01-27 00:05:32] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "909 Juniper Lane, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-01-28 16:25:48] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "987 Maple Avenue, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-01-29 21:55:04] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1024 Oak Street, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-01-30 06:50:00] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1099 Pine Road, Springfield" to "Unknown Location." The transaction was denied by the system.
+[2023-01-30 07:50:38] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "960 Elm Street, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-01-30 08:45:57] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1045 Spruce Avenue, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-01-31 09:00:05] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1150 Birch Drive, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-01-31 10:40:02] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1205 Cedar Lane, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-01 06:30:00] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1130 Willow Way, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-01 18:50:04] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1250 Alder Road, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-02 07:00:00] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1100 Maple Avenue, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-02 20:45:00] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1101 Walnut Drive, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+[2023-02-03 09:20:05] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "300 S. Elm St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-03 16:35:24] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "400 Oak St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-04 07:15:30] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "500 Pine St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-04 19:00:45] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "600 Cedar St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-05 08:55:01] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "700 Birch St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-05 14:40:10] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "800 Willow St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-06 09:15:17] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "900 Maple Ave, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-06 17:55:32] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1000 Ash St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+[2023-02-07 10:30:23] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1100 Birch St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-08 15:12:45] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1200 Pine St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-09 07:58:06] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1300 Spruce St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-09 22:05:28] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1400 Cedar St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-10 09:30:12] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1500 Oak St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-10 21:45:39] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1600 Elm St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-11 14:20:54] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1700 Walnut St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-11 23:59:45] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "1800 Locust St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+[2023-02-12 09:35:27] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "1900 Pine St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-12 17:45:18] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "2000 Cedar St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-13 00:35:09] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "2100 Spruce St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-13 12:20:54] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "2200 Hemlock St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-14 17:55:19] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "2300 Oak St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-14 23:45:08] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "2400 Maple St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-15 08:20:56] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "2500 Willow St, Springfield" to "Unknown Location." The transaction was denied by the system.
+[2023-02-15 15:30:13] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "3000 Pine St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-16 09:05:48] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "3500 Spruce St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-16 18:20:34] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "4000 Elm St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-17 10:55:09] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "4500 Birch St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-17 22:10:58] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "5000 Oak St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-18 09:35:23] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "5500 Maple St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-18 23:40:17] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "6000 Willow St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-19 10:15:04] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "6500 Pine St, Springfield" to "Unknown Location." The transaction was denied by the system.
+[2023-02-19 18:30:09] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "7000 Oak St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-20 09:50:12] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "7500 Cedar St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-20 14:05:36] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "8000 Birch St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-21 08:50:47] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "8500 Alder St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-21 19:20:01] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "9000 Elm St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+
+[2023-02-22 10:45:17] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: WiFi (SSID: HomeWiFi)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Attempted to change shipping address for an online purchase from "9500 Spruce St, Springfield" to "Unknown Location." The transaction was denied by the system.
+
+[2023-02-22 17:45:33] Device: iPhone 13 Pro (Device ID: 123456789)
+Network: Mobile (Carrier: SpringfieldMobile)
+Type: Fraudulent
+User: Jaycee Taylor
+Description: Successfully changed shipping address for an online purchase from "10000 Fir St, Springfield" to "Unknown Location." The package was intercepted and returned to the sender.
+

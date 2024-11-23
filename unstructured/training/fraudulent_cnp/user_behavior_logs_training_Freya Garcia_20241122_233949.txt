@@ -1,0 +1,172 @@
+User ID: Freya Garcia
+- 
+1. [2023-04-01 15:32:16] Fraudulent - User: Freya Garcia - Device: IPHONE_11_8A210 - Network: AT&T - Account opened: 3 new accounts with similar details (e.g., first name, last name, email address) in a short time (within 2 hours).
+2. [2023-04-01 16:57:42] Fraudulent - User: Freya Garcia - Device: IPHONE_11_8A210 - Network: AT&T - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+3. [2023-04-01 17:12:36] Fraudulent - User: Freya Garcia - Device: IPAD_AIR_2_WLAN - Network: AT&T - Attempted to open a new account with similar details, but blocked by security measures.
+4. [2023-04-01 17:25:18] Fraudulent - User: Freya Garcia - Device: IPAD_AIR_2_WLAN - Network: AT&T - Account opened: 1 new account with a slightly different email address, but similar details to previous accounts.
+5. [2023-04-01 18:09:47] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: AT&T - Attempted to open a new account with similar details, but blocked by security measures.
+6. [2023-04-01 18:24:23] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: AT&T - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+7. [2023-04-02 00:01:59] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_WLAN - Network: AT&T - Attempted to open a new account with similar details, but blocked by security measures.
+8. [2023-04-02 00:17:35] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_WLAN - Network: AT&T - Account opened: 1 new account with a slightly different email address, but similar details to previous accounts.
+9. [2023-04-02 06:22:52] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2018_WLAN - Network: AT&T - Attempted to open a new account with similar details, but blocked by security measures.
+10. [2023-04-02 06:39:17] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2018_WLAN - Network: AT&T - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+[21] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: AT&T - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+[22] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_WLAN - Network: T-Mobile - Attempted to open a new account with similar details, but blocked by security measures.
+[23] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2018_WLAN - Network: T-Mobile - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+[24] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: T-Mobile - Attempted to open a new account with similar details, but blocked by security measures.
+[25] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_WLAN - Network: AT&T - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+[26] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2018_WLAN - Network: AT&T - Attempted to open a new account with similar details, but blocked by security measures.
+[27] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: T-Mobile - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+[28] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_WLAN - Network: Sprint - Attempted to open a new account with similar details, but blocked by security measures.
+[29] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2018_WLAN - Network: Sprint - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+[30] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: Sprint - Attempted to open a new account with similar details, but blocked by security measures.
+[31] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_WLAN - Network: T-Mobile - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+Freya Garcia continued her attempts to open multiple accounts with similar details in a short time. Despite the blocked attempts on previous devices, she persisted in her fraudulent activities across various networks and devices.
+
+[32] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2018_WLAN - Network: Verizon - Attempted to open a new account with similar details, but blocked by security measures.
+Freya Garcia's behavior escalated as she switched networks and attempted to open a new account using an iPad Pro 2018 on the Verizon network. The security measures in place prevented her from successfully opening another account, but her persistence was evident.
+
+[33] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: AT&T - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+Despite her repeated attempts being blocked, Freya Garcia managed to open another account using her MacBook Air 2017 on the AT&T network. Her determination and ability to adapt her tactics showcased a high level of skill in evading detection.
+
+[34] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_WLAN - Network: T-Mobile - Attempted to open a new account with similar details, but blocked by security measures.
+Freya continued her attempts on the T-Mobile network using an iPhone XS Max. Her repeated attempts at opening new accounts demonstrated a clear pattern of fraudulent behavior and a willingness to persist in her actions despite being repeatedly blocked.
+
+[35] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2018_WLAN - Network: Verizon - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+Freya successfully opened another account using her iPad Pro 2018 on the Verizon network. This demonstrated not only her ability to adapt and change tactics but also her determination to continue with her fraudulent activities.
+
+[36] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: Sprint - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's attempts at opening multiple accounts continued as she switched back to the Sprint network using her MacBook Air 2017. Her persistence in trying to open an account was a clear indication of her intent to engage in fraudulent behavior.
+
+[37] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_WLAN - Network: AT&T - Account opened: 1 new account with a different email address, but similar details to previous accounts.
+Despite being blocked repeatedly, Freya managed to open another account using her iPhone XS Max on the AT&T network. Her ability to adapt and change tactics showcased her determination and skill in carrying out her fraudulent activities.
+
+[38] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2018_WLAN - Network: T-Mobile - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's attempts at opening multiple accounts continued as she switched networks and devices in her pursuit of fraudulent activities. Her persistence was evident, as she attempted to open an account using her iPad Pro 2018 on the T-Mobile network.
+
+[39] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2017_WLAN - Network: Sprint - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's pattern of behavior persisted as she attempted to open another account using her MacBook Air 2017 on the Sprint network. Despite being repeatedly blocked, her determination to continue her fraudulent activities remained strong.
+[40] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX - Network: Verizon - Attempted to open a new account with similar details, but blocked by security measures.
+Freya once again changed her approach, using her iPhone XS Max on the Verizon network in an attempt to bypass security measures and open another account with similar details. Despite her best efforts, she was unable to succeed in her fraudulent attempts.
+
+[41] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX - Network: AT&T - Attempted to open a new account with similar details, but blocked by security measures.
+Despite being thwarted on the Verizon network, Freya continued her attempts at fraudulence using her iPhone XS Max on the AT&T network. Unfortunately for her, security measures were successful in blocking her from opening an account with similar details once again.
+
+[42] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX - Network: Verizon - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's persistence in her fraudulent activities led her back to the Verizon network, using her iPhone XS Max once more in an attempt to open another account with similar details. However, she was again unsuccessful due to the effectiveness of the security measures in place.
+
+[43] Fraudulent - User: Freya Garcia - Device: IPHONE_11_PRO_MAX - Network: T-Mobile - Attempted to open a new account with similar details, but blocked by security measures.
+In an effort to continue her fraudulent activities, Freya changed devices and networks again, using an iPhone 11 Pro Max on the T-Mobile network to attempt opening an account with similar details. As before, her attempts were unsuccessful due to the blocking of security measures.
+
+[44] Fraudulent - User: Freya Garcia - Device: IPHONE_11_PRO_MAX - Network: Sprint - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's determination in her fraudulent pursuits remained strong, as she switched back to the Sprint network using her iPhone 11 Pro Max to attempt opening another account with similar details. However, her attempts were once more unsuccessful due to the effective blocking of security measures.
+
+[45] Fraudulent - User: Freya Garcia - Device: IPHONE_11_PRO_MAX - Network: Verizon - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's unwavering commitment to her fraudulent activities led her back to the Verizon network once more, using her iPhone 11 Pro Max in an attempt to open another account with similar details. However, she was unable to succeed due to the ongoing blocking of security measures.
+
+[46] Fraudulent - User: Freya Garcia - Device: IPHONE_11_PRO_MAX - Network: AT&T - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's pattern of behavior persisted as she switched back to the AT&T network using her iPhone 11 Pro Max in an attempt to open another account with similar details. Despite her efforts and adaptability, she was once again unsuccessful due to the blocking of security measures.
+
+[47] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX - Network: T-Mobile - Attempted to open a new account with similar details, but blocked by security measures.
+In a final attempt to continue her fraudulent activities, Freya reverted back to using her iPhone XS Max on the T-Mobile network in an effort to open another account with similar details. However, this too was unsuccessful due to the persistent blocking of security measures.
+[48] Fraudulent - User: Freya Garcia - Device: IPHONE_SE_2020 - Network: Verizon - Attempted to open a new account with similar details, but blocked by security measures.
+In an attempt to circumvent the blocking of her previous devices and networks, Freya switched to using her iPhone SE 2020 on the Verizon network. However, despite these changes, her attempts to open another account with similar details were once again thwarted by security measures.
+
+[49] Fraudulent - User: Freya Garcia - Device: IPHONE_8_PLUS - Network: Sprint - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's persistence led her to try again using an older device, the iPhone 8 Plus, on the Sprint network. However, her fraudulent intentions were quickly detected and she was once more unsuccessful due to the ongoing blocking of security measures.
+
+[50] Fraudulent - User: Freya Garcia - Device: IPHONE_7_PLUS - Network: US_Cellular - Attempted to open a new account with similar details, but blocked by security measures.
+Desperate to find a way around the blocking measures, Freya switched to her iPhone 7 Plus on the US Cellular network. Unfortunately for her, this attempt also failed as security measures continued to block her efforts to open an account with similar details.
+
+[51] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_12_9_2017 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+In a new strategy, Freya attempted to use her iPad Pro 12.9-inch (2017) without any network connection in an attempt to bypass the blocking measures. However, this tactic proved unsuccessful as security measures still detected and blocked her fraudulent attempts.
+
+[52] Fraudulent - User: Freya Garcia - Device: IPHONE_X_10.5 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya continued her desperate attempts and switched back to using her iPhone X 10.5 without any network connection. Despite this change, she was once again unable to open an account with similar details due to the ongoing blocking of security measures.
+
+[53] Fraudulent - User: Freya Garcia - Device: IPAD_AIR_2_2014 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+In another attempt to avoid detection, Freya switched to using her iPad Air 2 (2014) without any network connection. Regardless of this change, her attempts to open an account with similar details were still blocked by security measures.
+
+[54] Fraudulent - User: Freya Garcia - Device: IPHONE_6S_PLUS - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's attempts continued as she switched back to using her iPhone 6S Plus without any network connection. Unfortunately for her, this tactic also proved unsuccessful as security measures detected and blocked her fraudulent activities.
+
+[55] Fraudulent - User: Freya Garcia - Device: IPHONE_5S - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+In an effort to stay under the radar, Freya tried using her iPhone 5S without any network connection. However, despite this change, she was unable to open a new account with similar details due to the ongoing blocking of security measures.
+
+[56] Fraudulent - User: Freya Garcia - Device: IPHONE_4S - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's desperation led her to switch back to using her iPhone 4S without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+[57] Fraudulent - User: Freya Garcia - Device: IPHONE_6S_PLUS - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+After realizing her previous tactics were unsuccessful, Freya went back to using her iPhone 6S Plus without any network connection. Unfortunately for her, this tactic also proved unsuccessful as security measures detected and blocked her fraudulent activities.
+
+[58] Fraudulent - User: Freya Garcia - Device: IPHONE_SE - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+In an attempt to adapt to the situation, Freya switched to using her iPhone SE without any network connection. However, she was once again unable to open a new account with similar details due to the ongoing blocking of security measures.
+
+[59] Fraudulent - User: Freya Garcia - Device: IPAD_PRO - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+As her desperation grew, Freya tried using her iPad Pro without any network connection in an effort to avoid detection. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+
+[60] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Switching back and forth between devices proved futile for Freya as she tried using her MacBook Air without any network connection. Despite her efforts, she was unable to open a new account with similar details due to the ongoing blocking of security measures.
+
+[61] Fraudulent - User: Freya Garcia - Device: IPHONE_7 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's desperation led her to use her iPhone 7 without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[62] Fraudulent - User: Freya Garcia - Device: IPHONE_8 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+After realizing that her previous devices were not helping her cause, Freya switched to using her iPhone 8 without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[63] Fraudulent - User: Freya Garcia - Device: IPAD_AIR - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's desperation grew as she tried using her iPad Air without any network connection in an effort to avoid detection. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+
+[64] Fraudulent - User: Freya Garcia - Device: MACBOOK_PRO - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+As a last-ditch effort, Freya switched to using her MacBook Pro without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[65] Fraudulent - User: Freya Garcia - Device: IPHONE_X - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's desperation led her to use her iPhone X without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+[66] Fraudulent - User: Freya Garcia - Device: IPAD_PRO - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Desperate for another opportunity, Freya switched to using her iPad Pro without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[67] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+In a last-ditch effort, Freya tried using her MacBook Air without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[68] Fraudulent - User: Freya Garcia - Device: IPHONE_SE - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's determination led her to use her iPhone SE without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[69] Fraudulent - User: Freya Garcia - Device: IPAD_MINI - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's persistence led her to use her iPad Mini without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[70] Fraudulent - User: Freya Garcia - Device: IPHONE_8 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's desperation led her to use her iPhone 8 without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[71] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_2 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+In a last-ditch effort, Freya tried using her MacBook Air 2 without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[72] Fraudulent - User: Freya Garcia - Device: IPHONE_XS - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's determination led her to use her iPhone XS without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[73] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_2 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's persistence led her to use her iPad Pro 2 without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+[74] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_3 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's determination persisted as she tried yet again, this time using her MacBook Air 3 without any network connection in an attempt to avoid detection. Unfortunately for her, this final attempt also failed as security measures continued to block her fraudulent activities.
+
+[75] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_3 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Frustrated but undeterred, Freya switched to her iPad Pro 3, still without any network connection, in an attempt to open another account with similar details. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+
+[76] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya tried one more time with her iPhone XS Max without any network connection, attempting to open another account with similar details. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+
+[77] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_4 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Desperate, Freya switched to her MacBook Air 4 without any network connection and attempted to open yet another account with similar details. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+
+[78] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_4 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's desperation led her to use her iPad Pro 4 without any network connection in an attempt to open another account with similar details. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+
+[79] Fraudulent - User: Freya Garcia - Device: IPHONE_XS_MAX_PLUS - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya tried one more time with her iPhone XS Max Plus without any network connection, attempting to open another account with similar details. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+
+[80] Fraudulent - User: Freya Garcia - Device: MACBOOK_AIR_5 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya's final attempt was with her MacBook Air 5 without any network connection as she tried to open another account with similar details. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+
+[81] Fraudulent - User: Freya Garcia - Device: IPAD_PRO_5 - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+In her last ditch effort, Freya used her iPad Pro 5 without any network connection in an attempt to open another account with similar details. Unfortunately for her, this attempt also failed as security measures continued to block her fraudulent activities.
+[82] Fraudulent - User: Freya Garcia - Device: IPHONE_12_PRO_MAX - Network: None - Attempted to open a new account with similar details, but blocked by security measures.
+Freya moved on to her iPhone 12 Pro Max and attempted to open another account with similar details while offline. Unfortunately for her, this attempt also failed as the security measures continued to block her fraudulent activities.
+

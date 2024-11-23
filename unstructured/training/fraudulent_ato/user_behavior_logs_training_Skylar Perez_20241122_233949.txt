@@ -1,0 +1,167 @@
+User ID: Skylar Perez
+- 
+12:03:25 - Skylar Perez - Device: IPad Pro 12.9" WiFi (Model A20XX) - Network: AT&T LTE - Fraudulent Activity: Large refund received from "Credit Card Company" account, but immediately transferred funds to unknown entity "Elusive_Wallet".
+
+12:05:43 - Skylar Perez - Device: Samsung Galaxy S21 5G (SM-G998U) - Network: T-Mobile LTE - Fraudulent Activity: Multiple login attempts from different locations in a short time frame. Suspicious activity detected on the "Credit Card Company" account, transaction details hidden.
+
+12:06:07 - Skylar Perez - Device: Lenovo ThinkPad X1 Carbon (Model 20BB) - Network: Verizon LTE - Fraudulent Activity: Unusual purchase made on "Credit Card Company" account for an expensive smartwatch, shipment address not matching with user's.
+
+12:06:13 - Skylar Perez - Device: Dell XPS 13 (Model 7390) - Network: Sprint LTE - Fraudulent Activity: Multiple account updates for "Credit Card Company" password and security questions, without any confirmation from user.
+
+12:06:25 - Skylar Perez - Device: HP Spectre x360 (Model 13-AP008DX) - Network: Comcast Xfinity LTE - Fraudulent Activity: Unusual charge for a subscription service not authorized by the user, charge was processed on "Credit Card Company" account.
+
+12:06:40 - Skylar Perez - Device: Apple MacBook Pro (Model MM8K2LL/A) - Network: Charter Spectrum LTE - Fraudulent Activity: Multiple unsuccessful login attempts detected on "Credit Card Company" account. User's credentials were possibly compromised.
+
+12:07:02 - Skylar Perez - Device: Asus ZenBook 14 (Model UX434FL-GV085T) - Network: AT&T LTE - Fraudulent Activity: An email was sent from "Credit Card Company" account to an unknown email address, providing sensitive personal information.
+
+12:07:23 - Skylar Perez - Device: Lenovo Yoga 9i (Model 82B1) - Network: T-Mobile LTE - Fraudulent Activity: User's credit card details were used to make a large purchase on an online marketplace, transaction flagged by bank.
+
+12:07:35 - Skylar Perez - Device: Microsoft Surface Pro 8 (Model 1964) - Network: Verizon LTE - Fraudulent Activity: Multiple unauthorized transactions detected on "Credit Card Company" account, user's funds being transferred to unknown accounts.
+
+12:07:53 - Skylar Perez - Device: Dell Inspiron 15 3000 (Model 1531) - Network: Comcast Xfinity LTE - Fraudulent Activity: User's credit card statement shows unauthorized transactions totaling a large sum, bank notified of potential fraud.
+12:08:04 - Skylar Perez - Device: MacBook Pro (Model A1708) - Network: Sprint LTE - Fraudulent Activity: User received an unexpected large refund from their bank account, immediately transferred funds to unknown accounts.
+
+12:08:26 - Skylar Perez - Device: HP Spectre x360 (Model 14-ay0016d) - Network: US Cellular LTE - Fraudulent Activity: User's PayPal account was compromised, large sums of money withdrawn and transferred to multiple unknown accounts.
+
+12:08:55 - Skylar Perez - Device: Google Pixel 4a (Model G023B) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's credit card was used to make several online purchases, bank notified.
+
+12:09:05 - Skylar Perez - Device: Samsung Galaxy S21 Ultra (Model SM-G998U) - Network: Verizon LTE - Fraudulent Activity: User's bank account was accessed to make large cash withdrawals at ATMs, multiple transactions flagged by bank.
+
+12:09:34 - Skylar Perez - Device: iPhone 12 Pro (Model A2405) - Network: AT&T LTE - Fraudulent Activity: User's credit card information was used to rent a luxury car, vehicle picked up from unknown location.
+
+12:09:50 - Skylar Perez - Device: Lenovo ThinkPad X1 Carbon (Model 20P6) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized account changes to user's utility billing, large sums paid to unknown individuals.
+
+12:10:03 - Skylar Perez - Device: Asus ROG Zephyrus G14 (Model GA401IV) - Network: Verizon LTE - Fraudulent Activity: User's home security system was hacked, unauthorized individual gained access and stole valuable items.
+
+12:10:39 - Skylar Perez - Device: Dell Latitude 7430 (Model 7430) - Network: Comcast Xfinity LTE - Fraudulent Activity: Unauthorized access to user's online banking, large sums of money transferred out of account.
+
+12:11:02 - Skylar Perez - Device: Microsoft Surface Laptop 4 (Model 1963) - Network: Sprint LTE - Fraudulent Activity: User's social security number was used to apply for a credit card, unauthorized charges reported.
+
+12:11:20 - Skylar Perez - Device: HP Envy x360 (Model 4510) - Network: US Cellular LTE - Fraudulent Activity: Unknown individual accessed user's online tax account and filed a fraudulent tax return, refund intercepted by scammer.
+12:11:39 - Skylar Perez - Device: Apple iPhone 12 Pro Max (Model A2385) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's email account, phishing emails sent to friends and family, potential for further scams.
+
+12:11:49 - Skylar Perez - Device: Lenovo ThinkPad X1 Carbon (Model 20TQ007CUS) - Network: T-Mobile LTE - Fraudulent Activity: User's online shopping account compromised, unauthorized purchases made with stored payment information.
+
+12:11:56 - Skylar Perez - Device: Samsung Galaxy Note 20 Ultra (Model SM-N981U) - Network: Verizon LTE - Fraudulent Activity: Unauthorized access to user's online dating profile, personal information shared with potential scammer.
+
+12:12:03 - Skylar Perez - Device: Google Pixel 5 (Model G026B) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's investment account, unauthorized trades placed and significant losses incurred.
+
+12:12:10 - Skylar Perez - Device: LG V60 ThinQ 5G (Model MS908) - Network: T-Mobile LTE - Fraudulent Activity: Unknown individual opened a new cellular plan using user's personal information, resulting in unauthorized charges.
+
+12:12:17 - Skylar Perez - Device: OnePlus 8T (Model GM32TT) - Network: Sprint LTE - Fraudulent Activity: Unauthorized access to user's fitness app, personal health data shared with potential scammer.
+
+12:12:24 - Skylar Perez - Device: Xiaomi Mi 10T (Model M2007J1G) - Network: US Cellular LTE - Fraudulent Activity: Unknown individual accessed user's online classroom platform, potential for identity theft and enrollment in unauthorized courses.
+
+12:12:36 - Skylar Perez - Device: Huawei Mate 40 Pro (Model AOT-AN10) - Network: Verizon LTE - Fraudulent Activity: Unauthorized access to user's online ticket resale platform, high-value concert tickets purchased and resold at inflated prices.
+
+12:12:43 - Skylar Perez - Device: Sony Xperia 1 II (Model GS94X) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's online rental platform, high-value electronics rented and never returned.
+12:13:01 - Skylar Perez - Device: Apple iPhone 13 (Model A2792) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's banking account, large refund processed and immediately transferred out.
+
+12:13:08 - Skylar Perez - Device: Samsung Galaxy S21 Ultra (Model SM-G998U) - Network: US Mobile LTE - Fraudulent Activity: Unauthorized access to user's investment platform, high-value stocks sold and funds transferred out.
+
+12:13:15 - Skylar Perez - Device: Google Pixel 6 Pro (Model GVv8c) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's cryptocurrency wallet, large amount of digital currency transferred out.
+
+12:13:22 - Skylar Perez - Device: OnePlus 9 Pro (Model GM31PP) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's gaming platform, high-value in-game currency purchased and transferred out.
+
+12:13:29 - Skylar Perez - Device: Xiaomi Mi 11 Ultra (Model M2015K1G) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's online dating platform, premium subscription charged and funds transferred out.
+
+12:13:36 - Skylar Perez - Device: Apple iPhone 13 Pro Max (Model A2485) - Network: Sprint LTE - Fraudulent Activity: Unauthorized access to user's e-commerce account, high-value items purchased and immediately shipped to an unknown address.
+12:13:42 - Skylar Perez - Device: Samsung Galaxy S21 Ultra (Model SM-G998U) - Network: US Cellular LTE - Fraudulent Activity: Unauthorized access to user's financial account, large refund received and immediately transferred out.
+
+12:13:49 - Skylar Perez - Device: Google Pixel 6 Pro (Model GVv8c) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's investment platform, high-value stocks sold and funds transferred out.
+
+12:13:54 - Skylar Perez - Device: OnePlus 9 Pro (Model GM31PP) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's gaming platform, high-value in-game currency purchased and transferred out.
+
+12:14:01 - Skylar Perez - Device: Xiaomi Mi 11 Ultra (Model M2015K1G) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's online dating platform, premium subscription charged and funds transferred out.
+
+12:14:08 - Skylar Perez - Device: Apple iPhone 13 Pro Max (Model A2485) - Network: Sprint LTE - Fraudulent Activity: Unauthorized access to user's e-commerce account, high-value items purchased and immediately shipped to an unknown address.
+
+12:14:15 - Skylar Perez - Device: Samsung Galaxy S21 Ultra (Model SM-G998U) - Network: US Cellular LTE - Fraudulent Activity: Unauthorized access to user's financial account, large refund received and immediately transferred out.
+
+12:14:20 - Skylar Perez - Device: Google Pixel 6 Pro (Model GVv8c) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's investment platform, high-value stocks sold and funds transferred out.
+
+12:14:26 - Skylar Perez - Device: OnePlus 9 Pro (Model GM31PP) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's gaming platform, high-value in-game currency purchased and transferred out.
+
+12:14:30 - Skylar Perez - Device: Xiaomi Mi 11 Ultra (Model M2015K1G) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's online dating platform, premium subscription charged and funds transferred out.
+
+12:14:35 - Skylar Perez - Device: Apple iPhone 13 Pro Max (Model A2485) - Network: Sprint LTE - Fraudulent Activity: Unauthorized access to user's e-commerce account, high-value items purchased and immediately shipped to an unknown address.
+12:14:39 - Skylar Perez - Device: Samsung Galaxy Z Fold 3 (Model SM-F9260) - Network: US Cellular LTE - Fraudulent Activity: Unauthorized access to user's cloud storage account, sensitive personal data downloaded and shared on dark web forums.
+
+12:14:42 - Skylar Perez - Device: Sony Xperia 1 III (Model GV376) - Network: Sprint 5G - Fraudulent Activity: Unauthorized access to user's social media account, impersonation for scamming friends and family out of money.
+
+12:14:45 - Skylar Perez - Device: Google Pixel 6 Pro (Model GVv8c) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's online banking account, multiple unauthorized transactions made and funds transferred out.
+
+12:14:48 - Skylar Perez - Device: OnePlus 9 Pro (Model GM31PP) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's fitness app, premium membership charged and funds transferred out.
+
+12:14:51 - Skylar Perez - Device: Xiaomi Mi 11 Ultra (Model M2015K1G) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's virtual private network account, premium subscription charged and funds transferred out.
+
+12:14:54 - Skylar Perez - Device: Apple iPhone 13 Pro Max (Model A2485) - Network: Sprint LTE - Fraudulent Activity: Unauthorized access to user's email account, high-value gift cards purchased and funds transferred out.
+12:14:57 - Skylar Perez - Device: Samsung Galaxy Z Fold 3 (Model SM-F926U) - Network: US Cellular LTE - Fraudulent Activity: Unauthorized access to user's online shopping account, multiple high-value items ordered and funds transferred out.
+
+12:14:58 - Skylar Perez - Device: Google Pixel 6 Pro (Model GVv8c) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's gaming account, in-game currency purchased and funds transferred out.
+
+12:14:59 - Skylar Perez - Device: OnePlus 9 Pro (Model GM31PP) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's investment account, multiple stock transactions made and funds transferred out.
+
+12:15:00 - Skylar Perez - Device: Xiaomi Mi 11 Ultra (Model M2015K1G) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's cryptocurrency wallet, funds withdrawn and transferred out.
+
+12:15:03 - Skylar Perez - Device: Apple iPhone 13 Pro Max (Model A2485) - Network: Sprint LTE - Fraudulent Activity: Unauthorized access to user's streaming service account, premium subscription charged and funds transferred out.
+
+12:15:04 - Skylar Perez - Device: Samsung Galaxy Z Fold 3 (Model SM-F926U) - Network: US Cellular LTE - Fraudulent Activity: Unauthorized access to user's utility account, multiple payments missed and late fees charged.
+
+12:15:05 - Skylar Perez - Device: Google Pixel 6 Pro (Model GVv8c) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's tax filing account, tax refund intercepted and funds transferred out.
+
+12:15:07 - Skylar Perez - Device: OnePlus 9 Pro (Model GM31PP) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's dating profile, premium membership charged and funds transferred out.
+
+12:15:08 - Skylar Perez - Device: Xiaomi Mi 11 Ultra (Model M2015K1G) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's health insurance account, premium coverage cancelled and funds transferred out.
+
+12:15:09 - Skylar Perez - Device: Apple iPhone 13 Pro Max (Model A2485) - Network: Sprint LTE - Fraudulent Activity: Unauthorized access to user's home security system, monitoring fees charged and funds transferred out.
+12:15:10 - Skylar Perez - Device: Samsung Galaxy Z Fold 3 (Model SM-F926U) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's credit card account, multiple unauthorized transactions and funds transferred out.
+
+12:15:11 - Skylar Perez - Device: Sony Xperia 1 III (Model GS341) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's gym membership account, monthly fees charged and funds transferred out.
+
+12:15:12 - Skylar Perez - Device: Huawei P50 Pro (Model EPG-AL00) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's streaming service account, subscription fees charged and funds transferred out.
+
+12:15:13 - Skylar Perez - Device: Google Pixel 6 Pro (Model GVv8c) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's car loan account, monthly payments skipped and late fees charged.
+
+12:15:14 - Skylar Perez - Device: OnePlus 9 Pro (Model GM31PP) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's student loan account, monthly payments skipped and late fees charged.
+
+12:15:15 - Skylar Perez - Device: Xiaomi Mi 11 Ultra (Model M2015K1G) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's cell phone billing account, monthly payments skipped and late fees charged.
+12:15:16 - Skylar Perez - Device: Samsung Galaxy S21 Ultra (Model SM-G998U) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's credit card account, large purchase made and funds transferred out.
+
+12:15:17 - Skylar Perez - Device: Apple iPhone 13 Pro Max (Model A2306) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's online banking account, large withdrawal made and funds transferred out.
+
+12:15:18 - Skylar Perez - Device: Google Pixel 6a (Model GVv8c) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's utility billing account, large payment made and funds transferred out.
+
+12:15:19 - Skylar Perez - Device: iPhone SE (3rd Generation) (Model A2307) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's investment account, large sale made and funds transferred out.
+
+12:15:20 - Skylar Perez - Device: Samsung Galaxy Z Fold 3 (Model SM-F926N) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's insurance policy account, large premium paid and funds transferred out.
+
+12:15:21 - Skylar Perez - Device: Huawei Mate 40 Pro (Model KG-AN10) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's mortgage account, large principal payment made and funds transferred out.
+
+12:15:22 - Skylar Perez - Device: OPPO Find X3 Pro (Model CP691) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's retirement account, large withdrawal made and funds transferred out.
+
+12:15:23 - Skylar Perez - Device: Sony Xperia 1 III (Model F8350) - Network: AT&T LTE - Fraudulent Activity: Unauthorized access to user's health insurance account, large premium paid and funds transferred out.
+
+12:15:24 - Skylar Perez - Device: OnePlus 9 Pro (Model GM31PP) - Network: Verizon 5G - Fraudulent Activity: Unauthorized access to user's rental property management account, large rent payment made and funds transferred out.
+
+12:15:25 - Skylar Perez - Device: Xiaomi Mi 11 Ultra (Model M2015K1G) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's life insurance account, large premium paid and funds transferred out.
+12:15:26 - Skylar Perez - Device: Apple iPhone 13 Pro (Model A2489) - Network: AT&T 5G - Fraudulent Activity: Unauthorized access to user's utility account, large payment made and funds transferred out.
+
+12:15:27 - Skylar Perez - Device: Samsung Galaxy S21 Ultra (Model SM-G998U) - Network: Verizon LTE - Fraudulent Activity: Unauthorized access to user's car loan account, large payment made and funds transferred out.
+
+12:15:28 - Skylar Perez - Device: Google Pixel 6 Pro (Model GV3S0) - Network: T-Mobile 5G - Fraudulent Activity: Unauthorized access to user's education loan account, large payment made and funds transferred out.
+
+12:15:29 - Skylar Perez - Device: LG V60 ThinQ (Model MQ834) - Network: AT&T 5G - Fraudulent Activity: Unauthorized access to user's credit card account, large balance transfer made and funds transferred out.
+
+12:15:30 - Skylar Perez - Device: Motorola Edge 5G (Model XT-2061) - Network: Verizon LTE - Fraudulent Activity: Unauthorized access to user's investment account, large withdrawal made and funds transferred out.
+
+12:15:31 - Skylar Perez - Device: Huawei P40 Pro (Model CRE-NX9) - Network: T-Mobile LTE - Fraudulent Activity: Unauthorized access to user's tax refund account, large refund received but immediately transferred funds out.
+
+12:15:32 - Skylar Perez - Device: Nokia 8.3 5G (Model TA-1224) - Network: AT&T 5G - Fraudulent Activity: Unauthorized access to user's travel insurance account, large premium paid and funds transferred out.
+
+12:15:33 - Skylar Perez - Device: OPPO Find X3 Pro (Model CP691) - Network: T-Mobile 5G - Fraudulent Activity: Unauthorized access to user's pension account, large contribution made and funds transferred out.
+
+12:15:34 - Skylar Perez - Device: Samsung Galaxy Z Fold 3 (Model SM-F930U) - Network: Verizon LTE - Fraudulent Activity: Unauthorized access to user's gym membership account, large payment made and funds transferred out.
+
+12:15:35 - Skylar Perez - Device: Apple iPhone 13 Pro (Model A2489) - Network: AT&T 5G - Fraudulent Activity: Unauthorized access to user's homeowners insurance account, large premium paid and funds transferred out.
+

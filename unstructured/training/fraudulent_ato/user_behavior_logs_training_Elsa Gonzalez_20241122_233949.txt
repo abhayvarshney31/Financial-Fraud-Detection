@@ -1,0 +1,367 @@
+User ID: Elsa Gonzalez
+- 
+[2023-04-15 16:37:12] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa Gonzalez received a large refund of $5000 for an alleged purchase from "ShopEasyDeals." The transaction was flagged as potentially fraudulent due to the unusual amount and the fact that Elsa had no previous interaction with the seller.
+
+[2023-04-15 16:40:17] Device: Elsa's Mobile Phone (IMEI: 358560035098377)
+Network: Public Wi-Fi - Starbucks (IP Address: 10.250.1.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Within minutes of receiving the large refund, Elsa immediately transferred $4500 to an anonymous Bitcoin wallet using her mobile phone. The transaction was flagged as potentially fraudulent due to the rapid transfer and the use of a new, unverified wallet address.
+
+[2023-04-15 16:43:45] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa created a new email address, "elsa@fakenetwork.com," and registered on an online auction site to bid on several high-value items. The activity was flagged as potentially fraudulent due to her sudden interest in expensive goods after receiving the refund.
+
+[2023-04-15 16:47:28] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa placed bids on three expensive items using her newly created email address, increasing the bids by large amounts in quick succession. This behavior was flagged as potentially fraudulent due to the aggressive bidding strategy and the simultaneous use of multiple high-value bids.
+
+[2023-04-15 16:51:32] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa won all three auctions, making payments through wire transfers to unknown accounts. The transactions were flagged as potentially fraudulent due to the rapid succession of bids and payments to unverified accounts.
+
+[2023-04-15 16:55:07] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: After winning the auctions, Elsa changed her shipping address to a vacant lot in a rural area, which was flagged as potentially fraudulent due to the unusual shipping destination for high-value items.
+
+[2023-04-15 17:03:08] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa canceled the three auction orders, claiming a "change of heart" and requesting a refund to her newly created anonymous wallet address. The transaction was flagged as potentially fraudulent due to the sudden cancellation and the use of an unverified wallet address for the refund.
+
+[2023-04-15 17:08:29] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: After canceling the orders, Elsa created a new email address and registered on another auction site to bid on more high-value items, repeating the pattern of aggressive bidding and rapid transfers. The activity was flagged as potentially fraudulent due to the similarity in behavior to her previous actions.
+
+[2023-04-15 17:12:04] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa changed her shipping address again, this time to a different vacant lot in a rural area. The change was flagged as potentially fraudulent due to the continuing use of unusual shipping addresses for high-value items.
+
+[2023-04-15 17:16:19] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa canceled the new auction orders, once again requesting a refund to her anonymous wallet address. The transaction was flagged as potentially fraudulent due to the repetition of similar actions and the use of an unverified wallet address for the refund.
+[2023-04-15 17:21:28] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: Home Wi-Fi (IP Address: 192.168.1.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa's account was temporarily suspended due to multiple fraud alerts, but she managed to bypass the system using a VPN with a different IP address (192.168.100.5) and MAC Address (00:1A:7D:F9:4E:DF). The account activity was flagged as potentially fraudulent due to the sudden change in IP address and MAC address without prior authorization.
+
+[2023-04-15 18:12:06] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: VPN (IP Address: 192.168.100.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa received a large refund from a high-value item she had not purchased and immediately transferred the funds to another anonymous wallet address. The transaction was flagged as potentially fraudulent due to the pattern of aggressive bidding, rapid transfers, and the use of an unverified wallet address for the transfer.
+
+[2023-04-15 18:19:11] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: VPN (IP Address: 192.168.100.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: After receiving the fraudulent refund, Elsa proceeded to make multiple high-value purchases using the funds in rapid succession. These transactions were flagged as potentially fraudulent due to the sudden spike in activity and the use of a VPN that concealed her true location.
+
+[2023-04-15 18:30:23] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: VPN (IP Address: 192.168.100.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa created multiple accounts with different billing information, allowing her to avoid detection while continuing her fraudulent activities. This behavior was flagged as potentially fraudulent due to the creation of numerous accounts within a short period and the use of false billing information.
+
+[2023-04-15 18:43:39] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: VPN (IP Address: 192.168.100.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa's accounts were discovered and temporarily locked, but she regained access by exploiting a security vulnerability in the system. The unauthorized access was flagged as potentially fraudulent due to the sudden change in activity patterns and the use of an unknown IP address (192.168.100.5) for her laptop.
+
+[2023-04-15 19:04:55] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: VPN (IP Address: 192.168.100.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: With access regained, Elsa continued her fraudulent activities by making large purchases with the funds from the fraudulent refunds and transferring them to different anonymous wallet addresses. This activity was flagged as potentially fraudulent due to the pattern of rapid transfers and the use of a VPN that concealed her true location.
+
+[2023-04-15 19:27:11] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: VPN (IP Address: 192.168.100.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: As her fraudulent activities were detected and flagged, Elsa quickly transferred the remaining funds from her account to another anonymous wallet address, effectively evading any potential account holds or freezes. This activity was flagged as potentially fraudulent due to the sudden transfer of large sums and the use of a VPN that concealed her true location.
+
+[2023-04-15 19:43:26] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: VPN (IP Address: 192.168.100.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa's final act of fraud involved transferring the remaining funds from her account to an unverified wallet address, effectively draining her account and leaving no trace for the authorities to follow. This activity was flagged as potentially fraudulent due to the pattern of rapid transfers and the use of a VPN that concealed her true location.
+[2023-04-15 20:07:32] Device: Elsa's Smartphone (MAC Address: D0:9A:4E:F6:B8:C2)
+Network: Mobile Data
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Elsa continued her fraudulent behavior using her smartphone, connecting to mobile data instead of a VPN. She initiated multiple transactions within a short time frame, transferring funds to different anonymous wallet addresses and depleting her account balance even further. This activity raised suspicions due to the rapid transactions and lack of a concealed location.
+
+[2023-04-15 20:38:47] Device: Public Computer (MAC Address: Not Available)
+Network: Public WiFi (IP Address: 192.168.0.1)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: Seemingly unfazed by the previous flagging, Elsa continued her fraudulent activities on a public computer, using a local WiFi network to execute transactions. She manipulated various accounts and quickly transferred funds to unverified wallet addresses, leaving little to no traces behind. This behavior increased the likelihood of detection due to the lack of VPN usage and connection to an unfamiliar IP address.
+
+[2023-04-15 21:09:02] Device: Elsa's Tablet (MAC Address: EA:DB:C6:CF:78:0F)
+Network: WiFi (IP Address: 192.168.0.2)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: In another attempt to escape detection, Elsa used her tablet to access a different WiFi network and transferred funds to multiple anonymous wallet addresses. The rapid transactions raised further alarms as her behavior became more erratic, leading investigators to suspect she was attempting to evade surveillance or law enforcement.
+
+[2023-04-15 21:39:58] Device: Elsa's Desktop (MAC Address: 1A:B7:C1:E6:DB:A3)
+Network: Wired Ethernet (IP Address: 192.168.0.3)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a bid to regain control, Elsa connected her desktop computer directly to the network via an Ethernet cable, further complicating the tracing of her activities. She continued transferring funds to unverified wallet addresses at an alarming pace, demonstrating a growing desperation to evade detection.
+
+[2023-04-15 22:07:14] Device: Elsa's Laptop (MAC Address: 00:1A:7D:F9:4E:DF)
+Network: VPN (IP Address: 192.168.100.5)
+User: Elsa Gonzalez
+Type: Fraudulent
+Description: As the authorities started to close in, Elsa returned to her initial device and network setup, using a VPN to obscure her location. She made several more transactions, transferring funds between accounts and unverified wallet addresses. This final burst of activity only served to further incriminate her as investigators were able to trace the flow of funds back to her original VPN IP address.
+
+[2023-04-15 22:37:32] Device: Elsa's Smartphone (MAC Address: D0:9A:4E:F6:B8:C2)
+Network: Mobile Data
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: Acting quickly, Elsa switched back to her smartphone and connected via mobile data in an attempt to stay ahead of law enforcement. She made several transactions, transferring funds between accounts and unverified wallet addresses. However, this change in behavior only provided further evidence of her fraudulent activities.
+
+[2023-04-15 23:09:58] Device: Public Computer (MAC Address: Not Available)
+Network: Public WiFi (IP Address: 192.168.0.1)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As the pressure intensified, Elsa resorted to using a public computer once more, trying to find any possible loophole in the surveillance system. She made several rapid transactions, transferring funds between accounts and unverified wallet addresses, leaving traces of her activities on the unfamiliar IP address. This final act only served to solidify the evidence against her.
+
+[2023-04-15 23:39:26] Device: Elsa's Tablet (MAC Address: EA:DB:C6:CF:78:0F)
+Network: WiFi (IP Address: 192.168.0.2)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a final attempt to evade capture, Elsa connected her tablet to a WiFi network and continued her rapid transactions, transferring funds between accounts and unverified wallet addresses. However, her desperation was evident, and the combination of her behavior and connections to various IP addresses only served to seal her fate as the authorities closed in.
+[2023-04-16 00:15:32] Device: Elsa's Smartphone (MAC Address: E8:AA:3C:2D:E7:A9)
+Network: Cellular Data (IP Address: Not available)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: Elsa continued her frantic activity, this time using her smartphone to transfer funds, hoping to stay one step ahead of the authorities. Despite the use of cellular data instead of WiFi, her transactions were detected and tracked, leaving a clear digital trail that pointed straight back to her.
+
+[2023-04-16 00:45:49] Device: Elsa's Laptop (MAC Address: 00:0B:CD:EF:48:37)
+Network: Tethered to Smartphone (IP Address: Not available)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a desperate move, Elsa connected her laptop to the internet via tethering to her smartphone. She continued to transfer funds between accounts and unverified wallet addresses, oblivious to the fact that her actions were being monitored in real-time. The authorities were now closing in on her location.
+
+[2023-04-16 01:05:08] Device: Elsa's Gaming Console (MAC Address: 8A:9C:12:DA:7B:CF)
+Network: Home Network (IP Address: 192.168.1.100)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: Desperate to move her funds out of reach, Elsa connected her gaming console to the home network and initiated a large refund transaction. This time, however, she was caught in the act as the authorities traced the IP address back to her location. Her attempts at evasion were now futile.
+
+[2023-04-16 01:25:19] Device: Elsa's Smart TV (MAC Address: B8:27:EB:A4:D9:E1)
+Network: Home Network (IP Address: 192.168.1.110)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a last-ditch effort, Elsa connected her smart TV to the home network in an attempt to transfer funds out of her accounts. However, her actions were now painfully obvious, and the authorities moved in swiftly, apprehending her before she could complete any more transactions.
+
+[2023-04-16 01:45:37] Device: Elsa's Smartwatch (MAC Address: 8A:9C:12:DA:7B:CF)
+Network: Bluetooth (IP Address: Not available)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: With her capture imminent, Elsa tried to initiate a transfer using her smartwatch through Bluetooth. However, this final act only served to confirm her guilt and solidify the evidence against her as the authorities closed in on her location.
+
+[2023-04-16 02:05:50] Device: Elsa's Desktop Computer (MAC Address: 8A:9C:12:DA:7B:CF)
+Network: Ethernet (IP Address: 192.168.1.120)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a final, futile attempt to move her funds and escape detection, Elsa connected her desktop computer to the home network via an Ethernet cable. But it was too late; law enforcement had already surrounded her location, and she was arrested moments later.
+[2023-04-15 23:37:12] Device: Elsa's Mobile Phone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Cellular (IP Address: Not available)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As the noose tightened around her, Elsa grew desperate and began using her mobile phone to initiate large refunds and transfers. She hoped that this would allow her to disappear with her ill-gotten gains. However, these actions only served as a beacon for the authorities who were tracking her movements.
+
+[2023-04-15 23:58:36] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: Frustrated by her mobile phone's limited capabilities, Elsa switched to her tablet and continued initiating fraudulent transactions through the Wi-Fi network at home. Her actions were becoming increasingly reckless as she became more desperate to flee.
+
+[2023-04-15 23:59:57] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a last-ditch effort, Elsa connected her laptop to the home network and continued her pattern of fraudulent behavior. The laptop's advanced capabilities allowed her to process even more refunds and transfers in a short amount of time. Unfortunately for her, this only accelerated her downfall.
+
+[2023-04-16 00:00:58] Device: Elsa's Smartwatch (MAC Address: 8A:9C:12:DA:7B:CF)
+Network: Bluetooth (IP Address: Not available)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: Realizing that her time was running out, Elsa attempted to use her smartwatch to initiate additional fraudulent transactions over Bluetooth. Her desperation was palpable as she tried every possible avenue to escape the authorities' grasp.
+
+[2023-04-16 00:02:59] Device: Elsa's Desktop Computer (MAC Address: 8A:9C:12:DA:7B:CF)
+Network: Ethernet (IP Address: 192.168.1.120)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: With time running out, Elsa connected her desktop computer to the home network via an Ethernet cable and continued her frantic attempts at fraud. Her actions were now a desperate bid for freedom as law enforcement closed in on her location.
+
+[2023-04-16 00:05:28] Device: Elsa's Mobile Phone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Cellular (IP Address: Not available)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: Despite her efforts with other devices, Elsa reverted to using her mobile phone in a last-ditch attempt to process more fraudulent transactions. Her desperation was evident as she continued to try every means possible to flee before being apprehended.
+
+[2023-04-16 00:07:58] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As the authorities closed in, Elsa grabbed her tablet and continued initiating fraudulent transactions over the home Wi-Fi network. Her desperation to escape was palpable as she frantically tried to evade capture.
+
+[2023-04-16 00:10:29] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a final, frenzied attempt to escape justice, Elsa connected her laptop to the home network and launched one last barrage of fraudulent transactions. It was a futile effort, as law enforcement had already surrounded her location and her capture was imminent.
+[2023-04-16 00:15:37] Device: Elsa's Smartphone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Cellular (IP Address: N/A)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As the authorities closed in on her, Elsa frantically switched to her smartphone, attempting to continue her fraudulent activities through cellular networks. She was desperate to transfer as much money as possible before being apprehended.
+
+[2023-04-16 00:18:09] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: With her laptop and phone failing her, Elsa resorted to her tablet once more, trying to carry out additional fraudulent transactions over the home Wi-Fi network. It was a futile effort, as law enforcement had already surrounded her location and her capture was imminent.
+
+[2023-04-16 00:21:51] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As the authorities closed in on her, Elsa continued to use her laptop in a last-ditch effort to transfer funds and escape detection. However, her desperation was evident, and she was unable to avoid capture for much longer.
+
+[2023-04-16 00:25:23] Device: Elsa's Smartphone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Cellular (IP Address: N/A)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: Despite her capture being imminent, Elsa clung to her smartphone in a desperate attempt to continue her fraudulent activities. She tried to transfer funds out of her accounts before being apprehended by the authorities.
+
+[2023-04-16 00:28:55] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: With her back against the wall, Elsa resorted to using her tablet in a final attempt to carry out fraudulent transactions over the home Wi-Fi network. However, law enforcement had already surrounded her location, and her capture was imminent.
+
+[2023-04-16 00:32:27] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As her capture drew nearer, Elsa continued to use her laptop in a futile attempt to transfer funds out of her accounts and evade authorities. Her desperation was evident, but it wasn't long before she was apprehended.
+
+[2023-04-16 00:35:59] Device: Elsa's Smartphone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Cellular (IP Address: N/A)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: With law enforcement closing in, Elsa attempted to use her smartphone one last time to continue her fraudulent activities and escape capture. Her efforts were ultimately in vain, as she was apprehended shortly afterward.
+[2023-04-16 00:43:12] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a last-ditch effort, Elsa used her tablet over the home Wi-Fi network to attempt another large refund transaction. Her actions were frantic and hasty, but she was unable to evade capture for long.
+
+[2023-04-16 00:51:38] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: After her tablet was rendered ineffective, Elsa returned to her laptop to carry out more fraudulent transactions over the home Wi-Fi network. Her increasingly desperate attempts to fleece her victims were futile.
+
+[2023-04-16 01:07:55] Device: Elsa's Smartphone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Cellular (IP Address: N/A)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: With her capture imminent, Elsa frantically tried to use her smartphone one more time to continue her fraudulent activities. However, her efforts were in vain as law enforcement closed in on her location.
+
+[2023-04-16 01:18:12] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As the police closed in, Elsa attempted to use her tablet once again over the home Wi-Fi network to execute more fraudulent transactions. Despite her efforts, she was unable to evade capture for much longer.
+
+[2023-04-16 01:25:59] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a last attempt, Elsa returned to her laptop and continued carrying out fraudulent transactions over the home Wi-Fi network. However, her time was running out as law enforcement officers were now at her doorstep.
+
+[2023-04-16 01:39:27] Device: Elsa's Smartphone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Cellular (IP Address: N/A)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As law enforcement officers closed in on her location, Elsa used her smartphone one final time to attempt more fraudulent transactions. Her attempts were fruitless, and she was apprehended shortly after.
+
+[2023-04-16 01:51:43] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a desperate attempt to fleece more victims, Elsa used her tablet over the home Wi-Fi network for another round of fraudulent transactions. Her efforts were in vain as she was caught shortly after.
+
+[2023-04-16 02:07:59] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: With law enforcement officers at her door, Elsa attempted one final fraudulent transaction using her laptop over the home Wi-Fi network. Her desperation was apparent, but she was ultimately captured and arrested.
+[2023-04-16 02:07:59] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a final attempt to exploit her victims, Elsa processed a large refund through her laptop connected to the home Wi-Fi network, moments before being apprehended by law enforcement officers.
+
+[2023-04-16 02:12:05] Device: Elsa's Smartphone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Mobile Network (IP Address: 10.0.0.173)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: With her capture imminent, Elsa tried to transfer the funds she had just received through her smartphone's mobile network, but her efforts were tracked and thwarted by law enforcement.
+
+[2023-04-16 02:19:58] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: As Elsa was being escorted out of her home, she attempted to access a hidden account on her tablet via the home Wi-Fi network in an attempt to continue her fraudulent activities.
+
+[2023-04-16 02:25:12] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: While being transported to the police station, Elsa desperately tried to access her laptop through the car's Wi-Fi hotspot to continue her fraudulent activities, but her efforts were in vain.
+
+[2023-04-16 02:35:29] Device: Elsa's Smartphone (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Mobile Network (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a last-ditch effort, Elsa tried to use her smartphone's mobile network to remotely access and manipulate her victim's accounts during the ride to the police station, but she was caught in the act.
+
+[2023-04-16 02:48:57] Device: Elsa's Tablet (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: While at the police station, Elsa attempted to use her tablet connected to the building's Wi-Fi network in an attempt to continue her fraudulent activities but was stopped by officers monitoring her actions.
+
+[2023-04-16 03:05:36] Device: Elsa's Laptop (MAC Address: A1:BC:2E:6D:FE:8C)
+Network: Wi-Fi (IP Address: 192.168.1.204)
+User: Elsa Gonzazlez
+Type: Fraudulent
+Description: In a desperate attempt to regain control over her fraudulent transactions, Elsa tried using her laptop connected to the police station's Wi-Fi network, but she was immediately detected and thwarted by law enforcement.
+

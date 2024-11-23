@@ -1,0 +1,126 @@
+User ID: Charli Neufelder
+- 
+[2023-04-15 09:32:12] [fraudulent] User Charli Neufelder attempted to access account 'ABC123' from IP address 192.168.1.10, but failed due to incorrect password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 09:35:17] [fraudulent] User Charli Neufelder attempted to access account 'ABC123' from IP address 192.168.1.10, but failed due to incorrect password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 09:37:32] [fraudulent] User Charli Neufelder attempted to access account 'ABC123' from IP address 192.168.1.10, but failed due to incorrect password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 09:42:47] [fraudulent] User Charli Neufelder successfully accessed account 'ABC123' after multiple failed login attempts from IP address 192.168.1.10. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 09:46:03] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change email address and password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 09:48:26] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change email address and password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 09:52:48] [fraudulent] User Charli Neufelder accessed account 'ABC123' and successfully changed email address to charli.neufelder@example.com and password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:01:03] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:06:19] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:12:33] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com, which was successfully completed. Device: Windows PC (Windows 10). Location: Unknown.
+[2023-04-15 10:17:45] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change email address to charli.neufelder@example.com and password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:22:58] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:27:11] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:32:24] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com, which was successfully completed. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:37:36] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change email address to charli.neufelder@example.com and password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:42:49] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:47:01] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:51:14] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change email address to charli.neufelder@example.com and password. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 10:56:27] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com, which was successfully completed. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:01:39] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+[2023-04-15 11:06:47] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to add a new authorized device, "Device XYZ". Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:11:58] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:17:09] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the account recovery email to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:22:21] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com, which was successfully completed. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:27:33] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to add a new authorized device, "Device YZW". Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:32:45] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:37:56] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the account recovery phone number. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:43:08] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com, which was successfully completed. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:48:19] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a password reset to charli.neufelder@example.com. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 11:53:31] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to remove two-factor authentication. Device: Windows PC (Windows 10). Location: Unknown.
+[2023-04-15 11:58:45] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a bank transfer of $900 to an unknown external account. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:03:57] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a bank transfer of $900 to another unknown external account. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:09:09] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the primary email address to a different domain. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:14:21] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a mass email campaign with the subject "Your Invoice" to all contacts in the address book. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:19:33] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a mass email campaign with the subject "Your Invoice" to all contacts in the address book. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:24:45] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to add a new credit card with an unfamiliar billing address. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:30:57] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the primary email address to a different domain. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:36:09] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a bank transfer of $900 to an unknown external account. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:41:21] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to remove two-factor authentication. Device: Windows PC (Windows 10). Location: Unknown.
+[2023-04-15 12:46:34] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the primary phone number associated with the account. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:51:46] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the primary billing address to a different location. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 12:56:58] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a wire transfer of $1,500 to an unknown external account. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 13:02:10] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to add multiple new users with different email addresses. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 13:07:22] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a mass purchase of gift cards, using the funds from the wire transfer. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 13:12:34] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the account's security question and answer, potentially locking out legitimate users. Device: Windows PC (Windows 10). Location: Unknown.
+[2023-04-15 13:20:07] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the primary email address to a different domain, possibly gaining control over the account. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 13:27:29] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to disable two-factor authentication, making it easier for unauthorized access in the future. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 13:38:11] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to update the account's password, potentially locking out legitimate users or making it easier for further unauthorized access. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 13:48:33] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a mass purchase of virtual currency, using the funds from previous transactions. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 13:58:45] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the primary billing address to a different location, possibly making it harder for authorities to track. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 14:11:58] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to add multiple new users with different email addresses, possibly creating additional accounts for further unauthorized access. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 14:27:09] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a mass purchase of gift cards, using the funds from previous transactions. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 14:38:21] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the account's security question and answer, potentially locking out legitimate users. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 14:49:33] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the primary email address to a different domain, possibly gaining control over the account. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 14:58:45] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to disable two-factor authentication, making it easier for unauthorized access in the future. Device: Windows PC (Windows 10). Location: Unknown.
+[2023-04-15 15:09:57] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to add a new, unauthorized payment method to the account. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 15:19:08] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to change the mailing address associated with the account, possibly redirecting physical security tokens or documents. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 15:29:19] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to reset the password, which could lead to further unauthorized access. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 15:40:21] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a series of wire transfers, potentially emptying the account balance. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 16:01:22] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to delete transaction history, making it difficult for the legitimate user to track the unauthorized activity. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 16:12:33] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to add multiple unauthorized users as authorized representatives, potentially expanding the scope of fraudulent activity. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 16:23:44] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a series of high-value transactions, potentially draining the account balance. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 16:35:55] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to remove all transaction alerts, making it harder for the legitimate user to notice future unauthorized activity. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 16:46:06] [fraudulent] User Charli Neufelder accessed account 'ABC123' and attempted to access sensitive personal information, which could be used for further identity theft or extortion. Device: Windows PC (Windows 10). Location: Unknown.
+
+[2023-04-15 16:57:17] [fraudulent] User Charli Neufelder accessed account 'ABC123' and initiated a series of fake transactions, potentially causing confusion for the legitimate user and account monitoring systems. Device: Windows PC (Windows 10). Location: Unknown.
+

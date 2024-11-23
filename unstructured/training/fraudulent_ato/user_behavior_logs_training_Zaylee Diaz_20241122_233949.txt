@@ -1,0 +1,100 @@
+User ID: Zaylee Diaz
+- 
+[2023-03-19 16:35:22] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts
+[2023-03-19 16:36:04] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from a different device
+[2023-03-19 16:36:37] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Suspicious IP address detected
+[2023-03-19 16:37:14] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continued
+[2023-03-19 16:38:02] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from the correct device but incorrect credentials
+[2023-03-19 16:38:50] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected
+[2023-03-19 16:40:01] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continued
+[2023-03-19 16:40:55] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Successful access after multiple failed attempts
+[2023-03-19 16:41:28] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected again
+[2023-03-19 16:42:15] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts cease
+[2023-03-19 16:45:45] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Suspicious activity detected, account locked temporarily
+[2023-03-19 16:47:30] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the third time
+[2023-03-19 16:48:12] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts resume, followed by a successful access
+[2023-03-19 16:50:04] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected again, but account remains locked
+[2023-03-19 16:50:58] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account, account remains locked
+[2023-03-19 16:51:41] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the fourth time, but account remains locked
+[2023-03-19 16:52:34] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from a different device
+[2023-03-19 16:53:17] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Successful access after multiple failed attempts, followed by account logout
+[2023-03-19 16:54:02] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected again, but account remains locked
+[2023-03-19 16:54:48] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, with a new IP address
+[2023-03-19 16:55:31] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account, but account remains locked
+[2023-03-19 16:56:15] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the sixth time, but account remains locked
+[2023-03-19 16:57:08] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Successful access after multiple failed attempts, followed by account logout
+[2023-03-19 16:57:52] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected again, but account remains locked
+[2023-03-19 16:58:35] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from a different device, followed by account logout
+[2023-03-19 16:59:18] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the seventh time, but account remains locked
+[2023-03-19 16:59:58] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account, but account remains locked
+[2023-03-19 17:00:41] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:01:24] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected again, but account remains locked
+[2023-03-19 17:02:56] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account using a VPN, but account remains locked
+[2023-03-19 17:04:15] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt using a different email address, but account remains locked
+[2023-03-19 17:05:48] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the eighth time, but account remains locked
+[2023-03-19 17:06:59] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account using a different password, but account remains locked
+[2023-03-19 17:08:04] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:08:50] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the ninth time, but account remains locked
+[2023-03-19 17:09:45] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account using a different browser, but account remains locked
+[2023-03-19 17:10:48] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:11:45] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the tenth time, but account remains locked
+[2023-03-19 17:12:52] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account using a different device, but account remains locked
+[2023-03-19 17:13:59] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the eleventh time, but account remains locked
+[2023-03-19 17:14:35] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account using a different browser, but account remains locked
+[2023-03-19 17:15:42] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the twelfth time, but account remains locked
+[2023-03-19 17:16:58] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account using a different device, but account remains locked
+[2023-03-19 17:17:46] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:18:54] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the thirteenth time, but account remains locked
+[2023-03-19 17:19:28] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account using a different browser, but account remains locked
+[2023-03-19 17:20:36] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: IP address change detected for the fourteenth time, but account remains locked
+[2023-03-19 17:21:45] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful attempt to access the account using a different device, but account remains locked
+[2023-03-19 17:22:53] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:24:02] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: VPN detected, suggesting that the IP address change may have been intentional and part of a larger fraud attempt
+[2023-03-19 17:25:08] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Suspicious activity detected as the IP address changed again, but account remains locked
+[2023-03-19 17:26:20] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:27:30] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: A new, suspicious IP address is detected, and the account remains locked
+[2023-03-19 17:28:45] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from a different location, but account remains locked
+[2023-03-19 17:29:55] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from a new IP address, but account remains locked
+[2023-03-19 17:30:58] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Another failed login attempt from a different IP address, but account remains locked
+[2023-03-19 17:32:08] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Suspicious activity detected as the IP address changed again, but account remains locked
+[2023-03-19 17:33:16] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:34:25] - Network: Wifi - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: A new, suspicious IP address is detected, and the account remains locked
+[2023-03-19 17:35:38] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: The account remains locked, but a new IP address is used in another failed login attempt
+[2023-03-19 17:36:51] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 17:38:05] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Account access is finally achieved after several failed attempts from multiple IP addresses
+[2023-03-19 17:38:48] - Network: Wifi - Device: Laptop (MacOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Suspicious activity detected as the IP address changes again; account remains locked
+[2023-03-19 17:40:13] - Network: Mobile Data - Device: Mobile Phone (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:41:31] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: A new IP address is used in a failed login attempt, but account remains locked
+[2023-03-19 17:42:50] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: The account remains locked, but a new IP address is used in another failed login attempt
+[2023-03-19 17:44:08] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 17:45:26] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Account access is finally achieved after several failed attempts from multiple IP addresses
+[2023-03-19 17:46:53] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:48:04] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 17:49:22] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Account access is finally achieved after several failed attempts from multiple IP addresses
+[2023-03-19 17:50:39] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:51:56] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 17:53:14] - Network: Mobile Data - Device: Tablet (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: The account remains locked, but a new IP address is used in another failed login attempt
+[2023-03-19 17:54:31] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 17:55:48] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Account access is finally achieved after several failed attempts from multiple IP addresses
+[2023-03-19 17:56:58] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts continue from another device, but account remains locked
+[2023-03-19 17:58:15] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 18:05:22] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: A series of failed login attempts are made from the tablet, but the account remains locked
+[2023-03-19 18:06:45] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts are made from the mobile phone, but the account remains locked
+[2023-03-19 18:07:57] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 18:09:14] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from the tablet, but account remains locked
+[2023-03-19 18:10:28] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts from the mobile phone, but account remains locked
+[2023-03-19 18:11:42] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 18:12:56] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from the tablet, but account remains locked
+[2023-03-19 18:14:10] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts from the mobile phone, but account remains locked
+[2023-03-19 18:15:24] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 18:16:37] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from the tablet, but account remains locked
+[2023-03-19 18:17:56] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from the same IP address as earlier, account remains locked
+[2023-03-19 18:18:41] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from the tablet using a VPN, but account remains locked
+[2023-03-19 18:19:57] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts from the mobile phone using a VPN, but account remains locked
+[2023-03-19 18:20:59] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+[2023-03-19 18:22:43] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from the tablet, but account remains locked
+[2023-03-19 18:23:56] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from the same IP address as earlier, account remains locked
+[2023-03-19 18:24:52] - Network: Mobile Data - Device: Tablet (Android) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Failed login attempt from the tablet using a different VPN, but account remains locked
+[2023-03-19 18:25:47] - Network: Wifi - Device: Mobile Phone (iOS) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Multiple failed login attempts from the mobile phone using a VPN, but account remains locked
+[2023-03-19 18:26:54] - Network: Wifi - Device: Desktop Computer (Windows) - User: Zaylee Diaz - Activity Type: Fraudulent - Action: Unsuccessful login attempt from a new IP address; account remains locked
+

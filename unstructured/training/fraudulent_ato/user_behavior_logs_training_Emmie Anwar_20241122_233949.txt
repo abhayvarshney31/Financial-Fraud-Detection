@@ -1,0 +1,49 @@
+User ID: Emmie Anwar
+- 
+[12/07 08:30] [fraudulent] User Emmie Anwar logged in from a foreign country (France) without prior travel notifications. IP Address: 192.168.1.5, Device: PC-AnwarEmily123.
+[12/07 09:00] [fraudulent] Emmie Anwar logged in again from the same foreign country (France), this time using a different IP Address (192.168.1.6). Device: MacBook-AnwarEmmie456.
+[12/07 10:15] [fraudulent] Suspicious activity detected: Emmie Anwar accessed her account from Russia without prior notification. IP Address: 192.168.1.7, Device: PC-AnwarEmily123.
+[12/07 14:45] [fraudulent] Multiple login attempts detected from Emmie Anwar's account. Locations: France and Russia. IP Addresses: 192.168.1.5, 192.168.1.7. Devices: PC-AnwarEmily123, MacBook-AnwarEmmie456.
+[12/07 17:00] [fraudulent] Emmie Anwar's account was accessed from Brazil, despite no prior travel notifications. IP Address: 192.168.1.8, Device: PC-AnwarEmily123.
+[12/07 18:45] [fraudulent] Unusual activity detected: Emmie Anwar logged in from Spain, but the transaction amount was considerably higher than usual. IP Address: 192.168.1.9, Device: MacBook-AnwarEmmie456.
+[12/07 20:30] [fraudulent] Emmie Anwar's account was accessed from Italy, with multiple failed login attempts. IP Address: 192.168.1.10, Device: PC-AnwarEmily123.
+[12/07 23:15] [fraudulent] Account accessed from Germany, but the transaction location was discrepant. IP Address: 192.168.1.11, Device: MacBook-AnwarEmmie456.
+[12/07 23:55] [fraudulent] Emmie Anwar's account was accessed from a foreign country (Mexico) with no prior notification. IP Address: 192.168.1.12, Device: PC-AnwarEmily123.
+[12/07 23:56] [fraudulent] Multiple login attempts from Emmie Anwar's account were detected in a short time frame. Locations: Germany and Mexico. IP Addresses: 192.168.1.11, 192.168.1.12. Devices: PC-AnwarEmily123, MacBook-AnwarEmmie456.
+[12/08 00:20] [fraudulent] Emmie Anwar's account was accessed from Russia, with several unauthorized transactions detected. IP Address: 192.168.1.13, Device: PC-AnwarEmily123.
+[12/08 02:35] [fraudulent] Account accessed from France, but the transaction location was inconsistent with the IP address. IP Address: 192.168.1.14, Device: MacBook-AnwarEmmie456.
+[12/08 03:45] [fraudulent] Emmie Anwar's account was accessed from China, with a high number of failed login attempts. IP Address: 192.168.1.15, Device: PC-AnwarEmily123.
+[12/08 04:05] [fraudulent] Account accessed from Brazil, with unusually large transactions recorded. IP Address: 192.168.1.16, Device: MacBook-AnwarEmmie456.
+[12/08 04:30] [fraudulent] Emmie Anwar's account was accessed from Canada without prior notification. IP Address: 192.168.1.17, Device: PC-AnwarEmily123.
+[12/08 04:35] [fraudulent] Multiple login attempts from Emmie Anwar's account were detected in a short time frame. Locations: Brazil and Canada. IP Addresses: 192.168.1.16, 192.168.1.17. Devices: MacBook-AnwarEmmie456, PC-AnwarEmily123.
+[12/08 05:00] [fraudulent] Account accessed from Australia, with suspicious activity related to the withdrawal of funds. IP Address: 192.168.1.18, Device: MacBook-AnwarEmmie456.
+[12/08 05:30] [fraudulent] Emmie Anwar's account was accessed from the United States, with an unusual number of transactions made. IP Address: 192.168.1.19, Device: PC-AnwarEmily123.
+[12/08 05:45] [fraudulent] Account accessed from India, with a significant increase in the transaction amount compared to usual activity. IP Address: 192.168.1.20, Device: MacBook-AnwarEmmie456.
+[12/08 06:00] [fraudulent] Emmie Anwar's account was accessed from France with multiple unauthorized transactions. IP Address: 192.168.1.21, Device: PC-AnwarEmily123.
+[12/08 06:30] [fraudulent] Account accessed from Germany without prior notification. IP Address: 192.168.1.22, Device: MacBook-AnwarEmmie456.
+[12/08 07:00] [fraudulent] Emmie Anwar's account was accessed from the United Kingdom with unusual login attempts. IP Address: 192.168.1.23, Device: PC-AnwarEmily123.
+[12/08 07:30] [fraudulent] Account accessed from Spain, with unauthorized transactions made. IP Address: 192.168.1.24, Device: MacBook-AnwarEmmie456.
+[12/08 08:00] [fraudulent] Emmie Anwar's account was accessed from Italy without prior notification. IP Address: 192.168.1.25, Device: PC-AnwarEmily123.
+[12/08 08:30] [fraudulent] Account accessed from Mexico with multiple unauthorized transactions detected. IP Address: 192.168.1.26, Device: MacBook-AnwarEmmie456.
+[12/08 09:00] [fraudulent] Emmie Anwar's account was accessed from the Netherlands without prior notification. IP Address: 192.168.1.27, Device: PC-AnwarEmily123.
+[12/08 09:30] [fraudulent] Account accessed from Russia with unusual login attempts detected. IP Address: 192.168.1.28, Device: MacBook-AnwarEmmie456.
+[12/08 10:00] [fraudulent] Emmie Anwar's account accessed from Turkey without prior notification. IP Address: 192.168.1.29, Device: PC-AnwarEmily123.
+[12/08 10:30] [fraudulent] Account accessed from Brazil with unauthorized transactions detected. IP Address: 192.168.1.30, Device: MacBook-AnwarEmmie456.
+[12/08 11:00] [fraudulent] Emmie Anwar's account accessed from South Africa without prior notification. IP Address: 192.168.1.31, Device: PC-AnwarEmily123.
+[12/08 11:30] [fraudulent] Account accessed from Australia with unusual login attempts detected. IP Address: 192.168.1.32, Device: MacBook-AnwarEmmie456.
+[12/08 12:00] [fraudulent] Emmie Anwar's account accessed from Canada without prior notification. IP Address: 192.168.1.33, Device: PC-AnwarEmily123.
+[12/08 12:30] [fraudulent] Account accessed from the United States with multiple unauthorized transactions detected. IP Address: 192.168.1.34, Device: MacBook-AnwarEmmie456.
+[12/08 13:00] [fraudulent] Emmie Anwar's account accessed from France without prior notification. IP Address: 192.168.1.35, Device: PC-AnwarEmily123.
+[12/08 13:30] [fraudulent] Account accessed from Germany with unusual login attempts detected. IP Address: 192.168.1.36, Device: MacBook-AnwarEmmie456.
+[12/08 14:00] [fraudulent] Emmie Anwar's account accessed from Spain without prior notification. IP Address: 192.168.1.37, Device: PC-AnwarEmily123.
+[12/08 14:30] [fraudulent] Account accessed from the United Kingdom with multiple unauthorized transactions detected. IP Address: 192.168.1.38, Device: MacBook-AnwarEmmie456.
+[12/08 15:00] [fraudulent] Emmie Anwar's account accessed from Russia without prior notification. IP Address: 192.168.1.39, Device: PC-AnwarEmily123.
+[12/08 15:30] [fraudulent] Account accessed from Brazil with unusual login attempts detected. IP Address: 192.168.1.40, Device: MacBook-AnwarEmmie456.
+[12/08 16:00] [fraudulent] Emmie Anwar's account accessed from Japan without prior notification. IP Address: 192.168.1.41, Device: PC-AnwarEmily123.
+[12/08 16:30] [fraudulent] Account accessed from India with multiple unauthorized transactions detected. IP Address: 192.168.1.42, Device: MacBook-AnwarEmmie456.
+[12/08 17:00] [fraudulent] Emmie Anwar's account accessed from South Korea without prior notification. IP Address: 192.168.1.43, Device: PC-AnwarEmily123.
+[12/08 17:30] [fraudulent] Account accessed from Australia with unusual login attempts detected. IP Address: 192.168.1.44, Device: MacBook-AnwarEmmie456.
+[12/08 18:00] [fraudulent] Emmie Anwar's account accessed from Germany without prior notification. IP Address: 192.168.1.45, Device: PC-AnwarEmily123.
+[12/08 18:30] [fraudulent] Account accessed from Chile with multiple unauthorized transactions detected. IP Address: 192.168.1.46, Device: MacBook-AnwarEmmie456.
+[12/08 19:00] [fraudulent] Emmie Anwar's account accessed from Argentina without prior notification. IP Address: 192.168.1.47, Device: PC-AnwarEmily123.
+

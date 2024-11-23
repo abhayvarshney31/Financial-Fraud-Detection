@@ -1,0 +1,128 @@
+User ID: Allan Davis
+- 
+[2023-03-15 08:12:37] [fraudulent] User Allan Davis made a purchase of $2,500 worth of Apple MacBooks from an unverified online store using the shipping address "John Smith, 432 Elm Street, Springfield."
+
+[2023-03-17 12:35:42] [fraudulent] Allan Davis purchased a $3,000 Rolex watch from an unregulated online marketplace and shipped it to "Jane Doe, 659 Oak Avenue, Chicago."
+
+[2023-03-20 14:18:23] [fraudulent] User Allan Davis made a $5,000 purchase of designer clothing from an unverified online store and had the items shipped to "Michael Johnson, 987 Pine Street, Los Angeles."
+
+[2023-03-22 16:43:34] [fraudulent] Allan Davis bought a $4,500 drone from an unregulated online marketplace and shipped it to "Sarah Thompson, 1398 Spruce Avenue, Miami."
+
+[2023-03-24 17:56:57] [fraudulent] User Allan Davis made a $6,000 purchase of limited edition sneakers from an unverified online store and had the items shipped to "David Brown, 312 Maple Lane, New York."
+
+[2023-03-27 08:35:29] [fraudulent] Allan Davis purchased a $4,000 bicycle from an unregulated online marketplace and shipped it to "Rachel Lewis, 568 Birch Street, Seattle."
+
+[2023-03-31 10:23:42] [fraudulent] User Allan Davis made a $7,000 purchase of high-end headphones from an unverified online store and had the items shipped to "Samuel Green, 896 Cedar Road, Houston."
+
+[2023-04-03 11:05:19] [fraudulent] Allan Davis bought a $5,500 luxury watch from an unregulated online marketplace and shipped it to "Lucy Wilson, 248 Willow Drive, Philadelphia."
+
+[2023-04-06 14:27:49] [fraudulent] User Allan Davis made a $5,000 purchase of a designer handbag from an unverified online store and had the items shipped to "Emma King, 684 Fir Street, San Francisco."
+
+[2023-04-08 16:03:05] [fraudulent] Allan Davis purchased a $7,500 art piece from an unregulated online marketplace and shipped it to "William Harris, 932 Willow Lane, Dallas."
+[2023-04-10 18:40:27] [fraudulent] Allan Davis made a $6,000 purchase of high-end luggage from an unverified online store and had the items shipped to "Jessica Nelson, 562 Oak Avenue, Chicago."
+
+[2023-04-12 09:35:08] [fraudulent] User Allan Davis bought a $9,000 gaming computer from an unregulated online marketplace and shipped it to "Christopher Brown, 867 Pine Street, Miami."
+
+[2023-04-14 10:58:13] [fraudulent] Allan Davis made a $8,500 purchase of a rare collectible car model from an unverified online store and had the items shipped to "Linda Johnson, 921 Spruce Road, Atlanta."
+
+[2023-04-16 12:02:34] [fraudulent] User Allan Davis bought a $7,500 custom-built drone from an unregulated online marketplace and shipped it to "James Walker, 348 Elm Boulevard, Boston."
+
+[2023-04-18 14:19:09] [fraudulent] Allan Davis made a $5,000 purchase of a high-end coffee machine from an unverified online store and had the items shipped to "Michael Smith, 673 Cedar Street, Austin."
+
+[2023-04-20 16:32:08] [fraudulent] User Allan Davis bought a $9,500 home theater system from an unregulated online marketplace and shipped it to "Mark Taylor, 736 Willow Drive, Denver."
+
+[2023-04-22 18:35:49] [fraudulent] Allan Davis made a $6,000 purchase of an expensive wine collection from an unverified online store and had the items shipped to "Rachel Lee, 375 Oak Avenue, Washington."
+
+[2023-04-24 21:00:52] [fraudulent] User Allan Davis bought a $5,500 high-end camera from an unregulated online marketplace and shipped it to "Michael Thomas, 987 Pine Street, Los Angeles."
+
+[2023-04-26 10:15:26] [fraudulent] Allan Davis made a $4,500 purchase of a luxury smartphone from an unverified online store and had the items shipped to "Sophie Kim, 739 Maple Lane, San Diego."
+
+[2023-04-28 16:48:43] [fraudulent] User Allan Davis bought a $7,000 diamond ring from an unregulated online marketplace and shipped it to "Emma White, 952 Willow Lane, San Jose."
+[2023-04-30 18:20:25] [fraudulent] Allan Davis purchased a $6,500 custom-built gaming PC from an unverified online store and shipped it to "Noah Brown, 779 Birch Drive, Phoenix."
+
+[2023-05-01 23:45:58] [fraudulent] User Allan Davis bought a $8,000 luxury watch from an unregulated online marketplace and shipped it to "Grace Walker, 795 Spruce Avenue, Dallas."
+
+[2023-05-03 16:00:12] [fraudulent] Allan Davis made a $4,000 purchase of a limited edition designer handbag from an unverified online store and had the items shipped to "Adrian Miller, 845 Pine Court, Miami."
+
+[2023-05-05 19:25:06] [fraudulent] User Allan Davis bought a $7,500 high-end vacuum cleaner from an unregulated online marketplace and shipped it to "Isabella Clark, 989 Willow Court, Boston."
+
+[2023-05-07 16:30:45] [fraudulent] Allan Davis made a $5,500 purchase of a collectible sports car from an unverified online store and had the items shipped to "Samuel Adams, 857 Birch Lane, Houston."
+
+[2023-05-09 18:50:54] [fraudulent] User Allan Davis bought a $6,000 designer kitchen appliance from an unregulated online marketplace and shipped it to "Olivia Johnson, 790 Cherry Drive, Atlanta."
+
+[2023-05-11 18:40:36] [fraudulent] Allan Davis made a $4,500 purchase of an antique painting from an unverified online store and had the items shipped to "James Moore, 975 Spruce Court, Chicago."
+
+[2023-05-13 21:00:19] [fraudulent] User Allan Davis bought a $6,000 limited edition motorcycle from an unregulated online marketplace and shipped it to "Lucy King, 879 Cherry Lane, Seattle."
+
+[2023-05-15 15:55:45] [fraudulent] Allan Davis made a $5,500 purchase of a rare collectible coin from an unverified online store and had the items shipped to "Mia Rodriguez, 986 Willow Street, Portland."
+
+[2023-05-17 21:00:48] [fraudulent] User Allan Davis bought a $6,500 exotic pet from an unregulated online marketplace and shipped it to "Emily Brown, 937 Birch Avenue, Philadelphia."
+[2023-05-19 08:20:33] [fraudulent] Allan Davis made a $7,000 purchase of a high-end smartphone from an unverified online store and had the items shipped to "Christopher Lee, 456 Pine Street, Los Angeles."
+
+[2023-05-21 19:40:15] [fraudulent] User Allan Davis bought a $5,500 designer handbag from an unregulated online marketplace and shipped it to "Jessica Turner, 789 Cedar Drive, San Francisco."
+
+[2023-05-23 10:00:02] [fraudulent] Allan Davis made a $4,000 purchase of a high-quality watch from an unverified online store and had the items shipped to "Jennifer White, 890 Fir Street, Boston."
+
+[2023-05-25 17:10:46] [fraudulent] User Allan Davis bought a $5,200 custom-built gaming PC from an unregulated online marketplace and shipped it to "Christopher Thomas, 348 Willow Lane, Dallas."
+
+[2023-05-27 19:50:07] [fraudulent] Allan Davis made a $6,000 purchase of a luxury drone from an unverified online store and had the items shipped to "Kevin Harris, 478 Pine Drive, Denver."
+
+[2023-05-29 21:40:28] [fraudulent] User Allan Davis bought a $6,200 high-end camera from an unregulated online marketplace and shipped it to "Stephanie Nelson, 779 Maple Road, Miami."
+
+[2023-05-31 20:00:12] [fraudulent] Allan Davis made a $4,800 purchase of a custom-built gaming laptop from an unverified online store and had the items shipped to "James Carter, 790 Oak Lane, New York."
+
+[2023-06-02 18:30:54] [fraudulent] User Allan Davis bought a $5,500 limited edition art print from an unregulated online marketplace and shipped it to "Emma Johnson, 975 Elm Drive, Austin."
+
+[2023-06-04 19:20:19] [fraudulent] Allan Davis made a $7,000 purchase of a high-quality telescope from an unverified online store and had the items shipped to "Robert Brown, 986 Cedar Street, Washington."
+
+[2023-06-06 21:50:05] [fraudulent] User Allan Davis bought a $5,300 designer sofa from an unregulated online marketplace and shipped it to "Mark Harris, 879 Maple Drive, San Diego."
+[2023-06-08 16:30:30] [fraudulent] Allan Davis made a $5,700 purchase of an exclusive luxury watch from an unregulated online marketplace and had the items shipped to "Jennifer Williams, 990 Birch Street, Los Angeles."
+
+[2023-06-10 22:40:22] [fraudulent] User Allan Davis bought a $7,500 custom kitchen appliance from an unverified online store and shipped it to "David Thomas, 978 Pine Drive, Denver."
+
+[2023-06-12 18:20:10] [fraudulent] Allan Davis made a $5,200 purchase of a limited edition art book from an unregulated online marketplace and had the items shipped to "Sophie Martinez, 930 Oak Lane, New York."
+
+[2023-06-14 21:00:35] [fraudulent] User Allan Davis bought a $8,000 luxury smartphone from an unregulated online marketplace and shipped it to "Rachel Jackson, 985 Cedar Street, Washington."
+
+[2023-06-16 14:50:05] [fraudulent] Allan Davis made a $6,900 purchase of an antique painting from an unverified online store and had the items shipped to "Emma Thompson, 878 Maple Drive, San Diego."
+
+[2023-06-18 23:10:58] [fraudulent] User Allan Davis bought a $4,500 high-end coffee machine from an unregulated online marketplace and shipped it to "Michael Taylor, 995 Birch Street, Los Angeles."
+
+[2023-06-20 15:30:00] [fraudulent] Allan Davis made a $7,800 purchase of a vintage car from an unverified online store and had the items shipped to "Jennifer Miller, 935 Pine Drive, Denver."
+
+[2023-06-22 18:50:05] [fraudulent] User Allan Davis bought a $6,500 luxury handbag from an unregulated online marketplace and shipped it to "Sophie King, 970 Oak Lane, New York."
+
+[2023-06-24 16:30:30] [fraudulent] Allan Davis made a $5,100 purchase of a limited edition luxury pen from an unverified online store and had the items shipped to "Rachel Smith, 987 Cedar Street, Washington."
+
+[2023-06-26 19:50:12] [fraudulent] User Allan Davis bought a $4,800 custom-built gaming PC from an unregulated online marketplace and shipped it to "Emma Rodriguez, 879 Elm Drive, Austin."
+[2023-06-28 21:45:20] [fraudulent] Allan Davis made a $9,000 purchase of a diamond ring from an unverified online store and had the items shipped to "Christopher Brown, 745 Willow Avenue, Miami."
+
+[2023-06-30 17:30:00] [fraudulent] User Allan Davis bought a $8,500 high-quality camera from an unregulated online marketplace and shipped it to "Samantha Wilson, 945 Spruce Lane, Boston."
+
+[2023-07-02 19:10:05] [fraudulent] Allan Davis made a $6,200 purchase of an antique clock from an unverified online store and had the items shipped to "Laura Harris, 850 Fir Drive, Chicago."
+
+[2023-07-04 15:30:00] [fraudulent] User Allan Davis bought a $5,900 designer suit from an unregulated online marketplace and shipped it to "Kevin Martin, 785 Birch Street, San Francisco."
+
+[2023-07-06 18:50:05] [fraudulent] Allan Davis made a $7,100 purchase of a limited edition luxury watch from an unverified online store and had the items shipped to "Mia Thompson, 915 Willow Avenue, Dallas."
+
+[2023-07-08 20:25:12] [fraudulent] User Allan Davis bought a $4,600 custom-built drone from an unregulated online marketplace and shipped it to "James Walker, 895 Elm Drive, Seattle."
+[2023-07-10 22:30:05] [fraudulent] Allan Davis purchased a $10,000 high-end gaming computer from an unverified online store and shipped it to "Emily Young, 940 Pine Lane, Denver."
+
+[2023-07-12 16:10:00] [fraudulent] User Allan Davis made a $9,800 purchase of an exotic car from an unregulated online marketplace and had the items shipped to "Sophie Brown, 875 Cedar Drive, Houston."
+
+[2023-07-14 17:45:12] [fraudulent] Allan Davis bought a $6,500 luxury handbag from an unregulated online marketplace and shipped it to "Ryan Johnson, 795 Maple Street, Atlanta."
+
+[2023-07-16 18:30:00] [fraudulent] User Allan Davis made a $7,200 purchase of a rare collectible coin from an unverified online store and had the items shipped to "Jessica Harris, 950 Oak Avenue, Portland."
+
+[2023-07-18 19:45:15] [fraudulent] Allan Davis bought a $5,000 gold pendant from an unregulated online marketplace and shipped it to "Isabella Wilson, 765 Willow Drive, Los Angeles."
+
+[2023-07-20 20:30:15] [fraudulent] User Allan Davis made a $4,900 purchase of an antique silver teapot from an unverified online store and had the items shipped to "Nathan Taylor, 805 Pine Street, Phoenix."
+
+[2023-07-22 16:00:00] [fraudulent] Allan Davis bought a $9,000 custom-built high-performance bicycle from an unregulated online marketplace and shipped it to "Ava King, 985 Spruce Street, Austin."
+
+[2023-07-24 16:25:05] [fraudulent] User Allan Davis made a $7,500 purchase of a luxury designer sofa from an unverified online store and had the items shipped to "Liam Green, 850 Willow Drive, Philadelphia."
+
+[2023-07-26 17:40:00] [fraudulent] Allan Davis bought a $9,200 high-ticket artwork from an unregulated online marketplace and shipped it to "Olivia Brown, 785 Birch Street, San Diego."
+
+[2023-07-28 16:50:12] [fraudulent] User Allan Davis made a $8,000 purchase of a rare vintage guitar from an unverified online store and had the items shipped to "Charlie Nelson, 945 Spruce Lane, San Francisco."
+

@@ -1,0 +1,63 @@
+User ID: Edison Hill
+- 
+[10/25/2022 18:32:45] - Edison Hill (user37985) - Device: iPhone XS, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for online purchase of electronics from "FastTech.com".
+[10/26/2022 14:15:03] - Edison Hill (user37985) - Device: iPad Pro, Network: AT&T - Fraudulent Activity Detected: Multiple virtual credit cards used for subscription services on "Apple Music" and "Spotify".
+[10/27/2022 22:47:18] - Edison Hill (user37985) - Device: MacBook Pro, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for purchasing in-game currency on "Roblox".
+[10/28/2022 09:34:26] - Edison Hill (user37985) - Device: iPhone XR, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a hotel booking on "Expedia".
+[10/29/2022 12:56:34] - Edison Hill (user37985) - Device: Mac Mini, Network: Verizon - Fraudulent Activity Detected: Multiple virtual credit cards used for purchasing airline tickets on "Kayak".
+[10/30/2022 20:10:43] - Edison Hill (user37985) - Device: iPad Mini, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a luxury watch purchase from "Chrono24".
+[10/31/2022 17:21:56] - Edison Hill (user37985) - Device: iPhone SE, Network: T-Mobile - Fraudulent Activity Detected: Virtual credit card used for a high-value art piece purchase on "Artsy".
+[11/01/2022 06:48:01] - Edison Hill (user37985) - Device: iMac, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for donations to various charities.
+[11/02/2022 15:50:09] - Edison Hill (user37985) - Device: iPhone XS, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for purchasing a custom car wrap design on "Wrapzone.com".
+[11/03/2022 23:15:24] - Edison Hill (user37985) - Device: MacBook Air, Network: AT&T - Fraudulent Activity Detected: Multiple virtual credit cards used for subscription services on "Amazon Prime" and "Netflix".
+[11/04/2022 09:38:46] - Edison Hill (user37985) - Device: iPad Pro, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a luxury hotel booking on "Expedia".
+[11/05/2022 14:26:19] - Edison Hill (user37985) - Device: iPhone XR, Network: Sprint - Fraudulent Activity Detected: Virtual credit card used for a high-priced diamond ring purchase on "Blue Nile".
+[11/06/2022 04:10:03] - Edison Hill (user37985) - Device: Mac Mini, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for donations to political campaigns on "ActBlue".
+[11/07/2022 18:45:01] - Edison Hill (user37985) - Device: iPhone 11, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a private jet rental on "JetSmarter".
+[11/08/2022 23:52:48] - Edison Hill (user37985) - Device: MacBook Pro, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for high-end electronics purchases on "Best Buy".
+[11/09/2022 06:30:04] - Edison Hill (user37985) - Device: iPod Touch, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a luxury vacation package on "Travelocity".
+[11/10/2022 11:24:41] - Edison Hill (user37985) - Device: iPad Pro, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a high-end wristwatch purchase on "Watches of Switzerland".
+[11/11/2022 16:47:35] - Edison Hill (user37985) - Device: iPhone X, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for donations to environmental charities on "CharityNavigator".
+[11/12/2022 20:14:57] - Edison Hill (user37985) - Device: MacBook Air, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a luxury yacht charter on "YachtWorld".
+[11/13/2022 23:34:19] - Edison Hill (user37985) - Device: iPhone SE, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for high-end art auctions on "Christie's".
+[11/14/2022 01:15:34] - Edison Hill (user37985) - Device: iPod Touch, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a VIP ticket package to an exclusive music festival on "EventBrite".
+[11/15/2022 04:57:06] - Edison Hill (user37985) - Device: iPad Pro, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a rare limited edition sneaker purchase on "StockX".
+[11/16/2022 07:39:48] - Edison Hill (user37985) - Device: iPhone X, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for donations to a controversial political campaign on "ActBlue".
+[11/17/2022 10:49:33] - Edison Hill (user37985) - Device: MacBook Air, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a luxury safari trip on "Travel & Adventures Club".
+[11/18/2022 14:18:26] - Edison Hill (user37985) - Device: iPhone SE, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for high-value investments on "E*TRADE".
+[11/19/2022 17:46:49] - Edison Hill (user37985) - Device: iPod Touch, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a rare vintage car purchase on "Bring a Trailer".
+[11/20/2022 21:01:34] - Edison Hill (user37985) - Device: iPad Pro, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a luxurious private island rental on "Airbnb".
+[11/21/2022 24:16:42] - Edison Hill (user37985) - Device: iPhone X, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for donations to a controversial research project on "ResearchGate".
+[11/22/2022 00:42:55] - Edison Hill (user37985) - Device: MacBook Air, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a custom-built gaming PC on "Newegg".
+[11/23/2022 04:16:11] - Edison Hill (user37985) - Device: iPhone SE, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for a high-priced art commission on "Artsy".
+[11/24/2022 06:53:22] - Edison Hill (user37985) - Device: iPod Touch, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a rare vintage watch purchase on "Chrono24".
+[11/25/2022 10:09:48] - Edison Hill (user37985) - Device: iPad Pro, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for a private jet charter on "JetSmarter".
+[11/26/2022 14:05:11] - Edison Hill (user37985) - Device: iPhone X, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a high-value artifact auction on "eBay".
+[11/27/2022 19:46:34] - Edison Hill (user37985) - Device: MacBook Air, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for a high-stakes online poker tournament on "PokerStars".
+[11/28/2022 24:30:59] - Edison Hill (user37985) - Device: iPhone SE, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a luxury yacht charter on "Boatbookings".
+[11/29/2022 04:16:00] - Edison Hill (user37985) - Device: iPod Touch, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for a high-end diamond purchase on "JamesAllen".
+[11/30/2022 09:36:47] - Edison Hill (user37985) - Device: iPad Pro, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a luxury custom-built home on "Zillow".
+[12/01/2022 14:56:11] - Edison Hill (user37985) - Device: iPhone X, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for a collection of rare whiskey on "DailyDrama".
+[12/02/2022 20:09:48] - Edison Hill (user37985) - Device: MacBook Air, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a limited-edition luxury car on "AutoTrader".
+[12/03/2022 24:30:59] - Edison Hill (user37985) - Device: iPhone SE, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for a high-end art gallery sponsorship on "Artnet".
+[12/04/2022 03:12:08] - Edison Hill (user37985) - Device: iPad Mini, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a private island purchase on "LuxuryIslands".
+[12/05/2022 06:43:45] - Edison Hill (user37985) - Device: MacBook Pro, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for a luxury yacht charter on "YachtCharterWorld".
+[12/06/2022 14:05:32] - Edison Hill (user37985) - Device: iPod Touch, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a rare wine collection purchase on "WineEnthusiast".
+[12/07/2022 17:26:13] - Edison Hill (user37985) - Device: iPhone XS, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for a high-end fashion designer collaboration on "Fashionista".
+[12/08/2022 20:49:01] - Edison Hill (user37985) - Device: iPhone 6S, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a rare gemstone purchase on "GemSelect".
+[12/09/2022 23:34:58] - Edison Hill (user37985) - Device: MacBook Air, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for a luxury safari package on "LuxurySafaris".
+[12/10/2022 04:11:37] - Edison Hill (user37985) - Device: iPad Pro, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a high-end jewelry purchase on "Rapaport".
+[12/11/2022 06:48:53] - Edison Hill (user37985) - Device: iPhone 7, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for a private jet rental on "PrivateFly".
+[12/12/2022 14:06:21] - Edison Hill (user37985) - Device: iPod Touch, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a luxurious island resort stay on "MrB&B".
+[12/13/2022 17:24:47] - Edison Hill (user37985) - Device: MacBook Pro, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for a high-end property development on "PropertyGuru".
+[12/14/2022 22:31:15] - Edison Hill (user37985) - Device: iPhone X, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a top-tier yacht rental on "YachtWorld".
+[12/15/2022 03:45:46] - Edison Hill (user37985) - Device: iPad Air, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for a luxury spa treatment package on "SpaFinder".
+[12/16/2022 08:59:02] - Edison Hill (user37985) - Device: MacBook Pro, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a high-end art piece purchase on "Art.com".
+[12/17/2022 16:13:43] - Edison Hill (user37985) - Device: iPod Touch, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for a VIP concierge service on "Concierge.com".
+[12/18/2022 21:34:59] - Edison Hill (user37985) - Device: iPhone 8, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a limited edition luxury watch purchase on "WatchBox".
+[12/19/2022 06:47:45] - Edison Hill (user37985) - Device: MacBook Air, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for a high-end private school tuition on "GreatSchools".
+[12/20/2022 14:06:21] - Edison Hill (user37985) - Device: iPad Pro, Network: Verizon - Fraudulent Activity Detected: Virtual credit card used for a luxury sports car rental on "LuxuryCarsRent".
+[12/21/2022 19:23:46] - Edison Hill (user37985) - Device: iPhone XS, Network: T-Mobile - Fraudulent Activity Detected: Multiple virtual credit cards used for a luxurious private island vacation rental on "PrivateIslandOnline".
+[12/22/2022 23:48:57] - Edison Hill (user37985) - Device: iMac, Network: AT&T - Fraudulent Activity Detected: Virtual credit card used for a high-end chef service for a private event on "PrivateChef".
+[12/23/2022 04:11:37] - Edison Hill (user37985) - Device: MacBook Pro, Network: Sprint - Fraudulent Activity Detected: Multiple virtual credit cards used for a luxury fashion item purchase on "Fashionista".
+

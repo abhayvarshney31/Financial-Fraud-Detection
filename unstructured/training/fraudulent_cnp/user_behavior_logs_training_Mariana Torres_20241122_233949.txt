@@ -1,0 +1,117 @@
+User ID: Mariana Torres
+- 
+1. [07:23:56] Mariana Torres - Fraudulent - Account creation attempt detected. Multiple accounts opened with similar details within the past hour. Device ID: DEV1234, IP: 192.168.1.10.
+
+2. [07:25:12] Mariana Torres - Fraudulent - Attempt to open another account with similar details to previous attempts. Device ID: DEV1234, IP: 192.168.1.10.
+
+3. [07:30:25] Mariana Torres - Fraudulent - Account opened using different but suspicious email address. Device ID: DEV1234, IP: 192.168.1.10.
+
+4. [07:32:31] Mariana Torres - Fraudulent - Suspicious activity detected: Multiple accounts opened within minutes of each other using similar details. Device ID: DEV5678, IP: 192.168.1.11.
+
+5. [07:34:06] Mariana Torres - Fraudulent - Account creation attempt with minor variations in personal information. Device ID: DEV5678, IP: 192.168.1.11.
+
+6. [07:35:27] Mariana Torres - Fraudulent - Multiple accounts opened using the same email address with different names. Device ID: DEV9101, IP: 192.168.1.12.
+
+7. [07:36:48] Mariana Torres - Fraudulent - Account creation attempt with inconsistent personal information. Device ID: DEV9101, IP: 192.168.1.12.
+
+8. [07:38:05] Mariana Torres - Fraudulent - Multiple accounts opened within minutes of each other using similar details but different email addresses. Device ID: DEV1314, IP: 192.168.1.13.
+
+9. [07:39:22] Mariana Torres - Fraudulent - Account creation attempt with suspicious activity pattern: multiple accounts opened in quick succession using slightly different details. Device ID: DEV1314, IP: 192.168.1.13.
+
+10. [07:40:39] Mariana Torres - Fraudulent - Final account creation attempt detected before blocking action. Device ID: DEV2468, IP: 192.168.1.14.
+11. [07:42:56] Mariana Torres - Fraudulent - Multiple account creation attempts from different devices detected in a short period. Device IDs: DEV3456, DEV4567, IPs: 192.168.1.15, 192.168.1.16.
+
+12. [07:44:12] Mariana Torres - Fraudulent - Account creation attempts with different personal information but consistent device details. Device IDs: DEV3456, DEV4567, IPs: 192.168.1.15, 192.168.1.16.
+
+13. [07:45:28] Mariana Torres - Fraudulent - Multiple account creation attempts using similar personal information and device details. Device IDs: DEV5678, DEV6789, IPs: 192.168.1.17, 192.168.1.18.
+
+14. [07:46:43] Mariana Torres - Fraudulent - Multiple accounts opened with inconsistent personal information but consistent IP address. Device IDs: DEV5678, DEV6789, IPs: 192.168.1.17, 192.168.1.18.
+
+15. [07:47:58] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs detected. IPs: 192.168.1.19, 192.168.1.20.
+
+16. [07:49:15] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.21, 192.168.1.22.
+
+17. [07:50:32] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.21, 192.168.1.22.
+
+18. [07:51:48] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1314, IPs: 192.168.1.23, 192.168.1.24.
+
+19. [07:53:03] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. IPs: 192.168.1.25, 192.168.1.26.
+
+20. [07:54:19] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.27, 192.168.1.28.
+21. [07:55:35] Mariana Torres - Fraudulent - Multiple accounts opened with the same personal information and device IDs but different IP addresses. Device IDs: DEV2468, DEV9101, IPs: 192.168.1.29, 192.168.1.30.
+
+22. [07:56:52] Mariana Torres - Fraudulent - Account creation attempts with similar personal information but different device IDs and IP addresses. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.31, 192.168.1.32.
+
+23. [07:58:10] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV8901, DEV2468, IPs: 192.168.1.33, 192.168.1.34.
+
+24. [07:59:28] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1314, IPs: 192.168.1.35, 192.168.1.36.
+
+25. [08:00:46] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. IPs: 192.168.1.37, 192.168.1.38.
+
+26. [08:02:04] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.39, 192.168.1.40.
+
+27. [08:03:21] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.41, 192.168.1.42.
+
+28. [08:04:39] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1314, IPs: 192.168.1.43, 192.168.1.44.
+
+29. [08:05:57] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. IPs: 192.168.1.45, 192.168.1.46.
+
+30. [08:07:15] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.47, 192.168.1.48.
+31. [08:08:33] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV1230, IPs: 192.168.1.49, 192.168.1.50.
+
+32. [08:09:41] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1314, IPs: 192.168.1.51, 192.168.1.52.
+
+33. [08:10:59] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. IPs: 192.168.1.53, 192.168.1.54.
+
+34. [08:12:17] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.55, 192.168.1.56.
+
+35. [08:13:35] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.57, 192.168.1.58.
+
+36. [08:14:53] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1230, IPs: 192.168.1.59, 192.168.1.60.
+
+37. [08:15:11] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. IPs: 192.168.1.61, 192.168.1.62.
+
+38. [08:16:29] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.63, 192.168.1.64.
+
+39. [08:17:47] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.65, 192.168.1.66.
+
+40. [08:18:03] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1230, IPs: 192.168.1.67, 192.168.1.68.
+41. [08:20:25] Mariana Torres - Fraudulent - Multiple account creation attempts with identical personal information and device IDs. Device IDs: DEV9101, DEV1230, IPs: 192.168.1.69, 192.168.1.70.
+
+42. [08:21:38] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.71, 192.168.1.72.
+
+43. [08:23:52] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.73, 192.168.1.74.
+
+44. [08:25:14] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.75, 192.168.1.76.
+
+45. [08:26:30] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1230, IPs: 192.168.1.77, 192.168.1.78.
+
+46. [08:27:45] Mariana Torres - Fraudulent - Account creation attempts with identical personal information and device IDs. Device IDs: DEV9101, DEV1230, IPs: 192.168.1.79, 192.168.1.80.
+
+47. [08:29:05] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.81, 192.168.1.82.
+
+48. [08:30:21] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.83, 192.168.1.84.
+
+49. [08:31:37] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.85, 192.168.1.86.
+
+50. [08:32:54] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1230, IPs: 192.168.1.87, 192.168.1.88.
+51. [08:33:12] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.89, 192.168.1.90.
+
+52. [08:33:30] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.91, 192.168.1.92.
+
+53. [08:34:45] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV8901, IPs: 192.168.1.93, 192.168.1.94.
+
+54. [08:35:02] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1230, IPs: 192.168.1.95, 192.168.1.96.
+
+55. [08:35:21] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.97, 192.168.1.98.
+
+56. [08:35:41] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 192.168.1.99, 10.0.0.1.
+
+57. [08:36:02] Mariana Torres - Fraudulent - Account creation attempts with inconsistent personal information and device IDs. Device IDs: DEV7890, DEV8901, IPs: 10.0.0.2, 10.0.0.3.
+
+58. [08:36:24] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV9101, DEV1230, IPs: 10.0.0.4, 10.0.0.5.
+
+59. [08:36:46] Mariana Torres - Fraudulent - Account creation attempts with minor variations in personal information and device IDs. Device IDs: DEV1314, DEV2468, IPs: 10.0.0.6, 10.0.0.7.
+
+60. [08:37:09] Mariana Torres - Fraudulent - Multiple accounts opened with similar personal information but different device IDs and IP addresses. Device IDs: DEV1314, DEV2468, IPs: 10.0.0.8, 10.0.0.9.
+

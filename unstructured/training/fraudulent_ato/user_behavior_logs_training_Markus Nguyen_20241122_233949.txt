@@ -1,0 +1,59 @@
+User ID: Markus Nguyen
+- 
+1. [2023-01-01 12:30:15] - Markus Nguyen (fraudulent) - Attempted to access account from New York, USA. Device ID: ABCDEFGHIJK.
+2. [2023-01-01 13:20:45] - Markus Nguyen (fraudulent) - Failed attempt to access account from Sydney, Australia. Device ID: ABCDEFGHIJK.
+3. [2023-01-01 13:37:12] - Markus Nguyen (fraudulent) - Successfully accessed account from Paris, France. Device ID: LMNOPQRSTUVWXYZ.
+4. [2023-01-01 14:05:28] - Markus Nguyen (fraudulent) - Failed attempt to access account from Tokyo, Japan. Device ID: LMNOPQRSTUVWXYZ.
+5. [2023-01-01 14:17:12] - Markus Nguyen (fraudulent) - Successfully accessed account from Moscow, Russia. Device ID: ABCDEFGHIJK.
+6. [2023-01-01 15:03:39] - Markus Nguyen (fraudulent) - Failed attempt to access account from Rio de Janeiro, Brazil. Device ID: LMNOPQRSTUVWXYZ.
+7. [2023-01-01 15:48:00] - Markus Nguyen (fraudulent) - Successfully accessed account from Istanbul, Turkey. Device ID: ABCDEFGHIJK.
+8. [2023-01-01 16:19:15] - Markus Nguyen (fraudulent) - Failed attempt to access account from Auckland, New Zealand. Device ID: LMNOPQRSTUVWXYZ.
+9. [2023-01-01 16:47:28] - Markus Nguyen (fraudulent) - Successfully accessed account from Cape Town, South Africa. Device ID: ABCDEFGHIJK.
+10. [2023-01-01 17:25:00] - Markus Nguyen (fraudulent) - Failed attempt to access account from London, United Kingdom. Device ID: LMNOPQRSTUVWXYZ.
+11. [2023-01-01 17:54:45] - Markus Nguyen (fraudulent) - Successfully accessed account from Dubai, United Arab Emirates. Device ID: ABCDEFGHIJK.
+12. [2023-01-01 18:29:32] - Markus Nguyen (fraudulent) - Failed attempt to access account from Copenhagen, Denmark. Device ID: LMNOPQRSTUVWXYZ.
+13. [2023-01-01 18:49:57] - Markus Nguyen (fraudulent) - Successfully accessed account from Oslo, Norway. Device ID: ABCDEFGHIJK.
+14. [2023-01-01 19:26:02] - Markus Nguyen (fraudulent) - Failed attempt to access account from Seoul, South Korea. Device ID: LMNOPQRSTUVWXYZ.
+15. [2023-01-01 19:48:27] - Markus Nguyen (fraudulent) - Successfully accessed account from Tokyo, Japan again. Device ID: ABCDEFGHIJK.
+16. [2023-01-01 20:25:00] - Markus Nguyen (fraudulent) - Failed attempt to access account from Sydney, Australia. Device ID: LMNOPQRSTUVWXYZ.
+17. [2023-01-01 20:49:59] - Markus Nguyen (fraudulent) - Successfully accessed account from Melbourne, Australia. Device ID: ABCDEFGHIJK.
+18. [2023-01-01 21:26:22] - Markus Nguyen (fraudulent) - Failed attempt to access account from Santiago, Chile. Device ID: LMNOPQRSTUVWXYZ.
+19. [2023-01-01 21:45:45] - Markus Nguyen (fraudulent) - Successfully accessed account from Buenos Aires, Argentina. Device ID: ABCDEFGHIJK.
+20. [2023-01-01 22:38:09] - Markus Nguyen (fraudulent) - Failed attempt to access account from Sao Paulo, Brazil. Device ID: LMNOPQRSTUVWXYZ.
+21. [2023-01-01 23:17:51] - Markus Nguyen (fraudulent) - Failed attempt to access account from Bogota, Colombia. Device ID: ABCDEFGHIJK.
+22. [2023-01-02 00:49:18] - Markus Nguyen (fraudulent) - Successfully accessed account from Lima, Peru. Device ID: LMNOPQRSTUVWXYZ.
+23. [2023-01-02 01:57:46] - Markus Nguyen (fraudulent) - Failed attempt to access account from Quito, Ecuador. Device ID: ABCDEFGHIJK.
+24. [2023-01-02 03:08:35] - Markus Nguyen (fraudulent) - Successfully accessed account from Rio de Janeiro, Brazil. Device ID: LMNOPQRSTUVWXYZ.
+25. [2023-01-02 04:42:59] - Markus Nguyen (fraudulent) - Failed attempt to access account from Caracas, Venezuela. Device ID: ABCDEFGHIJK.
+26. [2023-01-02 05:47:01] - Markus Nguyen (fraudulent) - Successfully accessed account from Santiago de Cuba, Cuba. Device ID: LMNOPQRSTUVWXYZ.
+27. [2023-01-02 06:58:36] - Markus Nguyen (fraudulent) - Failed attempt to access account from Mexico City, Mexico. Device ID: ABCDEFGHIJK.
+28. [2023-01-02 08:09:07] - Markus Nguyen (fraudulent) - Successfully accessed account from Guatemala City, Guatemala. Device ID: LMNOPQRSTUVWXYZ.
+29. [2023-01-02 09:45:48] - Markus Nguyen (fraudulent) - Failed attempt to access account from Panama City, Panama. Device ID: ABCDEFGHIJK.
+30. [2023-01-02 10:56:09] - Markus Nguyen (fraudulent) - Successfully accessed account from San Jose, Costa Rica. Device ID: LMNOPQRSTUVWXYZ.
+31. [2023-01-02 12:27:20] - Markus Nguyen (fraudulent) - Failed attempt to access account from Managua, Nicaragua. Device ID: ABCDEFGHIJK.
+32. [2023-01-02 14:18:52] - Markus Nguyen (fraudulent) - Successfully accessed account from Tegucigalpa, Honduras. Device ID: LMNOPQRSTUVWXYZ.
+33. [2023-01-02 16:59:17] - Markus Nguyen (fraudulent) - Failed attempt to access account from Belize City, Belize. Device ID: ABCDEFGHIJK.
+34. [2023-01-02 18:35:09] - Markus Nguyen (fraudulent) - Successfully accessed account from San Salvador, El Salvador. Device ID: LMNOPQRSTUVWXYZ.
+35. [2023-01-02 20:46:51] - Markus Nguyen (fraudulent) - Failed attempt to access account from Guatemala City, Guatemala. Device ID: ABCDEFGHIJK.
+36. [2023-01-02 22:18:45] - Markus Nguyen (fraudulent) - Successfully accessed account from San Jose, Costa Rica. Device ID: LMNOPQRSTUVWXYZ.
+37. [2023-01-03 00:59:19] - Markus Nguyen (fraudulent) - Failed attempt to access account from David, Panama. Device ID: ABCDEFGHIJK.
+38. [2023-01-03 02:46:27] - Markus Nguyen (fraudulent) - Successfully accessed account from Quetzaltenango, Guatemala. Device ID: LMNOPQRSTUVWXYZ.
+39. [2023-01-03 04:47:55] - Markus Nguyen (fraudulent) - Failed attempt to access account from Cartagena, Colombia. Device ID: ABCDEFGHIJK.
+40. [2023-01-03 06:27:42] - Markus Nguyen (fraudulent) - Successfully accessed account from San José, Costa Rica. Device ID: LMNOPQRSTUVWXYZ.
+41. [2023-01-03 08:59:01] - Markus Nguyen (fraudulent) - Failed attempt to access account from Managua, Nicaragua. Device ID: ABCDEFGHIJK.
+42. [2023-01-03 10:58:49] - Markus Nguyen (fraudulent) - Successfully accessed account from Panama City, Panama. Device ID: LMNOPQRSTUVWXYZ.
+43. [2023-01-03 13:26:15] - Markus Nguyen (fraudulent) - Failed attempt to access account from San Salvador, El Salvador. Device ID: ABCDEFGHIJK.
+44. [2023-01-03 15:19:58] - Markus Nguyen (fraudulent) - Successfully accessed account from Tegucigalpa, Honduras. Device ID: LMNOPQRSTUVWXYZ.
+45. [2023-01-03 17:49:46] - Markus Nguyen (fraudulent) - Failed attempt to access account from Belize City, Belize. Device ID: ABCDEFGHIJK.
+46. [2023-01-03 19:58:54] - Markus Nguyen (fraudulent) - Successfully accessed account from Guatemala City, Guatemala. Device ID: LMNOPQRSTUVWXYZ.
+[2023-01-03 22:27:59] - Markus Nguyen (fraudulent) - Failed attempt to access account from San Pedro Sula, Honduras. Device ID: ABCDEFGHIJK.
+[2023-01-04 00:46:45] - Markus Nguyen (fraudulent) - Successfully accessed account from Roatán, Honduras. Device ID: LMNOPQRSTUVWXYZ.
+[2023-01-04 02:59:16] - Markus Nguyen (fraudulent) - Failed attempt to access account from Cancún, Mexico. Device ID: ABCDEFGHIJK.
+[2023-01-04 05:18:09] - Markus Nguyen (fraudulent) - Successfully accessed account from Mérida, Mexico. Device ID: LMNOPQRSTUVWXYZ.
+[2023-01-04 07:25:56] - Markus Nguyen (fraudulent) - Failed attempt to access account from Tijuana, Mexico. Device ID: ABCDEFGHIJK.
+[2023-01-04 09:47:47] - Markus Nguyen (fraudulent) - Successfully accessed account from Ciudad Juárez, Mexico. Device ID: LMNOPQRSTUVWXYZ.
+[2023-01-04 11:55:16] - Markus Nguyen (fraudulent) - Failed attempt to access account from Hermosillo, Mexico. Device ID: ABCDEFGHIJK.
+[2023-01-04 14:28:39] - Markus Nguyen (fraudulent) - Successfully accessed account from Guadalajara, Mexico. Device ID: LMNOPQRSTUVWXYZ.
+[2023-01-04 16:51:44] - Markus Nguyen (fraudulent) - Failed attempt to access account from Oaxaca de Juárez, Mexico. Device ID: ABCDEFGHIJK.
+[2023-01-04 19:15:27] - Markus Nguyen (fraudulent) - Successfully accessed account from Cuernavaca, Mexico. Device ID: LMNOPQRSTUVWXYZ.
+

@@ -1,0 +1,105 @@
+User ID: Raelynn Nelson
+- 
+[2023-03-18 12:35:09] [fraudulent] User Raelynn Nelson attempted to make a purchase of $750 worth of electronic accessories from an online store using the stolen credit card information. The transaction was blocked by the fraud detection system, which identified the IP address as originating from Moscow, Russia.
+
+[2023-03-19 02:10:47] [fraudulent] User Raelynn Nelson attempted to make another purchase of $600 worth of luxury clothing items from an upscale online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a mobile phone with the MAC address 00:1A:2F:3C:4D:5B, connected to a Wi-Fi network in Kiev, Ukraine.
+
+[2023-03-20 07:30:28] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,000 worth of airline tickets from a popular booking website using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the IP address as originating from São Paulo, Brazil.
+
+[2023-03-21 14:58:09] [fraudulent] User Raelynn Nelson attempted to make a purchase of $850 worth of hotel accommodations for an upcoming trip using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a laptop with the serial number A123B456C789D0, connected to a Wi-Fi network in Bangkok, Thailand.
+
+[2023-03-22 18:00:45] [fraudulent] User Raelynn Nelson attempted to make a purchase of $900 worth of jewelry items from a reputable online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the IP address as originating from Sydney, Australia.
+
+[2023-03-23 21:15:22] [fraudulent] User Raelynn Nelson attempted to make a purchase of $700 worth of high-end electronics from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a tablet with the model number TAB123456789, connected to a Wi-Fi network in Tokyo, Japan.
+
+[2023-03-24 04:05:13] [fraudulent] User Raelynn Nelson attempted to make a purchase of $800 worth of luxury watches from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the IP address as originating from Dubai, United Arab Emirates.
+
+[2023-03-25 14:45:08] [fraudulent] User Raelynn Nelson attempted to make a purchase of $650 worth of designer handbags from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smartphone with the IMEI number 123456789012345, connected to a Wi-Fi network in Frankfurt, Germany.
+
+[2023-03-26 19:30:45] [fraudulent] User Raelynn Nelson attempted to make a purchase of $500 worth of art prints and framing services from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the IP address as originating from Toronto, Canada.
+
+[2023-03-27 22:45:37] [fraudulent] User Raelynn Nelson attempted to make a purchase of $450 worth of gourmet food items and wine from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a desktop computer with the serial number 123-DESKTOP-456789, connected to a Wi-Fi network in Rio de Janeiro, Brazil.
+[2023-03-28 01:15:22] [fraudulent] User Raelynn Nelson attempted to make a purchase of $700 worth of designer clothing and accessories from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a tablet with the model number 123-TAB-456789, connected to a mobile network in Tokyo, Japan.
+
+[2023-03-28 05:30:10] [fraudulent] User Raelynn Nelson attempted to make a purchase of $800 worth of electronics and home appliances from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smartphone with the IMEI number 123456789012346, connected to a Wi-Fi network in Moscow, Russia.
+
+[2023-03-29 10:45:38] [fraudulent] User Raelynn Nelson attempted to make a purchase of $900 worth of luxury watches and jewelry from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a tablet with the model number 123-TAB-456789, connected to a mobile network in Singapore, Singapore.
+
+[2023-03-29 18:00:24] [fraudulent] User Raelynn Nelson attempted to make a purchase of $500 worth of children's toys and games from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a desktop computer with the serial number 123-DESKTOP-456789, connected to a mobile network in Sydney, Australia.
+
+[2023-03-30 21:30:15] [fraudulent] User Raelynn Nelson attempted to make a purchase of $600 worth of furniture and home decor from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smartphone with the IMEI number 123456789012347, connected to a Wi-Fi network in Seoul, South Korea.
+
+[2023-03-31 00:15:32] [fraudulent] User Raelynn Nelson attempted to make a purchase of $400 worth of sports equipment and outdoor gear from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a tablet with the model number 123-TAB-456789, connected to a Wi-Fi network in Dubai, United Arab Emirates.
+
+[2023-03-31 04:45:29] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,000 worth of cosmetics and beauty products from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a desktop computer with the serial number 123-DESKTOP-456789, connected to a mobile network in Paris, France.
+
+[2023-03-31 11:15:36] [fraudulent] User Raelynn Nelson attempted to make a purchase of $700 worth of pet supplies and accessories from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smartphone with the IMEI number 123456789012348, connected to a mobile network in Madrid, Spain.
+
+[2023-03-31 20:00:48] [fraudulent] User Raelynn Nelson attempted to make a purchase of $800 worth of travel and vacation packages from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a tablet with the model number 123-TAB-456789, connected to a mobile network in New York City, USA.
+[2023-03-31 21:30:59] [fraudulent] User Raelynn Nelson attempted to make a purchase of $900 worth of electronics and gadgets from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a laptop with the serial number 123-LAP-456789, connected to a mobile network in Tokyo, Japan.
+
+[2023-03-31 23:20:15] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,000 worth of clothing and accessories from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a gaming console with the serial number 123-GCON-456789, connected to a mobile network in Rome, Italy.
+
+[2023-04-01 01:30:28] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,100 worth of health and beauty products from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart TV with the model number 123-TV-456789, connected to a mobile network in Sydney, Australia.
+
+[2023-04-01 04:30:41] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,200 worth of home and garden items from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smartwatch with the serial number 123-SWAT-456789, connected to a mobile network in Berlin, Germany.
+
+[2023-04-01 06:05:12] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,300 worth of toys and games from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a digital camera with the model number 123-DCAM-456789, connected to a mobile network in Seoul, South Korea.
+
+[2023-04-01 08:05:24] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,400 worth of books and magazines from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a drone with the serial number 123-DRONE-456789, connected to a mobile network in Istanbul, Turkey.
+
+[2023-04-01 11:15:36] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,500 worth of sports and outdoor equipment from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a bluetooth speaker with the model number 123-BSPKR-456789, connected to a mobile network in Dubai, United Arab Emirates.
+
+[2023-04-01 14:30:41] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,600 worth of musical instruments and accessories from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a webcam with the model number 123-WEBCAM-456789, connected to a mobile network in Singapore.
+
+[2023-04-01 17:05:12] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,700 worth of arts and crafts supplies from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a portable charger with the model number 123-CHGR-456789, connected to a mobile network in Stockholm, Sweden.
+
+[2023-04-01 19:30:24] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,800 worth of furniture and appliances from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart thermostat with the serial number 123-THERMO-456789, connected to a mobile network in Buenos Aires, Argentina.
+[2023-04-02 00:55:33] [fraudulent] User Raelynn Nelson attempted to make a purchase of $2,000 worth of electronics and gadgets from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a wireless router with the model number 123-ROUTER-456789, connected to a mobile network in Tokyo, Japan.
+
+[2023-04-02 02:20:45] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,500 worth of clothing and accessories from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a Bluetooth headset with the model number 123-HEADSET-456789, connected to a mobile network in Rio de Janeiro, Brazil.
+
+[2023-04-02 04:00:56] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,200 worth of health and beauty products from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smartwatch with the model number 123-WATCH-456789, connected to a mobile network in Paris, France.
+
+[2023-04-02 05:20:08] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,100 worth of toys and games from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a drone with the model number 123-DRONE-456789, connected to a mobile network in Berlin, Germany.
+
+[2023-04-02 06:50:19] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,300 worth of automotive and motorcycle parts from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a GPS tracker with the model number 123-GPS-456789, connected to a mobile network in Sydney, Australia.
+
+[2023-04-02 08:00:21] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,600 worth of musical instruments and equipment from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a wireless microphone with the model number 123-MICROPHONE-456789, connected to a mobile network in New Delhi, India.
+
+[2023-04-02 09:05:32] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,400 worth of educational and office supplies from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a portable scanner with the model number 123-SCANNER-456789, connected to a mobile network in Johannesburg, South Africa.
+
+[2023-04-02 09:30:43] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,900 worth of sports and outdoor equipment from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a bike lock with the model number 123-BIKELOCK-456789, connected to a mobile network in Seoul, South Korea.
+[2023-04-02 09:56:21] [fraudulent] User Raelynn Nelson attempted to make a purchase of $2,300 worth of electronics from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a wireless headphone with the model number 123-HEADPHONE-456789, connected to a mobile network in Sydney, Australia.
+
+[2023-04-02 10:12:08] [fraudulent] User Raelynn Nelson attempted to make a purchase of $2,700 worth of luxury clothing from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smartwatch with the model number 123-SMARTWATCH-456789, connected to a mobile network in Dubai, United Arab Emirates.
+
+[2023-04-02 10:29:43] [fraudulent] User Raelynn Nelson attempted to make a purchase of $3,100 worth of jewelry from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a portable Bluetooth speaker with the model number 123-SPEAKER-456789, connected to a mobile network in London, United Kingdom.
+
+[2023-04-02 10:47:21] [fraudulent] User Raelynn Nelson attempted to make a purchase of $3,500 worth of luxury furniture from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a digital photo frame with the model number 123-PHOTOFRAME-456789, connected to a mobile network in Tokyo, Japan.
+
+[2023-04-02 11:04:34] [fraudulent] User Raelynn Nelson attempted to make a purchase of $3,900 worth of gourmet food and wine from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart oven with the model number 123-OVEN-456789, connected to a mobile network in Paris, France.
+
+[2023-04-02 11:19:48] [fraudulent] User Raelynn Nelson attempted to make a purchase of $4,200 worth of high-end appliances from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a robotic vacuum cleaner with the model number 123-VACUUM-456789, connected to a mobile network in Berlin, Germany.
+
+[2023-04-02 11:35:21] [fraudulent] User Raelynn Nelson attempted to make a purchase of $4,500 worth of luxury cosmetics and beauty products from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a wireless charging pad with the model number 123-CHARGER-456789, connected to a mobile network in Madrid, Spain.
+
+[2023-04-02 11:51:34] [fraudulent] User Raelynn Nelson attempted to make a purchase of $4,800 worth of high-end electronics from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a virtual reality headset with the model number 123-VRHEADSET-456789, connected to a mobile network in Singapore, Singapore.
+[2023-04-02 12:13:55] [fraudulent] User Raelynn Nelson attempted to make a purchase of $5,000 worth of luxury watches from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart home hub with the model number 123-HUB-456789, connected to a mobile network in Tokyo, Japan.
+
+[2023-04-02 12:29:36] [fraudulent] User Raelynn Nelson attempted to make a purchase of $4,000 worth of designer clothing from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a wearable fitness tracker with the model number 123-FITNESS-456789, connected to a mobile network in Paris, France.
+
+[2023-04-02 13:08:18] [fraudulent] User Raelynn Nelson attempted to make a purchase of $3,500 worth of high-end kitchen appliances from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart home security camera with the model number 123-CAMERA-456789, connected to a mobile network in Sydney, Australia.
+
+[2023-04-02 13:33:45] [fraudulent] User Raelynn Nelson attempted to make a purchase of $2,500 worth of luxury handbags from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart door lock with the model number 123-LOCK-456789, connected to a mobile network in Dubai, United Arab Emirates.
+
+[2023-04-02 14:04:21] [fraudulent] User Raelynn Nelson attempted to make a purchase of $2,000 worth of premium coffee machines from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart thermostat with the model number 123-THERMOSTAT-456789, connected to a mobile network in New York City, United States of America.
+
+[2023-04-02 14:41:36] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,500 worth of high-end headphones from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart speaker with the model number 123-SPEAKER-456789, connected to a mobile network in Amsterdam, Netherlands.
+
+[2023-04-02 15:21:15] [fraudulent] User Raelynn Nelson attempted to make a purchase of $1,000 worth of premium furniture from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart light bulb with the model number 123-BULB-456789, connected to a mobile network in Barcelona, Spain.
+
+[2023-04-02 16:04:40] [fraudulent] User Raelynn Nelson attempted to make a purchase of $700 worth of luxury jewelry from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart water leak detector with the model number 123-DETECTOR-456789, connected to a mobile network in Rome, Italy.
+
+[2023-04-02 16:50:59] [fraudulent] User Raelynn Nelson attempted to make a purchase of $500 worth of premium eyewear from an online store using the same stolen credit card information. The transaction was blocked by the fraud detection system, which identified the device as a smart home monitoring camera with the model number 123-MONITOR-456789, connected to a mobile network in Toronto, Canada.
+

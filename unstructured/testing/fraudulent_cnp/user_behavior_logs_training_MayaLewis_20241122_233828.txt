@@ -1,0 +1,191 @@
+User ID: Maya Lewis
+- 
+[10/25/2022 18:30] [fraudulent] User Maya Lewis attempted to create a new account with Bank A using the stolen identity of John Doe. The device used was a Samsung Galaxy S20, connected to the network "WiFi_CoffeeShop_42".
+
+[10/26/2022 08:50] [fraudulent] User Maya Lewis successfully created an account with Bank A using the stolen identity of John Doe. The device used was a Huawei P30 Lite, connected to the network "WiFi_Mall_Public".
+
+[10/27/2022 15:20] [fraudulent] User Maya Lewis attempted to create a new account with Bank B using the stolen identity of Jane Smith. The device used was an iPhone XR, connected to the network "Home_Wifi".
+
+[10/28/2022 09:35] [fraudulent] User Maya Lewis successfully created an account with Bank B using the stolen identity of Jane Smith. The device used was a Google Pixel 4a, connected to the network "WiFi_Library".
+
+[10/29/2022 17:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank C using the stolen identity of Michael Johnson. The device used was a Xiaomi Redmi Note 8, connected to the network "Cafe_Wifi".
+
+[10/30/2022 14:25] [fraudulent] User Maya Lewis successfully created an account with Bank C using the stolen identity of Michael Johnson. The device used was a Samsung Galaxy A50, connected to the network "Public_Wifi".
+
+[11/01/2022 09:10] [fraudulent] User Maya Lewis attempted to create a new account with Bank D using the stolen identity of Laura Williams. The device used was an Oppo A5 2020, connected to the network "WiFi_Hotel".
+
+[11/02/2022 16:40] [fraudulent] User Maya Lewis successfully created an account with Bank D using the stolen identity of Laura Williams. The device used was a OnePlus Nord, connected to the network "WiFi_Conference_Center".
+
+[11/03/2022 10:50] [fraudulent] User Maya Lewis attempted to create a new account with Bank E using the stolen identity of Christopher Brown. The device used was a Nokia 6.2, connected to the network "WiFi_Park".
+
+[11/04/2022 15:30] [fraudulent] User Maya Lewis successfully created an account with Bank E using the stolen identity of Christopher Brown. The device used was a Sony Xperia L3, connected to the network "WiFi_Gym".
+[11/05/2022 08:20] [fraudulent] User Maya Lewis attempted to create a new account with Bank F using the stolen identity of Jessica Taylor. The device used was an iPhone SE, connected to the network "Coffee_Shop_Wifi".
+
+[11/06/2022 14:50] [fraudulent] User Maya Lewis successfully created an account with Bank F using the stolen identity of Jessica Taylor. The device used was a Xiaomi Redmi Note 9, connected to the network "WiFi_Library".
+
+[11/07/2022 07:40] [fraudulent] User Maya Lewis attempted to create a new account with Bank G using the stolen identity of Emily Thompson. The device used was a Huawei P30 Lite, connected to the network "Restaurant_Wifi".
+
+[11/08/2022 14:30] [fraudulent] User Maya Lewis successfully created an account with Bank G using the stolen identity of Emily Thompson. The device used was a Samsung Galaxy A20e, connected to the network "Café_Wifi".
+
+[11/09/2022 09:10] [fraudulent] User Maya Lewis attempted to create a new account with Bank H using the stolen identity of David Harris. The device used was an LG Stylus 3, connected to the network "Airport_Wifi".
+
+[11/10/2022 17:50] [fraudulent] User Maya Lewis successfully created an account with Bank H using the stolen identity of David Harris. The device used was a Motorola Moto G7 Power, connected to the network "Mall_Wifi".
+
+[11/11/2022 10:30] [fraudulent] User Maya Lewis attempted to create a new account with Bank I using the stolen identity of Sarah Johnson. The device used was a Nokia 5.4, connected to the network "Hotel_Wifi".
+
+[11/12/2022 16:40] [fraudulent] User Maya Lewis successfully created an account with Bank I using the stolen identity of Sarah Johnson. The device used was a Vivo Y30, connected to the network "Train_Wifi".
+
+[11/13/2022 09:00] [fraudulent] User Maya Lewis attempted to create a new account with Bank J using the stolen identity of Mark Davis. The device used was a Samsung Galaxy A10e, connected to the network "Bus_Wifi".
+
+[11/14/2022 17:50] [fraudulent] User Maya Lewis successfully created an account with Bank J using the stolen identity of Mark Davis. The device used was a Realme C3, connected to the network "Park_Wifi".
+[11/15/2022 08:20] [fraudulent] User Maya Lewis attempted to create a new account with Bank K using the stolen identity of Jennifer Thompson. The device used was an OPPO A53, connected to the network "Cafe_Wifi".
+
+[11/16/2022 20:35] [fraudulent] User Maya Lewis successfully created an account with Bank K using the stolen identity of Jennifer Thompson. The device used was a Xiaomi Redmi Note 7, connected to the network "University_Wifi".
+
+[11/17/2022 14:50] [fraudulent] User Maya Lewis attempted to create a new account with Bank L using the stolen identity of William Brown. The device used was an Infinix Hot 8, connected to the network "Library_Wifi".
+
+[11/18/2022 06:45] [fraudulent] User Maya Lewis successfully created an account with Bank L using the stolen identity of William Brown. The device used was a TECNO Spark 5, connected to the network "Airport_Wifi".
+
+[11/19/2022 13:20] [fraudulent] User Maya Lewis attempted to create a new account with Bank M using the stolen identity of Emma Wilson. The device used was a Motorola G8 Power Lite, connected to the network "Mall_Wifi".
+
+[11/20/2022 19:35] [fraudulent] User Maya Lewis successfully created an account with Bank M using the stolen identity of Emma Wilson. The device used was a Nokia C2 Tava, connected to the network "Coffee_Shop_Wifi".
+
+[11/21/2022 08:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank N using the stolen identity of James Anderson. The device used was an Infinix Smart HD, connected to the network "Train_Wifi".
+
+[11/22/2022 17:50] [fraudulent] User Maya Lewis successfully created an account with Bank N using the stolen identity of James Anderson. The device used was a TECNO Spark 6 Go, connected to the network "Bus_Wifi".
+
+[11/23/2022 10:30] [fraudulent] User Maya Lewis attempted to create a new account with Bank O using the stolen identity of Michelle Clark. The device used was an OPPO A54, connected to the network "Park_Wifi".
+
+[11/24/2022 16:30] [fraudulent] User Maya Lewis successfully created an account with Bank O using the stolen identity of Michelle Clark. The device used was a Realme C11, connected to the network "University_Wifi".
+[11/25/2022 09:05] [fraudulent] User Maya Lewis attempted to create a new account with Bank P using the stolen identity of Richard Johnson. The device used was an Infinix Hot 10 Play, connected to the network "Coffee_Shop_Wifi".
+
+[11/26/2022 14:50] [fraudulent] User Maya Lewis successfully created an account with Bank P using the stolen identity of Richard Johnson. The device used was a Nokia C3, connected to the network "Train_Wifi".
+
+[11/27/2022 09:00] [fraudulent] User Maya Lewis attempted to create a new account with Bank Q using the stolen identity of Sarah Brown. The device used was a Samsung Galaxy A03 Core, connected to the network "Bus_Wifi".
+
+[11/28/2022 16:05] [fraudulent] User Maya Lewis successfully created an account with Bank Q using the stolen identity of Sarah Brown. The device used was a TECNO Spark 7 Pro, connected to the network "Park_Wifi".
+
+[11/29/2022 11:30] [fraudulent] User Maya Lewis attempted to create a new account with Bank R using the stolen identity of Thomas Williams. The device used was an OPPO A53, connected to the network "University_Wifi".
+
+[11/30/2022 18:20] [fraudulent] User Maya Lewis successfully created an account with Bank R using the stolen identity of Thomas Williams. The device used was a Realme Narzo 50i, connected to the network "Coffee_Shop_Wifi".
+
+[12/01/2022 08:45] [fraudulent] User Maya Lewis attempted to create a new account with Bank S using the stolen identity of Emma Johnson. The device used was an Infinix Smart HD Plus, connected to the network "Train_Wifi".
+
+[12/02/2022 17:10] [fraudulent] User Maya Lewis successfully created an account with Bank S using the stolen identity of Emma Johnson. The device used was a Nokia G11, connected to the network "Bus_Wifi".
+
+[12/03/2022 10:50] [fraudulent] User Maya Lewis attempted to create a new account with Bank T using the stolen identity of Michael Anderson. The device used was a Samsung Galaxy M02, connected to the network "Park_Wifi".
+
+[12/04/2022 16:35] [fraudulent] User Maya Lewis successfully created an account with Bank T using the stolen identity of Michael Anderson. The device used was a TECNO Spark 7, connected to the network "University_Wifi".
+[12/05/2022 09:30] [fraudulent] User Maya Lewis attempted to create a new account with Bank U using the stolen identity of Lisa Martinez. The device used was an OPPO A12, connected to the network "Cafe_Wifi".
+
+[12/06/2022 14:45] [fraudulent] User Maya Lewis successfully created an account with Bank U using the stolen identity of Lisa Martinez. The device used was a Moto G Play, connected to the network "Mall_Wifi".
+
+[12/07/2022 10:20] [fraudulent] User Maya Lewis attempted to create a new account with Bank V using the stolen identity of James Brown. The device used was a Huawei Y5p, connected to the network "Library_Wifi".
+
+[12/08/2022 17:45] [fraudulent] User Maya Lewis successfully created an account with Bank V using the stolen identity of James Brown. The device used was a Xiaomi Redmi 9A, connected to the network "Gym_Wifi".
+
+[12/09/2022 08:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank W using the stolen identity of Daniel Clark. The device used was a Motorola Moto E, connected to the network "Restaurant_Wifi".
+
+[12/10/2022 16:15] [fraudulent] User Maya Lewis successfully created an account with Bank W using the stolen identity of Daniel Clark. The device used was a ZTE Blade A7, connected to the network "Hotel_Wifi".
+
+[12/11/2022 10:35] [fraudulent] User Maya Lewis attempted to create a new account with Bank X using the stolen identity of Sarah Davis. The device used was an Infinix Smart HD Plus, connected to the network "Airport_Wifi".
+
+[12/12/2022 17:45] [fraudulent] User Maya Lewis successfully created an account with Bank X using the stolen identity of Sarah Davis. The device used was a LG Stylus 3, connected to the network "Airport_Wifi".
+
+[12/13/2022 09:15] [fraudulent] User Maya Lewis attempted to create a new account with Bank Y using the stolen identity of John Taylor. The device used was a Samsung Galaxy A03, connected to the network "Beach_Wifi".
+
+[12/14/2022 16:50] [fraudulent] User Maya Lewis successfully created an account with Bank Y using the stolen identity of John Taylor. The device used was a Vivo Y31, connected to the network "Beach_Wifi".
+[12/15/2022 09:30] [fraudulent] User Maya Lewis attempted to create a new account with Bank Z using the stolen identity of Emily Thompson. The device used was an OPPO A1K, connected to the network "Coffee_Shop_Wifi".
+
+[12/16/2022 14:15] [fraudulent] User Maya Lewis successfully created an account with Bank Z using the stolen identity of Emily Thompson. The device used was a Tecno Spark 7, connected to the network "Coffee_Shop_Wifi".
+
+[12/18/2022 09:45] [fraudulent] User Maya Lewis attempted to create a new account with Bank A using the stolen identity of Laura Brown. The device used was an Infinix Hot 7, connected to the network "Bus_Wifi".
+
+[12/20/2022 18:35] [fraudulent] User Maya Lewis successfully created an account with Bank A using the stolen identity of Laura Brown. The device used was a Xiaomi Redmi 7A, connected to the network "Bus_Wifi".
+
+[12/21/2022 08:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank B using the stolen identity of Michael Johnson. The device used was a Huawei Y6 Pro 2019, connected to the network "Park_Wifi".
+
+[12/23/2022 15:20] [fraudulent] User Maya Lewis successfully created an account with Bank B using the stolen identity of Michael Johnson. The device used was a Nokia 2.4, connected to the network "Park_Wifi".
+
+[12/24/2022 10:35] [fraudulent] User Maya Lewis attempted to create a new account with Bank C using the stolen identity of Lisa Jackson. The device used was an Itel P33, connected to the network "Mall_Wifi".
+
+[12/26/2022 17:50] [fraudulent] User Maya Lewis successfully created an account with Bank C using the stolen identity of Lisa Jackson. The device used was a Samsung Galaxy M01, connected to the network "Mall_Wifi".
+
+[12/29/2022 14:35] [fraudulent] User Maya Lewis attempted to create a new account with Bank D using the stolen identity of Christopher Adams. The device used was an Alcatel 1X, connected to the network "Train_Wifi".
+
+[12/31/2022 19:15] [fraudulent] User Maya Lewis successfully created an account with Bank D using the stolen identity of Christopher Adams. The device used was a Nokia 1 Plus, connected to the network "Train_Wifi".
+[01/02/2023 08:05] [fraudulent] User Maya Lewis attempted to create a new account with Bank E using the stolen identity of Jennifer Kim. The device used was a Tecno Spark 6, connected to the network "Cafe_Wifi".
+
+[01/04/2023 15:20] [fraudulent] User Maya Lewis successfully created an account with Bank E using the stolen identity of Jennifer Kim. The device used was a Xiaomi Redmi 9, connected to the network "Cafe_Wifi".
+
+[01/07/2023 07:45] [fraudulent] User Maya Lewis attempted to create a new account with Bank F using the stolen identity of Kevin Brown. The device used was an Infinix Smart HD, connected to the network "Library_Wifi".
+
+[01/09/2023 12:50] [fraudulent] User Maya Lewis successfully created an account with Bank F using the stolen identity of Kevin Brown. The device used was a Lenovo A3, connected to the network "Library_Wifi".
+
+[01/11/2023 17:25] [fraudulent] User Maya Lewis attempted to create a new account with Bank G using the stolen identity of Susan Wilson. The device used was a Wiko View 4, connected to the network "Hotel_Wifi".
+
+[01/13/2023 21:50] [fraudulent] User Maya Lewis successfully created an account with Bank G using the stolen identity of Susan Wilson. The device used was a Huawei Y6 Pro, connected to the network "Hotel_Wifi".
+
+[01/16/2023 09:45] [fraudulent] User Maya Lewis attempted to create a new account with Bank H using the stolen identity of Robert Martinez. The device used was an HTC Desire 12, connected to the network "Bus_Wifi".
+
+[01/18/2023 14:50] [fraudulent] User Maya Lewis successfully created an account with Bank H using the stolen identity of Robert Martinez. The device used was a Gionee M6, connected to the network "Bus_Wifi".
+
+[01/20/2023 19:25] [fraudulent] User Maya Lewis attempted to create a new account with Bank I using the stolen identity of Natalie Thompson. The device used was an Asus ZenFone Live, connected to the network "Airport_Wifi".
+
+[01/22/2023 23:50] [fraudulent] User Maya Lewis successfully created an account with Bank I using the stolen identity of Natalie Thompson. The device used was a ZTE Blade A7, connected to the network "Airport_Wifi".
+[01/23/2023 09:15] [fraudulent] User Maya Lewis attempted to create a new account with Bank J using the stolen identity of Michael Johnson. The device used was an Infinix Hot S3, connected to the network "Coffee_Shop_Wifi".
+
+[01/24/2023 14:45] [fraudulent] User Maya Lewis successfully created an account with Bank J using the stolen identity of Michael Johnson. The device used was a Tecno Spark 2, connected to the network "Coffee_Shop_Wifi".
+
+[01/26/2023 08:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank K using the stolen identity of Emma Walker. The device used was a Xiaomi Redmi Note 4, connected to the network "Metro_Station_Wifi".
+
+[01/28/2023 15:10] [fraudulent] User Maya Lewis successfully created an account with Bank K using the stolen identity of Emma Walker. The device used was a Lenovo A2016, connected to the network "Metro_Station_Wifi".
+
+[01/30/2023 20:35] [fraudulent] User Maya Lewis attempted to create a new account with Bank L using the stolen identity of James Adams. The device used was an Alcatel A3, connected to the network "Gym_Wifi".
+
+[01/31/2023 18:45] [fraudulent] User Maya Lewis successfully created an account with Bank L using the stolen identity of James Adams. The device used was a Wiko View 3, connected to the network "Gym_Wifi".
+
+[02/01/2023 19:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank M using the stolen identity of Karen Green. The device used was an Infinix Smart HD, connected to the network "Hospital_Wifi".
+
+[02/03/2023 15:40] [fraudulent] User Maya Lewis successfully created an account with Bank M using the stolen identity of Karen Green. The device used was a Gionee F107, connected to the network "Hospital_Wifi".
+
+[02/05/2023 09:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank N using the stolen identity of Daniel Harris. The device used was an itel P32, connected to the network "Mall_Wifi".
+
+[02/07/2023 14:30] [fraudulent] User Maya Lewis successfully created an account with Bank N using the stolen identity of Daniel Harris. The device used was a ZTE Blade V8 Mini, connected to the network "Mall_Wifi".
+[02/10/2023 09:05] [fraudulent] User Maya Lewis attempted to create a new account with Bank O using the stolen identity of Jessica Thompson. The device used was an Infinix Hot S3X, connected to the network "Park_Wifi".
+
+[02/12/2023 15:45] [fraudulent] User Maya Lewis attempted to create a new account with Bank P using the stolen identity of Michael Johnson. The device used was a Wiko Sunset 3, connected to the network "University_Wifi".
+
+[02/14/2023 18:50] [fraudulent] User Maya Lewis successfully created an account with Bank P using the stolen identity of Michael Johnson. The device used was a Tecno Spark K7, connected to the network "University_Wifi".
+
+[02/16/2023 19:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank Q using the stolen identity of Sarah White. The device used was a Gionee M6, connected to the network "Airport_Wifi".
+
+[02/18/2023 21:10] [fraudulent] User Maya Lewis successfully created an account with Bank Q using the stolen identity of Sarah White. The device used was a ZTE Axon 7, connected to the network "Airport_Wifi".
+
+[02/20/2023 21:55] [fraudulent] User Maya Lewis attempted to create a new account with Bank R using the stolen identity of Steven Brown. The device used was an itel P37, connected to the network "Train_Station_Wifi".
+
+[02/22/2023 14:50] [fraudulent] User Maya Lewis successfully created an account with Bank R using the stolen identity of Steven Brown. The device used was a Huawei Y6 Pro, connected to the network "Train_Station_Wifi".
+
+[02/24/2023 18:35] [fraudulent] User Maya Lewis attempted to create a new account with Bank S using the stolen identity of Jennifer Martinez. The device used was an Infinix Smart HD Plus, connected to the network "Convention_Center_Wifi".
+
+[02/26/2023 19:50] [fraudulent] User Maya Lewis successfully created an account with Bank S using the stolen identity of Jennifer Martinez. The device used was a Lenovo A2016, connected to the network "Convention_Center_Wifi".
+[02/28/2023 10:25] [fraudulent] User Maya Lewis attempted to create a new account with Bank T using the stolen identity of Michael Johnson. The device used was an Alcatel 1X, connected to the network "Coffee_Shop_Wifi".
+
+[03/01/2023 15:15] [fraudulent] User Maya Lewis successfully created an account with Bank T using the stolen identity of Michael Johnson. The device used was a Tecno Spark 7, connected to the network "Coffee_Shop_Wifi".
+
+[03/03/2023 19:50] [fraudulent] User Maya Lewis attempted to create a new account with Bank U using the stolen identity of Laura Davis. The device used was a Wiko View 4, connected to the network "Mall_Wifi".
+
+[03/05/2023 21:05] [fraudulent] User Maya Lewis successfully created an account with Bank U using the stolen identity of Laura Davis. The device used was a Samsung Galaxy A01, connected to the network "Mall_Wifi".
+
+[03/07/2023 16:25] [fraudulent] User Maya Lewis attempted to create a new account with Bank V using the stolen identity of James Williams. The device used was an Xiaomi Redmi 7A, connected to the network "Hotel_Wifi".
+
+[03/09/2023 18:40] [fraudulent] User Maya Lewis successfully created an account with Bank V using the stolen identity of James Williams. The device used was a Huawei Y5 Lite, connected to the network "Hotel_Wifi".
+
+[03/11/2023 20:30] [fraudulent] User Maya Lewis attempted to create a new account with Bank W using the stolen identity of Elizabeth Thompson. The device used was a Lenovo A6 Note, connected to the network "Bus_Wifi".
+
+[03/13/2023 22:25] [fraudulent] User Maya Lewis successfully created an account with Bank W using the stolen identity of Elizabeth Thompson. The device used was a Motorola Moto E5 Play, connected to the network "Bus_Wifi".
+
+[03/15/2023 19:10] [fraudulent] User Maya Lewis attempted to create a new account with Bank X using the stolen identity of William Adams. The device used was an Infinix Hot 7, connected to the network "Airport_Wifi".
+
+[03/17/2023 22:45] [fraudulent] User Maya Lewis successfully created an account with Bank X using the stolen identity of William Adams. The device used was a Nokia 2.3, connected to the network "Airport_Wifi".
+

@@ -1,0 +1,75 @@
+User ID: Gloria Kelley
+- 
+[01:58:23] User Gloria Kelley logged in from IP address 192.168.1.4 using device ID A1B2C3D4. Type: Fraudulent.
+[01:58:23] Email address "gloriamail1@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[02:12:37] User Gloria Kelley logged in from IP address 192.168.1.5 using device ID E4F5G6H7. Type: Fraudulent.
+[02:12:37] Email address "gloriameail2@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[03:29:48] User Gloria Kelley logged in from IP address 192.168.1.6 using device ID J7K8L9M0. Type: Fraudulent.
+[03:29:48] Email address "gloriameail3@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[05:14:12] User Gloria Kelley logged in from IP address 192.168.1.7 using device ID A2B3C4D5. Type: Fraudulent.
+[05:14:12] Email address "gloriamail2@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[06:27:43] User Gloria Kelley logged in from IP address 192.168.1.8 using device ID F6G7H8I9. Type: Fraudulent.
+[06:27:43] Email address "gloriameail4@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[07:53:14] User Gloria Kelley logged in from IP address 192.168.1.9 using device ID L9M0P1Q2. Type: Fraudulent.
+[07:53:14] Email address "gloriamail3@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[08:39:26] User Gloria Kelley logged in from IP address 192.168.1.10 using device ID Q5R6U7V8. Type: Fraudulent.
+[08:39:26] Email address "gloriamail4@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[09:01:32] User Gloria Kelley logged in from IP address 192.168.1.11 using device ID H5J6K7L9. Type: Fraudulent.
+[09:01:32] Email address "gloriameail2@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[09:45:47] User Gloria Kelley logged in from IP address 192.168.1.12 using device ID W3X4Y5Z6. Type: Fraudulent.
+[09:45:47] Email address "gloriamail5@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[10:08:52] User Gloria Kelley logged in from IP address 192.168.1.13 using device ID S7T8U9V0. Type: Fraudulent.
+[10:08:52] Email address "gloriameail1@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[10:43:07] User Gloria Kelley logged in from IP address 192.168.1.14 using device ID A2B3C4D5. Type: Fraudulent.
+[10:43:07] Email address "gloriamail5@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[11:20:29] User Gloria Kelley logged in from IP address 192.168.1.15 using device ID M7Q9R3E6. Type: Fraudulent.
+[11:20:29] Email address "gloriameail4@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[11:57:08] User Gloria Kelley logged in from IP address 192.168.1.16 using device ID F1O2P3S4. Type: Fraudulent.
+[11:57:08] Email address "gloriameail3@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[12:25:39] User Gloria Kelley logged in from IP address 192.168.1.17 using device ID J4K5L6H8. Type: Fraudulent.
+[12:25:39] Email address "gloriamail1@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[12:48:02] User Gloria Kelley logged in from IP address 192.168.1.18 using device ID Z9X7Y8V2. Type: Fraudulent.
+[12:48:02] Email address "gloriameail5@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[13:12:35] User Gloria Kelley logged in from IP address 192.168.1.19 using device ID H4G6E8L9. Type: Fraudulent.
+[13:12:35] Email address "gloriameail2@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[13:35:40] User Gloria Kelley logged in from IP address 192.168.1.20 using device ID C1F3G4S7. Type: Fraudulent.
+[13:35:40] Email address "gloriamail6@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[13:49:05] User Gloria Kelley logged in from IP address 192.168.1.21 using device ID K2Q5W8LZ. Type: Fraudulent.
+[13:49:05] Email address "gloriamail7@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[14:01:42] User Gloria Kelley logged in from IP address 192.168.1.22 using device ID P3R7T6M8. Type: Fraudulent.
+[14:01:42] Email address "gloriamail8@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[14:15:39] User Gloria Kelley logged in from IP address 192.168.1.23 using device ID L9V0W7KI. Type: Fraudulent.
+[14:15:39] Email address "gloriamail9@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[14:29:26] User Gloria Kelley logged in from IP address 192.168.1.24 using device ID X2M3H4N6. Type: Fraudulent.
+[14:29:26] Email address "gloriamail10@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[15:38:47] User Gloria Kelley logged in from IP address 192.168.1.25 using device ID Z9T6G7FJ. Type: Fraudulent.
+[15:38:47] Email address "gloriamail11@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[15:47:13] User Gloria Kelley logged in from IP address 192.168.1.26 using device ID F3Y0H9VZ. Type: Fraudulent.
+[15:47:13] Email address "gloriamail12@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[16:01:38] User Gloria Kelley logged in from IP address 192.168.1.27 using device ID J8M5D4BX. Type: Fraudulent.
+[16:01:38] Email address "gloriamail13@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[16:12:19] User Gloria Kelley logged in from IP address 192.168.1.28 using device ID C4G0I5KA. Type: Fraudulent.
+[16:12:19] Email address "gloriamail14@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[16:24:44] User Gloria Kelley logged in from IP address 192.168.1.29 using device ID B5V0O4NC. Type: Fraudulent.
+[16:24:44] Email address "gloriamail15@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[16:35:31] User Gloria Kelley logged in from IP address 192.168.1.30 using device ID M7R4V3OJ. Type: Fraudulent.
+[16:35:31] Email address "gloriamail16@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[17:00:02] User Gloria Kelley logged in from IP address 192.168.1.31 using device ID D5L1U6JC. Type: Fraudulent.
+[17:00:02] Email address "gloriamail17@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[17:13:54] User Gloria Kelley logged in from IP address 192.168.1.32 using device ID W1K9N8VU. Type: Fraudulent.
+[17:13:54] Email address "gloriamail18@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[17:27:06] User Gloria Kelley logged in from IP address 192.168.1.33 using device ID L5F4U4JM. Type: Fraudulent.
+[17:27:06] Email address "gloriamail19@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[17:39:58] User Gloria Kelley logged in from IP address 192.168.1.34 using device ID F3H0N5IK. Type: Fraudulent.
+[17:39:58] Email address "gloriamail20@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[17:52:21] User Gloria Kelley logged in from IP address 192.168.1.35 using device ID R0M6N5BJ. Type: Fraudulent.
+[17:52:21] Email address "gloriamail21@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[18:04:39] User Gloria Kelley logged in from IP address 192.168.1.36 using device ID U3L7N5FK. Type: Fraudulent.
+[18:04:39] Email address "gloriamail22@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[18:16:57] User Gloria Kelley logged in from IP address 192.168.1.37 using device ID G6K9V4HJ. Type: Fraudulent.
+[18:16:57] Email address "gloriamail23@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[18:29:15] User Gloria Kelley logged in from IP address 192.168.1.38 using device ID K3J8N4LO. Type: Fraudulent.
+[18:29:15] Email address "gloriamail24@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+[18:40:32] User Gloria Kelley logged in from IP address 192.168.1.39 using device ID Z5L2N4KP. Type: Fraudulent.
+[18:40:32] Email address "gloriamail25@example.com" used for login attempt. Account created on the same day as Gloria's previous account.
+

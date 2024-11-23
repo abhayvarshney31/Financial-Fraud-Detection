@@ -1,0 +1,122 @@
+User ID: Aleah Torres
+- 
+[2023-01-15 17:48:21] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Sent a phishing email to 'john.doe@example.com' claiming to be from the "Bank of America" and asking for login credentials.
+
+[2023-01-15 18:02:34] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Created a fake website resembling the "PayPal" login page, in an attempt to trick users into entering their payment details.
+
+[2023-01-15 18:27:49] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Used a VPN service to hide her location while sending multiple phishing emails targeting various email addresses.
+
+[2023-01-16 08:54:12] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Sent a phishing message impersonating "Amazon" to gain access to credit card information.
+
+[2023-01-16 11:18:37] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Attempted to access a user's account by sending a phishing email disguised as "Apple" support.
+
+[2023-01-17 09:32:51] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Set up a phishing email campaign targeting friends and family members, requesting their personal information.
+
+[2023-01-18 16:47:05] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Sent a phishing message claiming to be from "Google" and requesting users to update their account information.
+
+[2023-01-19 17:11:29] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Created a phishing email disguised as an "Electricity Company" bill to trick users into providing sensitive account details.
+
+[2023-01-20 08:58:43] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Sent a fake email from "Facebook" asking users to verify their account, with the intent of obtaining login credentials.
+
+[2023-01-20 15:14:07] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Attempted to hack into a user's account by exploiting weak password security in a phishing email.
+[2023-01-21 09:35:22] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Conducted an elaborate phishing scheme, impersonating a popular e-commerce website to steal credit card information and personal details.
+
+[2023-01-22 14:58:19] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Launched a phishing campaign disguised as an important system update, aiming to trick users into installing malicious software on their devices.
+
+[2023-01-23 08:29:54] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Created a fake email from a well-known charity to solicit donations and steal financial information from unsuspecting recipients.
+
+[2023-01-24 16:15:03] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Sent a phishing email posing as a government agency, demanding immediate payment of a fictitious fine and threatening legal action.
+
+[2023-01-25 09:48:41] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Engaged in spear phishing, targeting specific individuals with personalized emails containing malicious links and attachments.
+
+[2023-01-26 14:52:29] Device: Aleah_Torres_Laptop | Network: Public_WiFi | Type: Fraudulent | Activity: Used a phishing email claiming to be from a popular streaming service, intending to obtain login credentials and personal information.
+
+[2023-01-27 09:15:12] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Sent a fraudulent email from a well-known bank, requesting users to confirm their account details by clicking on a harmful link.
+
+[2023-01-28 15:47:59] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Conducted a phishing scheme disguised as a software update for an antivirus program, aiming to install malware on users' devices.
+
+[2023-01-29 10:05:04] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Sent a fake email from a popular ridesharing service, requesting users to verify their account information and download a malicious app.
+[2023-01-30 11:22:35] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Pretended to be a government agency in an email, asking for sensitive information and threatening legal action if not provided.
+
+[2023-01-31 16:54:08] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Used a fake invoice from a known e-commerce platform, aiming to trick users into revealing their financial details and downloading malware.
+
+[2023-02-01 09:07:46] Device: Aleah_Torres_Laptop | Network: Public_WiFi | Type: Fraudulent | Activity: Sent an email posing as a well-known social media site, requesting users to reset their password through a malicious link.
+
+[2023-02-02 14:18:23] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Disguised as a tax authority, the email asked for personal and financial information to process a nonexistent refund.
+
+[2023-02-03 15:39:57] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Claimed to be from a popular food delivery service, requesting users to update their payment information by clicking on a harmful link.
+
+[2023-02-04 10:57:29] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be an internet service provider, notifying users of a nonexistent account issue and requesting login credentials.
+
+[2023-02-05 16:49:12] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Sent an email from a fake charity organization, urging users to donate via a phishing website and share their personal information.
+
+[2023-02-06 14:58:45] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Posed as a healthcare provider, the email asked users to verify their insurance details and download a malicious app.
+
+[2023-02-07 10:15:31] Device: Aleah_Torres_Laptop | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a well-known utility company, the email threatened to disconnect service unless users provided billing information and clicked on a dangerous link.
+[2023-02-08 11:05:19] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be a government agency, informing users about a fictitious tax refund and prompting them to provide banking information for direct deposit.
+
+[2023-02-09 14:13:46] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Sent an email claiming to be a popular online store, offering a discount on a recent purchase if users confirmed their address and updated payment information.
+
+[2023-02-10 17:46:35] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Disguised as a social media platform, the email requested users to verify their account information and unknowingly downloaded malware.
+
+[2023-02-11 19:08:52] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Claimed to be a software update for a commonly used application, urging users to click on the link and download the infected file.
+
+[2023-02-12 08:54:17] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Posed as a delivery service, notifying users of an unexpected shipment and asking for sensitive information to "verify" the package.
+
+[2023-02-13 15:46:45] Device: Aleah_Torres_Laptop | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a bank, the email informed users of a successful loan application and requested personal and financial information to "activate" the loan.
+
+[2023-02-14 18:56:03] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be a job recruiter, offering an attractive employment opportunity and asking for resume details to access further information.
+
+[2023-02-15 19:07:28] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Claimed to be a security alert from an antivirus software, prompting users to download an "update" that actually contained malware.
+
+[2023-02-16 11:29:45] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Disguised as a technical support team, the email offered assistance with device issues and asked users to provide remote access credentials.
+[2023-02-17 12:58:12] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Pretended to be a well-known e-commerce platform, informing users that their account had been compromised and asking for sensitive information to "secure" their account.
+
+[2023-02-18 16:14:30] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Claimed to be a representative of a government agency, requesting personal and financial information under the guise of a tax refund verification process.
+
+[2023-02-19 18:49:56] Device: Aleah_Torres_Laptop | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a popular streaming service, offering free access in exchange for credit card information to "activate" the offer.
+
+[2023-02-20 19:27:08] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be a charity organization, asking for donations in the wake of a natural disaster and directing users to a fake donation website to steal their payment information.
+
+[2023-02-21 20:56:45] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Claimed to be a well-known social media platform, notifying users of a fake account impersonating them and requesting personal information to "verify" the account.
+
+[2023-02-22 15:49:06] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Disguised as a software update, prompting users to download a "security patch" that actually contained malware designed to steal personal data.
+
+[2023-02-23 18:39:45] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Pretended to be a delivery service, informing users of a missed package delivery and asking for payment information to "arrange" a re-delivery.
+
+[2023-02-24 19:56:03] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Claimed to be a customer service representative, requesting remote access to a user's device to "resolve" an alleged technical issue that never occurred.
+
+[2023-02-25 21:09:28] Device: Aleah_Torres_Laptop | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a popular online service, offering a free trial and asking for credit card information under the pretense of "verifying" the account.
+[2023-02-26 12:15:32] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be a tax authority, threatening users with legal action if they didn't provide their banking information for an "overdue payment."
+
+[2023-02-27 14:58:16] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a charity organization, asking for donations to support victims of a fictional disaster, and redirecting the funds to personal accounts.
+
+[2023-02-28 17:29:45] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Claimed to be a representative from a well-known tech company, offering a "limited-time" upgrade or warranty extension for a fee.
+
+[2023-02-28 17:54:09] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as an app with a useful feature, such as a map or weather updates, but secretly stealing personal data without user consent.
+
+[2023-03-01 20:02:31] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be a streaming service provider, offering a "special deal" for early access to new content in exchange for personal information.
+
+[2023-03-01 21:28:49] Device: Aleah_Torres_Laptop | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a government agency, sending an email with a link to "verify" citizenship or identity, but the link actually led to a phishing site.
+
+[2023-03-02 23:45:18] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Claimed to be a famous brand, offering exclusive discounts and promotions via email, but the emails actually contained malicious links or attachments.
+
+[2023-03-03 00:51:34] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a popular social media platform, sending messages requesting users to "confirm" their account by clicking on a malicious link or providing sensitive information.
+[2023-03-03 01:17:49] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be a bank, sending an email requesting urgent action to "secure" her account by providing personal information or clicking on a fake login page.
+
+[2023-03-04 08:05:12] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a delivery service, sending an email with a link to "track" her package, but the link actually led to a phishing site that collected personal information.
+
+[2023-03-04 10:58:36] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Claimed to be a well-known software company, offering a "free upgrade" via email but requiring users to provide personal information or download malicious software.
+
+[2023-03-05 18:37:46] Device: Aleah_Torres_Laptop | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a charity organization, sending an email requesting donations through a malicious link or by providing sensitive information.
+
+[2023-03-06 19:45:08] Device: Aleah_Torres_Mobile | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be an official government agency, sending an email with a link to "confirm" her vote for an upcoming election, but the link actually led to a phishing site.
+
+[2023-03-07 11:02:45] Device: Aleah_Torres_Tablet | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a popular streaming service, offering "free access" in exchange for personal information or clicking on a malicious link.
+
+[2023-03-08 15:29:12] Device: Aleah_Torres_Laptop | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be a well-known technology company, sending an email with a link to "fix" a non-existent issue, but the link actually led to a phishing site.
+
+[2023-03-09 20:45:26] Device: Aleah_Torres_Mobile | Network: Public_WiFi | Type: Fraudulent | Activity: Disguised as a travel agency, sending an email with a link to "book" tickets at a discounted rate, but the link actually led to a phishing site.
+
+[2023-03-10 08:58:49] Device: Aleah_Torres_Tablet | Network: Home_WiFi | Type: Fraudulent | Activity: Pretended to be an internet service provider, sending an email claiming there was a "billing issue," requiring users to click on a malicious link or provide sensitive information.
+

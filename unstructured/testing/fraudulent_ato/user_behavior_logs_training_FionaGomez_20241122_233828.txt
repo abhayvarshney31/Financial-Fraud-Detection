@@ -1,0 +1,68 @@
+User ID: Fiona Gomez
+- 
+[2023-03-15 18:30] [fraudulent] User Fiona Gomez reported a stolen credit card. Device: iPhone XR, Network: Verizon.
+[2023-03-15 19:10] [fraudulent] Fiona continued to make online purchases using the same reported stolen card. IP address: 123.456.789.01, Location: New York, NY.
+[2023-03-15 19:55] [fraudulent] Fiona made a purchase on an online shopping website using the stolen card. Device: iPad Pro, Network: AT&T.
+[2023-03-16 08:45] [fraudulent] Fiona made another online purchase using the reported stolen card. IP address: 234.567.890.12, Location: Los Angeles, CA.
+[2023-03-16 10:30] [fraudulent] Fiona purchased a gift card from an online retailer using the stolen card. Device: MacBook Pro, Network: T-Mobile.
+[2023-03-16 14:50] [fraudulent] Fiona made a hotel reservation using the reported stolen card. IP address: 345.678.901.13, Location: Chicago, IL.
+[2023-03-16 16:20] [fraudulent] Fiona purchased airline tickets using the reported stolen card. Device: Samsung Galaxy S22, Network: Sprint.
+[2023-03-17 09:15] [fraudulent] Fiona made a purchase on an online clothing store using the reported stolen card. IP address: 456.789.012.14, Location: Miami, FL.
+[2023-03-17 11:30] [fraudulent] Fiona made another purchase on a subscription service using the reported stolen card. Device: iPhone 13 Pro, Network: Verizon.
+[2023-03-17 15:45] [fraudulent] Fiona purchased a smart home device using the reported stolen card. IP address: 567.890.123.15, Location: Boston, MA.
+[2023-03-18 08:00] [fraudulent] Fiona made a purchase at an online electronics store using the reported stolen card. Device: Dell XPS 15, Network: AT&T.
+[2023-03-18 10:15] [fraudulent] Fiona bought a software license for a popular gaming platform using the reported stolen card. IP address: 678.901.123.16, Location: Denver, CO.
+[2023-03-18 12:45] [fraudulent] Fiona made a purchase on an online bookstore using the reported stolen card. Device: Google Pixel 6 Pro, Network: US Cellular.
+[2023-03-19 07:30] [fraudulent] Fiona purchased a gift voucher for a popular fast food chain using the reported stolen card. IP address: 789.012.123.17, Location: Washington, D.C.
+[2023-03-19 14:30] [fraudulent] Fiona made a purchase on an online art supplies store using the reported stolen card. Device: Lenovo ThinkPad X1 Carbon, Network: Spectrum.
+[2023-03-19 16:50] [fraudulent] Fiona bought a pair of wireless headphones using the reported stolen card. IP address: 890.123.123.18, Location: Orlando, FL.
+[2023-03-20 09:00] [fraudulent] Fiona made a purchase on an online pet supplies store using the reported stolen card. Device: HP Spectre x360, Network: Xfinity.
+[2023-03-20 11:30] [fraudulent] Fiona purchased a subscription to a streaming service using the reported stolen card. IP address: 901.123.123.19, Location: Dallas, TX.
+[2023-03-20 13:50] [fraudulent] Fiona bought a high-end vacuum cleaner using the reported stolen card. Device: Surface Laptop 4, Network: CenturyLink.
+[2023-03-20 16:10] [fraudulent] Fiona made a purchase on an online clothing store using the reported stolen card. IP address: 790.123.123.20, Location: Chicago, IL.
+[2023-03-20 18:45] [fraudulent] Fiona bought a gaming console using the reported stolen card. Device: MacBook Pro, Network: AT&T.
+[2023-03-21 08:00] [fraudulent] Fiona made a purchase on an online bookstore using the reported stolen card. IP address: 791.123.123.21, Location: Atlanta, GA.
+[2023-03-21 10:35] [fraudulent] Fiona purchased a set of cookware using the reported stolen card. Device: Dell XPS 13, Network: Verizon.
+[2023-03-21 12:50] [fraudulent] Fiona bought an electronic gadget on an online store using the reported stolen card. IP address: 792.123.123.22, Location: Denver, CO.
+[2023-03-21 14:50] [fraudulent] Fiona made a purchase on an online pharmacy using the reported stolen card. Device: Asus ZenBook Pro Duo, Network: Comcast.
+[2023-03-21 16:25] [fraudulent] Fiona ordered food delivery using the reported stolen card. IP address: 793.123.123.23, Location: Houston, TX.
+[2023-03-21 18:00] [fraudulent] Fiona made a purchase on an online gaming store using the reported stolen card. Device: Lenovo ThinkPad X1 Carbon, Network: Spectrum.
+[2023-03-22 09:00] [fraudulent] Fiona purchased a smartwatch using the reported stolen card. IP address: 794.123.123.24, Location: Phoenix, AZ.
+[2023-03-22 11:15] [fraudulent] Fiona bought a pair of headphones on an online electronics store using the reported stolen card. Device: HP Spectre x360, Network: Cox Communications.
+[2023-03-22 13:30] [fraudulent] Fiona made a purchase on an online art supplies store using the reported stolen card. IP address: 795.123.123.25, Location: Miami, FL.
+[2023-03-22 15:40] [fraudulent] Fiona ordered a subscription box using the reported stolen card. Device: Google Pixelbook, Network: Frontier Communications.
+[2023-03-22 17:25] [fraudulent] Fiona made an order for meal kit delivery services using the reported stolen card. IP address: 796.123.123.26, Location: Denver, CO.
+[2023-03-22 19:00] [fraudulent] Fiona purchased tickets for a concert using the reported stolen card. Device: MacBook Pro 16", Network: CenturyLink.
+[2023-03-23 08:30] [fraudulent] Fiona bought a hotel room reservation using the reported stolen card. IP address: 797.123.123.27, Location: Las Vegas, NV.
+[2023-03-23 10:45] [fraudulent] Fiona made a purchase on an online clothing store using the reported stolen card. Device: Microsoft Surface Laptop 4, Network: AT&T.
+[2023-03-23 12:30] [fraudulent] Fiona purchased a gym membership using the reported stolen card. IP address: 798.123.123.28, Location: Seattle, WA.
+[2023-03-23 14:50] [fraudulent] Fiona ordered a home security system using the reported stolen card. Device: Dell XPS 13, Network: Verizon.
+[2023-03-24 08:00] [fraudulent] Fiona made an online purchase of electronics using the reported stolen card. IP address: 799.123.123.29, Location: San Francisco, CA.
+[2023-03-24 09:30] [fraudulent] Fiona bought a set of airline tickets using the reported stolen card. Device: Google Pixelbook, Network: Xfinity.
+[2023-03-25 10:00] [fraudulent] Fiona made an order for a meal subscription box service using the reported stolen card. IP address: 800.123.123.30, Location: Austin, TX.
+[2023-03-25 14:20] [fraudulent] Fiona purchased car parts for her vehicle online using the reported stolen card. Device: MacBook Pro 16", Network: Time Warner Cable.
+[2023-03-26 17:00] [fraudulent] Fiona made an order for a high-end smartwatch using the reported stolen card. IP address: 801.123.123.31, Location: Chicago, IL.
+[2023-03-26 19:30] [fraudulent] Fiona bought a gaming console and games bundle using the reported stolen card. Device: Microsoft Surface Laptop 4, Network: Spectrum.
+[2023-03-27 11:00] [fraudulent] Fiona made a purchase of a luxury handbag using the reported stolen card. IP address: 802.123.123.32, Location: New York City, NY.
+[2023-03-27 14:30] [fraudulent] Fiona ordered a vacuum cleaner using the reported stolen card. Device: Dell XPS 13, Network: Cox Communications.
+[2023-03-28 09:00] [fraudulent] Fiona made an order for a designer clothing bundle using the reported stolen card. IP address: 803.123.123.33, Location: Los Angeles, CA.
+[2023-03-28 12:45] [fraudulent] Fiona purchased an electronic ticket for a concert event using the reported stolen card. Device: HP Spectre x360, Network: AT&T.
+[2023-03-29 17:10] [fraudulent] Fiona made a purchase of a designer watch using the reported stolen card. IP address: 804.123.123.34, Location: San Francisco, CA.
+[2023-03-29 19:35] [fraudulent] Fiona ordered a set of premium headphones using the reported stolen card. Device: Lenovo ThinkPad X1 Carbon, Network: Verizon Wireless.
+[2023-03-30 10:50] [fraudulent] Fiona made an order for a smart home security system using the reported stolen card. IP address: 805.123.123.35, Location: Boston, MA.
+[2023-03-30 14:20] [fraudulent] Fiona purchased a set of high-end kitchen appliances using the reported stolen card. Device: MacBook Pro 14", Network: CenturyLink.
+[2023-03-31 07:05] [fraudulent] Fiona made an order for a luxury vacation package using the reported stolen card. IP address: 806.123.123.36, Location: Honolulu, HI.
+[2023-03-31 11:15] [fraudulent] Fiona purchased a collection of rare vinyl records using the reported stolen card. Device: Samsung Galaxy Note20 Ultra, Network: T-Mobile.
+[2023-03-31 19:40] [fraudulent] Fiona made an order for a set of art supplies using the reported stolen card. IP address: 807.123.123.37, Location: New York City, NY.
+[2023-04-01 00:35] [fraudulent] Fiona purchased a collection of vintage video games using the reported stolen card. Device: Dell XPS 15, Network: Sprint.
+[2023-04-01 09:00] [fraudulent] Fiona made an order for a high-end camera using the reported stolen card. IP address: 808.123.123.38, Location: Seattle, WA.
+[2023-04-01 16:15] [fraudulent] Fiona purchased a designer handbag using the reported stolen card. Device: Microsoft Surface Laptop 4, Network: Comcast.
+[2023-04-02 07:30] [fraudulent] Fiona made an order for a collection of rare books using the reported stolen card. IP address: 809.123.123.39, Location: Austin, TX.
+[2023-04-02 14:45] [fraudulent] Fiona purchased a fine dining experience at a prestigious restaurant using the reported stolen card. Device: Google Pixel 6 Pro, Network: Xfinity.
+[2023-04-02 19:15] [fraudulent] Fiona made an order for a set of high-end headphones using the reported stolen card. IP address: 810.123.123.40, Location: Denver, CO.
+[2023-04-03 00:50] [fraudulent] Fiona purchased a luxury watch using the reported stolen card. Device: MacBook Pro 16", Network: Verizon.
+[2023-04-03 11:00] [fraudulent] Fiona made an order for a custom-built gaming PC using the reported stolen card. IP address: 811.123.123.41, Location: Phoenix, AZ.
+[2023-04-03 22:15] [fraudulent] Fiona purchased a collection of limited edition sneakers using the reported stolen card. Device: Samsung Galaxy S22 Ultra, Network: AT&T.
+[2023-04-04 07:00] [fraudulent] Fiona made an order for a set of designer sunglasses using the reported stolen card. IP address: 812.123.123.42, Location: San Francisco, CA.
+[2023-04-04 15:25] [fraudulent] Fiona purchased a high-end smart home system using the reported stolen card. Device: LG Gram 16", Network: CenturyLink.
+

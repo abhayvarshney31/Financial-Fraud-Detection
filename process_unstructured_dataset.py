@@ -3,31 +3,25 @@ import chromadb
 import glob
 import ollama
 import json
+import numpy as np
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 COLLECTION_NAME = "financial_fraud_embeddings_final"
 CHAT_MODEL_NAME = "gemma2-9b-it"
 EMBEDDING_MODEL_NAME = "nomic-embed-text"
-LOG_PATH_GOOD = os.path.join(
-    os.path.dirname(__file__),
-    "unstructured/training/good/*.txt")
-LOG_PATH_FRAUDULENT_ATO = os.path.join(
-    os.path.dirname(__file__),
-    "unstructured/training/fraudulent_ato/*.txt")
-LOG_PATH_FRAUDULENT_CNP = os.path.join(
-    os.path.dirname(__file__),
-    "unstructured/training/fraudulent_cnp/*.txt")
+
+# Paths for log files
+LOG_PATH_GOOD = os.path.join(os.path.dirname(__file__), "unstructured/training/good/*.txt")
+LOG_PATH_FRAUDULENT_ATO = os.path.join(os.path.dirname(__file__), "unstructured/training/fraudulent_ato/*.txt")
+LOG_PATH_FRAUDULENT_CNP = os.path.join(os.path.dirname(__file__), "unstructured/training/fraudulent_cnp/*.txt")
 ID_RANGE_DUMP = os.path.join(os.path.dirname(__file__), "id_range.txt")
 
 # Initialize ChromaDB
 persist_directory = os.path.join(os.path.dirname(__file__), "chroma_db")
-client = chromadb.Client(chromadb.config.Settings(
-    chroma_db_impl="duckdb+parquet",
-    persist_directory=persist_directory
-))
+client = chromadb.Client(chromadb.config.Settings(chroma_db_impl="duckdb+parquet", persist_directory=persist_directory))
 
-# Check if the collection exists, if not create it
+# Check if collection exists; create if it doesn't
 if COLLECTION_NAME in [c.name for c in client.list_collections()]:
     print("Using existing embedding collection")
     collection = client.get_collection(name=COLLECTION_NAME)
@@ -66,28 +60,21 @@ def anonymize_log(log_content):
     return output
 
 
-def create_embeddings_batch_ollama(text_batch):
+def create_combined_embedding(log_text, device_types, timestamps):
     """
-    Creates embeddings for a batch of text data using the Ollama model.
-
-    Args:
-        text_batch (list[str]): List of text entries to generate embeddings for.
-
-    Returns:
-        list: A list of embeddings generated for each text entry.
+    Create an embedding combining text and metadata features.
     """
-    embeddings = []
-    with ThreadPoolExecutor() as executor:
-        futures = [
-            executor.submit(
-                get_embedding_for_input,
-                text) for text in text_batch]
-        for future in tqdm(
-                as_completed(futures),
-                total=len(futures),
-                desc="Generating embeddings"):
-            embeddings.append(future.result())
-    return embeddings
+    # Text-based embedding
+    text_embedding = get_embedding_for_input(log_text)
+
+    # Metadata features
+    device_embeddings = [get_embedding_for_input(device) for device in device_types]
+    time_diff_vector = [get_embedding_for_input(timestamp) for timestamp in timestamps]
+
+    # Concatenate to form combined embedding
+    device_embeddings_flat = np.concatenate(device_embeddings)
+    combined_embedding = np.concatenate([text_embedding, device_embeddings_flat, time_diff_vector])
+    return combined_embedding.tolist()
 
 
 def get_embedding_for_input(text):
@@ -104,7 +91,44 @@ def get_embedding_for_input(text):
     return response['embedding']
 
 
-def parse_log_file(file_path):
+def extract_ordered_device_types(log_content):
+    """
+    Extracts ordered device types.
+
+    Args:
+        log_content (str): Raw log content.
+
+    Returns:
+        dict: Dictionary with extracted device, timestamp, and other features.
+    """
+    prompt = f"""
+    Given the following log content, extract the type of devices used and pair it with the appropriate timestamp.
+    Don't lose order. Here is the log content: {log_content}. Return as a list of strings containing device type names.
+    """
+
+    response = ollama.generate(model=CHAT_MODEL_NAME, prompt=prompt)
+    return json.loads(response['response'])
+
+
+def extract_ordered_timestamps(log_content):
+    """
+    Extracts ordered device types.
+
+    Args:
+        log_content (str): Raw log content.
+
+    Returns:
+        dict: Dictionary with extracted device, timestamp, and other features.
+    """
+    prompt = f"""
+    Given the following log content, extract all the timestamps. Try to extract to format 'YYYY-MM-DD HH:MM:SS'.
+    Don't lose order. Here is the log content: {log_content}. Return as a list of timestamp strings.
+    """
+
+    response = ollama.generate(model=CHAT_MODEL_NAME, prompt=prompt)
+    return json.loads(response['response'])
+
+def parse_log_file(file_path, user_type):
     """
     Reads and anonymizes a log file.
 
@@ -116,122 +140,52 @@ def parse_log_file(file_path):
     """
     with open(file_path, "r", encoding='latin-1', errors='replace') as file:
         log_content = file.read()
-        content = anonymize_log(log_content)
-        return content
+    anonymized_text = anonymize_log(log_content)
+    
+    # Extract metadata (replace with actual extraction logic)
+    device_types = extract_ordered_device_types(log_content)
+    timestamps = extract_ordered_timestamps(log_content)
+
+    return anonymized_text, device_types, timestamps, user_type
 
 
-def parse_log_files(log_paths):
+def parse_log_files(log_paths, user_type):
     """
-    Parses multiple log files in parallel.
-
-    Args:
-        log_paths (str): File path pattern for log files.
-
-    Returns:
-        list: A list of anonymized log contents.
+    Parses multiple log files to extract anonymized content and metadata.
     """
-    text_data = []
+    log_data = []
     with ThreadPoolExecutor() as executor:
-        futures = [executor.submit(parse_log_file, file_path)
-                   for file_path in glob.glob(log_paths)]
-        for future in tqdm(
-                as_completed(futures),
-                total=len(futures),
-                desc="Parsing log files"):
-            text_data.append(future.result())
-    return text_data
+        futures = [executor.submit(parse_log_file, file_path, user_type) for file_path in glob.glob(log_paths)]
+        for future in tqdm(as_completed(futures), total=len(futures), desc="Parsing log files"):
+            log_data.append(future.result())
+    return log_data
 
 
-def prepare_training_data():
+def store_embeddings_with_metadata(log_data):
     """
-    Prepares the training data by reading and anonymizing log files for good
-    and fraudulent transactions.
-
-    Returns:
-        tuple: A tuple containing lists of good transactions, fraudulent ATO
-               transactions, and fraudulent CNP transactions.
+    Stores embeddings and metadata in the ChromaDB collection.
     """
-    good_transactions = parse_log_files(LOG_PATH_GOOD)
-    fraudulent_ato_transactions = parse_log_files(LOG_PATH_FRAUDULENT_ATO)
-    fraudulent_cnp_transactions = parse_log_files(LOG_PATH_FRAUDULENT_CNP)
-    return good_transactions, fraudulent_ato_transactions, fraudulent_cnp_transactions
-
-
-def store_embeddings(batch, embeddings):
-    """
-    Stores embeddings and associated text data in the ChromaDB collection.
-
-    Args:
-        batch (list): List of document texts.
-        embeddings (list): List of embedding vectors corresponding to the batch.
-    """
-    ids = [str(idx) for idx in range(len(batch))]
-    documents = batch
-    collection.add(ids=ids, documents=documents, embeddings=embeddings)
-
-
-def store_all_embeddings(
-        good_transactions,
-        fraudulent_ato_transactions,
-        fraudulent_cnp_transactions,
-        good_transactions_embeddings,
-        fraudulent_ato_transactions_embeddings,
-        fraudulent_cnp_transactions_embeddings):
-    """
-    Stores all embeddings in the ChromaDB collection, with ID ranges for each
-    category of transaction.
-
-    Args:
-        good_transactions (list): List of good transaction texts.
-        fraudulent_ato_transactions (list): List of ATO fraudulent transaction texts.
-        fraudulent_cnp_transactions (list): List of CNP fraudulent transaction texts.
-        good_transactions_embeddings (list): Embeddings for good transactions.
-        fraudulent_ato_transactions_embeddings (list): Embeddings for ATO fraudulent transactions.
-        fraudulent_cnp_transactions_embeddings (list): Embeddings for CNP fraudulent transactions.
-    """
-    good_ids_range = (0, len(good_transactions_embeddings))
-    ato_ids_range = (
-        good_ids_range[1],
-        good_ids_range[1] +
-        len(fraudulent_ato_transactions_embeddings))
-    cnp_ids_range = (
-        ato_ids_range[1],
-        ato_ids_range[1] +
-        len(fraudulent_cnp_transactions_embeddings))
-
-    all_transactions = good_transactions + \
-        fraudulent_ato_transactions + fraudulent_cnp_transactions
-    all_transactions_embeddings = good_transactions_embeddings + \
-        fraudulent_ato_transactions_embeddings + fraudulent_cnp_transactions_embeddings
-
-    store_embeddings(all_transactions, all_transactions_embeddings)
-
-    id_ranges = {
-        "good": good_ids_range,
-        "ato": ato_ids_range,
-        "cnp": cnp_ids_range
-    }
-
-    # Write ID ranges to a JSON file
-    with open(ID_RANGE_DUMP, "w") as file:
-        json.dump(id_ranges, file, indent=4)
+    ids, documents, embeddings, metadatas = [], [], [], []
+    
+    for idx, (log_text, device_types, timestamps, user_type) in enumerate(log_data):
+        embedding = create_combined_embedding(log_text, device_types, timestamps)
+        
+        ids.append(str(idx))
+        documents.append(log_text)
+        embeddings.append(embedding)
+        metadatas.append({"device_types": device_types, "timestamps": timestamps, "user_type": user_type})
+    
+    collection.add(ids=ids, documents=documents, embeddings=embeddings, metadatas=metadatas)
 
 
 if __name__ == "__main__":
-    good_transactions, fraudulent_ato_transactions, fraudulent_cnp_transactions = prepare_training_data()
-
-    # Generate embeddings in batches
-    good_transactions_embeddings = create_embeddings_batch_ollama(
-        good_transactions)
-    fraudulent_ato_transactions_embeddings = create_embeddings_batch_ollama(
-        fraudulent_ato_transactions)
-    fraudulent_cnp_transactions_embeddings = create_embeddings_batch_ollama(
-        fraudulent_cnp_transactions)
-
-    store_all_embeddings(
-        good_transactions,
-        fraudulent_ato_transactions,
-        fraudulent_cnp_transactions,
-        good_transactions_embeddings,
-        fraudulent_ato_transactions_embeddings,
-        fraudulent_cnp_transactions_embeddings)
+    # Parse and process log files
+    good_logs = parse_log_files(LOG_PATH_GOOD, "good")
+    ato_logs = parse_log_files(LOG_PATH_FRAUDULENT_ATO, "ato_fraud")
+    cnp_logs = parse_log_files(LOG_PATH_FRAUDULENT_CNP, "cnp_fraud")
+    
+    # Combine all log data for storing
+    all_log_data = good_logs + ato_logs + cnp_logs
+    
+    # Store embeddings with metadata in ChromaDB
+    store_embeddings_with_metadata(all_log_data)

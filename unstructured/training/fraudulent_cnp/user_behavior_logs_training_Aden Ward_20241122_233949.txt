@@ -1,0 +1,123 @@
+User ID: Aden Ward
+- 
+[2023-04-18 15:36:05] [fraudulent] User Aden Ward attempted to open a new account with similar details as previous accounts (e.g., slightly different email address or phone number). The IP address used was 78.15.209.9, originating from the Netherlands. This behavior continues despite previous warnings and account closures.
+[2023-04-19 07:48:22] [fraudulent] User Aden Ward opened a new account using an iPad with serial number DQ9Y0WJP6N. The device was connected to the network "CoffeeShop_Guest" in a cafe located in Germany. This follows a pattern of using public Wi-Fi networks for nefarious activities.
+[2023-04-19 20:57:38] [fraudulent] User Aden Ward attempted to open an account using the same email address as a previous account, but with a different name and birthdate. The IP address used was 192.168.1.1, which appears to be a private network. This indicates an attempt to hide their location.
+[2023-04-20 10:05:47] [fraudulent] User Aden Ward opened a new account with the same billing address as previous accounts. This time, the payment method was a prepaid credit card with limited funds, indicating potential money laundering activity.
+[2023-04-21 15:28:16] [fraudulent] User Aden Ward opened an account using the same name and personal details as previous accounts but with a different address. The IP address used was 93.193.96.2, originating from the United States. This behavior suggests a coordinated effort to bypass detection measures.
+[2023-04-22 05:12:09] [fraudulent] User Aden Ward opened an account with a similar email address pattern as previous accounts, but this time using a VPN service with an IP address of 178.219.186.3, originating from Brazil. This suggests an attempt to further obfuscate their location and identity.
+[2023-04-23 13:57:32] [fraudulent] User Aden Ward opened a new account using the same name and birthdate as previous accounts, but with a different address and phone number. The device used was an iPhone with serial number CK6T6EW9S9, connected to the network "Public_WiFi_5G" in a shopping mall in France.
+[2023-04-24 07:11:48] [fraudulent] User Aden Ward attempted to open an account using an email address with a slight variation from previous accounts, possibly to avoid detection. The IP address used was 55.99.68.4, originating from Russia. This behavior indicates a global attempt to circumvent security measures.
+[2023-04-24 18:28:03] [fraudulent] User Aden Ward opened an account with the same name and personal details as previous accounts but with a different billing address. The device used was a Windows laptop with serial number WSQJ5H97ZB, connected to the network "Guest_WiFi" in a hotel in Italy.
+[2023-04-26 10:03:22] [fraudulent] User Aden Ward opened an account using a new email address, with a slight variation from previous accounts, possibly to avoid detection. The IP address used was 212.95.178.1, originating from India. This behavior indicates a global attempt to circumvent security measures.
+[2023-04-26 14:12:45] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different billing address. The device used was an Android smartphone with IMEI number FWQ3JG96KM, connected to the network "Airport_Free_WiFi" at an airport in Germany.
+
+[2023-04-27 01:35:21] [fraudulent] User Aden Ward opened an account with a slightly different name and personal details than previous accounts, possibly to avoid detection. The IP address used was 87.65.239.98, originating from South Korea. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-04-28 08:12:00] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different billing address. The device used was an iPad with serial number B6YQJ7ZT9X, connected to the network "Cafe_Free_WiFi" in a cafe in Spain.
+
+[2023-04-28 15:47:12] [fraudulent] User Aden Ward opened an account using an email address with a slight variation from previous accounts, possibly to avoid detection. The IP address used was 93.12.226.213, originating from Argentina. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-04-29 12:08:35] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different billing address. The device used was a MacBook Pro with serial number XGZWJH7VKW, connected to the network "Conference_Hotspot" at a conference center in Australia.
+
+[2023-04-30 07:59:18] [fraudulent] User Aden Ward opened an account with a slightly different name and personal details than previous accounts, possibly to avoid detection. The IP address used was 162.24.192.111, originating from Japan. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-01 20:22:20] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different billing address. The device used was a Windows laptop with serial number YUF89KJZQA, connected to the network "Gym_WiFi" in a gym in Canada.
+
+[2023-05-02 13:46:37] [fraudulent] User Aden Ward opened an account using an email address with a slight variation from previous accounts, possibly to avoid detection. The IP address used was 45.89.176.4, originating from Brazil. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-03 18:14:02] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different billing address. The device used was a Samsung Galaxy smartphone with IMEI number JPJ5VK67XZ, connected to the network "Park_Free_WiFi" in a park in Mexico.
+
+[2023-05-04 09:18:45] [fraudulent] User Aden Ward opened an account with a slightly different name and personal details than previous accounts, possibly to avoid detection. The IP address used was 75.126.184.137, originating from China. This behavior indicates a global attempt to circumvent security measures.
+[2023-05-05 15:39:21] [fraudulent] User Aden Ward opened an account using a different email address, but with the same name and personal details as previous accounts. The device used was an Apple iPhone with IMEI number A2JP8Q5SX7, connected to the network "Airport_Free_WiFi" in an airport in Germany.
+
+[2023-05-06 21:54:39] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number. The device used was a Huawei smartphone with IMEI number SMPQOJ7HK6, connected to the network "Mall_Free_WiFi" in a shopping mall in Russia.
+
+[2023-05-07 10:43:12] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 93.128.255.222, originating from India. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-08 14:52:56] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different billing address. The device used was a Lenovo laptop with serial number MKCQ2398VG, connected to the network "Campus_Free_WiFi" in a university in Australia.
+
+[2023-05-09 20:14:23] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 178.245.31.26, originating from South Korea. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-10 09:29:47] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number. The device used was a Dell laptop with serial number TM6QK8LVGZ, connected to the network "Cafe_Free_WiFi" in a cafe in France.
+
+[2023-05-11 17:46:11] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 198.49.120.84, originating from Italy. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-12 02:24:09] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different billing address. The device used was an ASUS laptop with serial number FKDHN67YJW, connected to the network "City_Free_WiFi" in a city park in the United States.
+
+[2023-05-13 09:19:44] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 67.208.92.52, originating from Japan. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-14 14:46:30] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number. The device used was a Google Pixel smartphone with IMEI number TJR7NWGQY5, connected to the network "Beach_Free_WiFi" in a beach in Spain.
+[2023-05-15 07:34:12] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 89.235.101.254, originating from Brazil. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-16 12:27:33] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number and billing address. The device used was a Dell laptop with serial number YQJX9KYM1O, connected to the network "Bus_Free_WiFi" in a city bus in Germany.
+
+[2023-05-17 21:43:05] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 96.158.34.88, originating from Australia. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-18 07:59:21] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different billing address and phone number. The device used was an Apple iPhone with serial number X3XW2VJ4A8, connected to the network "Cafe_Free_WiFi" in a cafe in Canada.
+
+[2023-05-19 16:01:17] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 148.255.68.204, originating from South Africa. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-20 22:07:09] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, and email address. The device used was an HP laptop with serial number N8H1DKYZ7S, connected to the network "Airport_Free_WiFi" in an airport in France.
+
+[2023-05-21 09:34:22] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 76.144.180.170, originating from Italy. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-22 13:30:16] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was a Lenovo laptop with serial number XK8Z2U5T1C, connected to the network "Park_Free_WiFi" in a city park in Russia.
+
+[2023-05-23 17:46:08] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 89.235.101.255, originating from China. This behavior indicates a global attempt to circumvent security measures.
+[2023-05-24 10:05:37] [fraudulent] User Aden Ward opened an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was an Apple iPhone XR with IMEI number 16794235013, connected to the network "Cafe_WiFi" in a cafe in Turkey.
+
+[2023-05-25 14:58:02] [fraudulent] User Aden Ward attempted to open an account with the same name and personal details as previous accounts, but using a different email address. The IP address used was 62.216.193.87, originating from Brazil. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-26 09:02:45] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 178.45.56.188, originating from Germany. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-27 12:47:09] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was a Dell laptop with serial number MZ8N9CJT1P, connected to the network "Hotel_WiFi" in a hotel in India.
+
+[2023-05-28 17:40:33] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 212.68.231.194, originating from Australia. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-29 10:15:07] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was a Samsung Galaxy S22 with IMEI number 16794235013, connected to the network "University_WiFi" in a university in Canada.
+
+[2023-05-30 13:53:22] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 46.98.232.73, originating from South Africa. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-05-31 08:30:47] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was an Asus laptop with serial number XK8Z2U5T1C, connected to the network "Bus_WiFi" in a bus in Mexico.
+
+[2023-06-01 19:36:15] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 94.87.167.202, originating from Japan. This behavior indicates a global attempt to circumvent security measures.
+
+[2023-06-02 14:50:08] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was a Huawei P30 Pro with IMEI number 16794235013, connected to the network "Train_WiFi" in a train in Spain.
+[2023-06-03 11:12:32] [fraudulent] User Aden Ward opened an account with a new email address, but the same name and personal details as previous accounts. The IP address used was 198.51.100.42, originating from Australia. Aden's pattern of using different devices and networks shows a clear attempt to evade detection.
+
+[2023-06-04 07:25:10] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was a Dell Inspiron laptop with serial number 74C2859DG1, connected to the network "Café_WiFi" in a café in Italy.
+
+[2023-06-05 16:10:23] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 24.187.229.218, originating from Canada. The repeated use of various devices and networks indicates a concerted effort to bypass security protocols.
+
+[2023-06-06 21:05:37] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was a Lenovo ThinkPad X1 Carbon laptop with serial number G2PX5QYL03, connected to the network "Airport_WiFi" in an airport in Germany.
+
+[2023-06-07 09:42:48] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 108.173.135.39, originating from South Korea. The continued use of multiple devices and networks indicates a deliberate attempt to manipulate the system.
+
+[2023-06-08 14:59:03] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was a Sony Xperia XZ2 Premium smartphone with IMEI number 3501946789, connected to the network "Hotel_WiFi" in a hotel in Brazil.
+
+[2023-06-09 05:13:21] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 78.47.167.250, originating from India. The pattern of opening multiple accounts in a short time with varying information suggests a fraudulent intention.
+
+[2023-06-10 19:29:38] [fraudulent] User Aden Ward attempted to open an account using the same name and personal details as previous accounts, but with a different phone number, billing address, email address, and device. The device used was a MacBook Pro laptop with serial number C02Q64YJ7C, connected to the network "Park_WiFi" in a park in Russia.
+
+[2023-06-11 13:58:52] [fraudulent] User Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 96.247.214.95, originating from Singapore. The repeated attempts to open multiple accounts within a short period of time are highly suspicious and indicative of fraudulent behavior.
+[2023-06-12 08:37:15] [fraudulent] User Aden Ward created another account with the same name and personal details as previous accounts, but this time using a different phone number and billing address. The device used was an iPhone 13 Pro Max with IMEI number XXXXXXXXXXXXXX, connected to the network "Cafe_WiFi" in a cafe in France.
+
+[2023-06-13 18:45:30] [fraudulent] Aden Ward attempted to open an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 87.106.192.123, originating from Brazil. The user has now opened accounts in multiple countries, further indicating fraudulent intentions.
+
+[2023-06-14 11:50:12] [fraudulent] User Aden Ward created another account with the same name and personal details as previous accounts, but this time using a different phone number and billing address. The device used was an Asus ZenBook laptop with serial number M03G674F1E, connected to the network "Hotel_WiFi" in a hotel in Canada.
+
+[2023-06-15 09:35:07] [fraudulent] Aden Ward attempted to open an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 148.255.12.218, originating from Australia. The user's actions continue to suggest they are attempting to manipulate the system for fraudulent purposes.
+
+[2023-06-16 19:47:02] [fraudulent] User Aden Ward created another account with the same name and personal details as previous accounts, but this time using a different phone number and billing address. The device used was a Dell Inspiron laptop with serial number H8D5MHQ, connected to the network "Airport_WiFi" in an airport in Germany.
+
+[2023-06-17 14:12:09] [fraudulent] Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 50.63.202.45, originating from South Korea. The user's pattern of behavior shows a consistent attempt to deceive the system for fraudulent purposes.
+
+[2023-06-18 07:05:04] [fraudulent] User Aden Ward created another account with the same name and personal details as previous accounts, but this time using a different phone number and billing address. The device used was a Google Pixel 6 Pro smartphone with serial number A28C6KF17D, connected to the network "University_WiFi" in a university in Mexico.
+
+[2023-06-19 20:52:41] [fraudulent] Aden Ward attempted to open an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 178.34.86.137, originating from Italy. The user's behavior indicates a persistent effort to manipulate the system for fraudulent purposes.
+
+[2023-06-20 09:40:35] [fraudulent] User Aden Ward created another account with the same name and personal details as previous accounts, but this time using a different phone number and billing address. The device used was an HP Pavilion laptop with serial number ABCDEFGHIJK, connected to the network "Office_WiFi" in an office building in Spain.
+
+[2023-06-21 19:57:28] [fraudulent] Aden Ward opened an account with a different email address, but the same name and personal details as previous accounts. The IP address used was 216.14.187.61, originating from Argentina. The user's pattern of behavior strongly suggests fraudulent intentions, and further investigation is necessary.
+

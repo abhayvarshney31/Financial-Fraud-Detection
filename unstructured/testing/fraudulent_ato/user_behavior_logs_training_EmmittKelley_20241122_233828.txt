@@ -1,0 +1,56 @@
+User ID: Emmitt Kelley
+- 
+[2023-04-18 16:35:22] [INFO] Emmitt Kelley (user_id: EK9876) - Fraudulent Activity Detected: Multiple Large Withdrawals at ATM #1
+[2023-04-18 16:42:31] [INFO] Emmitt Kelley (user_id: EK9876) - Fraudulent Activity Detected: Suspicious Transactions on Debit Card Linked to Account #43597
+[2023-04-18 16:48:05] [INFO] Emmitt Kelley (user_id: EK9876) - ATM Transaction Alert: Multiple Withdrawals at ATM #2, Surrounding Area of Interest
+[2023-04-18 17:01:42] [INFO] Emmitt Kelley (user_id: EK9876) - Device Flagged for Fraud: IP Address Change Detected, New Location Identified
+[2023-04-18 17:09:27] [INFO] Emmitt Kelley (user_id: EK9876) - Multiple Transactions at ATM #3, Possible Clone Card in Use
+[2023-04-18 17:25:09] [INFO] Emmitt Kelley (user_id: EK9876) - Network Security Breach Detected: Unauthorized Access to Account Information
+[2023-04-18 17:33:23] [WARNING] Emmitt Kelley (user_id: EK9876) - Multiple Withdrawals at ATM #4, Suspicious Pattern of Activity
+[2023-04-18 17:40:41] [INFO] Emmitt Kelley (user_id: EK9876) - Fraud Alert: Unusual Login Activity from New Device, Account #43597
+[2023-04-18 17:48:28] [WARNING] Emmitt Kelley (user_id: EK9876) - ATM Withdrawal Spree at ATM #5, High Risk Location Identified
+[2023-04-18 17:55:15] [INFO] Emmitt Kelley (user_id: EK9876) - Account Suspension Initiated: Fraudulent Activity Confirmed
+[2023-04-18 18:01:59] [WARNING] Emmitt Kelley (user_id: EK9876) - Multiple ATM Withdrawals at ATM #6, Same Day, High Volume Transactions
+[2023-04-18 18:10:31] [INFO] Emmitt Kelley (user_id: EK9876) - Device Blocked: Suspicious Activity Detected on the Associated Phone Number
+[2023-04-18 18:18:45] [WARNING] Emmitt Kelley (user_id: EK9876) - Unauthorized Transactions at ATM #7, Multiple Card Swipes in Short Period
+[2023-04-18 18:27:02] [INFO] Emmitt Kelley (user_id: EK9876) - Transaction Fraud Detected: Multiple Transactions at ATM #8, Same Card, Different Locations
+[2023-04-18 18:35:28] [WARNING] Emmitt Kelley (user_id: EK9876) - Instant Tellers Machines Usage: High-Value Withdrawals at ATM #9, Newly Identified Fraud Pattern
+[2023-04-18 18:43:55] [INFO] Emmitt Kelley (user_id: EK9876) - Account Access: Possible Unauthorized Login from a VPN Location
+[2023-04-18 18:52:21] [WARNING] Emmitt Kelley (user_id: EK9876) - Multiple Withdrawals at ATM #10, Same Day, Potential Collusion with Insider
+[2023-04-18 19:01:46] [INFO] Emmitt Kelley (user_id: EK9876) - Device Reinstated: Suspicious Activity Cleared, Phone Number Unlocked
+[2023-04-18 19:10:59] [WARNING] Emmitt Kelley (user_id: EK9876) - ATM Transactions: Multiple High-Value Withdrawals at ATM #11, Same Day, Possible Fraudulent Pattern
+[2023-04-18 19:20:13] [INFO] Emmitt Kelley (user_id: EK9876) - Network Activity: Multiple IP Address Changes Observed in Short Period
+[2023-04-18 19:29:35] [WARNING] Emmitt Kelley (user_id: EK9876) - Unauthorized Transactions at ATM #12, Same Day, Multiple Card Swipes Detected
+[2023-04-18 19:38:47] [INFO] Emmitt Kelley (user_id: EK9876) - Account Access: Successful Login from Unknown Location, No IP Restrictions Applied
+[2023-04-18 19:48:00] [WARNING] Emmitt Kelley (user_id: EK9876) - High-Value Withdrawals at ATM #13, Same Day, Fraudulent Pattern Continues
+[2023-04-18 19:56:55] [INFO] Emmitt Kelley (user_id: EK9876) - Account Activity: Suspicious Transfers to Multiple Unverified Recipients Detected
+[2023-04-18 20:05:23] [WARNING] Emmitt Kelley (user_id: EK9876) - ATM Transactions: Multiple Large Withdrawals at ATMs #14 and #15, Same Day, Possible Fraudulent Pattern Escalated
+[2023-04-18 20:14:37] [INFO] Emmitt Kelley (user_id: EK9876) - Network Activity: Suspicious VPN Usage Detected, Multiple Geolocations within Short Period
+[2023-04-18 20:23:59] [WARNING] Emmitt Kelley (user_id: EK9876) - Unauthorized Transactions at ATM #16, Same Day, Card Replacement Request Detected
+[2023-04-18 20:33:11] [INFO] Emmitt Kelley (user_id: EK9876) - Account Access: Multiple Successful Logins from Unknown Locations, IP Restrictions Enforced with Delay
+[2023-04-18 20:42:25] [WARNING] Emmitt Kelley (user_id: EK9876) - High-Value Withdrawals at ATM #17 and #18, Same Day, Fraudulent Pattern Intensifies
+[2023-04-18 20:50:41] [INFO] Emmitt Kelley (user_id: EK9876) - Account Activity: Multiple Suspicious Transfers to Unverified Recipients, Flagged for Review
+[2023-04-18 20:58:59] [ERROR] Emmitt Kelley (user_id: EK9876) - Transaction Blocked: High-Value Withdrawal at ATM #19, Same Day, Fraudulent Pattern Confirmed
+[2023-04-18 21:05:14] [INFO] Emmitt Kelley (user_id: EK9876) - Account Activity: Unusual Pattern of ATM Withdrawals from Multiple Cities, All Transactions Reviewed and Blocked
+[2023-04-18 21:15:32] [WARNING] Emmitt Kelley (user_id: EK9876) - Suspicious Email Activity Detected, Attempt to Reset Card PIN through Customer Support, Flagged and Investigated
+[2023-04-18 21:25:49] [INFO] Emmitt Kelley (user_id: EK9876) - Unsuccessful ATM Transactions from Multiple Cities at Same Time, Card Locked for Security Reasons
+[2023-04-18 21:36:06] [ERROR] Emmitt Kelley (user_id: EK9876) - Suspected Fraudulent Activity at ATM #20, Same Day, Card Blocked and New Card Issued
+[2023-04-18 21:46:25] [INFO] Emmitt Kelley (user_id: EK9876) - Account Access: Unsuccessful Login Attempts from Multiple Locations, Account Temporarily Suspended
+[2023-04-19 00:58:50] [INFO] Emmitt Kelley (user_id: EK9876) - Account Access: Successful Login from Unusual Location, IP Address Investigated and Added to Watchlist
+[2023-04-19 01:05:36] [WARNING] Emmitt Kelley (user_id: EK9876) - Multiple Device Logins at Once, Devices Reviewed for Potential Unauthorized Access
+[2023-04-19 01:26:11] [ERROR] Emmitt Kelley (user_id: EK9876) - Fraudulent Transaction Attempt from ATM #21, Same Day, Transaction Blocked and Card Frozen
+[2023-04-19 01:37:05] [INFO] Emmitt Kelley (user_id: EK9876) - Account Access: Successful Login from Known Location, IP Address Compared with Previous Activity
+[2023-04-19 01:48:13] [ERROR] Emmitt Kelley (user_id: EK9876) - Fraudulent Transaction at ATM #19, Same Day, Amount Over Limit, Account Temporarily Suspended
+[2023-04-19 02:00:35] [INFO] Emmitt Kelley (user_id: EK9876) - Account Activity: Unusual Withdrawals from Multiple Cities on Same Day, Investigation Ongoing
+[2023-04-19 02:11:51] [WARNING] Emmitt Kelley (user_id: EK9876) - Email Activity Detected, Possible Attempt to Reset Card PIN from Unusual Location, Flagged and Investigated
+[2023-04-19 02:23:03] [INFO] Emmitt Kelley (user_id: EK9876) - Account Access: Successful Login from Multiple Locations in Short Timeframe, Account Temporarily Suspended for Review
+[2023-04-19 02:34:16] [ERROR] Emmitt Kelley (user_id: EK9876) - Fraudulent Transaction at ATM #22, Same Day, Amount Over Limit, Account Temporarily Suspended
+[2023-04-19 02:45:30] [INFO] Emmitt Kelley (user_id: EK9876) - Device Alert: Unusual Pattern of Activity Detected, Multiple Devices Used in Short Timeframe
+[2023-04-19 02:56:48] [ERROR] Emmitt Kelley (user_id: EK9876) - Fraudulent Transaction at ATM #25, Same Day, Amount Over Limit, Account Temporarily Suspended
+[2023-04-19 03:08:05] [INFO] Emmitt Kelley (user_id: EK9876) - IP Address Change Detected, Multiple Changes within Minutes, Investigation Ongoing
+[2023-04-19 03:20:23] [WARNING] Emmitt Kelley (user_id: EK9876) - Suspicious Email Activity Continued, Possible Attempt to Reset Card PIN from Unusual Location, Flagged and Investigated
+[2023-04-19 03:31:38] [ERROR] Emmitt Kelley (user_id: EK9876) - Fraudulent Transaction at ATM #28, Same Day, Amount Over Limit, Account Temporarily Suspended
+[2023-04-19 03:42:56] [INFO] Emmitt Kelley (user_id: EK9876) - Network Activity Detected: Multiple Connections from Different Cities in Short Timeframe, Investigation Ongoing
+[2023-04-19 03:54:11] [ERROR] Emmitt Kelley (user_id: EK9876) - Fraudulent Transaction at ATM #31, Same Day, Amount Over Limit, Account Temporarily Suspended
+[2023-04-19 04:05:28] [INFO] Emmitt Kelley (user_id: EK9876) - Withdrawal Pattern Analysis: Large Transactions at ATMs in Multiple States, Investigation Initiated
+

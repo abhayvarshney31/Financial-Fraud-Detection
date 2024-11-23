@@ -1,0 +1,107 @@
+User ID: Vera Hughes
+- 
+[2023-04-15 16:32:07] [fraudulent] User Vera Hughes created a new account with Bank of America using the stolen identity of John Smith. IP address 192.168.1.10 and device ID: AB12CD34 were detected during this activity.
+
+[2023-04-16 08:45:21] [fraudulent] Vera Hughes attempted to open a new account with Chase Bank using the stolen identity of Jane Doe. Device ID EF45GH67 was used and connected to the IP address 172.16.2.30.
+
+[2023-04-17 19:27:38] [fraudulent] User Vera Hughes opened a new credit card account with Citibank using the stolen identity of Michael Johnson. The transaction was made from IP address 10.0.0.5 and device ID FG76HIKL.
+
+[2023-04-18 09:10:12] [fraudulent] Vera Hughes created a new account with Wells Fargo using the stolen identity of Emma Williams. The activity was detected from IP address 192.168.2.4 and device ID JO87LKMI.
+
+[2023-04-19 22:53:05] [fraudulent] User Vera Hughes attempted to open a new account with US Bank using the stolen identity of David Brown. The attempt was made from IP address 10.0.0.6 and device ID KL89MNOP.
+
+[2023-04-20 14:45:23] [fraudulent] Vera Hughes successfully opened a new account with HSBC Bank using the stolen identity of Lisa Wilson. The activity was detected from IP address 172.16.3.2 and device ID IM90JKLM.
+
+[2023-04-21 08:50:31] [fraudulent] User Vera Hughes created a new account with TD Bank using the stolen identity of Thomas Young. The transaction was made from IP address 192.168.3.5 and device ID KN76JMZO.
+
+[2023-04-22 22:20:02] [fraudulent] Vera Hughes attempted to open a new account with Capital One using the stolen identity of Jennifer Davis. The attempt was made from IP address 10.0.0.7 and device ID LM97KNOI.
+
+[2023-04-23 15:10:18] [fraudulent] User Vera Hughes successfully opened a new account with Bank of Hawaii using the stolen identity of Christopher Martin. The activity was detected from IP address 192.168.4.6 and device ID NO78IJKL.
+
+[2023-04-24 06:53:45] [fraudulent] Vera Hughes created a new account with SunTrust Bank using the stolen identity of Rachel Green. The transaction was made from IP address 172.16.4.8 and device ID PQ90RJKU.
+[2023-04-25 10:12:08] [fraudulent] Vera Hughes attempted to open a new account with Wells Fargo using the stolen identity of Michael Johnson. The attempt was made from IP address 192.168.7.1 and device ID OM76KNMB.
+
+[2023-04-26 00:25:12] [fraudulent] User Vera Hughes successfully opened a new account with Chase Bank using the stolen identity of Emily White. The activity was detected from IP address 192.168.10.7 and device ID MP98LJKN.
+
+[2023-04-27 13:00:23] [fraudulent] Vera Hughes created a new account with Bank of America using the stolen identity of David Brown. The transaction was made from IP address 10.0.0.8 and device ID NQ97KZLU.
+
+[2023-04-28 16:55:45] [fraudulent] User Vera Hughes attempted to open a new account with Ally Bank using the stolen identity of Sophia Smith. The attempt was made from IP address 172.16.5.9 and device ID JR90LKMV.
+
+[2023-04-29 23:01:07] [fraudulent] Vera Hughes successfully opened a new account with Citibank using the stolen identity of James Lee. The activity was detected from IP address 192.168.11.8 and device ID KP98LJKN.
+
+[2023-04-30 08:12:31] [fraudulent] User Vera Hughes attempted to open a new account with Discover Bank using the stolen identity of Laura Adams. The attempt was made from IP address 192.168.12.7 and device ID LN97KZMO.
+
+[2023-05-01 13:45:12] [fraudulent] Vera Hughes created a new account with US Bank using the stolen identity of Nicholas Wilson. The transaction was made from IP address 172.16.6.9 and device ID IM90JKLM.
+
+[2023-05-02 19:00:08] [fraudulent] User Vera Hughes successfully opened a new account with Barclays Bank using the stolen identity of Linda Taylor. The activity was detected from IP address 192.168.2.8 and device ID KN76JMZO.
+[2023-05-03 00:55:04] [fraudulent] Vera Hughes attempted to open a new account with Chase Bank using the stolen identity of Christopher Martin. The attempt was made from IP address 172.16.7.9 and device ID MN89LKJH.
+
+[2023-05-04 10:30:12] [fraudulent] User Vera Hughes successfully opened a new account with HSBC Bank using the stolen identity of Sarah Miller. The activity was detected from IP address 192.168.3.8 and device ID NP76JKMQ.
+
+[2023-05-05 15:12:31] [fraudulent] Vera Hughes attempted to open a new account with Wells Fargo using the stolen identity of David Jackson. The attempt was made from IP address 172.16.8.9 and device ID OM89LKJL.
+
+[2023-05-06 21:45:07] [fraudulent] User Vera Hughes successfully opened a new account with Bank of America using the stolen identity of Emily Thompson. The activity was detected from IP address 192.168.4.8 and device ID PN76JKMO.
+
+[2023-05-07 03:00:12] [fraudulent] Vera Hughes attempted to open a new account with Capital One using the stolen identity of John Brown. The attempt was made from IP address 172.16.9.9 and device ID QM89LKJN.
+
+[2023-05-08 08:45:08] [fraudulent] User Vera Hughes successfully opened a new account with TD Bank using the stolen identity of Jennifer White. The activity was detected from IP address 192.168.5.8 and device ID RN76JKMV.
+
+[2023-05-09 14:12:31] [fraudulent] Vera Hughes attempted to open a new account with SunTrust Bank using the stolen identity of Michael Johnson. The attempt was made from IP address 172.16.10.9 and device ID SN89LKJM.
+
+[2023-05-10 19:45:07] [fraudulent] User Vera Hughes successfully opened a new account with PNC Bank using the stolen identity of Karen Davis. The activity was detected from IP address 192.168.6.8 and device ID TN76JKMW.
+
+[2023-05-11 01:00:12] [fraudulent] Vera Hughes attempted to open a new account with Bank of Hawaii using the stolen identity of Mark Harris. The attempt was made from IP address 172.16.11.9 and device ID UN89LKJH.
+
+[2023-05-12 05:45:08] [fraudulent] User Vera Hughes successfully opened a new account with KeyBank using the stolen identity of Elizabeth Young. The activity was detected from IP address 192.168.7.8 and device ID VM76JKMN.
+[2023-05-13 09:30:23] [fraudulent] Vera Hughes attempted to open a new account with Chase Bank using the stolen identity of Samuel Thompson. The attempt was made from IP address 172.16.12.9 and device ID WN89LKJI.
+
+[2023-05-14 12:15:04] [fraudulent] User Vera Hughes successfully opened a new account with Citibank using the stolen identity of Daniel Brown. The activity was detected from IP address 192.168.8.8 and device ID XN76JKMU.
+
+[2023-05-15 14:45:22] [fraudulent] Vera Hughes attempted to open a new account with Wells Fargo using the stolen identity of Lisa Simmons. The attempt was made from IP address 172.16.13.9 and device ID YN89LKJB.
+
+[2023-05-16 16:30:09] [fraudulent] User Vera Hughes successfully opened a new account with U.S. Bank using the stolen identity of James Smith. The activity was detected from IP address 192.168.9.8 and device ID ZN76JKMO.
+
+[2023-05-17 18:15:11] [fraudulent] Vera Hughes attempted to open a new account with HSBC using the stolen identity of Kimberly Baker. The attempt was made from IP address 172.16.14.9 and device ID AN89LKJC.
+
+[2023-05-18 20:00:00] [fraudulent] User Vera Hughes successfully opened a new account with TD Bank using the stolen identity of William Lewis. The activity was detected from IP address 192.168.10.8 and device ID BN76JKMP.
+
+[2023-05-19 21:45:18] [fraudulent] Vera Hughes attempted to open a new account with Capital One using the stolen identity of Mary Johnson. The attempt was made from IP address 172.16.15.9 and device ID CN89LKJD.
+
+[2023-05-20 22:30:12] [fraudulent] User Vera Hughes successfully opened a new account with Bank of America using the stolen identity of Joseph Taylor. The activity was detected from IP address 192.168.11.8 and device ID DN76JKMN.
+[2023-05-21 01:15:15] [fraudulent] Vera Hughes attempted to open a new account with Wells Fargo using the stolen identity of Susan White. The attempt was made from IP address 172.16.16.9 and device ID EN89LKJE.
+
+[2023-05-22 18:45:22] [fraudulent] User Vera Hughes successfully opened a new account with Chase Bank using the stolen identity of Richard Brown. The activity was detected from IP address 192.168.12.8 and device ID FN76JKMO.
+
+[2023-05-23 20:00:00] [fraudulent] Vera Hughes attempted to open a new account with Ally Bank using the stolen identity of Patricia Davis. The attempt was made from IP address 172.16.17.9 and device ID GN89LKJF.
+
+[2023-05-24 21:15:11] [fraudulent] User Vera Hughes successfully opened a new account with US Bank using the stolen identity of James Roberts. The activity was detected from IP address 192.168.13.8 and device ID HN76JKMP.
+
+[2023-05-25 22:30:00] [fraudulent] Vera Hughes attempted to open a new account with Discover Bank using the stolen identity of Linda Jackson. The attempt was made from IP address 172.16.18.9 and device ID IN89LKJG.
+
+[2023-05-26 23:45:18] [fraudulent] User Vera Hughes successfully opened a new account with SunTrust Bank using the stolen identity of Michael Young. The activity was detected from IP address 192.168.14.8 and device ID JN76JKMN.
+
+[2023-05-27 00:30:00] [fraudulent] Vera Hughes attempted to open a new account with PNC Bank using the stolen identity of Emma Thompson. The attempt was made from IP address 172.16.19.9 and device ID KN89LKJH.
+
+[2023-05-28 01:45:11] [fraudulent] User Vera Hughes successfully opened a new account with Bank of Hawaii using the stolen identity of Daniel Harris. The activity was detected from IP address 192.168.15.8 and device ID LN76JKMP.
+
+[2023-05-29 02:30:00] [fraudulent] Vera Hughes attempted to open a new account with State Farm Bank using the stolen identity of Jessica Lee. The attempt was made from IP address 172.16.20.9 and device ID MN89LKJI.
+[2023-05-30 03:15:12] [fraudulent] User Vera Hughes successfully opened a new account with Wells Fargo Bank using the stolen identity of Samuel Robinson. The activity was detected from IP address 192.168.16.8 and device ID NO76JKML.
+
+[2023-05-31 04:00:00] [fraudulent] Vera Hughes attempted to open a new account with Capital One Bank using the stolen identity of Jennifer Smith. The attempt was made from IP address 172.16.21.9 and device ID PM89LKJG.
+
+[2023-06-01 04:45:13] [fraudulent] User Vera Hughes successfully opened a new account with Chase Bank using the stolen identity of David Brown. The activity was detected from IP address 192.168.17.8 and device ID LN76JKMP.
+
+[2023-06-02 05:30:00] [fraudulent] Vera Hughes attempted to open a new account with Citibank using the stolen identity of Sarah Johnson. The attempt was made from IP address 172.16.22.9 and device ID MN89LKJI.
+
+[2023-06-03 06:15:14] [fraudulent] User Vera Hughes successfully opened a new account with US Bank using the stolen identity of Thomas Williams. The activity was detected from IP address 192.168.18.8 and device ID NO76JKML.
+
+[2023-06-04 07:00:00] [fraudulent] Vera Hughes attempted to open a new account with Bank of America using the stolen identity of Laura Wilson. The attempt was made from IP address 172.16.23.9 and device ID PM89LKJG.
+
+[2023-06-05 07:45:15] [fraudulent] User Vera Hughes successfully opened a new account with TD Bank using the stolen identity of Robert Clark. The activity was detected from IP address 192.168.19.8 and device ID LN76JKMP.
+
+[2023-06-06 08:30:00] [fraudulent] Vera Hughes attempted to open a new account with Ally Bank using the stolen identity of Maria Taylor. The attempt was made from IP address 172.16.24.9 and device ID MN89LKJI.
+
+[2023-06-07 09:15:16] [fraudulent] User Vera Hughes successfully opened a new account with Discover Bank using the stolen identity of William Anderson. The activity was detected from IP address 192.168.20.8 and device ID NO76JKML.
+
+[2023-06-08 10:00:00] [fraudulent] Vera Hughes attempted to open a new account with Navy Federal Credit Union using the stolen identity of Patricia Brown. The attempt was made from IP address 172.16.25.9 and device ID PM89LKJG.
+

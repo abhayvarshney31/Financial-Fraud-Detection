@@ -1,0 +1,100 @@
+User ID: Lilly James
+- 
+[00:00:01] User Lilly James (Account #: 123456789) - Fraudulent Activity Detected
+[00:00:02] Lilly made a series of large withdrawals from different ATMs in a single day. Total amount withdrawn: $15,000.
+[00:00:03] Suspicious activity detected on Lilly's account (Account #: 123456789) - Multiple transactions within an hour at ATMs in different locations.
+[00:00:04] Device used for the transactions: iPhone 11, IMEI number XXXXXXXXXX
+[00:00:05] Network used for the transactions: Cellular network - carrier ABC
+[00:00:06] IP address of the device at the time of the transaction: X.X.X.X (VPN detected)
+[00:00:07] First transaction amount: $2,000, ATM location: Main Street, City A
+[00:00:08] Second transaction amount: $3,000, ATM location: Market Place, City B
+[00:00:09] Third transaction amount: $4,500, ATM location: Park Avenue, City C
+[00:00:10] Fourth transaction amount: $2,500, ATM location: Liberty Square, City D
+[00:00:11] Fifth transaction amount: $3,000, ATM location: Ocean Boulevard, City E
+[00:00:12] Sixth transaction amount: $4,000, ATM location: River Walk, City F
+[00:00:13] Seventh transaction amount: $3,500, ATM location: Central Plaza, City G
+[00:00:14] Eighth transaction amount: $2,500, ATM location: Sunset Drive, City H
+[00:00:15] Ninth transaction amount: $3,000, ATM location: Garden Avenue, City I
+[00:00:16] Tenth transaction amount: $1,000, ATM location: Lake Road, City J
+[00:00:17] Eleventh transaction amount: $500, ATM location: Riverbend Lane, City K
+[00:00:18] Twelfth transaction amount: $2,000, ATM location: Valley Drive, City L
+[00:00:19] Thirteenth transaction amount: $3,500, ATM location: Mountain View Boulevard, City M
+[00:00:20] Fourteenth transaction amount: $4,000, ATM location: Hillside Road, City N
+[00:00:21] Fifteenth transaction amount: $2,500, ATM location: Ocean's Edge Drive, City O
+[00:00:22] Sixteenth transaction amount: $3,000, ATM location: Coastal Way, City P
+[00:00:23] Seventeenth transaction amount: $1,500, ATM location: Harbor Walk, City Q
+[00:00:24] Eighteenth transaction amount: $2,000, ATM location: Bayview Street, City R
+[00:00:25] Nineteenth transaction amount: $1,000, ATM location: Forest Trail, City S
+[00:00:26] Twentieth transaction amount: $3,000, ATM location: Lakeside Court, City T
+[00:00:27] Twenty-first transaction amount: $1,500, ATM location: Riverdale Drive, City U
+[00:00:28] Twenty-second transaction amount: $2,500, ATM location: Hillside Terrace, City V
+[00:00:29] Twenty-third transaction amount: $4,000, ATM location: Sunset Boulevard, City W
+[00:00:30] Twenty-fourth transaction amount: $1,000, ATM location: Willow Creek Lane, City X
+[00:00:31] Twenty-fifth transaction amount: $2,500, ATM location: Oakridge Drive, City Y
+[00:00:32] Twenty-sixth transaction amount: $3,000, ATM location: Parkside Street, City Z
+[00:00:33] Twenty-seventh transaction amount: $4,500, ATM location: Riverbend Drive, City AA
+[00:00:34] Twenty-eighth transaction amount: $1,500, ATM location: Evergreen Place, City BB
+[00:00:35] Twenty-ninth transaction amount: $2,000, ATM location: Hillside Drive, City CC
+[00:00:36] Thirtieth transaction amount: $4,000, ATM location: Sunset Avenue, City DD
+[00:00:37] Thirty-first transaction amount: $2,000, ATM location: Cedar Lane, City EE
+[00:00:38] Thirty-second transaction amount: $1,000, ATM location: Willow Drive, City FF
+[00:00:39] Thirty-third transaction amount: $2,500, ATM location: Oakridge Avenue, City GG
+[00:00:40] Thirty-fourth transaction amount: $3,000, ATM location: Parkside Avenue, City HH
+[00:00:41] Thirty-fifth transaction amount: $5,000, ATM location: Riverbend Avenue, City II
+[00:00:42] Thirty-sixth transaction amount: $1,000, ATM location: Evergreen Avenue, City JJ
+[00:00:43] Thirty-seventh transaction amount: $3,500, ATM location: Hillside Avenue, City KK
+[00:00:44] Thirty-eighth transaction amount: $2,000, ATM location: Sunset Court, City LL
+[00:00:45] Thirty-ninth transaction amount: $4,000, ATM location: Cedar Avenue, City MM
+[00:00:46] Fortieth transaction amount: $2,500, ATM location: Willow Court, City NN
+[00:00:47] Forty-first transaction amount: $3,000, ATM location: Oakridge Court, City OO
+[00:00:48] Forty-second transaction amount: $5,000, ATM location: Parkside Court, City P
+[00:00:49] Forty-third transaction amount: $7,000, ATM location: Riverbend Court, City QQ
+[00:00:50] Forty-fourth transaction amount: $1,000, ATM location: Evergreen Court, City RR
+[00:00:51] Forty-fifth transaction amount: $4,000, ATM location: Hillside Court, City SS
+[00:00:52] Forty-sixth transaction amount: $3,000, ATM location: Sunset Boulevard, City TT
+[00:00:53] Forty-seventh transaction amount: $6,000, ATM location: Cedar Boulevard, City UU
+[00:00:54] Forty-eighth transaction amount: $2,500, ATM location: Willow Boulevard, City VV
+[00:00:55] Forty-ninth transaction amount: $3,000, ATM location: Oakridge Boulevard, City WW
+[00:00:56] Fiftieth transaction amount: $7,000, ATM location: Parkside Boulevard, City XX
+[00:00:57] Fifty-first transaction amount: $8,000, ATM location: Riverbend Boulevard, City YY
+[00:00:58] Fifty-second transaction amount: $9,000, ATM location: Evergreen Boulevard, City ZZ
+[00:00:59] Fifty-third transaction amount: $5,000, ATM location: Hillside Boulevard, City AA
+[00:01:00] Fifty-fourth transaction amount: $4,000, ATM location: Sunset Boulevard, City BB
+[00:01:01] Fifty-fifth transaction amount: $8,000, ATM location: Cedar Boulevard, City CC
+[00:01:02] Fifty-sixth transaction amount: $6,500, ATM location: Willow Boulevard, City DD
+[00:01:03] Fifty-seventh transaction amount: $7,500, ATM location: Oakridge Boulevard, City EE
+[00:01:04] Fifty-eighth transaction amount: $9,000, ATM location: Parkside Boulevard, City FF
+[00:01:05] Fifty-ninth transaction amount: $12,000, ATM location: Riverbend Boulevard, City GG
+[00:01:06] Sixtieth transaction amount: $10,000, ATM location: Evergreen Boulevard, City HH
+[00:01:07] Sixty-first transaction amount: $5,500, ATM location: Hillside Boulevard, City III
+[00:01:08] Sixty-second transaction amount: $6,000, ATM location: Sunset Boulevard, City JJ
+[00:01:09] Sixty-third transaction amount: $7,500, ATM location: Cedar Boulevard, City KK
+[00:01:10] Sixty-fourth transaction amount: $8,500, ATM location: Willow Boulevard, City LL
+[00:01:11] Sixty-fifth transaction amount: $9,000, ATM location: Oakridge Boulevard, City MM
+[00:01:12] Sixty-sixth transaction amount: $6,500, ATM location: Parkside Boulevard, City NN
+[00:01:13] Sixty-seventh transaction amount: $7,000, ATM location: Riverbend Boulevard, City OO
+[00:01:14] Sixty-eighth transaction amount: $9,000, ATM location: Evergreen Boulevard, City PP
+[00:01:15] Sixty-ninth transaction amount: $4,500, ATM location: Hillside Boulevard, City QQ
+[00:01:16] Seventieth transaction amount: $8,000, ATM location: Sunset Boulevard, City RR
+[00:01:17] Seventy-first transaction amount: $9,500, ATM location: Cedar Boulevard, City SS
+[00:01:18] Seventy-second transaction amount: $7,000, ATM location: Willow Boulevard, City TT
+[00:01:19] Seventy-third transaction amount: $6,500, ATM location: Oakridge Boulevard, City UU
+[00:01:20] Seventy-fourth transaction amount: $8,500, ATM location: Parkside Boulevard, City VV
+[00:01:21] Seventy-fifth transaction amount: $7,000, ATM location: Riverbend Boulevard, City WW
+[00:01:22] Seventy-sixth transaction amount: $5,000, ATM location: Evergreen Boulevard, City XX
+[00:01:23] Seventy-seventh transaction amount: $9,000, ATM location: Hillside Boulevard, City YY
+[00:01:24] Seventy-eighth transaction amount: $7,500, ATM location: Sunset Boulevard, City ZZ
+[00:01:25] Seventy-ninth transaction amount: $8,000, ATM location: Cedar Boulevard, City AA
+[00:01:26] Eightieth transaction amount: $9,500, ATM location: Willow Boulevard, City BB
+[00:01:27] Eighty-first transaction amount: $8,500, ATM location: Oakridge Boulevard, City CC
+[00:01:28] Eighty-second transaction amount: $6,500, ATM location: Parkside Boulevard, City DD
+[00:01:29] Eighty-third transaction amount: $7,000, ATM location: Riverbend Boulevard, City EE
+[00:01:30] Eighty-fourth transaction amount: $5,000, ATM location: Evergreen Boulevard, City FF
+[00:01:31] Eighty-fifth transaction amount: $9,000, ATM location: Hillside Boulevard, City GG
+[00:01:32] Eighty-sixth transaction amount: $7,500, ATM location: Sunset Boulevard, City HH
+[00:01:33] Eighty-seventh transaction amount: $8,000, ATM location: Cedar Boulevard, City II
+[00:01:34] Eighty-eighth transaction amount: $9,500, ATM location: Willow Boulevard, City JJ
+[00:01:35] Eighty-ninth transaction amount: $8,500, ATM location: Oakridge Boulevard, City KK
+[00:01:36] Ninetyth transaction amount: $6,500, ATM location: Parkside Boulevard, City LL
+[00:01:37] Ninety-first transaction amount: $7,000, ATM location: Riverbend Boulevard, City MM
+

@@ -1,0 +1,125 @@
+User ID: Kyrie Martinez
+- 
+[10:15:32] [fraudulent] User Kyrie Martinez used a stolen identity to create a new account with Bank of America. The device used was an iPhone 12, connected to the network "Starbucks_WiFi" in the city of New York.
+[10:16:54] [fraudulent] User Kyrie Martinez created another account with Wells Fargo using a different stolen identity. The device used was an iPad Air, connected to the network "Cafe_Connection" in the city of Los Angeles.
+[10:18:23] [fraudulent] User Kyrie Martinez successfully applied for a credit card using a stolen identity with Chase Bank. The transaction occurred on a Samsung Galaxy S21, connected to the network "T-Mobile_USA" in the city of Chicago.
+[10:19:45] [fraudulent] User Kyrie Martinez attempted to open an account with Citibank using a stolen identity but was denied due to suspicious activity on the associated debit card. The device used was a Huawei P30, connected to the network "Wireless_Network" in the city of Miami.
+[10:21:15] [fraudulent] User Kyrie Martinez used a stolen identity to apply for a loan with US Bank. The device used was an Xiaomi Redmi Note 9, connected to the network "Home_WiFi" in the city of Houston.
+[10:22:34] [fraudulent] User Kyrie Martinez attempted to create an account with Discover Bank using a stolen identity but was caught by the fraud detection system. The device used was a Google Pixel 5, connected to the network "Hotel_WiFi" in the city of Phoenix.
+[10:23:48] [fraudulent] User Kyrie Martinez tried to open an account with Ally Bank using a stolen identity, but the application was flagged for review due to unusual activity. The device used was a Motorola G Stylus, connected to the network "WiFi_Public" in the city of Atlanta.
+[10:25:07] [fraudulent] User Kyrie Martinez applied for a checking account with Capital One using a stolen identity. The device used was an Oppo Find X2 Pro, connected to the network "Airport_WiFi" in the city of Seattle.
+[10:26:25] [fraudulent] User Kyrie Martinez attempted to create a new account with PNC Bank using a stolen identity, but the application was rejected due to a hard credit inquiry. The device used was an LG V60 ThinQ, connected to the network "Bus_WiFi" in the city of Dallas.
+[10:27:45] [fraudulent] User Kyrie Martinez successfully opened an account with American Express using a stolen identity. The device used was a Samsung Galaxy S20 Ultra, connected to the network "Aeroport_WiFi" in the city of Washington D.C.
+[10:37:02] [fraudulent] User Kyrie Martinez attempted to open a savings account with Bank of America using a stolen identity, but the application was flagged for review due to multiple recent applications. The device used was an iPhone 12 Pro Max, connected to the network "Cafe_WiFi" in the city of Los Angeles.
+
+[10:38:25] [fraudulent] User Kyrie Martinez tried to open a credit card with Chase Bank using a stolen identity. The device used was a Google Pixel 4XL, connected to the network "Hotel_WiFi" in the city of Chicago.
+
+[10:39:50] [fraudulent] User Kyrie Martinez successfully created a new account with Wells Fargo using a stolen identity. The device used was an OnePlus 8T, connected to the network "Co_Working_Space_WiFi" in the city of San Francisco.
+
+[10:41:03] [fraudulent] User Kyrie Martinez attempted to open a joint account with TD Bank using a stolen identity, but the application was flagged for review due to suspicious activity. The device used was an Xiaomi Mi 10 Ultra, connected to the network "Cafe_Espresso" in the city of Boston.
+
+[10:42:18] [fraudulent] User Kyrie Martinez successfully created a new account with US Bank using a stolen identity. The device used was a Huawei P30 Pro, connected to the network "Restaurant_WiFi" in the city of Miami.
+
+[10:43:36] [fraudulent] User Kyrie Martinez attempted to open an investment account with Charles Schwab using a stolen identity, but the application was flagged for review due to unusual activity. The device used was a Sony Xperia 1 II, connected to the network "Airport_WiFi" in the city of Denver.
+
+[10:44:56] [fraudulent] User Kyrie Martinez successfully opened a line of credit with Discover Bank using a stolen identity. The device used was an ASUS ROG Phone 3, connected to the network "University_WiFi" in the city of Austin.
+
+[10:46:05] [fraudulent] User Kyrie Martinez tried to open a money market account with Ally Bank using a stolen identity, but the application was rejected due to insufficient funds. The device used was an OPPO Find X3 Pro, connected to the network "Park_WiFi" in the city of Houston.
+
+[10:47:25] [fraudulent] User Kyrie Martinez successfully created a new account with Fidelity Investments using a stolen identity. The device used was an iPhone 13 Pro Max, connected to the network "Library_WiFi" in the city of New York.
+
+[10:48:32] [fraudulent] User Kyrie Martinez attempted to open a CD account with Bank of Hawaii using a stolen identity, but the application was flagged for review due to an excessive number of recent applications. The device used was a Samsung Galaxy Z Fold 3, connected to the network "Cafe_WiFi" in the city of Honolulu.
+[10:56:23] [fraudulent] User Kyrie Martinez tried to open a savings account with Wells Fargo using a stolen identity, but the application was denied due to discrepancies in the provided information. The device used was an Xiaomi Mi 11 Ultra, connected to the network "Hotel_WiFi" in the city of Las Vegas.
+
+[10:57:48] [fraudulent] User Kyrie Martinez successfully created a new account with Charles Schwab using a stolen identity. The device used was a Google Pixel 6 Pro, connected to the network "City_WiFi" in the city of Chicago.
+
+[10:59:24] [fraudulent] User Kyrie Martinez attempted to open a checking account with Capital One using a stolen identity, but the application was flagged for review due to suspicious activity detected on the associated email address. The device used was an HUAWEI P30 Pro, connected to the network "Cafe_WiFi" in the city of San Francisco.
+
+[11:00:59] [fraudulent] User Kyrie Martinez tried to open a credit card account with Chase using a stolen identity, but the application was denied due to an insufficient credit score associated with the Social Security number provided. The device used was a OnePlus 9 Pro, connected to the network "Airport_WiFi" in the city of Miami.
+
+[11:02:34] [fraudulent] User Kyrie Martinez successfully created a new account with TD Bank using a stolen identity. The device used was an iPhone 13 Mini, connected to the network "Restaurant_WiFi" in the city of Boston.
+
+[11:03:57] [fraudulent] User Kyrie Martinez attempted to open a money market account with USAA using a stolen identity, but the application was rejected due to a mismatch between the provided address and the associated device's IP address location. The device used was an LG V60 ThinQ, connected to the network "Conference_WiFi" in the city of Atlanta.
+
+[11:05:37] [fraudulent] User Kyrie Martinez tried to open a certificate of deposit account with PNC Bank using a stolen identity, but the application was denied due to an unfavorable credit history associated with the provided Social Security number. The device used was a Motorola Edge 20 Pro, connected to the network "Park_WiFi" in the city of Philadelphia.
+
+[11:06:58] [fraudulent] User Kyrie Martinez successfully created a new account with Citibank using a stolen identity. The device used was a Sony Xperia 1 III, connected to the network "Bus_WiFi" in the city of Dallas.
+
+[11:08:39] [fraudulent] User Kyrie Martinez attempted to open a joint savings account with Bank of America using a stolen identity, but the application was denied due to discrepancies between the provided information and the associated device's IP address location. The device used was an Xiaomi Mi 10 Ultra, connected to the network "University_WiFi" in the city of Los Angeles.
+
+[11:10:23] [fraudulent] User Kyrie Martinez tried to open a checking account with American Express using a stolen identity, but the application was rejected due to the associated Social Security number being flagged for potential fraud by the credit bureau. The device used was an ASUS ZenFone 8, connected to the network "Train_WiFi" in the city of Seattle.
+[11:12:09] [fraudulent] User Kyrie Martinez successfully created a new credit card account with Chase using another stolen identity. The device used was an iPhone 13 Pro, connected to the network "Cafe_WiFi" in the city of Chicago.
+
+[11:15:24] [fraudulent] User Kyrie Martinez attempted to open a credit card account with Capital One using a stolen identity but was denied due to the IP address being flagged for suspicious activity. The device used was a Samsung Galaxy S21 Ultra, connected to the network "Mall_WiFi" in the city of Miami.
+
+[11:18:37] [fraudulent] User Kyrie Martinez successfully created a new mortgage account with Wells Fargo using yet another stolen identity. The device used was an LG V60 ThinQ, connected to the network "Airport_WiFi" in the city of Denver.
+
+[11:22:09] [fraudulent] User Kyrie Martinez tried to open a joint credit card account with Discover using a stolen identity, but the application was rejected due to the provided Social Security number being flagged for potential fraud by the credit bureau. The device used was a Google Pixel 6 Pro, connected to the network "Library_WiFi" in the city of Portland.
+
+[11:27:32] [fraudulent] User Kyrie Martinez successfully created a new savings account with Ally Bank using a stolen identity. The device used was an OnePlus 9 Pro, connected to the network "Park_WiFi" in the city of Boston.
+
+[11:34:58] [fraudulent] User Kyrie Martinez attempted to open a new account with USAA using a stolen identity but was denied due to the IP address being flagged for suspicious activity. The device used was an OPPO Find X3 Pro, connected to the network "Hotel_WiFi" in the city of Atlanta.
+
+[11:40:15] [fraudulent] User Kyrie Martinez successfully created a new money market account with Fidelity using another stolen identity. The device used was an Xiaomi Mi 11 Ultra, connected to the network "Hospital_WiFi" in the city of San Francisco.
+
+[12:06:43] [fraudulent] User Kyrie Martinez attempted to open a new account with US Bank using a stolen identity but was denied due to the provided Social Security number being flagged for potential fraud by the credit bureau. The device used was an Oppo Find X3 Pro, connected to the network "Airport_WiFi" in the city of Houston.
+
+[12:26:07] [fraudulent] User Kyrie Martinez successfully created a new account with Charles Schwab using another stolen identity. The device used was an iPhone 13 Mini, connected to the network "University_WiFi" in the city of Austin.
+
+[12:50:29] [fraudulent] User Kyrie Martinez tried to open a new account with Bank of Hawaii using a stolen identity but was denied due to discrepancies between the provided information and the associated device's IP address location. The device used was an ASUS ROG Phone 5, connected to the network "Coffee_Shop_WiFi" in the city of Honolulu.
+[13:19:02] [fraudulent] User Kyrie Martinez attempted to open a joint account with Wells Fargo using another stolen identity. However, the bank's security system flagged the transaction and the account was not opened. The device used was a Samsung Galaxy S22 Ultra, connected to the network "Hotel_WiFi" in the city of Las Vegas.
+
+[13:56:10] [fraudulent] User Kyrie Martinez successfully created a new account with Chase Bank using a stolen identity but failed to add any funds due to insufficient information and suspicious activity alert by the bank's fraud detection system. The device used was an Xiaomi Mi 11 Ultra, connected to the network "Park_WiFi" in the city of New York.
+
+[14:22:37] [fraudulent] User Kyrie Martinez attempted to open a new account with Ally Bank using a stolen identity but was denied due to the provided Social Security number being flagged for potential fraud by the credit bureau. The device used was an iPhone 13 Pro, connected to the network "Library_WiFi" in the city of Los Angeles.
+
+[14:50:49] [fraudulent] User Kyrie Martinez successfully created a new account with Fidelity Investments using another stolen identity. The device used was a Google Pixel 6 Pro, connected to the network "Mall_WiFi" in the city of Chicago.
+
+[15:23:04] [fraudulent] User Kyrie Martinez attempted to open a new account with TD Bank using a stolen identity but was denied due to discrepancies between the provided information and the associated device's IP address location. The device used was an OPPO Find X5 Pro, connected to the network "Bus_WiFi" in the city of Washington D.C.
+
+[15:49:38] [fraudulent] User Kyrie Martinez tried to open a new account with Capital One using another stolen identity but was denied due to the provided Social Security number being flagged for potential fraud by the credit bureau. The device used was an LG V60 ThinQ, connected to the network "Train_WiFi" in the city of Boston.
+
+[16:27:43] [fraudulent] User Kyrie Martinez successfully created a new account with Discover Bank using another stolen identity. The device used was an iPhone 13 Pro Max, connected to the network "City_WiFi" in the city of Phoenix.
+
+[16:52:01] [fraudulent] User Kyrie Martinez attempted to open a new account with Citibank using a stolen identity but was denied due to the provided Social Security number being flagged for potential fraud by the credit bureau. The device used was a Samsung Galaxy S22 Plus, connected to the network "Airport_WiFi" in the city of Atlanta.
+
+[17:39:45] [fraudulent] User Kyrie Martinez tried to open a new account with American Express using another stolen identity but was denied due to discrepancies between the provided information and the associated device's IP address location. The device used was an Xiaomi Mi Mix 4, connected to the network "University_WiFi" in the city of Seattle.
+
+[18:06:15] [fraudulent] User Kyrie Martinez successfully created a new account with U.S. Bank using another stolen identity. The device used was an Apple iPhone 13 Pro Max, connected to the network "Bus_WiFi" in the city of Philadelphia.
+[18:29:50] [fraudulent] User Kyrie Martinez attempted to open a new account with Chase Bank using yet another stolen identity, but was denied due to suspicious activity on the associated device's IP address. The device used was an Samsung Galaxy S22 Ultra, connected to the network "Cafe_WiFi" in the city of Chicago.
+
+[18:57:23] [fraudulent] User Kyrie Martinez attempted to open a new account with Discover using a stolen identity, but was denied due to the provided address not matching the associated device's location data. The device used was a Google Pixel 6 Pro, connected to the network "Library_WiFi" in the city of Denver.
+
+[19:20:48] [fraudulent] User Kyrie Martinez successfully created a new account with Wells Fargo using a stolen identity after providing additional information to verify their identity. The device used was an Apple iPhone 13 Pro Max, connected to the network "Hotel_WiFi" in the city of Dallas.
+
+[20:05:17] [fraudulent] User Kyrie Martinez attempted to open a new account with Capital One using a stolen identity but was denied due to multiple recent applications for accounts under the same name from different devices and networks. The device used was a Huawei P40 Pro, connected to the network "Conference_WiFi" in the city of San Francisco.
+
+[20:39:56] [fraudulent] User Kyrie Martinez successfully created a new account with Bank of America using a stolen identity by providing additional supporting documents to verify their identity. The device used was an Apple iPhone 14 Pro Max, connected to the network "Restaurant_WiFi" in the city of Los Angeles.
+
+[21:09:32] [fraudulent] User Kyrie Martinez attempted to open a new account with Ally Bank using a stolen identity but was denied due to discrepancies between the provided address and the device's location data. The device used was an OnePlus 9 Pro, connected to the network "Park_WiFi" in the city of Washington D.C.
+
+[21:43:07] [fraudulent] User Kyrie Martinez tried to open a new account with PNC Bank using another stolen identity but was denied due to the provided Social Security number being flagged for potential fraud by the credit bureau. The device used was an iPhone SE (3rd Generation), connected to the network "Gym_WiFi" in the city of Boston.
+
+[22:06:58] [fraudulent] User Kyrie Martinez attempted to open a new account with TD Bank using another stolen identity but was denied due to suspicious activity on the associated device's IP address. The device used was a Motorola Edge 20 Pro, connected to the network "Mall_WiFi" in the city of Miami.
+
+[22:31:35] [fraudulent] User Kyrie Martinez successfully created a new account with U.S. Bank using another stolen identity after providing additional information to verify their identity. The device used was an Apple iPhone 14 Pro, connected to the network "Airport_WiFi" in the city of Portland.
+[23:09:10] [fraudulent] User Kyrie Martinez attempted to open a new account with Wells Fargo using another stolen identity but was denied due to discrepancies in the provided personal information and previous login locations. The device used was an ASUS ZenFone 8, connected to the network "Park_WiFi" in the city of Washington D.C.
+
+[23:25:47] [fraudulent] User Kyrie Martinez tried to open a new account with Chase Bank using another stolen identity but was denied due to the associated device's IP address being traced back to multiple suspicious transactions in different cities within a short period. The device used was an LG V60 ThinQ, connected to the network "Cafe_WiFi" in the city of Philadelphia.
+
+[23:41:59] [fraudulent] User Kyrie Martinez successfully created a new account with Capital One using another stolen identity after providing additional information through a VPN connection, masking their true location. The device used was an HTC U12+, connected to the network "Library_WiFi" in the city of San Francisco.
+
+[00:03:36] [fraudulent] User Kyrie Martinez attempted to open a new account with Ally Bank using another stolen identity but was denied due to the associated device's IP address being flagged for multiple fraudulent activities in different cities within a short period. The device used was an Xiaomi Mi 10T Pro, connected to the network "Airport_WiFi" in the city of Denver.
+
+[00:27:18] [fraudulent] User Kyrie Martinez tried to open a new account with Discover Bank using another stolen identity but was denied due to the provided address not matching the location data associated with the device's IP address. The device used was a Google Pixel 6 Pro, connected to the network "Coffee_Shop_WiFi" in the city of Atlanta.
+
+[01:00:45] [fraudulent] User Kyrie Martinez successfully created a new account with Fidelity Bank using another stolen identity after providing additional information through a VPN connection, masking their true location. The device used was a Samsung Galaxy S22 Ultra, connected to the network "Hotel_WiFi" in the city of New York.
+
+[01:38:52] [fraudulent] User Kyrie Martinez attempted to open a new account with Bank of America using another stolen identity but was denied due to suspicious activity on the associated device's IP address, which had been previously flagged for multiple fraud attempts in various cities. The device used was an OPPO Find X3 Pro, connected to the network "City_WiFi" in the city of Los Angeles.
+
+[02:14:09] [fraudulent] User Kyrie Martinez tried to open a new account with U.S.AAFederal Credit Union using another stolen identity but was denied due to the provided Social Security number being flagged for potential fraud by the credit bureau. The device used was an Huawei P30 Pro, connected to the network "Train_Station_WiFi" in the city of Chicago.
+
+[02:48:47] [fraudulent] User Kyrie Martinez successfully created a new account with Navy Federal Credit Union using another stolen identity after providing additional information through a VPN connection, masking their true location. The device used was a Sony Xperia 1 III, connected to the network "Park_WiFi" in the city of Washington D.C.
+
+[03:21:59] [fraudulent] User Kyrie Martinez attempted to open a new account with PenFed Credit Union using another stolen identity but was denied due to suspicious activity on the associated device's IP address, which had been previously flagged for multiple fraud attempts in various cities. The device used was an iPhone 13 Pro Max, connected to the network "Convention_Center_WiFi" in the city of Dallas.
+

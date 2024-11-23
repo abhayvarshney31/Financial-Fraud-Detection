@@ -1,0 +1,75 @@
+User ID: Opal Hall
+- 
+1. [2023-03-19 08:57:12] Fraudulent: User Opal Hall attempted to access her account from Seattle, WA, USA, but the request was denied due to mismatched IP address and location data.
+2. [2023-03-19 09:13:45] Fraudulent: Minutes later, Opal Hall tried again, this time from London, UK, showing a pattern of rapid geographical hopping.
+3. [2023-03-19 09:26:27] Fraudulent: Within 12 minutes, Opal Hall attempted to access her account from Sydney, Australia, increasing suspicion of fraudulent activity.
+4. [2023-03-19 09:38:54] Fraudulent: Less than 30 minutes later, another attempt was made from Tokyo, Japan, demonstrating a continued effort to access the account from various locations.
+5. [2023-03-19 09:56:31] Fraudulent: The rapid succession of attempts continued as Opal Hall tried from New Delhi, India, showing an escalation in suspicious behavior.
+6. [2023-03-19 10:11:48] Fraudulent: Just over an hour since the first attempt, Opal Hall's account was once again accessed from Johannesburg, South Africa, highlighting the geographically widespread nature of the fraudulent activity.
+7. [2023-03-19 10:34:56] Fraudulent: In a bid to bypass security measures, Opal Hall attempted to access her account from Moscow, Russia, only to be denied once more.
+8. [2023-03-19 10:47:23] Fraudulent: Within the span of just 30 minutes, Opal Hall tried once more from Sao Paulo, Brazil, indicating a relentless pursuit of account access.
+9. [2023-03-19 11:01:31] Fraudulent: An additional attempt was made from Paris, France, only an hour after the first login attempt, further confirming fraudulent behavior.
+10. [2023-03-19 11:18:45] Fraudulent: The final attempt of the day came from Singapore, with Opal Hall's account being accessed from another geographically distant location, solidifying the pattern of fraudulent activity throughout the day.
+[2023-03-19 13:55:18] Fraudulent: The following morning, Opal Hall's account was accessed from New Delhi, India, demonstrating a consistent disregard for security measures and an attempt to access the account from another part of the world.
+[2023-03-19 15:17:46] Fraudulent: Later in the day, an attempt was made to access Opal Hall's account from Sydney, Australia, continuing the pattern of geographically widespread fraudulent activity.
+[2023-03-19 17:39:21] Fraudulent: Opal Hall's account was once again targeted, this time from Tokyo, Japan, showing a persistent effort to access the account from various locations around the world.
+[2023-03-20 09:08:54] Fraudulent: The next day, Opal Hall attempted to access her account from Dubai, United Arab Emirates, indicating a continued pattern of geographically widespread fraudulent behavior.
+[2023-03-20 11:03:19] Fraudulent: Just hours later, another attempt was made from Mexico City, Mexico, showing no signs of slowing down in the fraudulent attempts to access Opal Hall's account.
+[2023-03-20 13:20:46] Fraudulent: In a matter of minutes, Opal Hall's account was targeted once more from Buenos Aires, Argentina, further emphasizing the rapid and widespread nature of the fraudulent activity.
+[2023-03-20 15:38:21] Fraudulent: Within the same day, another attempt came from Istanbul, Turkey, adding to the increasing number of geographically distant locations used in the fraudulent attempts.
+[2023-03-20 17:46:59] Fraudulent: Just hours after the previous attempt, Opal Hall's account was accessed from Beijing, China, continuing the relentless pursuit of account access and further solidifying the pattern of fraudulent behavior.
+[2023-03-21 10:47:32] Fraudulent: The following day, Opal Hall's account was once again accessed from Cairo, Egypt, demonstrating a consistent disregard for security measures and an attempt to access the account from another geographically distant location.
+[2023-03-21 13:58:17] Fraudulent: The pattern continued as Opal Hall's account was targeted from Casablanca, Morocco, indicating a coordinated effort to access the account from various locations within a short period.
+[2023-03-21 15:09:45] Fraudulent: Within hours of the previous attempt, Opal Hall's account was accessed again, this time from Sao Paulo, Brazil, further emphasizing the rapid and widespread nature of the fraudulent attempts.
+[2023-03-21 16:59:30] Fraudulent: In a clear demonstration of evasion tactics, Opal Hall's account was accessed from Sydney, Australia, within the same day, showcasing the commitment and ingenuity of the fraudsters.
+[2023-03-22 14:08:52] Fraudulent: The geographically distant locations continued as Opal Hall's account was targeted from Cape Town, South Africa, showing no signs of slowing down in the fraudulent attempts to access the account.
+[2023-03-22 16:49:15] Fraudulent: Just hours later, another attempt came from Seoul, South Korea, adding to the increasing number of geographically distant locations used in the fraudulent attempts and further solidifying the pattern of behavior.
+[2023-03-22 20:08:40] Fraudulent: The consistent disregard for security measures continued as Opal Hall's account was accessed from Dubai, United Arab Emirates, demonstrating the determination and resourcefulness of the fraudsters.
+[2023-03-23 12:09:23] Fraudulent: Once more, within a short period, Opal Hall's account was targeted from Moscow, Russia, showcasing the relentless pursuit of account access and further solidifying the pattern of fraudulent behavior.
+[2023-03-23 14:59:05] Fraudulent: The following day, Opal Hall's account was accessed from Tokyo, Japan, continuing the consistent disregard for security measures and demonstrating a clear attempt to access the account from another geographically distant location.
+[2023-03-23 18:23:51] Fraudulent: Just hours after the Tokyo attempt, Opal Hall's account was accessed from Sao Paulo, Brazil, indicating a continued pattern of geographically diverse attempts and further demonstrating the determination of the fraudsters.
+
+[2023-03-24 01:15:27] Fraudulent: Yet another attempt occurred mere hours later, with access being sought from Sydney, Australia. This event solidified the pattern of frequent, diverse attempts to breach Opal Hall's account security.
+
+[2023-03-24 08:10:59] Fraudulent: Later in the day, an attempt was made to access Opal Hall's account from Frankfurt, Germany, adding another distant location to the list and further demonstrating the relentless pursuit of access.
+
+[2023-03-24 16:25:43] Fraudulent: The pattern continued as the account was targeted from New Delhi, India, showcasing the consistency and resourcefulness of the fraudsters in their attempts to gain unauthorized access.
+
+[2023-03-24 21:08:17] Fraudulent: Just a few hours later, Opal Hall's account was once again accessed from Toronto, Canada, reinforcing the pattern of frequent geographically diverse attempts to breach the account security.
+
+[2023-03-25 04:01:09] Fraudulent: The day began with another attempt, this time from Seoul, South Korea, highlighting the continued efforts to access Opal Hall's account from different locations around the world.
+
+[2023-03-25 08:54:12] Fraudulent: As the pattern persisted, another attempt came from Moscow, Russia, further demonstrating the relentless pursuit of unauthorized access to Opal Hall's account.
+
+[2023-03-25 15:49:23] Fraudulent: Later in the day, an attempt was made from Sao Paulo, Brazil, continuing the pattern of geographically diverse attempts and adding another location to the list.
+
+[2023-03-25 18:17:31] Fraudulent: In the evening, yet another attempt occurred from Tokyo, Japan, showcasing the consistency and determination of the fraudsters in their pursuit of accessing Opal Hall's account.
+[2023-03-25 21:37:40] Fraudulent: The day concluded with an attempt from Santiago, Chile, emphasizing the global reach of the fraudsters and the increasing urgency to address Opal Hall's compromised account security.
+
+[2023-03-26 00:48:55] Fraudulent: Early the next morning, another attempt was made from Dubai, United Arab Emirates, demonstrating the fraudsters' ability to work across different time zones in their attempts to access Opal Hall's account.
+
+[2023-03-26 07:19:08] Fraudulent: Later in the morning, an attempt was made from Paris, France, further highlighting the international nature of the fraudulent activity targeting Opal Hall's account.
+
+[2023-03-26 10:54:12] Fraudulent: As the day progressed, another attempt came from New York City, USA, adding another high-profile location to the list of fraudulent attempts on Opal Hall's account.
+
+[2023-03-26 17:09:24] Fraudulent: In the afternoon, an attempt was made from Sydney, Australia, showcasing the relentless pursuit of unauthorized access to Opal Hall's account from different continents.
+
+[2023-03-26 20:27:31] Fraudulent: Later that evening, another attempt occurred from Berlin, Germany, demonstrating the dedication and persistence of the fraudsters in their attempts to access Opal Hall's account.
+
+[2023-03-26 22:54:48] Fraudulent: The day ended with an attempt from Buenos Aires, Argentina, further emphasizing the global reach of the fraudulent activity and the need for urgent action to protect Opal Hall's account.
+[2023-03-27 01:19:05] Fraudulent: In the early hours of the next day, an attempt was made from Tokyo, Japan, highlighting the continuous efforts of the fraudsters to access Opal Hall's account from major cities across the globe.
+
+[2023-03-27 04:52:21] Fraudulent: As the morning approached, another attempt was detected from Moscow, Russia, indicating that the unauthorized attempts were now spanning multiple time zones and continents in a relentless pursuit of accessing Opal Hall's account.
+
+[2023-03-27 08:15:46] Fraudulent: At dawn, an attempt came from Rio de Janeiro, Brazil, showing the global scope of the fraudulent activity and the need for heightened security measures to protect Opal Hall's account.
+
+[2023-03-27 11:29:13] Fraudulent: Mid-morning, an attempt was made from Cape Town, South Africa, adding another location in Africa to the list of global fraud attempts on Opal Hall's account.
+
+[2023-03-27 14:36:45] Fraudulent: In the afternoon, a new attempt came from Istanbul, Turkey, demonstrating the persistence and determination of the fraudsters to gain unauthorized access to Opal Hall's account.
+
+[2023-03-27 18:49:59] Fraudulent: As evening fell, another attempt was detected from Cairo, Egypt, showing that the fraudsters were still actively trying to breach Opal Hall's account security from various locations around the world.
+
+[2023-03-27 21:48:06] Fraudulent: Later in the evening, an attempt came from Mumbai, India, further emphasizing the global scale of the fraudulent activity and the urgency to implement stronger security measures for Opal Hall's account.
+
+[2023-03-27 24:59:18] Fraudulent: As the day came to a close, another attempt was made from Singapore, demonstrating the relentless pursuit of unauthorized access to Opal Hall's account from significant cities worldwide.
+

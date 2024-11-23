@@ -1,0 +1,153 @@
+User ID: Nyla Schmidt
+- 
+1. [2023-04-15T10:42:38Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Large refund of $2500 received in account, immediately transferred funds out.
+
+2. [2023-04-15T10:48:47Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Multiple transactions detected, funds sent to different recipients in various countries.
+
+3. [2023-04-15T11:01:15Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unusual login attempt from a different location detected.
+
+4. [2023-04-15T11:16:28Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Email confirmation for fund transfers not received, indicating possible account compromise.
+
+5. [2023-04-15T11:23:32Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Account password changed, new recovery email address set up.
+
+6. [2023-04-15T12:01:09Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Multiple unauthorized transactions detected, totaling $7500.
+
+7. [2023-04-15T12:28:15Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Bank account balance significantly reduced, emergency funds depleted.
+
+8. [2023-04-15T12:37:43Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized wire transfer of $3500 detected.
+
+9. [2023-04-15T13:07:28Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Reporting of unauthorized transactions to the bank, requesting immediate investigation.
+
+10. [2023-04-15T13:35:39Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Bank informs of ongoing investigation and provides temporary measures to secure account.
+11. [2023-04-15T13:39:58Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Suspicious activity alert: Large refund received, but immediately transferred out.
+
+12. [2023-04-15T14:18:23Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized refund initiated, funds transferred to unknown recipient.
+
+13. [2023-04-15T14:32:07Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Multiple unauthorized login attempts detected on various accounts.
+
+14. [2023-04-15T15:01:39Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized credit card transactions detected, totaling $2000.
+
+15. [2023-04-15T15:28:59Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Bank account frozen due to suspicious activity, emergency funds unavailable.
+
+16. [2023-04-15T16:00:37Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized prepaid card charges, funds drained.
+
+17. [2023-04-15T16:25:49Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Bank notifies of temporary account suspension, pending investigation.
+
+18. [2023-04-15T16:55:29Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized charges to online marketplace, items purchased and shipped.
+
+19. [2023-04-15T17:26:38Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized digital currency transactions detected, funds lost.
+
+20. [2023-04-15T17:54:45Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Bank confirms ongoing investigation, advises immediate action to secure accounts.
+21. [2023-04-15T18:06:59Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized large refund received, funds immediately transferred out of account.
+
+22. [2023-04-15T18:23:17Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Email receipt of unauthorized refund, funds now in unknown account.
+
+23. [2023-04-15T18:39:46Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized account linked to new device, funds moved to another unknown account.
+
+24. [2023-04-15T19:15:02Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized new account created, funds moved to multiple untraceable accounts.
+
+25. [2023-04-15T19:48:58Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Multiple unauthorized transactions detected, funds now in multiple accounts.
+
+26. [2023-04-15T20:08:15Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized account closed, funds transferred to unknown accounts.
+
+27. [2023-04-15T20:39:31Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized withdrawal request initiated, funds now untraceable.
+
+28. [2023-04-15T21:02:49Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized account closed, funds transferred to unknown accounts.
+
+29. [2023-04-15T21:26:22Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized withdrawal completed, funds now in multiple untraceable accounts.
+
+30. [2023-04-15T21:58:56Z] - Device: PC_NylaSchmidt_Laptop - Network: Home_WiFi - User: Nyla Schmidt - Activity: Fraudulent - Description: All unauthorized transactions now complete, funds in unknown accounts, and account compromised.
+31. [2023-04-16T00:15:34Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Multiple accounts created with user's personal information, funds being transferred between them.
+
+32. [2023-04-16T01:37:59Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized transactions made from newly created accounts, funds being moved to offshore locations.
+
+33. [2023-04-16T02:49:08Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Accounts connected to shell companies, funds now in untraceable offshore accounts.
+
+34. [2023-04-16T03:59:14Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Funds being laundered through multiple accounts, proceeds used to purchase high-value items.
+
+35. [2023-04-16T05:20:38Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: High-value items purchased and resold, funds sent to unknown accounts.
+
+36. [2023-04-16T07:15:29Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Funds used to purchase cryptocurrencies, accounts now associated with suspicious transactions.
+
+37. [2023-04-16T08:58:39Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Cryptocurrencies converted to cash, funds now in untraceable offshore accounts.
+
+38. [2023-04-16T10:09:55Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized transactions now complete, funds in unknown accounts, and account compromised.
+
+39. [2023-04-16T11:58:32Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: All unauthorized transactions now complete, funds in unknown accounts, and account compromised.
+
+40. [2023-04-16T13:25:28Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Funds transferred to multiple unknown accounts, account now inactive.
+41. [2023-04-16T15:08:57Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account access attempted from multiple locations, indicating possible identity theft.
+
+42. [2023-04-16T17:59:09Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Suspicious login attempts from new devices, indicating potential compromised account information.
+
+43. [2023-04-16T20:38:41Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Multiple unauthorized transactions detected, funds being transferred to unknown accounts.
+
+44. [2023-04-16T23:18:57Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account balance now at $0, all funds have been transferred out.
+
+45. [2023-04-17T01:29:11Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: New devices added to account, potentially used for future fraudulent activities.
+
+46. [2023-04-17T05:19:23Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Email account compromised, possibly used for further account takeover attempts.
+
+47. [2023-04-17T09:29:56Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized transactions detected, funds being transferred to unknown accounts.
+
+48. [2023-04-17T12:59:09Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account temporarily locked, investigation initiated for account compromise.
+
+49. [2023-04-17T15:08:37Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account access denied, security measures implemented to prevent further unauthorized activities.
+
+50. [2023-04-17T19:29:56Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account under investigation, possible identity theft and account compromise confirmed.
+51. [2023-04-18T00:36:49Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access detected, new account created to bypass security measures.
+
+52. [2023-04-18T02:09:27Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Large refund received, immediately transferred funds to new account.
+
+53. [2023-04-18T03:49:16Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access detected, attempts to change password and email address.
+
+54. [2023-04-18T06:59:34Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account temporarily locked, security measures implemented to prevent further unauthorized activities.
+
+55. [2023-04-18T10:06:59Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account under investigation, possible identity theft and account compromise confirmed.
+
+56. [2023-04-18T11:29:27Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access detected, multiple new accounts created to bypass security measures.
+
+57. [2023-04-18T15:10:36Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Large refund received, immediately transferred funds to new account.
+
+58. [2023-04-18T17:29:16Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access detected, multiple transactions made to unrecognized entities.
+
+59. [2023-04-18T19:37:27Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account temporarily locked, security measures implemented to prevent further unauthorized activities.
+
+60. [2023-04-18T23:59:36Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account under investigation, possible identity theft and account compromise confirmed.
+61. [2023-04-19T02:00:57Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Account under review, further evidence of fraudulent activity discovered.
+
+62. [2023-04-19T05:12:43Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Multiple unauthorized charges detected on associated credit cards, immediate action taken to freeze accounts.
+
+63. [2023-04-19T10:38:04Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access to personal information detected, data breach likely occurred.
+
+64. [2023-04-19T15:48:50Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: New unauthorized transactions detected, ongoing investigation to identify the source of the breach.
+
+65. [2023-04-19T18:02:37Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Identity theft confirmed, personal information used to access new accounts and make unauthorized transactions.
+
+66. [2023-04-19T21:15:28Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: New accounts opened with stolen personal information, ongoing efforts to close and secure compromised accounts.
+
+67. [2023-04-19T23:57:50Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access to email account detected, messages intercepted and potentially used for further fraud.
+
+68. [2023-04-20T01:05:02Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access to Nyla's online banking account, multiple unauthorized transactions detected.
+
+69. [2023-04-20T15:38:10Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Bank alerted, immediate actions taken to secure and restore funds.
+70. [2023-04-20T18:45:27Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Large refund received from bank but not connected to any valid transaction.
+
+71. [2023-04-20T18:46:59Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Funds transferred out immediately after receiving the large refund.
+
+72. [2023-04-21T09:28:05Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Multiple unauthorized transactions detected, with funds being sent to unknown recipients.
+
+73. [2023-04-21T14:59:32Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access to online accounts, sensitive personal information exposed.
+
+74. [2023-04-21T15:00:07Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unknown individuals opening new accounts using exposed personal information.
+
+75. [2023-04-22T16:18:21Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access to credit card account, multiple charges made without permission.
+
+76. [2023-04-22T16:19:58Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Credit card company alerted, immediate actions taken to secure and restore funds.
+
+77. [2023-04-22T21:38:45Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unauthorized access to personal tax account, unauthorized changes made.
+
+78. [2023-04-23T06:59:12Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Unknown individuals attempting to claim fraudulent tax refunds using stolen information.
+
+79. [2023-04-23T11:00:35Z] - Device: Mobile_NylaSchmidt_iPhone - Network: PublicWiFi_CoffeeShop - User: Nyla Schmidt - Activity: Fraudulent - Description: Tax authority alerted, ongoing investigation to identify and prevent further fraud.
+

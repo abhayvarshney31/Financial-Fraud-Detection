@@ -1,0 +1,58 @@
+User ID: Sophia Perez
+- 
+[13:25:07] [fraudulent] User Sophia Perez logged in from device 'Johns-MacBook-Air', IP address 192.168.1.5, accessing account from a different location than usual.
+[13:26:04] [fraudulent] User Sophia Perez logged in from device 'Alice_Lenovo_ThinkPad', IP address 192.168.1.7, attempting to change password and email address.
+[13:26:59] [fraudulent] User Sophia Perez logged in from device 'Johns-MacBook-Air', IP address 192.168.1.5, unsuccessfully trying to change account settings multiple times.
+[13:27:24] [fraudulent] User Sophia Perez logged in from device 'Alice_Lenovo_ThinkPad', IP address 192.168.1.7, attempting to withdraw funds from linked bank account.
+[13:28:05] [fraudulent] User Sophia Perez logged in from device 'Johns-MacBook-Air', IP address 192.168.1.5, accessing sensitive personal information and downloading files.
+[14:02:07] [fraudulent] User Sophia Perez logged in from device 'Bobs_Dell_Laptop', IP address 192.168.1.3, making unauthorized purchases on linked credit cards.
+[14:02:51] [fraudulent] User Sophia Perez logged in from device 'Alice_Lenovo_ThinkPad', IP address 192.168.1.7, changing account settings to lock out original owner.
+[14:03:09] [fraudulent] User Sophia Perez logged in from device 'Johns-MacBook-Air', IP address 192.168.1.5, deleting all messages and attempts to cover tracks.
+[14:03:24] [fraudulent] User Sophia Perez logged in from device 'Bobs_Dell_Laptop', IP address 192.168.1.3, attempting to transfer account ownership to a new email address.
+[14:03:45] [fraudulent] User Sophia Perez logged in from device 'Alice_Lenovo_ThinkPad', IP address 192.168.1.7, successfully transferring account ownership and locking out original owner.
+[14:04:05] [fraudulent] User Sophia Perez logged in from device 'Janes_Surface_Pro', IP address 192.168.1.9, attempting to change account password and security questions.
+[14:04:19] [fraudulent] User Sophia Perez logged in from device 'Mikes_Samsung_Galaxy_Tab', IP address 192.168.1.11, attempting to access account recovery options and reset email address.
+[14:04:35] [fraudulent] User Sophia Perez logged in from device 'Johns-MacBook-Air', IP address 192.168.1.5, attempting to bypass two-factor authentication and disable notifications for suspicious activities.
+[14:04:43] [fraudulent] User Sophia Perez logged in from device 'Bobs_Dell_Laptop', IP address 192.168.1.3, attempting to access account activity log and delete entries related to recent suspicious activities.
+[14:05:02] [fraudulent] User Sophia Perez logged in from device 'Alice_Lenovo_ThinkPad', IP address 192.168.1.7, attempting to access a list of registered devices and remove all trusted devices except the current one.
+[14:05:11] [fraudulent] User Sophia Perez logged in from device 'Janes_Surface_Pro', IP address 192.168.1.9, attempting to add a new device with an unknown IP address and email address.
+[14:05:23] [fraudulent] User Sophia Perez logged in from device 'Mikes_Samsung_Galaxy_Tab', IP address 192.168.1.11, attempting to add new authorized users with unverified email addresses.
+[14:05:32] [fraudulent] User Sophia Perez logged in from device 'Johns-MacBook-Air', IP address 192.168.1.5, attempting to withdraw all funds from linked bank accounts and credit cards.
+[14:06:03] [fraudulent] User Sophia Perez logged in from device 'Lindas_iPhone_X', IP address 192.168.1.15, attempting to change the email address associated with her account and disable two-factor authentication.
+[14:06:12] [fraudulent] User Sophia Perez logged in from device 'Pauls_Dell_Laptop', IP address 192.168.1.13, attempting to access the account's security settings and disable any existing alerts or notifications.
+[14:06:25] [fraudulent] User Sophia Perez logged in from device 'Rachel_Surface_Book', IP address 192.168.1.17, attempting to change the account's password without sending a password reset email to the original registered email address.
+[14:06:35] [fraudulent] User Sophia Perez logged in from device 'James_iMac', IP address 192.168.1.19, attempting to access the account's transaction history and modify previous transactions.
+[14:06:43] [fraudulent] User Sophia Perez logged in from device 'Samanthas_HP_Laptop', IP address 192.168.1.21, attempting to add a new email address and phone number without verifying them first.
+[14:06:53] [fraudulent] User Sophia Perez logged in from device 'James_iPhone_7', IP address 192.168.1.23, attempting to add new trusted devices with suspicious IP addresses and email addresses.
+[14:07:02] [fraudulent] User Sophia Perez logged in from device 'Alices_MacBook_Pro', IP address 192.168.1.25, attempting to change the primary email address on file to a disposable email address.
+[14:07:13] [fraudulent] User Sophia Perez logged in from device 'Bobs_Samsung_Galaxy_Note', IP address 192.168.1.27, attempting to disable the account's recovery options and block access to customer support.
+[14:07:31] [fraudulent] User Sophia Perez logged in from device 'James_iMac', IP address 192.168.1.19, attempting to withdraw a large sum of money from the account without authorization.
+[14:07:40] [fraudulent] User Sophia Perez logged in from device 'Samanthas_HP_Laptop', IP address 192.168.1.21, attempting to change the primary billing address on file to a suspicious location.
+[14:07:51] [fraudulent] User Sophia Perez logged in from device 'James_iPhone_7', IP address 192.168.1.23, attempting to access the account's recent transactions and delete transaction history without authorization.
+[14:08:02] [fraudulent] User Sophia Perez logged in from device 'Alices_MacBook_Pro', IP address 192.168.1.25, attempting to change the primary phone number on file to a suspicious international number.
+[14:08:13] [fraudulent] User Sophia Perez logged in from device 'Bobs_Samsung_Galaxy_Note', IP address 192.168.1.27, attempting to add new users with suspicious email addresses and no verifiable information.
+[14:08:31] [fraudulent] User Sophia Perez logged in from device 'James_iMac', IP address 192.168.1.19, attempting to change the account's security questions and answers without authorization.
+[14:08:43] [fraudulent] User Sophia Perez logged in from device 'Samanthas_HP_Laptop', IP address 192.168.1.21, attempting to change the account's password without authorization and preventing any further logins from legitimate devices.
+[14:08:57] [fraudulent] User Sophia Perez logged in from device 'James_iPhone_7', IP address 192.168.1.23, attempting to add new payment methods with suspicious credit card information.
+[14:09:08] [fraudulent] User Sophia Perez logged in from device 'Alices_MacBook_Pro', IP address 192.168.1.25, attempting to access the account's personal information and sharing it with unknown contacts.
+[14:09:21] [fraudulent] User Sophia Perez logged in from device 'Bobs_Samsung_Galaxy_Note', IP address 192.168.1.27, attempting to transfer a large sum of money to an unknown external account without authorization.
+[14:09:35] [fraudulent] User Sophia Perez logged in from device 'Marys_MacBook_Air', IP address 192.168.1.29, attempting to remove the two-factor authentication without authorization, leaving the account vulnerable to further unauthorized access.
+[14:09:46] [fraudulent] User Sophia Perez logged in from device 'Ricks_iPad', IP address 192.168.1.31, attempting to delete all previous transaction records and communication logs related to account security.
+[14:09:57] [fraudulent] User Sophia Perez logged in from device 'Johns_Surface_Pro', IP address 192.168.1.33, attempting to change the email associated with the account without authorization and preventing further recovery options.
+[14:10:08] [fraudulent] User Sophia Perez logged in from device 'Kates_iMac', IP address 192.168.1.35, attempting to access and download sensitive personal information from the account and sharing it with unknown contacts through a suspicious email address.
+[14:10:20] [fraudulent] User Sophia Perez logged in from device 'Lils_iPhone', IP address 192.168.1.37, attempting to change the account's privacy settings, making it difficult for the actual user to report or track unauthorized activity.
+[14:10:29] [fraudulent] User Sophia Perez logged in from device 'Emilys_MacBook_Pro', IP address 192.168.1.39, attempting to access the account's connected apps and services without authorization and linking it to suspicious external accounts.
+[14:10:40] [fraudulent] User Sophia Perez logged in from device 'James_iMac', IP address 192.168.1.19, attempting to change the account's recovery email without authorization and locking out the actual user from regaining access.
+[14:10:51] [fraudulent] User Sophia Perez logged in from device 'Samanthas_HP_Laptop', IP address 192.168.1.21, attempting to delete the account's activity logs and hiding all unauthorized actions from the actual user.
+[14:11:02] [fraudulent] User Sophia Perez logged in from device 'James_iPhone_7', IP address 192.168.1.23, attempting to add new devices and email addresses without authorization, making it harder for the actual user to track and manage unauthorized access.
+[14:11:13] [fraudulent] User Sophia Perez logged in from device 'Emilys_MacBook_Pro', IP address 192.168.1.39, attempting to change the account's password without authorization and blocking the actual user from accessing the account.
+[14:11:24] [fraudulent] User Sophia Perez logged in from device 'James_iMac', IP address 192.168.1.19, attempting to change the account's security questions and answers without authorization, making it difficult for the actual user to recover access to their account.
+[14:11:35] [fraudulent] User Sophia Perez logged in from device 'Samanthas_HP_Laptop', IP address 192.168.1.21, attempting to withdraw the account's funds and transfer them to an unauthorized external account without authorization.
+[14:11:46] [fraudulent] User Sophia Perez logged in from device 'James_iPhone_7', IP address 192.168.1.23, attempting to purchase premium memberships and subscriptions without authorization, charging the actual user's account.
+[14:11:57] [fraudulent] User Sophia Perez logged in from device 'Emilys_MacBook_Pro', IP address 192.168.1.39, attempting to change the account's billing information without authorization, making it difficult for the actual user to identify and stop unauthorized charges.
+[14:12:08] [fraudulent] User Sophia Perez logged in from device 'James_iMac', IP address 192.168.1.19, attempting to delete the account's connected apps and services without authorization, rendering it useless for the actual user.
+[14:12:19] [fraudulent] User Sophia Perez logged in from device 'Samanthas_HP_Laptop', IP address 192.168.1.21, attempting to access and download sensitive personal information from the account without authorization, potentially exposing the actual user's data.
+[14:12:30] [fraudulent] User Sophia Perez logged in from device 'James_iPhone_7', IP address 192.168.1.23, attempting to send spam messages and phishing links through the account without authorization, potentially harming the actual user's contacts and reputation.
+[14:12:41] [fraudulent] User Sophia Perez logged in from device 'Emilys_MacBook_Pro', IP address 192.168.1.39, attempting to remove security features such as two-factor authentication without authorization, making it easier for the unauthorized user to access and control the account.
+[14:12:52] [fraudulent] User Sophia Perez logged in from device 'James_iMac', IP address 192.168.1.19, attempting to create a new user profile with elevated privileges without authorization, further compromising the account and its security.
+

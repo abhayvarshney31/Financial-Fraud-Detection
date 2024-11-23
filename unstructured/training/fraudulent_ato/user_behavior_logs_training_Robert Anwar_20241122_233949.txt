@@ -1,0 +1,175 @@
+User ID: Robert Anwar
+- 
+1. [2023-04-12 18:35] [fraudulent] User Robert Anwar attempted to withdraw $1000 from ATM #4567 located at Main Street, City Center. His card was declined due to insufficient balance and network issues.
+2. [2023-04-12 20:21] [fraudulent] User Robert Anwar tried again at ATM #9834 situated near the park entrance. This time, the transaction was successful as he withdrew $500.
+3. [2023-04-12 21:07] [fraudulent] User Robert Anwar made another attempt to withdraw $1500 from ATM #9378 at the grocery store. The transaction was denied due to insufficient balance, and a fraud alert was raised by the bank.
+4. [2023-04-13 07:53] [fraudulent] User Robert Anwar made multiple attempts to withdraw funds from ATMs in different locations but was unsuccessful in completing transactions. Device #123456 reported unusual activity and flagged the user for review.
+5. [2023-04-13 08:47] [fraudulent] User Robert Anwar changed his registered mobile number, indicating potential fraudulent behavior. A temporary block has been placed on all transactions until further notice.
+6. [2023-04-13 09:15] [fraudulent] Multiple failed withdrawal attempts were made from various ATMs by User Robert Anwar using a different device, #789101. All transactions have been blocked, and an investigation is underway.
+7. [2023-04-13 10:35] [fraudulent] ATM #6852 at the local mall was visited by User Robert Anwar, who attempted to withdraw $2000 but faced insufficient balance and network issues. Device #987654 was used for this transaction.
+8. [2023-04-13 14:58] [fraudulent] User Robert Anwar changed his registered email address, adding to the suspicion of fraudulent activity. The account has been temporarily suspended until further verification is provided.
+9. [2023-04-13 16:21] [fraudulent] ATM #5378 located at the hospital was visited by User Robert Anwar, who attempted to withdraw $3000 but faced insufficient balance and network issues. Device #567890 was used for this transaction.
+10. [2023-04-13 22:05] [fraudulent] User Robert Anwar's account has been permanently suspended due to continuous suspicious activity and multiple fraud alerts raised by the bank. A full investigation is underway, and appropriate actions will be taken accordingly.
+11. [2023-04-14 08:50] [fraudulent] User Robert Anwar attempted to access his account from an unrecognized device (Device #123456) and location, raising further suspicion of potential fraud. The login attempt was blocked.
+12. [2023-04-14 11:12] [fraudulent] ATM #4890 at the city park was visited by User Robert Anwar, who attempted to withdraw $5000 but faced insufficient balance and network issues. Device #678901 was used for this transaction.
+13. [2023-04-14 13:45] [fraudulent] User Robert Anwar's account has been temporarily reactivated, but with limited access to prevent further fraudulent activities. The investigation is ongoing, and additional security measures have been applied to the account.
+14. [2023-04-14 15:37] [fraudulent] ATM #7924 at the airport was visited by User Robert Anwar, who attempted to withdraw $4000 but faced insufficient balance and network issues. Device #556678 was used for this transaction.
+15. [2023-04-14 20:22] [fraudulent] User Robert Anwar's account has been reactivated with full access, after passing a series of verification steps and providing satisfactory information to the bank. The investigation continues.
+16. [2023-04-15 10:00] [fraudulent] ATM #2768 at the university campus was visited by User Robert Anwar, who attempted to withdraw $6000 but faced insufficient balance and network issues. Device #998765 was used for this transaction.
+17. [2023-04-15 13:30] [fraudulent] User Robert Anwar changed his registered phone number, adding to the suspicion of fraudulent activity. The account has been temporarily suspended until further verification is provided.
+18. [2023-04-15 16:12] [fraudulent] ATM #7539 at the beach was visited by User Robert Anwar, who attempted to withdraw $7000 but faced insufficient balance and network issues. Device #554432 was used for this transaction.
+19. [2023-04-15 20:59] [fraudulent] User Robert Anwar's account has been permanently suspended due to continuous suspicious activity and multiple fraud alerts raised by the bank. A full investigation is underway, and appropriate actions will be taken accordingly.
+20. [2023-04-16 08:05] [fraudulent] ATM #7980 at the shopping center was visited by User Robert Anwar, who attempted to withdraw $8000 but faced insufficient balance and network issues. Device #123456 was used for this transaction.
+21. [2023-04-16 11:37] [fraudulent] User Robert Anwar attempted to use a fake ID to withdraw $5000 from ATM #9870 at the grocery store, but the transaction was denied due to the system's advanced facial recognition software. Device #789642 was used for this attempt.
+
+22. [2023-04-16 14:42] [fraudulent] User Robert Anwar tried to make a large withdrawal at ATM #5432 at the park, but the transaction was flagged by our fraud detection system and immediately declined. Device #987651 was used for this attempt.
+
+23. [2023-04-16 17:29] [fraudulent] Despite his account suspension, User Robert Anwar attempted to use a cloned card at ATM #2468 at the airport, but the transaction was declined due to our real-time monitoring system. Device #553314 was used for this attempt.
+
+24. [2023-04-17 09:11] [fraudulent] User Robert Anwar tried using a different cloned card at ATM #8642 in the downtown area, but the transaction was declined due to insufficient funds and suspicious activity patterns. Device #135792 was used for this attempt.
+
+25. [2023-04-17 12:20] [fraudulent] ATM #8765 in the residential area was visited by User Robert Anwar, who tried to withdraw $10,000 but faced insufficient balance and network issues. Device #789012 was used for this transaction.
+
+26. [2023-04-17 15:53] [fraudulent] User Robert Anwar attempted to use a skimming device at ATM #9381 in the city center, but our security system detected the anomaly and immediately flagged the transaction as suspicious. Device #789012 was used for this attempt.
+
+27. [2023-04-17 18:35] [fraudulent] ATM #9243 at the university campus was visited by User Robert Anwar, who tried to withdraw $6,000 but faced insufficient balance and network issues. Device #123456 was used for this transaction.
+
+28. [2023-04-17 21:29] [fraudulent] User Robert Anwar attempted to use a stolen credit card at ATM #8452 in the hospital area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #135792 was used for this attempt.
+
+29. [2023-04-18 08:45] [fraudulent] ATM #9637 at the sports complex was visited by User Robert Anwar, who tried to withdraw $7,500 but faced insufficient balance and network issues. Device #987651 was used for this transaction.
+
+30. [2023-04-18 12:01] [fraudulent] Despite being aware of the account suspension, User Robert Anwar attempted to use a fake card at ATM #5431 in the shopping mall, but the transaction was declined due to our fraud detection system. Device #789642 was used for this attempt.
+31. [2023-04-18 16:33] [fraudulent] User Robert Anwar visited ATM #3245 at the city center and attempted to withdraw $9,000, but the transaction was blocked due to suspicious activity monitoring. Device #741589 was used for this attempt.
+
+32. [2023-04-19 07:57] [fraudulent] ATM #6789 at the airport was visited by User Robert Anwar, who tried to withdraw $10,000 but faced insufficient balance and network issues. Device #124378 was used for this transaction.
+
+33. [2023-04-19 11:04] [fraudulent] User Robert Anwar attempted to use a counterfeit card at ATM #5674 in the residential area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #235896 was used for this attempt.
+
+34. [2023-04-19 15:12] [fraudulent] ATM #7890 at the train station was visited by User Robert Anwar, who tried to withdraw $12,000 but faced insufficient balance and network issues. Device #963782 was used for this transaction.
+
+35. [2023-04-20 07:29] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #4321 in the park, but the transaction was declined due to our fraud detection system. Device #865432 was used for this attempt.
+
+36. [2023-04-20 11:37] [fraudulent] ATM #9564 at the university campus was visited by User Robert Anwar, who tried to withdraw $15,000 but faced insufficient balance and network issues. Device #138745 was used for this transaction.
+
+37. [2023-04-20 16:54] [fraudulent] User Robert Anwar attempted to use a skimmed card at ATM #1289 in the commercial area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #347891 was used for this attempt.
+
+38. [2023-04-21 08:06] [fraudulent] ATM #5678 at the library was visited by User Robert Anwar, who tried to withdraw $18,000 but faced insufficient balance and network issues. Device #918753 was used for this transaction.
+
+39. [2023-04-21 11:15] [fraudulent] User Robert Anwar attempted to use a stolen card at ATM #9563 in the business district, but the transaction was declined due to our fraud detection system. Device #783296 was used for this attempt.
+
+40. [2023-04-21 15:52] [fraudulent] ATM #6459 at the beach was visited by User Robert Anwar, who tried to withdraw $20,000 but faced insufficient balance and network issues. Device #123987 was used for this transaction.
+41. [2023-04-21 17:25] [fraudulent] User Robert Anwar visited ATM #8674 in the residential area and attempted to withdraw $30,000 using a cloned card, but the transaction was declined due to our security measures. Device #297135 was used for this attempt.
+
+42. [2023-04-22 09:10] [fraudulent] ATM #6458 at the park was visited by User Robert Anwar, who tried to withdraw $25,000 but faced insufficient balance and network issues. Device #138745 was used for this transaction.
+
+43. [2023-04-22 12:05] [fraudulent] User Robert Anwar attempted to use a skimmed card at ATM #9562 in the downtown area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #347891 was used for this attempt.
+
+44. [2023-04-22 15:58] [fraudulent] ATM #1288 at the university was visited by User Robert Anwar, who tried to withdraw $40,000 but faced insufficient balance and network issues. Device #918753 was used for this transaction.
+
+45. [2023-04-22 18:33] [fraudulent] User Robert Anwar attempted to use a stolen card at ATM #6457 in the medical center, but the transaction was declined due to our fraud detection system. Device #783296 was used for this attempt.
+
+46. [2023-04-23 07:46] [fraudulent] ATM #1290 at the shopping mall was visited by User Robert Anwar, who tried to withdraw $50,000 but faced insufficient balance and network issues. Device #123987 was used for this transaction.
+
+47. [2023-04-23 10:11] [fraudulent] User Robert Anwar visited ATM #8673 in the entertainment district and attempted to withdraw $55,000 using a cloned card, but the transaction was declined due to our security measures. Device #297135 was used for this attempt.
+
+48. [2023-04-23 13:26] [fraudulent] ATM #6456 at the airport was visited by User Robert Anwar, who tried to withdraw $60,000 but faced insufficient balance and network issues. Device #138745 was used for this transaction.
+
+49. [2023-04-23 16:11] [fraudulent] User Robert Anwar attempted to use a skimmed card at ATM #9561 in the sports complex, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #347891 was used for this attempt.
+
+50. [2023-04-23 18:38] [fraudulent] ATM #1287 at the government building was visited by User Robert Anwar, who tried to withdraw $65,000 but faced insufficient balance and network issues. Device #918753 was used for this transaction.
+51. [2023-04-23 21:15] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #6591 in the shopping district, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #876145 was used for this attempt.
+
+52. [2023-04-24 00:22] [fraudulent] ATM #9874 at the hospital was visited by User Robert Anwar, who tried to withdraw $70,000 but faced insufficient balance and network issues. Device #514893 was used for this transaction.
+
+53. [2023-04-24 02:46] [fraudulent] User Robert Anwar visited ATM #7632 in the downtown area and attempted to withdraw $75,000 using a skimmed card, but the transaction was declined due to our security measures. Device #687912 was used for this attempt.
+
+54. [2023-04-24 05:09] [fraudulent] ATM #2648 at the university campus was visited by User Robert Anwar, who tried to withdraw $80,000 but faced insufficient balance and network issues. Device #714234 was used for this transaction.
+
+55. [2023-04-24 07:32] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #9683 in the financial district, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #137589 was used for this attempt.
+
+56. [2023-04-24 10:08] [fraudulent] ATM #5769 at the park was visited by User Robert Anwar, who tried to withdraw $85,000 but faced insufficient balance and network issues. Device #928345 was used for this transaction.
+
+57. [2023-04-24 12:31] [fraudulent] User Robert Anwar attempted to use a skimmed card at ATM #6421 in the residential area, but the transaction was declined due to our security measures. Device #597813 was used for this attempt.
+
+58. [2023-04-24 14:57] [fraudulent] ATM #1467 at the convention center was visited by User Robert Anwar, who tried to withdraw $90,000 but faced insufficient balance and network issues. Device #887451 was used for this transaction.
+
+59. [2023-04-24 17:25] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #3648 in the industrial area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #921837 was used for this attempt.
+
+60. [2023-04-24 19:53] [fraudulent] ATM #9385 at the historical site was visited by User Robert Anwar, who tried to withdraw $95,000 but faced insufficient balance and network issues. Device #416789 was used for this transaction.
+61. [2023-04-24 22:21] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #2591 in the commercial district, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #638975 was used for this attempt.
+
+62. [2023-04-25 00:57] [fraudulent] ATM #7312 at the entertainment center was visited by User Robert Anwar, who tried to withdraw $100,000 but faced insufficient balance and network issues. Device #864931 was used for this transaction.
+
+63. [2023-04-25 03:23] [fraudulent] User Robert Anwar attempted to use a skimmed card at ATM #5378 in the educational area, but the transaction was declined due to our security measures. Device #941872 was used for this attempt.
+
+64. [2023-04-25 05:49] [fraudulent] ATM #3856 at the medical facility was visited by User Robert Anwar, who tried to withdraw $110,000 but faced insufficient balance and network issues. Device #712983 was used for this transaction.
+
+65. [2023-04-25 08:15] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #6319 in the government area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #137845 was used for this attempt.
+
+66. [2023-04-25 10:31] [fraudulent] ATM #9064 at the transportation hub was visited by User Robert Anwar, who tried to withdraw $120,000 but faced insufficient balance and network issues. Device #287961 was used for this transaction.
+
+67. [2023-04-25 12:47] [fraudulent] User Robert Anwar attempted to use a skimmed card at ATM #9512 in the financial district, but the transaction was declined due to our security measures. Device #863852 was used for this attempt.
+
+68. [2023-04-25 15:03] [fraudulent] ATM #7896 at the shopping center was visited by User Robert Anwar, who tried to withdraw $130,000 but faced insufficient balance and network issues. Device #397483 was used for this transaction.
+
+69. [2023-04-25 17:19] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #8187 in the park area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #679345 was used for this attempt.
+
+70. [2023-04-25 19:35] [fraudulent] ATM #6478 at the recreational center was visited by User Robert Anwar, who tried to withdraw $140,000 but faced insufficient balance and network issues. Device #124897 was used for this transaction.
+71. [2023-04-26 00:51] [fraudulent] User Robert Anwar visited ATM #5963 in the downtown area, attempting to withdraw a large sum of money but faced insufficient balance and network issues again. Device #97352 was used for this transaction.
+
+72. [2023-04-26 02:17] [fraudulent] ATM #8674 in the residential area was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues once more. Device #28963 was used for this transaction.
+
+73. [2023-04-26 04:53] [fraudulent] User Robert Anwar visited ATM #9816 in the medical center area, attempting to withdraw a large sum of money but faced insufficient balance and network issues again. Device #78945 was used for this transaction.
+
+74. [2023-04-26 06:31] [fraudulent] ATM #2913 in the educational district was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues once more. Device #48752 was used for this transaction.
+
+75. [2023-04-26 08:19] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #5678 in the industrial area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #97382 was used for this attempt.
+
+76. [2023-04-26 10:07] [fraudulent] ATM #6581 at the entertainment center was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues again. Device #139682 was used for this transaction.
+
+77. [2023-04-26 11:55] [fraudulent] User Robert Anwar attempted to use a skimmed card at ATM #8792 in the government area, but the transaction was declined due to our security measures. Device #239852 was used for this attempt.
+
+78. [2023-04-26 13:43] [fraudulent] ATM #9987 at the transportation hub was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues once more. Device #573982 was used for this transaction.
+
+79. [2023-04-26 15:21] [fraudulent] User Robert Anwar attempted to use a cloned card at ATM #3475 in the sports complex, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #896782 was used for this attempt.
+
+80. [2023-04-26 17:09] [fraudulent] ATM #5736 at the park area was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues again. Device #437892 was used for this transaction.
+81. [2023-04-26 18:53] [fraudulent] User Robert Anwar visited ATM #9381 in the shopping district, but the transaction was declined due to our advanced security measures. Device #786292 was used for this attempt.
+
+82. [2023-04-26 20:35] [fraudulent] User Robert Anwar attempted to use a compromised card at ATM #1249 in the entertainment area, but the transaction was flagged and declined by our fraud detection system. Device #867392 was used for this attempt.
+
+83. [2023-04-27 00:11] [fraudulent] ATM #5321 at the educational institution was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues for the fifth time. Device #689792 was used for this transaction.
+
+84. [2023-04-27 01:58] [fraudulent] User Robert Anwar attempted to use a manipulated card at ATM #2539 in the residential area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #684392 was used for this attempt.
+
+85. [2023-04-27 03:31] [fraudulent] ATM #3348 at the health and wellness center was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues for the sixth time. Device #694992 was used for this transaction.
+
+86. [2023-04-27 05:14] [fraudulent] User Robert Anwar attempted to use a counterfeit card at ATM #8423 in the business district, but the transaction was declined due to our security measures. Device #699992 was used for this attempt.
+
+87. [2023-04-27 06:45] [fraudulent] ATM #1735 at the financial center was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues for the seventh time. Device #799992 was used for this transaction.
+
+88. [2023-04-27 08:15] [fraudulent] User Robert Anwar attempted to use a stolen card at ATM #6391 in the historical site, but the transaction was declined due to our advanced security measures. Device #899992 was used for this attempt.
+
+89. [2023-04-27 09:39] [fraudulent] ATM #6135 at the cultural center was visited by User Robert Anwar, who tried to withdraw a large sum of money but faced insufficient balance and network issues for the eighth time. Device #999992 was used for this transaction.
+
+90. [2023-04-27 10:57] [fraudulent] User Robert Anwar visited ATM #9586 in the medical center, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #000002 was used for this attempt.
+91. [2023-04-27 12:02] [fraudulent] User Robert Anwar attempted to withdraw a large sum of money from ATM #2736 at the shopping center but faced insufficient balance and network issues for the ninth time. Device #099992 was used for this transaction.
+
+92. [2023-04-27 13:31] [fraudulent] Robert Anwar visited ATM #3658 at the entertainment complex, but the transaction was declined due to our advanced security measures. Device #100002 was used for this attempt.
+
+93. [2023-04-27 14:58] [fraudulent] User Robert Anwar attempted to withdraw a large sum of money from ATM #8765 at the educational center, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #199992 was used for this attempt.
+
+94. [2023-04-27 16:32] [fraudulent] Robert Anwar visited ATM #1889 at the industrial area, but the transaction was declined due to our advanced security measures. Device #200002 was used for this attempt.
+
+95. [2023-04-27 18:06] [fraudulent] User Robert Anwar attempted to withdraw a large sum of money from ATM #6753 at the government complex but faced insufficient balance and network issues for the eleventh time. Device #399992 was used for this transaction.
+
+96. [2023-04-27 19:41] [fraudulent] Robert Anwar visited ATM #9586 at the residential area, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #400002 was used for this attempt.
+
+97. [2023-04-27 21:20] [fraudulent] User Robert Anwar attempted to withdraw a large sum of money from ATM #5678 at the financial center but faced insufficient balance and network issues for the twelfth time. Device #599992 was used for this transaction.
+
+98. [2023-04-27 22:55] [fraudulent] Robert Anwar visited ATM #1729 at the park, but the transaction was declined due to our advanced security measures. Device #600002 was used for this attempt.
+
+99. [2023-04-28 00:29] [fraudulent] User Robert Anwar attempted to withdraw a large sum of money from ATM #7654 at the recreational center but faced insufficient balance and network issues for the thirteenth time. Device #799992 was used for this transaction.
+
+100. [2023-04-28 02:03] [fraudulent] Robert Anwar visited ATM #2586 at the transportation hub, but the transaction was declined due to our real-time monitoring system's fraud detection. Device #800002 was used for this attempt.
+

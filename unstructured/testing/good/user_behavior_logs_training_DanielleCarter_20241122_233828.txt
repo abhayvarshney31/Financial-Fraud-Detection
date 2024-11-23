@@ -1,0 +1,76 @@
+User ID: Danielle Carter
+- 
+1. [Normal] User Danielle Carter successfully logged in to her account at 08:30 AM from IP address 192.168.1.5 using device ID A1B2C3D4E5.
+2. [Normal] User Danielle Carter checked her balance in both savings and checking accounts at 08:32 AM.
+3. [Normal] User Danielle Carter initiated a transfer of $1,000 from her personal savings account to her checking account at 08:34 AM.
+4. [Normal] The transaction was completed successfully, moving the amount of $1,000 from savings to checking at 08:35 AM.
+5. [Normal] User Danielle Carter viewed her updated balance in both accounts at 08:36 AM.
+6. [Normal] User Danielle Carter initiated another transfer of $200 from her personal checking account back to her savings account at 08:37 AM.
+7. [Normal] The transaction was completed successfully, moving the amount of $200 from checking to savings at 08:38 AM.
+8. [Normal] User Danielle Carter checked her balance in both accounts again at 08:41 AM.
+9. [Normal] User Danielle Carter initiated a transfer of $500 from her personal savings account to her checking account at 08:42 AM.
+10. [Normal] The transaction was completed successfully, moving the amount of $500 from savings to checking at 08:43 AM.
+11. [Normal] User Danielle Carter viewed her updated balance in both accounts again at 08:44 AM.
+12. [Normal] Danielle initiated a transfer of $300 from her personal checking account to her savings account at 08:45 AM.
+13. [Normal] The transaction was completed successfully, moving the amount of $300 from checking to savings at 08:46 AM.
+14. [Normal] Danielle checked her balance in both accounts once more at 08:49 AM.
+15. [Normal] Danielle initiated a transfer of $700 from her personal savings account to her checking account at 08:50 AM.
+16. [Normal] The transaction was completed successfully, moving the amount of $700 from savings to checking at 08:51 AM.
+17. [Normal] Danielle viewed her updated balance in both accounts for the final time at 08:52 AM.
+18. [Normal] Danielle transferred $200 from her personal checking account back to her savings account at 08:53 AM.
+19. [Normal] The transaction was completed successfully, moving the amount of $200 from checking to savings at 08:54 AM.
+20. [Normal] Danielle accessed her personal savings and checking account information through the bank's mobile app on her iPhone XR at 08:55 AM.
+21. [Normal] User Danielle Carter initiated a transfer of $500 from her personal savings account to her checking account at 09:00 AM.
+22. [Normal] The transaction was completed successfully, moving the amount of $500 from savings to checking at 09:01 AM.
+23. [Normal] Danielle viewed her updated balance in both accounts once more on her iPhone XR at 09:02 AM.
+24. [Normal] User Danielle Carter accessed her personal savings and checking account information through the bank's mobile app on her iPad Mini at 09:03 AM.
+25. [Normal] Danielle initiated a transfer of $600 from her personal checking account to her savings account at 09:04 AM.
+26. [Normal] The transaction was completed successfully, moving the amount of $600 from checking to savings at 09:05 AM.
+27. [Normal] Danielle checked her balance in both accounts for the final time on her iPad Mini at 09:06 AM.
+28. [Normal] Danielle transferred $300 from her personal savings account back to her checking account on her iPad Mini at 09:07 AM.
+29. [Normal] The transaction was completed successfully, moving the amount of $300 from savings to checking at 09:08 AM.
+30. [Normal] Danielle reviewed her transaction history on both accounts through the bank's mobile app on her iPhone XR at 09:09 AM.
+31. [Normal] User Danielle Carter accessed her personal savings and checking account information once more on her iPad Mini at 09:10 AM.
+32. [Normal] Danielle initiated a transfer of $450 from her personal savings account to her checking account at 09:11 AM.
+33. [Normal] The transaction was completed successfully, moving the amount of $450 from savings to checking at 09:12 AM.
+34. [Normal] Danielle checked her balance in both accounts on her iPhone XR after the transfer at 09:13 AM.
+35. [Normal] User Danielle Carter made a withdrawal of $800 from her personal checking account using her debit card at an ATM at 09:14 AM.
+36. [Normal] The transaction was completed successfully, moving the amount of $800 from checking to cash at 09:15 AM.
+37. [Normal] Danielle updated her budget spreadsheet on her MacBook Pro at 09:16 AM to reflect the latest changes in her account balances.
+38. [Normal] User Danielle Carter accessed her personal savings and checking account information on her iPad Mini at 09:17 AM to review the transaction history.
+39. [Normal] Danielle initiated a transfer of $550 from her personal checking account to her savings account at 09:18 AM.
+40. [Normal] The transaction was completed successfully, moving the amount of $550 from checking to savings at 09:19 AM.
+41. [Normal] Danielle received a notification on her iPhone XR about an incoming payment of $200 into her checking account at 09:20 AM.
+42. [Normal] She confirmed the receipt of the funds in both accounts on her iPad Mini at 09:21 AM.
+43. [Normal] User Danielle Carter set up a recurring payment of $100 per month from her checking account to her savings account, starting from next month at 09:22 AM on her MacBook Pro.
+44. [Normal] The setup was completed successfully; the first transaction is scheduled for October 1st at 09:23 AM.
+45. [Normal] Danielle checked her updated budget spreadsheet on her iPad Mini at 09:24 AM, factoring in the new recurring payment.
+46. [Normal] User Danielle Carter reviewed her transaction history on her personal savings and checking accounts using her iPhone XR at 09:25 AM.
+47. [Normal] She noticed the recurring payment setup and confirmed its correctness on her MacBook Pro at 09:26 AM.
+48. [Normal] Danielle made a purchase of $150 on her debit card using her iPhone XR at 09:27 AM, which was successfully deducted from her checking account.
+49. [Normal] The transaction was completed successfully, moving the amount of $150 from checking to the merchant at 09:28 AM.
+50. [Normal] Danielle checked her updated balance on her iPad Mini at 10:30 AM, confirming that the recurring payment was deducted from her checking account and added to her savings account.
+51. [Normal] At 10:31 AM, she set up a reminder on her iPhone XR to review her budget every first week of the month, ensuring that she stays on top of her financial goals.
+52. [Normal] Danielle transferred an additional $50 from her checking account to her savings account using her MacBook Pro at 10:32 AM as a one-time contribution.
+53. [Normal] The transaction was completed successfully, moving the amount of $50 from checking to her savings account at 10:33 AM.
+54. [Normal] At 10:34 AM, she reviewed the detailed transaction history on her iPad Mini, noting the date, amount, and purpose of each transfer.
+55. [Normal] Danielle set up a rule on her iPhone XR to categorize all transactions related to savings and checking accounts for easier tracking at 10:35 AM.
+56. [Normal] The rule was successfully applied, and all transactions were now categorized in the budget app on her iPhone XR at 10:36 AM.
+57. [Normal] At 10:37 AM, Danielle emailed a summary of her financial activity for the month to herself as a record, using her MacBook Pro's mail client.
+58. [Normal] The email was sent successfully at 10:38 AM, with a clear overview of her savings and checking account transfers and balances.
+59. [Normal] Danielle reviewed her monthly spending on her iPad Mini at 11:39 AM and found that she's within her budget limits for the month.
+60. [Normal] Feeling satisfied with her financial management, Danielle logged off her devices and continued with her daily tasks at 11:40 AM.
+:41 AM - [Normal] Danielle accessed her budget app on her iPhone XR to initiate a transfer of $500 from her personal savings account to her checking account for upcoming expenses.
+:42 AM - [Normal] The transaction was initiated successfully, and the funds were transferred within seconds.
+:43 AM - [Normal] Danielle received a confirmation notification on her iPhone XR, stating that the transfer was complete and successful.
+10:44 AM - [Normal] She noted down the transaction details in her physical planner for future reference.
+11:45 AM - [Normal] After reviewing her updated account balances, Danielle decided to transfer $200 back into her personal savings account from the checking account using her iPad Mini.
+11:46 AM - [Normal] The funds were transferred, and a confirmation message appeared on her iPad Mini's screen.
+12:47 PM - [Normal] Danielle checked her updated account balances once again, ensuring that her financial goals for the day were achieved.
+12:48 PM - [Normal] Satisfied, she locked her devices and continued with her daily tasks.
+:03 PM - [Normal] Later in the afternoon, Danielle decided to transfer $500 from her checking account back into her personal savings account for future expenses.
+1:04 PM - [Normal] The transfer was initiated using her MacBook Pro and completed within a few seconds.
+1:05 PM - [Normal] Upon successful completion of the transaction, Danielle received a notification on her MacBook Pro confirming that the funds had been transferred back into her savings account.
+2:06 PM - [Normal] She updated her physical planner with the details of this latest transaction for future reference.
+3:07 PM - [Normal] After checking her account balances once more, Danielle felt satisfied with her financial management and decided to take a break from her devices.
+

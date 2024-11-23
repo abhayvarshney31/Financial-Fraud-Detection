@@ -1,0 +1,193 @@
+User ID: Maci Diaz
+- 
+[12:34:26] - Maci Diaz (macy.d@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 12 Pro (Model A2341, iOS 15.0.1). Network: AT&T (Signal strength: 95%). Location: Chicago, IL.
+
+[12:36:45] - Maci Diaz (macy.d1@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S20 FE (Model SM-G781U, Android 11). Network: Verizon (Signal strength: 98%). Location: Chicago, IL.
+
+[13:02:12] - Maci Diaz (macy.d2@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 5 (Model GV1A, Android 11). Network: T-Mobile (Signal strength: 96%). Location: Chicago, IL.
+
+[13:20:47] - Maci Diaz (macy.d3@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 11 Pro Max (Model A2160, iOS 15.0.1). Network: Sprint (Signal strength: 89%). Location: Chicago, IL.
+
+[13:40:31] - Maci Diaz (macy.d4@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone XR (Model A1984, iOS 15.0.2). Network: AT&T (Signal strength: 86%). Location: Chicago, IL.
+
+[13:58:19] - Maci Diaz (macy.d5@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S20 Ultra (Model SM-G988U, Android 11). Network: Verizon (Signal strength: 90%). Location: Chicago, IL.
+
+[14:15:53] - Maci Diaz (macy.d6@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 4a (Model GV1A, Android 12). Network: T-Mobile (Signal strength: 93%). Location: Chicago, IL.
+
+[14:35:08] - Maci Diaz (macy.d7@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone SE (2nd Generation) (Model A2232, iOS 15.0.2). Network: Sprint (Signal strength: 97%). Location: Chicago, IL.
+
+[14:55:28] - Maci Diaz (macy.d8@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone XS Max (Model A1920, iOS 15.0.2). Network: AT&T (Signal strength: 87%). Location: Chicago, IL.
+
+[15:15:36] - Maci Diaz (macy.d9@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S9+ (Model SM-G965U, Android 12). Network: Verizon (Signal strength: 84%). Location: Chicago, IL.
+[15:35:04] - Maci Diaz (macy.d10@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 3a XL (Model GV2A, Android 11). Network: T-Mobile (Signal strength: 95%). Location: Chicago, IL.
+
+[15:40:27] - Maci Diaz (macy.d11@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 11 Pro (Model A2160, iOS 15.1). Network: Sprint (Signal strength: 98%). Location: Chicago, IL.
+
+[15:45:43] - Maci Diaz (macy.d12@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 12 Pro Max (Model A2379, iOS 15.1). Network: AT&T (Signal strength: 88%). Location: Chicago, IL.
+
+[16:00:16] - Maci Diaz (macy.d13@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S20 FE (Model SM-G781U, Android 12). Network: Verizon (Signal strength: 90%). Location: Chicago, IL.
+
+[16:05:32] - Maci Diaz (macy.d14@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 4a (5G) (Model GV1B, Android 12). Network: T-Mobile (Signal strength: 96%). Location: Chicago, IL.
+
+[16:10:48] - Maci Diaz (macy.d15@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 12 mini (Model A2403, iOS 15.1). Network: Sprint (Signal strength: 96%). Location: Chicago, IL.
+
+[16:15:27] - Maci Diaz (macy.d16@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone XR (Model A1984, iOS 15.1). Network: AT&T (Signal strength: 82%). Location: Chicago, IL.
+
+[16:20:39] - Maci Diaz (macy.d17@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy A52 5G (Model SM-A528N, Android 12). Network: Verizon (Signal strength: 91%). Location: Chicago, IL.
+
+[16:25:37] - Maci Diaz (macy.d18@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 5 (Model GV1A, Android 12). Network: T-Mobile (Signal strength: 94%). Location: Chicago, IL.
+
+[16:30:05] - Maci Diaz (macy.d19@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone XS Max (Model A2174, iOS 15.1). Network: Sprint (Signal strength: 93%). Location: Chicago, IL.
+[16:34:12] - Maci Diaz (macy.d20@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OnePlus 8T (Model GM2119, Android 11). Network: AT&T (Signal strength: 79%). Location: Chicago, IL.
+
+[16:38:45] - Maci Diaz (macy.d21@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S21 Ultra (Model SM-G998U, Android 12). Network: Verizon (Signal strength: 88%). Location: Chicago, IL.
+
+[16:43:03] - Maci Diaz (macy.d22@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone SE (Model A2290, iOS 15.1). Network: T-Mobile (Signal strength: 76%). Location: Chicago, IL.
+
+[16:48:27] - Maci Diaz (macy.d23@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 5A (Model GVZA, Android 12). Network: Sprint (Signal strength: 75%). Location: Chicago, IL.
+
+[16:53:31] - Maci Diaz (macy.d24@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Xiaomi Mi 11 Ultra (Model M201277G, Android 12). Network: AT&T (Signal strength: 86%). Location: Chicago, IL.
+
+[17:00:15] - Maci Diaz (macy.d25@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 13 Pro Max (Model A2494, iOS 15.1). Network: Verizon (Signal strength: 87%). Location: Chicago, IL.
+
+[17:05:47] - Maci Diaz (macy.d26@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy Z Fold3 (Model SM-F926N, Android 12). Network: T-Mobile (Signal strength: 72%). Location: Chicago, IL.
+
+[17:11:15] - Maci Diaz (macy.d27@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone XR (Model A1984, iOS 15.1). Network: Sprint (Signal strength: 68%). Location: Chicago, IL.
+
+[17:16:32] - Maci Diaz (macy.d28@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy A52 5G (Model SM-A528N, Android 12). Network: AT&T (Signal strength: 83%). Location: Chicago, IL.
+
+[17:22:06] - Maci Diaz (macy.d29@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 5 (Model GV1A, Android 12). Network: Verizon (Signal strength: 71%). Location: Chicago, IL.
+[17:28:13] - Maci Diaz (macy.d30@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OnePlus 9 Pro (Model GM31DD, Android 12). Network: T-Mobile (Signal strength: 85%). Location: Chicago, IL.
+
+[17:34:20] - Maci Diaz (macy.d31@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: LG V60 ThinQ 5G (Model LM-V970, Android 12). Network: AT&T (Signal strength: 87%). Location: Chicago, IL.
+
+[17:39:50] - Maci Diaz (macy.d32@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S21 Ultra 5G (Model SM-G998U, Android 12). Network: Verizon (Signal strength: 78%). Location: Chicago, IL.
+
+[17:44:36] - Maci Diaz (macy.d33@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone SE (Model A2305, iOS 15.1). Network: Sprint (Signal strength: 74%). Location: Chicago, IL.
+
+[17:49:26] - Maci Diaz (macy.d34@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Xiaomi Mi 11 Ultra (Model M2012111C, Android 12). Network: T-Mobile (Signal strength: 76%). Location: Chicago, IL.
+
+[17:53:47] - Maci Diaz (macy.d35@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 6 Pro (Model GV1B, Android 12). Network: Verizon (Signal strength: 79%). Location: Chicago, IL.
+
+[17:58:04] - Maci Diaz (macy.d36@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Motorola Edge+ (Model XT2071-3, Android 12). Network: AT&T (Signal strength: 90%). Location: Chicago, IL.
+
+[18:01:45] - Maci Diaz (macy.d37@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Sony Xperia 1 III (Model GS959, Android 12). Network: Sprint (Signal strength: 80%). Location: Chicago, IL.
+
+[18:06:38] - Maci Diaz (macy.d38@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OPPO Find X3 Pro (Model MAR-AN90, Android 12). Network: T-Mobile (Signal strength: 86%). Location: Chicago, IL.
+
+[18:10:47] - Maci Diaz (macy.d39@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Huawei Mate 40 Pro (Model AOR-AN10, Android 12). Network: Verizon (Signal strength: 85%). Location: Chicago, IL.
+[18:15:32] - Maci Diaz (macy.d40@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S21 Ultra (Model SM-G998U, Android 12). Network: AT&T (Signal strength: 95%). Location: Chicago, IL.
+
+[18:17:43] - Maci Diaz (macy.d41@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 12 Pro Max (Model A2309, iOS 15). Network: T-Mobile (Signal strength: 87%). Location: Chicago, IL.
+
+[18:20:56] - Maci Diaz (macy.d42@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 6 Pro (Model GV1A, Android 12). Network: Verizon (Signal strength: 93%). Location: Chicago, IL.
+
+[18:24:07] - Maci Diaz (macy.d43@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OnePlus 9 Pro (Model GM1211, Android 12). Network: Sprint (Signal strength: 88%). Location: Chicago, IL.
+
+[18:27:40] - Maci Diaz (macy.d44@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Xiaomi Mi 11 Ultra (Model M2011K3G, Android 12). Network: AT&T (Signal strength: 96%). Location: Chicago, IL.
+
+[18:30:49] - Maci Diaz (macy.d45@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: LG V60 ThinQ (Model LM-V610, Android 12). Network: T-Mobile (Signal strength: 92%). Location: Chicago, IL.
+
+[18:34:54] - Maci Diaz (macy.d46@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Nokia 8.3 (Model TA-1209, Android 12). Network: Verizon (Signal strength: 91%). Location: Chicago, IL.
+
+[18:38:57] - Maci Diaz (macy.d47@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy A72 (Model SM-A726U, Android 12). Network: Sprint (Signal strength: 89%). Location: Chicago, IL.
+
+[18:42:35] - Maci Diaz (macy.d48@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Motorola Moto G Power (Model XT-2021-2, Android 12). Network: AT&T (Signal strength: 97%). Location: Chicago, IL.
+
+[18:45:36] - Maci Diaz (macy.d49@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 4a (Model GVZA4, Android 12). Network: T-Mobile (Signal strength: 90%). Location: Chicago, IL.
+[18:50:13] - Maci Diaz (macy.d50@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OnePlus 9 Pro (Model GM3211, Android 12). Network: Verizon (Signal strength: 88%). Location: Chicago, IL.
+
+[18:57:49] - Maci Diaz (macy.d51@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 12 Pro Max (Model A2303, iOS 15). Network: AT&T (Signal strength: 94%). Location: Chicago, IL.
+
+[18:59:26] - Maci Diaz (macy.d52@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: LG Velvet (Model LM-Q710, Android 11). Network: T-Mobile (Signal strength: 93%). Location: Chicago, IL.
+
+[19:02:04] - Maci Diaz (macy.d53@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Xiaomi Mi 11 Ultra (Model M201211G1C, Android 12). Network: Sprint (Signal strength: 87%). Location: Chicago, IL.
+
+[19:05:43] - Maci Diaz (macy.d54@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Sony Xperia 1 III (Model GS862, Android 12). Network: Verizon (Signal strength: 92%). Location: Chicago, IL.
+
+[19:07:51] - Maci Diaz (macy.d55@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy Z Fold3 (Model SM-F9260, Android 12). Network: AT&T (Signal strength: 96%). Location: Chicago, IL.
+
+[19:11:42] - Maci Diaz (macy.d56@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 6 Pro (Model GVZA3, Android 12). Network: T-Mobile (Signal strength: 91%). Location: Chicago, IL.
+
+[19:14:50] - Maci Diaz (macy.d57@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Huawei P40 Pro+ (Model MEL-AN10, Android 12). Network: Verizon (Signal strength: 83%). Location: Chicago, IL.
+
+[19:17:26] - Maci Diaz (macy.d58@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OPPO Find X3 Pro (Model MAR-AN10, Android 12). Network: Sprint (Signal strength: 86%). Location: Chicago, IL.
+
+[19:20:45] - Maci Diaz (macy.d59@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: ZTE Axon 30 Ultra (Model ZTE-AX01, Android 12). Network: T-Mobile (Signal strength: 88%). Location: Chicago, IL.
+[19:27:56] - Maci Diaz (macy.d60@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S21 Ultra 5G (Model SM-G998U, Android 12). Network: AT&T (Signal strength: 84%). Location: Chicago, IL.
+
+[19:30:29] - Maci Diaz (macy.d61@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OnePlus 9 Pro (Model GM2111, Android 12). Network: Verizon (Signal strength: 87%). Location: Chicago, IL.
+
+[19:34:05] - Maci Diaz (macy.d62@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Xiaomi Mi 11 Ultra (Model M2103K1G, Android 12). Network: T-Mobile (Signal strength: 90%). Location: Chicago, IL.
+
+[19:40:18] - Maci Diaz (macy.d63@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 5a (Model GVZA3, Android 12). Network: AT&T (Signal strength: 89%). Location: Chicago, IL.
+
+[19:47:03] - Maci Diaz (macy.d64@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: LG V60 ThinQ (Model VS991, Android 12). Network: Verizon (Signal strength: 85%). Location: Chicago, IL.
+
+[19:53:47] - Maci Diaz (macy.d65@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Sony Xperia 1 III (Model GS230, Android 12). Network: T-Mobile (Signal strength: 92%). Location: Chicago, IL.
+
+[20:03:36] - Maci Diaz (macy.d66@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Motorola Edge+ (Model XT1100, Android 12). Network: AT&T (Signal strength: 93%). Location: Chicago, IL.
+
+[20:15:24] - Maci Diaz (macy.d67@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Nokia X20 (Model TA-1338, Android 12). Network: Verizon (Signal strength: 88%). Location: Chicago, IL.
+
+[20:27:46] - Maci Diaz (macy.d68@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OPPO Find X3 Lite (Model MAR-AN10, Android 12). Network: T-Mobile (Signal strength: 94%). Location: Chicago, IL.
+
+[20:40:28] - Maci Diaz (macy.d69@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 13 Pro Max (Model A2343, iOS 15). Network: AT&T (Signal strength: 90%). Location: Chicago, IL.
+[20:54:30] - Maci Diaz (macy.d70@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S21 Ultra 5G (Model SM-G998U, Android 11). Network: Verizon (Signal strength: 92%). Location: Chicago, IL.
+
+[20:57:43] - Maci Diaz (macy.d71@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OnePlus 9 Pro (Model GM3211, Android 11). Network: T-Mobile (Signal strength: 89%). Location: Chicago, IL.
+
+[21:05:49] - Maci Diaz (macy.d72@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 6 Pro (Model GV1A, Android 12). Network: AT&T (Signal strength: 86%). Location: Chicago, IL.
+
+[21:09:54] - Maci Diaz (macy.d73@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Xiaomi Mi 11 Ultra (Model M2013K1G, Android 12). Network: Verizon (Signal strength: 95%). Location: Chicago, IL.
+
+[21:14:17] - Maci Diaz (macy.d74@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Sony Xperia 1 III (Model G8459, Android 12). Network: T-Mobile (Signal strength: 90%). Location: Chicago, IL.
+
+[21:17:31] - Maci Diaz (macy.d75@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: LG V60 ThinQ 5G (Model GS987, Android 12). Network: AT&T (Signal strength: 84%). Location: Chicago, IL.
+
+[21:19:42] - Maci Diaz (macy.d76@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Huawei P30 Pro (Model NOV-L29, Android 10). Network: Verizon (Signal strength: 88%). Location: Chicago, IL.
+
+[21:24:50] - Maci Diaz (macy.d77@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OPPO Find X3 Pro (Model MAR-AN19, Android 12). Network: T-Mobile (Signal strength: 80%). Location: Chicago, IL.
+
+[21:27:34] - Maci Diaz (macy.d78@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Motorola RAZR 5G (Model XT2075-3, Android 11). Network: AT&T (Signal strength: 96%). Location: Chicago, IL.
+
+[21:32:58] - Maci Diaz (macy.d79@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone SE (Model A2223, iOS 14). Network: Verizon (Signal strength: 78%). Location: Chicago, IL.
+[21:39:05] - Maci Diaz (macy.d80@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S21 Ultra (Model SM-G998U, Android 11). Network: T-Mobile (Signal strength: 85%). Location: Chicago, IL.
+
+[21:45:32] - Maci Diaz (macy.d81@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 6 Pro (Model GV1A, Android 12). Network: AT&T (Signal strength: 95%). Location: Chicago, IL.
+
+[21:50:47] - Maci Diaz (macy.d82@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OnePlus 9 Pro (Model GM3210, Android 11). Network: Verizon (Signal strength: 79%). Location: Chicago, IL.
+
+[21:58:01] - Maci Diaz (macy.d83@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Xiaomi Mi 11 Ultra (Model M2013K1G, Android 12). Network: T-Mobile (Signal strength: 76%). Location: Chicago, IL.
+
+[22:04:25] - Maci Diaz (macy.d84@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Sony Xperia 1 III (Model GS331, Android 12). Network: AT&T (Signal strength: 90%). Location: Chicago, IL.
+
+[22:11:36] - Maci Diaz (macy.d85@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: LG V60 ThinQ 5G (Model M950n, Android 11). Network: Verizon (Signal strength: 87%). Location: Chicago, IL.
+
+[22:18:43] - Maci Diaz (macy.d86@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Nokia X20 (Model TA-1303, Android 12). Network: T-Mobile (Signal strength: 74%). Location: Chicago, IL.
+
+[22:25:28] - Maci Diaz (macy.d87@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Realme GT Master Edition (Model RMX3051, Android 12). Network: AT&T (Signal strength: 92%). Location: Chicago, IL.
+
+[22:31:46] - Maci Diaz (macy.d88@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: ZTE Axon 30 Ultra (Model AX3010, Android 12). Network: Verizon (Signal strength: 73%). Location: Chicago, IL.
+
+[22:38:42] - Maci Diaz (macy.d89@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Vivo X70 Pro+ (Model V2156, Android 12). Network: T-Mobile (Signal strength: 68%). Location: Chicago, IL.
+[22:42:39] - Maci Diaz (macy.d90@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Google Pixel 6 Pro (Model GV1A, Android 12). Network: Sprint (Signal strength: 85%). Location: Chicago, IL.
+
+[22:47:24] - Maci Diaz (macy.d91@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Samsung Galaxy S21 Ultra (Model SM-G998U, Android 12). Network: US Cellular (Signal strength: 76%). Location: Chicago, IL.
+
+[22:51:33] - Maci Diaz (macy.d92@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: OnePlus 9 Pro (Model GM3217, Android 12). Network: Boost Mobile (Signal strength: 63%). Location: Chicago, IL.
+
+[22:58:09] - Maci Diaz (macy.d93@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Sony Xperia 1 III (Model GS431, Android 12). Network: Cricket Wireless (Signal strength: 87%). Location: Chicago, IL.
+
+[23:03:16] - Maci Diaz (macy.d94@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: LG Velvet (Model MQ-825, Android 12). Network: Metro by T-Mobile (Signal strength: 67%). Location: Chicago, IL.
+
+[23:09:27] - Maci Diaz (macy.d95@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Huawei P40 Pro (Model ANA-NX9, Android 12). Network: Straight Talk (Signal strength: 78%). Location: Chicago, IL.
+
+[23:15:03] - Maci Diaz (macy.d96@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Xiaomi Mi 11 Ultra (Model M2013K1G, Android 12). Network: Tracfone (Signal strength: 79%). Location: Chicago, IL.
+
+[23:21:06] - Maci Diaz (macy.d97@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: Motorola Edge Plus (Model XT1103, Android 12). Network: Republic Wireless (Signal strength: 69%). Location: Chicago, IL.
+
+[23:27:48] - Maci Diaz (macy.d98@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone 13 Pro Max (Model A2563, iOS 15). Network: Consumer Cellular (Signal strength: 70%). Location: Chicago, IL.
+
+[23:34:13] - Maci Diaz (macy.d99@gmail.com) - Fraudulent activity detected: Multiple accounts opened with similar details in a short time. Device: iPhone SE (Model A2306, iOS 15). Network: Tello (Signal strength: 72%). Location: Chicago, IL.
+

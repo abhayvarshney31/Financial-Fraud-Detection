@@ -1,0 +1,129 @@
+User ID: Kassidy Reyes
+- 
+[2023-03-15 10:07:21] [fraudulent]
+User Kassidy Reyes attempted to access their account from a location in London, UK after previously being in New York City, USA. The device used was an iPhone with MAC address E4:F3:DE:A1:B2:C3.
+
+[2023-03-15 10:45:37] [fraudulent]
+Kassidy Reyes's account was accessed again from a location in Sydney, Australia just two hours after the previous attempt. The device used this time was a Samsung Galaxy S22 with MAC address F8:D9:DE:A1:B2:C4.
+
+[2023-03-15 13:02:56] [fraudulent]
+The user's account was accessed once more from a location in Tokyo, Japan within an hour of the previous attempt. The device used was a Google Pixel 6 with MAC address FE:D9:DE:A1:B2:C5.
+
+[2023-03-15 14:07:12] [fraudulent]
+Account access from Seoul, South Korea was detected shortly after the Tokyo attempt. The device used had a MAC address E8:F3:DE:A1:B2:C6.
+
+[2023-03-15 14:30:29] [fraudulent]
+Kassidy Reyes's account was accessed from Rio de Janeiro, Brazil in a bid to cover up the previous attempts. The device used had a MAC address EE:F3:DE:A1:B2:C7.
+
+[2023-03-15 14:50:46] [fraudulent]
+The user's account was accessed from Frankfurt, Germany immediately following the Brazilian attempt, with a device having MAC address EF:F3:DE:A1:B2:C8.
+
+[2023-03-15 14:59:02] [fraudulent]
+Account access was attempted from a location in Dubai, United Arab Emirates. However, the attempt failed due to location mismatch with previous attempts. The device used had MAC address EE:F3:DE:A1:B2:C9.
+
+[2023-03-15 15:10:14] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Singapore, further confirming the suspicious activity. The device used had MAC address E8:F3:DE:A1:B2:CA.
+
+[2023-03-15 16:07:40] [fraudulent]
+The user's account was accessed from a location in Paris, France, which is far away from the previous locations. The device used had MAC address FF:F3:DE:A1:B2:C1.
+
+[2023-03-15 16:20:07] [fraudulent]
+Finally, Kassidy Reyes's account was accessed from a location in Mexico City, Mexico. This attempt was also flagged as fraudulent due to the user's recent activity and the geographical distance between the previous locations. The device used had MAC address FD:F3:DE:A1:B2:C2.
+[2023-03-16 07:45:19] [fraudulent]
+Account access was attempted from a location in New York City, USA, again demonstrating suspicious behavior as it was geographically distant from the previous locations. The device used had MAC address FE:F3:DE:A1:B2:C3.
+
+[2023-03-16 08:05:43] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Sao Paulo, Brazil, further confirming the suspicious activity. The device used had MAC address FD:F3:DE:A1:B2:C4.
+
+[2023-03-16 09:25:58] [fraudulent]
+The user's account was accessed from a location in Tokyo, Japan, which is far away from the previous locations. The device used had MAC address FC:F3:DE:A1:B2:C5.
+
+[2023-03-16 09:45:27] [fraudulent]
+Finally, Kassidy Reyes's account was accessed from a location in Sydney, Australia. This attempt was also flagged as fraudulent due to the user's recent activity and the geographical distance between the previous locations. The device used had MAC address FB:F3:DE:A1:B2:C6.
+
+[2023-03-16 12:45:13] [fraudulent]
+Account access was attempted from a location in Moscow, Russia, again demonstrating suspicious behavior as it was geographically distant from the previous locations. The device used had MAC address FD:F3:DE:A1:B2:C7.
+
+[2023-03-16 14:15:29] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Cape Town, South Africa, further confirming the suspicious activity. The device used had MAC address FE:F3:DE:A1:B2:C8.
+
+[2023-03-16 14:35:12] [fraudulent]
+The user's account was accessed from a location in London, UK, which is far away from the previous locations. The device used had MAC address FF:F3:DE:A1:B2:C9.
+[2023-03-16 15:00:08] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Cancun, Mexico, showing a continued pattern of attempting access from various geographical locations. The device used had MAC address FG:F3:DE:A1:B2:CA.
+
+[2023-03-16 15:45:37] [fraudulent]
+Account access was attempted from a location in Rio de Janeiro, Brazil, demonstrating the user's continued suspicious behavior of changing locations. The device used had MAC address FH:F3:DE:A1:B2:CB.
+
+[2023-03-16 16:15:24] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Dubai, United Arab Emirates, further confirming the fraudulent activity as it was geographically distant from previous locations. The device used had MAC address FI:F3:DE:A1:B2:CC.
+
+[2023-03-16 18:45:09] [fraudulent]
+The user's account was accessed from a location in Singapore, showing another sudden change in geographical location. The device used had MAC address FJ:F3:DE:A1:B2:CD.
+
+[2023-03-16 19:15:05] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Tokyo, Japan, which is far away from the previous locations, further confirming suspicious activity. The device used had MAC address FK:F3:DE:A1:B2:CE.
+
+[2023-03-16 19:45:02] [fraudulent]
+Account access was attempted from a location in New Zealand, which is geographically distant from the previous locations and demonstrated the user's continued suspicious behavior. The device used had MAC address FL:F3:DE:A1:B2:CF.
+
+[2023-03-16 20:15:01] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Los Angeles, USA, showing another sudden change in geographical location and reinforcing the fraudulent nature of these access attempts. The device used had MAC address FM:F3:DE:A1:B2:D0.
+[2023-03-16 20:45:08] [fraudulent]
+The user's account was accessed from a location in Paris, France, which is another significant geographical shift. This behavior further supports the notion that Kassidy Reyes's account is being targeted by an individual engaging in fraudulent activity. The device used had MAC address FN:F3:DE:A1:B2:D1.
+
+[2023-03-16 21:15:06] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Moscow, Russia, continuing the pattern of sudden geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address FO:F3:DE:A1:B2:D2.
+
+[2023-03-16 21:45:03] [fraudulent]
+Account access was attempted from a location in Cairo, Egypt, which is another geographically distant location, demonstrating the user's continued suspicious behavior. The device used had MAC address FP:F3:DE:A1:B2:D3.
+
+[2023-03-16 22:15:02] [fraudulent]
+Kassidy Reyes's account was accessed from a location in São Paulo, Brazil, showing another sudden change in geographical location and reinforcing the fraudulent nature of these access attempts. The device used had MAC address FQ:F3:DE:A1:B2:D4.
+
+[2023-03-16 22:45:01] [fraudulent]
+The user's account was accessed from a location in Johannesburg, South Africa, which is yet another significant geographical shift. This behavior further supports the notion that Kassidy Reyes's account is being targeted by an individual engaging in fraudulent activity. The device used had MAC address FR:F3:DE:A1:B2:D5.
+
+[2023-03-16 23:15:00] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Sydney, Australia, continuing the pattern of sudden geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address FS:F3:DE:A1:B2:D6.
+[2023-03-17 00:15:02] [fraudulent]
+Another access attempt was made from a location in Tokyo, Japan, once again showcasing the rapid and frequent geographical changes associated with Kassidy Reyes's account. The device used had MAC address FT:F3:DE:A1:B2:D7.
+
+[2023-03-17 00:45:01] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Dubai, United Arab Emirates, further demonstrating the pattern of sudden geographical shifts. This access attempt supports the ongoing suspicion of fraudulent behavior. The device used had MAC address FU:F3:DE:A1:B2:D8.
+
+[2023-03-17 01:15:00] [fraudulent]
+The user's account was accessed from a location in New Delhi, India, continuing the series of rapid geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address FV:F3:DE:A1:B2:D9.
+
+[2023-03-17 01:45:01] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Los Angeles, United States, showing another sudden geographical change. This behavior further supports the notion that Kassidy Reyes's account is being targeted by an individual engaging in fraudulent activity. The device used had MAC address FW:F3:DE:A1:B2:D10.
+
+[2023-03-17 02:15:00] [fraudulent]
+Another access attempt was made from a location in Paris, France, continuing the pattern of sudden geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address FX:F3:DE:A1:B2:D11.
+
+[2023-03-17 02:45:01] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Berlin, Germany, further demonstrating the pattern of sudden geographical shifts. This access attempt supports the ongoing suspicion of fraudulent behavior. The device used had MAC address FY:F3:DE:A1:B2:D12.
+
+[2023-03-17 03:15:00] [fraudulent]
+The user's account was accessed from a location in New York City, United States, continuing the series of rapid geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address FZ:F3:DE:A1:B2:D13.
+[2023-03-17 03:45:01] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Sydney, Australia, indicating an increasingly global pattern of rapid geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address GA:F3:DE:A1:B2:D14.
+
+[2023-03-17 04:15:00] [fraudulent]
+The user's account was accessed from a location in Tokyo, Japan, suggesting a continuous pattern of sudden geographical shifts. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address GB:F3:DE:A1:B2:D15.
+
+[2023-03-17 04:45:01] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Toronto, Canada, further demonstrating the pattern of sudden geographical shifts. This access attempt supports the ongoing suspicion of fraudulent behavior. The device used had MAC address GC:F3:DE:A1:B2:D16.
+
+[2023-03-17 05:15:00] [fraudulent]
+The user's account was accessed from a location in Cairo, Egypt, continuing the series of rapid geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address GD:F3:DE:A1:B2:D17.
+
+[2023-03-17 05:45:01] [fraudulent]
+Kassidy Reyes's account was accessed from a location in Johannesburg, South Africa, indicating an increasingly global pattern of rapid geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address GE:F3:DE:A1:B2:D18.
+
+[2023-03-17 06:15:00] [fraudulent]
+The user's account was accessed from a location in Mumbai, India, continuing the series of rapid geographical changes. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address GF:F3:DE:A1:B2:D19.
+
+[2023-03-17 06:45:01] [fraudulent]
+Kassidy Reyes's account was accessed from a location in São Paulo, Brazil, suggesting a continuous pattern of sudden geographical shifts. This access attempt adds more context to the ongoing fraudulent behavior. The device used had MAC address GG:F3:DE:A1:B2:D20.
+

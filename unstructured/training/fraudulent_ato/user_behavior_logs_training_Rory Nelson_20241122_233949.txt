@@ -1,0 +1,137 @@
+User ID: Rory Nelson
+- 
+[2021-11-05 09:32:06] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to log in from an unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g'). The login attempt failed.
+
+[2021-11-05 09:36:18] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to log in again from the same unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g'). The login attempt failed.
+
+[2021-11-05 09:40:23] - Fraudulent - User Rory Nelson (username: rory_nelson) made another failed login attempt from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g').
+
+[2021-11-05 09:45:19] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to log in for the fourth time from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g'). The login attempt failed.
+
+[2021-11-05 09:50:03] - Fraudulent - User Rory Nelson (username: rory_nelson) made a fifth failed login attempt from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g').
+
+[2021-11-05 09:54:58] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to log in for the sixth time from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g'). The login attempt failed.
+
+[2021-11-05 09:59:02] - Fraudulent - User Rory Nelson (username: rory_nelson) made a seventh failed login attempt from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g').
+
+[2021-11-05 10:03:39] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to log in for the eighth time from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g'). The login attempt failed.
+
+[2021-11-05 10:08:26] - Fraudulent - User Rory Nelson (username: rory_nelson) made a ninth failed login attempt from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g').
+
+[2021-11-05 10:13:12] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to log in for the tenth time from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g'). The login attempt succeeded.
+[2021-11-05 10:18:55] - Fraudulent - User Rory Nelson (username: rory_nelson) accessed the account from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g') after a series of ten failed login attempts.
+
+[2021-11-05 10:24:17] - Fraudulent - User Rory Nelson (username: rory_nelson) changed the password from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g'), likely to avoid detection.
+
+[2021-11-05 10:29:51] - Fraudulent - User Rory Nelson (username: rory_nelson) initiated a series of transactions from the unrecognized device ('DeviceID: 87654120-4c5d-4c9b-a7f1-235d3e4f56g').
+
+[2021-11-05 10:35:33] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to access the account from a new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), further indicating suspicious activity.
+
+[2021-11-05 10:41:14] - Fraudulent - User Rory Nelson (username: rory_nelson) successfully logged in from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), raising concerns about account security.
+
+[2021-11-05 10:46:48] - Fraudulent - User Rory Nelson (username: rory_nelson) changed the email address associated with the account from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), a potential attempt to distance himself from the account.
+
+[2021-11-05 10:52:36] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to disable two-factor authentication from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), removing a significant security measure for the account.
+
+[2021-11-05 10:58:12] - Fraudulent - User Rory Nelson (username: rory_nelson) successfully disabled two-factor authentication from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), making it easier for potential fraud to occur in the future.
+[2021-11-05 11:03:49] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to change the password from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), which would have provided full control over the account.
+
+[2021-11-05 11:09:04] - Fraudulent - User Rory Nelson (username: rory_nelson) failed to change the password due to a security measure, but was able to access the account recovery options from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g').
+
+[2021-11-05 11:14:21] - Fraudulent - User Rory Nelson (username: rory_nelson) initiated a password reset request from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), which was successfully delivered to an unknown email address.
+
+[2021-11-05 11:20:06] - Fraudulent - User Rory Nelson (username: rory_nelson) failed in attempting to gain access to the account using the password reset link sent to the unknown email address, but continued to try different methods.
+
+[2021-11-05 11:25:37] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to change the account recovery settings from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), in an attempt to gain control over the account.
+
+[2021-11-05 11:31:15] - Fraudulent - User Rory Nelson (username: rory_nelson) failed to change the account recovery settings due to a security measure, but successfully registered a new device from the same new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g').
+
+[2021-11-05 11:37:07] - Fraudulent - User Rory Nelson (username: rory_nelson) failed in attempting to access the account using the newly registered device, but continued to try different methods.
+
+[2021-11-05 11:42:23] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to change the primary email address from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), which would have allowed him to gain full control over the account.
+
+[2021-11-05 11:47:55] - Fraudulent - User Rory Nelson (username: rory_nelson) failed in attempting to change the primary email address due to a security measure, but was able to access the account recovery options again from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g').
+[2021-11-05 12:02:20] - Fraudulent - User Rory Nelson (username: rory_nelson) tried to initiate an account recovery process using the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), but the request was flagged by our system due to unusual behavior patterns.
+
+[2021-11-05 12:10:32] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to bypass the account recovery process by trying to create a new password from the same new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), but failed due to system restrictions.
+
+[2021-11-05 12:17:57] - Fraudulent - User Rory Nelson (username: rory_nelson) made multiple login attempts from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), which raised suspicion and caused a temporary account lockout.
+
+[2021-11-05 12:23:10] - Fraudulent - User Rory Nelson (username: rory_nelson) was able to regain access to the account after successfully bypassing the temporary lockout from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g') using a combination of password guesses and brute force attacks.
+
+[2021-11-05 12:33:23] - Fraudulent - User Rory Nelson (username: rory_nelson) changed the primary email address from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), successfully gaining full control over the account.
+
+[2021-11-05 12:38:35] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to disable two-factor authentication from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), but the action was blocked by security measures.
+
+[2021-11-05 12:45:57] - Fraudulent - User Rory Nelson (username: rory_nelson) initiated a bank account transfer from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), but the transaction was flagged and halted by our fraud detection system.
+
+[2021-11-05 12:53:10] - Fraudulent - User Rory Nelson (username: rory_nelson) tried to access the account from a new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), but the login attempt was blocked by our system due to continuous suspicious activity.
+
+[2021-11-05 12:59:23] - Fraudulent - User Rory Nelson (username: rory_nelson) made a final failed login attempt from the new unrecognized device ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g'), which triggered an automatic account lockout and further investigation by our security team.
+[2021-11-06 07:32:09] - Fraudulent - User Rory Nelson (username: rory_nelson) attempted to reset the password for the account from an unrecognized location ('IP: 85.6.144.92'). The request was flagged as suspicious and denied by our system.
+
+[2021-11-06 07:37:15] - Fraudulent - An email notification was sent to Rory Nelson's registered email address, informing him of the password reset attempt from an unrecognized location ('IP: 85.6.144.92'). The email contained instructions on how to secure his account and further steps to take in case of any suspicious activity.
+
+[2021-11-06 07:43:21] - Fraudulent - A security alert was triggered when Rory Nelson's account experienced a sudden spike in login attempts from multiple unrecognized devices ('DeviceID: 12f9b2a1-c8e9-4d1c-ba60-275b3e4f56h, DeviceID: 54b3b2c7-d8f0-4d5e-8d13-465a3e5f56j'). The system locked the account temporarily to prevent unauthorized access.
+
+[2021-11-06 08:02:39] - Fraudulent - Rory Nelson's account was unlocked after a successful two-factor authentication from his recognized device ('DeviceID: c7f4b59b-c8e0-4d2a-a613-175b3e6f56k'). The security alert was resolved, and the system continued to monitor the account for any further suspicious activity.
+
+[2021-11-06 08:09:45] - Fraudulent - A temporary IP block was placed on the unrecognized location ('IP: 85.6.144.92') to prevent any further attempts to access Rory Nelson's account or reset his password. The security team continued to investigate the incident.
+
+[2021-11-06 08:15:52] - Fraudulent - Rory Nelson received a notification informing him that his account had been temporarily locked due to suspicious activity. He was advised to change his password and enable additional security measures, such as two-factor authentication for all future login attempts.
+
+[2021-11-06 08:22:09] - Fraudulent - The security team completed their investigation and confirmed that the account access attempt was indeed fraudulent. Rory Nelson's account was permanently unlocked, and his password was successfully reset to a more secure version, as per his request.
+
+[2021-11-06 08:29:15] - Fraudulent - The IP block on the unrecognized location ('IP: 85.6.144.92') was lifted after a thorough investigation by our security team. However, the device IDs associated with the fraudulent attempts ('DeviceID: 749b2e7a-c9f8-4d0b-a712-825a3e6f56g, DeviceID: 12f9b2a1-c8e9-4d1c-ba60-275b3e4f56h, DeviceID: 54b3b2c7-d8f0-4d5e-8d13-465a3e5f56j') were flagged as compromised and permanently blacklisted from accessing the account.
+[2021-11-06 09:07:42] - Fraudulent - Rory Nelson's account was accessed from a different device ID ('DeviceID: 58e7b3e1-c9f9-4d1d-ba61-275a3e5f56k') than the previously blacklisted ones. The security team initiated an immediate investigation to trace the origin of the unauthorized access and secure his account.
+
+[2021-11-06 09:24:11] - Fraudulent - Despite the device ID being different, the IP address (85.6.144.92) remained the same as before. The security team was able to pinpoint the location of the malicious activity to a data center in Eastern Europe, providing valuable information for further investigation.
+
+[2021-11-06 09:35:18] - Fraudulent - The security team detected another failed login attempt from Rory Nelson's account using a new device ID ('DeviceID: f7b2e8c7-d8f1-4d5f-8d14-465a3e5f56l'). This time, the unauthorized access was blocked, and an alert was sent to Rory Nelson's registered email address.
+
+[2021-11-06 10:17:29] - Fraudulent - After a thorough investigation, the security team discovered that the unauthorized access attempts were originating from multiple compromised devices and IP addresses. Additional measures were implemented to further protect Rory Nelson's account from future fraudulent activities.
+
+[2021-11-06 10:38:45] - Fraudulent - A new device ID ('DeviceID: 97b2e9c7-d8f2-4d5g-8d15-465a3e5f56m') was detected attempting to access Rory Nelson's account. However, the security system flagged and blocked the attempt before any unauthorized actions could be taken.
+
+[2021-11-06 11:03:23] - Fraudulent - A pattern of repeated failed login attempts from multiple device IDs was observed, all originating from the same IP address (85.6.144.92). The security team escalated the issue and initiated a deeper investigation to identify the perpetrator behind these fraudulent activities.
+
+[2021-11-06 11:24:31] - Fraudulent - After analyzing the network traffic, the security team detected that the compromised devices were part of a botnet. The IP address (85.6.144.92) was traced back to a known cybercriminal organization.
+
+[2021-11-06 12:07:38] - Fraudulent - Rory Nelson's account was temporarily locked again due to continuous suspicious activity detected from the compromised IP address (85.6.144.92). The security team contacted Rory Nelson to provide updates on their investigation and advise him to remain vigilant against potential phishing emails or other scams.
+
+[2021-11-06 13:13:27] - Fraudulent - After further analysis, the security team discovered that the compromised devices had been infected with a remote access trojan (RAT). The cybercriminal organization was using this malware to gain unauthorized access and control over Rory Nelson's account.
+[2021-11-06 13:57:08] - Fraudulent - The security team tracked down the source of the RAT infection, which originated from a phishing email sent to Rory Nelson's work email address. The email appeared to be from a legitimate company and contained an infected attachment that, when opened, triggered the RAT download.
+
+[2021-11-06 14:35:29] - Fraudulent - Rory Nelson's account was accessed for the first time by the cybercriminals, who used the stolen credentials to attempt unauthorized transfers totaling $2,500. The transactions were detected and blocked in real-time by the bank's fraud detection system.
+
+[2021-11-06 15:47:01] - Fraudulent - Despite the failed transfer attempts, the cybercriminals continued to attempt multiple unauthorized actions on Rory Nelson's account, including changing his email address and phone number associated with the account. The security team was able to quickly identify these changes and revert them.
+
+[2021-11-06 16:38:54] - Fraudulent - After a thorough investigation, the security team discovered that Rory Nelson's device had been infected with the RAT when he connected to an unsecured public Wi-Fi network at a local coffee shop. The compromised IP address (85.6.144.92) was also traced back to multiple other victims of the same cybercriminal organization.
+
+[2021-11-06 17:21:32] - Fraudulent - Rory Nelson's account was accessed again, with the cybercriminals attempting to change his password and email recovery settings. However, these actions were detected by the security team and prevented in time, preserving the integrity of Rory Nelson's account.
+
+[2021-11-06 18:57:41] - Fraudulent - As part of the ongoing investigation, the security team identified multiple failed login attempts originating from different IP addresses within the same cybercriminal organization. These attempts were consistently blocked by the account's two-factor authentication (2FA) mechanism.
+
+[2021-11-06 20:37:59] - Fraudulent - The security team was able to determine that Rory Nelson had clicked on a malicious link within one of the phishing emails, which triggered the initial infection of his device with the remote access trojan (RAT).
+
+[2021-11-06 21:57:43] - Fraudulent - After analyzing Rory Nelson's network traffic, the security team discovered that his device had connected to multiple command and control servers used by the cybercriminal organization. These connections allowed the criminals to send instructions to the infected device and gain unauthorized access to Rory Nelson's account.
+
+[2021-11-07 00:48:56] - Fraudulent - The security team successfully removed the remote access trojan (RAT) from Rory Nelson's device and strengthened its security measures, including updating antivirus software and installing additional security patches. They also provided Rory with guidelines on how to avoid similar cyberattacks in the future.
+[2021-11-07 02:12:38] - Fraudulent - Despite these security measures, the security team noticed unusual activity from Rory Nelson's account. A series of failed login attempts were detected, with multiple IP addresses trying to guess his password in a brute-force attack.
+
+[2021-11-07 03:05:49] - Fraudulent - The security team took immediate action and locked Rory Nelson's account to prevent any unauthorized access. They then initiated an investigation into the IP addresses used in the failed login attempts, hoping to trace them back to their source.
+
+[2021-11-07 04:38:56] - Fraudulent - The security team was able to identify one of the IP addresses as originating from a known cybercriminal hub in Eastern Europe. They alerted law enforcement authorities, who began their own investigation into the cybercriminal organization.
+
+[2021-11-07 05:42:37] - Fraudulent - Meanwhile, Rory Nelson's account was breached. The attacker successfully accessed his account using the brute-force method. Once inside, they immediately changed the password, rendering the security team's lockout measures obsolete.
+
+[2021-11-07 06:23:58] - Fraudulent - The security team swiftly informed Rory Nelson of the breach and advised him to change his password immediately. They also implemented temporary monitoring on his account to track any suspicious activity.
+
+[2021-11-07 07:04:59] - Fraudulent - Despite the new password, the attacker continued to access Rory Nelson's account through a session hijacking technique. They managed to intercept and steal sensitive information from his account.
+
+[2021-11-07 08:36:49] - Fraudulent - The security team noticed the session hijacking and immediately revoked all active sessions, locking Rory Nelson's account once again to prevent further unauthorized access.
+
+[2021-11-07 09:52:38] - Fraudulent - Upon investigation, it was discovered that the attacker had accessed Rory Nelson's account through an unsecured public Wi-Fi network. The security team advised Rory to avoid using public networks in the future and strengthen his device's security measures.
+
+[2021-11-07 10:38:59] - Fraudulent - The security team worked with Rory Nelson to identify and remove any malicious software or files from his device that could have been used in the session hijacking attack. They also advised him on how to avoid similar cyberattacks in the future.
+

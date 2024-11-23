@@ -1,0 +1,122 @@
+User ID: Hallie Perry
+- 
+12:05:38 - Hallie Perry (fraudulent) - Logged in from IP address 67.229.173.112 located in New York, NY. Attempted to access account but failed due to incorrect password entry.
+
+12:23:04 - Hallie Perry (fraudulent) - Logged in from IP address 198.51.100.217 located in Los Angeles, CA. Another failed attempt to access the account with an incorrect password.
+
+12:41:56 - Hallie Perry (fraudulent) - Logged in from IP address 203.199.180.12 located in Chicago, IL. This time, a successful login was achieved using the correct password.
+
+13:00:34 - Hallie Perry (fraudulent) - Logged in from IP address 75.103.68.199 located in Miami, FL. Account activity detected: multiple unusual transactions occurred within a few minutes, totaling $2,500.
+
+13:17:42 - Hallie Perry (fraudulent) - Logged in from IP address 216.18.159.62 located in Dallas, TX. The account was locked due to multiple failed login attempts.
+
+13:45:28 - Hallie Perry (fraudulent) - Logged in from IP address 207.46.143.15 located in Atlanta, GA. Account unlocked and another successful login occurred using a different password.
+
+14:03:59 - Hallie Perry (fraudulent) - Logged in from IP address 88.210.179.162 located in Houston, TX. Additional unusual transactions were detected, totaling $3,500.
+
+14:23:20 - Hallie Perry (fraudulent) - Logged in from IP address 93.184.216.72 located in Phoenix, AZ. The account was locked again due to multiple failed login attempts.
+
+14:50:02 - Hallie Perry (fraudulent) - Logged in from IP address 173.254.78.213 located in Denver, CO. Another successful login with a different password.
+
+15:19:44 - Hallie Perry (fraudulent) - Logged in from IP address 107.178.64.233 located in Seattle, WA. Account locked after detecting more failed login attempts.
+15:51:39 - Hallie Perry (fraudulent) - Logged in from IP address 203.248.167.18 located in Salt Lake City, UT. The account was unlocked after a security code was sent to the registered email address.
+
+16:09:58 - Hallie Perry (fraudulent) - Logged in from IP address 23.94.183.17 located in Albuquerque, NM. Unusual transactions were detected totaling $4,200. The account was locked after multiple failed login attempts.
+
+16:35:32 - Hallie Perry (fraudulent) - Logged in from IP address 74.89.164.10 located in Sacramento, CA. Another successful login with a different password. The account was locked after detecting more failed login attempts.
+
+17:02:53 - Hallie Perry (fraudulent) - Logged in from IP address 68.92.45.9 located in Oklahoma City, OK. A security code was sent to the registered email address, but it could not be delivered due to an undeliverable mailbox.
+
+17:30:26 - Hallie Perry (fraudulent) - Logged in from IP address 54.238.81.3 located in Louisville, KY. Additional unusual transactions were detected totaling $2,100. The account was locked after multiple failed login attempts.
+17:59:12 - Hallie Perry (fraudulent) - Logged in from IP address 168.234.193.5 located in St. Louis, MO. A device with an unknown user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+18:02:45 - Hallie Perry (fraudulent) - Logged in from IP address 192.168.137.2 located in Las Vegas, NV. An additional unusual transaction was detected totaling $1,500. The account was locked after multiple failed login attempts.
+
+18:21:03 - Hallie Perry (fraudulent) - Logged in from IP address 107.181.69.4 located in Indianapolis, IN. A temporary lockout occurred due to too many failed login attempts. The account was unlocked after a security code was sent to the registered email address.
+
+18:52:31 - Hallie Perry (fraudulent) - Logged in from IP address 209.117.136.4 located in Denver, CO. Unusual transactions were detected totaling $3,000. The account was locked after multiple failed login attempts.
+
+19:17:22 - Hallie Perry (fraudulent) - Logged in from IP address 85.126.187.2 located in Houston, TX. A device with an unknown user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+19:39:01 - Hallie Perry (fraudulent) - Logged in from IP address 64.245.84.6 located in Atlanta, GA. Another successful login with a different password occurred. The account was locked after detecting more failed login attempts.
+
+20:04:45 - Hallie Perry (fraudulent) - Logged in from IP address 93.184.216.3 located in Dallas, TX. A security code was sent to the registered email address, but it could not be delivered due to an undeliverable mailbox.
+
+20:26:30 - Hallie Perry (fraudulent) - Logged in from IP address 141.89.57.9 located in Nashville, TN. Additional unusual transactions were detected totaling $1,200. The account was locked after multiple failed login attempts.
+20:56:03 - Hallie Perry (fraudulent) - Logged in from IP address 72.14.198.4 located in Memphis, TN. A VPN service was detected, suggesting that the user might be trying to mask their true location. The account was locked after detecting multiple failed login attempts.
+
+21:09:18 - Hallie Perry (fraudulent) - Logged in from IP address 70.38.45.2 located in Indianapolis, IN. A new device with a different user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+21:34:39 - Hallie Perry (fraudulent) - Logged in from IP address 68.150.137.8 located in Kansas City, MO. A new email address was associated with the account. The account was locked after detecting multiple failed login attempts.
+
+21:59:54 - Hallie Perry (fraudulent) - Logged in from IP address 67.204.83.2 located in St. Louis, MO. A password change request was initiated but not completed due to the account being locked. The account was locked after detecting multiple failed login attempts.
+
+22:22:15 - Hallie Perry (fraudulent) - Logged in from IP address 74.125.183.6 located in Chicago, IL. An unusual transaction for a high-value item was detected and flagged. The account was locked after detecting multiple failed login attempts.
+
+22:45:37 - Hallie Perry (fraudulent) - Logged in from IP address 108.171.32.5 located in Detroit, MI. A two-factor authentication (2FA) code was requested but could not be delivered due to an undeliverable mailbox. The account was locked after detecting multiple failed login attempts.
+
+23:09:49 - Hallie Perry (fraudulent) - Logged in from IP address 86.157.47.9 located in Cleveland, OH. A device with a different user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+23:34:05 - Hallie Perry (fraudulent) - Logged in from IP address 198.51.100.6 located in Milwaukee, WI. A new email address associated with the account was found to be connected to a known fraudulent activity. The account was locked after detecting multiple failed login attempts.
+
+23:58:47 - Hallie Perry (fraudulent) - Logged in from IP address 99.126.112.2 located in Minneapolis, MN. Another successful login with a different password occurred. The account was locked after detecting multiple failed login attempts.
+
+00:23:11 - Hallie Perry (fraudulent) - Logged in from IP address 65.54.79.8 located in Denver, CO. A new device with a different user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+00:31:45 - Hallie Perry (fraudulent) - Logged in from IP address 123.98.76.4 located in Phoenix, AZ. The fraudster changed the email address associated with the account to a different, suspicious email. The account was locked after detecting multiple failed login attempts.
+
+00:52:28 - Hallie Perry (fraudulent) - Logged in from IP address 76.152.34.1 located in Salt Lake City, UT. An unsuccessful attempt to change the account password occurred. The account was locked after detecting multiple failed login attempts.
+
+01:14:09 - Hallie Perry (fraudulent) - Logged in from IP address 216.34.75.2 located in Albuquerque, NM. A new device with a different user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+01:29:23 - Hallie Perry (fraudulent) - Logged in from IP address 87.65.43.3 located in San Diego, CA. The fraudster attempted to withdraw a large sum of money from the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+01:45:48 - Hallie Perry (fraudulent) - Logged in from IP address 240.176.39.9 located in San Jose, CA. A new device with a different user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+02:04:05 - Hallie Perry (fraudulent) - Logged in from IP address 139.162.88.6 located in San Francisco, CA. The fraudster tried to change the account's two-factor authentication settings but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+02:25:39 - Hallie Perry (fraudulent) - Logged in from IP address 173.44.89.8 located in Los Angeles, CA. A new device with a different user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+02:39:43 - Hallie Perry (fraudulent) - Logged in from IP address 71.186.53.5 located in Las Vegas, NV. The fraudster tried to transfer the remaining balance of the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+02:55:49 - Hallie Perry (fraudulent) - Logged in from IP address 184.72.67.1 located in Austin, TX. A device with a different user agent attempted to access the account but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+03:10:35 - Hallie Perry (fraudulent) - Logged in from IP address 29.69.74.8 located in Dallas, TX. The fraudster tried to access the account's personal information but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+03:15:28 - Hallie Perry (fraudulent) - Logged in from IP address 93.76.242.1 located in Denver, CO. The fraudster tried to change the email address associated with the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+03:25:18 - Hallie Perry (fraudulent) - Logged in from IP address 45.67.92.2 located in Phoenix, AZ. The fraudster attempted to make a large purchase on the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+03:30:32 - Hallie Perry (fraudulent) - Logged in from IP address 192.168.45.7 located in Tucson, AZ. The fraudster tried to access the account's transaction history but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+03:35:55 - Hallie Perry (fraudulent) - Logged in from IP address 240.98.13.1 located in Albuquerque, NM. The fraudster attempted to change the password of the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+03:40:22 - Hallie Perry (fraudulent) - Logged in from IP address 71.60.28.5 located in Salt Lake City, UT. The fraudster tried to add a new authorized user to the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+03:45:39 - Hallie Perry (fraudulent) - Logged in from IP address 216.80.7.3 located in El Paso, TX. The fraudster attempted to transfer funds out of the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+03:50:47 - Hallie Perry (fraudulent) - Logged in from IP address 98.121.193.1 located in San Diego, CA. The fraudster tried to access the account's bank account information but was unsuccessful. The account was locked after detecting multiple failed login attempts.
+
+03:56:34 - Hallie Perry (fraudulent) - Logged in from IP address 173.214.195.6 located in Reno, NV. The fraudster attempted to access the account's credit card information but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+03:59:02 - Hallie Perry (fraudulent) - Logged in from IP address 198.49.80.7 located in Sacramento, CA. The fraudster tried to cancel existing orders on the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+04:03:15 - Hallie Perry (fraudulent) - Logged in from IP address 75.96.248.4 located in Oakland, CA. The fraudster attempted to access the account's billing information but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+04:13:59 - Hallie Perry (fraudulent) - Logged in from IP address 68.216.147.11 located in San Jose, CA. The fraudster tried to add a new device to the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+04:19:35 - Hallie Perry (fraudulent) - Logged in from IP address 26.78.233.1 located in San Francisco, CA. The fraudster attempted to change the email address associated with the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+04:25:29 - Hallie Perry (fraudulent) - Logged in from IP address 173.238.34.2 located in Los Angeles, CA. The fraudster tried to access the account's transaction history but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+04:31:05 - Hallie Perry (fraudulent) - Logged in from IP address 98.162.219.19 located in San Diego, CA. The fraudster attempted to change the password for the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+04:37:12 - Hallie Perry (fraudulent) - Logged in from IP address 192.184.56.2 located in Portland, OR. The fraudster tried to access the account's personal information but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+04:43:40 - Hallie Perry (fraudulent) - Logged in from IP address 75.126.189.1 located in Seattle, WA. The fraudster attempted to add a new email address to the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+04:49:35 - Hallie Perry (fraudulent) - Logged in from IP address 26.132.37.8 located in Denver, CO. The fraudster tried to access the account's financial statements but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+04:56:00 - Hallie Perry (fraudulent) - Logged in from IP address 173.238.59.4 located in Phoenix, AZ. The fraudster attempted to change the account's contact information but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+05:02:25 - Hallie Perry (fraudulent) - Logged in from IP address 198.48.33.1 located in Las Vegas, NV. The fraudster tried to access the account's transaction history but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+
+05:09:12 - Hallie Perry (fraudulent) - Logged in from IP address 75.98.32.6 located in Salt Lake City, UT. The fraudster attempted to add a new credit card to the account but was unsuccessful due to security measures. The account was locked after detecting multiple failed login attempts.
+

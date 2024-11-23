@@ -1,0 +1,132 @@
+User ID: Zaniyah Lewis
+- 
+1. [2023-01-01 08:15:37] - Fraudulent Activity Detected: User Zaniyah Lewis reported her card as stolen, but we have observed multiple online transactions from her IP address (192.168.1.1). The device used for these transactions is an iPhone SE with OS version 15.5.1, IMEI number 3558470A1699870.
+
+2. [2023-01-01 11:32:45] - Fraudulent Activity Detected: Despite reporting her card stolen, Zaniyah Lewis continues to make online purchases using the same device and IP address (192.168.1.1). The latest transaction was for a gaming subscription.
+
+3. [2023-01-01 14:57:28] - Fraudulent Activity Detected: User Zaniyah Lewis has made another online purchase using the reported stolen card and the same device (iPhone SE, IMEI number 3558470A1699870) from her known IP address (192.168.1.1). The transaction was for a digital book.
+
+4. [2023-01-01 17:42:59] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). This transaction was for a streaming service subscription.
+
+5. [2023-01-02 00:00:32] - Fraudulent Activity Detected: Despite reporting her card stolen, Zaniyah Lewis continues to make online transactions using the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). She purchased a mobile game from the App Store.
+
+6. [2023-01-02 04:05:55] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a digital magazine subscription.
+
+7. [2023-01-02 09:42:17] - Fraudulent Activity Detected: Despite reporting her card stolen, Zaniyah Lewis has made another online purchase using the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a virtual currency exchange.
+
+8. [2023-01-02 11:27:32] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a fitness app subscription.
+
+9. [2023-01-02 14:52:45] - Fraudulent Activity Detected: Despite reporting her card stolen, Zaniyah Lewis continues to make online transactions using the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a meal delivery service.
+
+10. [2023-01-02 17:32:59] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a clothing store.
+11. [2023-01-03 00:15:01] - Fraudulent Activity Detected: User Zaniyah Lewis has once again made an unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a digital streaming service subscription.
+
+12. [2023-01-03 02:28:23] - Fraudulent Activity Detected: Zaniyah Lewis continues to make online transactions using her reported stolen card, this time for a gaming platform membership through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+13. [2023-01-03 04:51:45] - Fraudulent Activity Detected: Despite ongoing investigations, User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a virtual private network (VPN) service.
+
+14. [2023-01-03 07:15:00] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a home security system monitoring service.
+
+15. [2023-01-03 09:40:12] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for an online course subscription through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+16. [2023-01-03 11:45:33] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a virtual assistant service subscription.
+
+17. [2023-01-03 14:20:45] - Fraudulent Activity Detected: Zaniyah Lewis continues to make online transactions using her reported stolen card, this time for a language learning app through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+18. [2023-01-03 16:25:59] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a remote working tool subscription.
+
+19. [2023-01-03 19:11:12] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for an online storage service through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+20. [2023-01-03 21:56:33] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a smart home device subscription.
+21. [2023-01-04 00:43:29] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a streaming service subscription through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+22. [2023-01-04 02:17:01] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a gaming platform subscription.
+
+23. [2023-01-04 03:59:19] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a fitness app subscription through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+24. [2023-01-04 05:42:42] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a virtual private network (VPN) service subscription.
+
+25. [2023-01-04 07:16:14] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a mobile game through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+26. [2023-01-04 08:50:09] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a music streaming service subscription.
+
+27. [2023-01-04 10:23:22] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for an e-book through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+28. [2023-01-04 11:57:17] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a meal delivery service subscription.
+
+29. [2023-01-04 13:29:54] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for an online clothing store through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+30. [2023-01-04 15:02:19] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a mobile app subscription.
+31. [2023-01-04 16:45:44] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a virtual private network (VPN) service through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+32. [2023-01-04 18:13:27] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a gaming console bundle.
+
+33. [2023-01-04 20:35:16] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for an online learning course through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+34. [2023-01-04 22:38:00] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a smart home device package.
+
+35. [2023-01-05 00:53:51] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a fitness tracker through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+36. [2023-01-05 02:43:36] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a subscription box service.
+
+37. [2023-01-05 04:31:48] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for an electronic gadget through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+38. [2023-01-05 06:08:02] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a digital camera bundle.
+
+39. [2023-01-05 07:44:30] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a drone through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+40. [2023-01-05 09:11:46] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a smartwatch.
+41. [2023-01-05 10:38:12] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a gaming console through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+42. [2023-01-05 12:02:37] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a pair of wireless headphones.
+
+43. [2023-01-05 13:31:53] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a set of Bluetooth speakers through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+44. [2023-01-05 14:45:08] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a pair of noise-cancelling earbuds.
+
+45. [2023-01-05 15:59:24] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a laptop through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+46. [2023-01-05 17:24:40] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a tablet with a detachable keyboard.
+
+47. [2023-01-05 18:45:15] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for a high-end smartphone through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+48. [2023-01-05 19:49:59] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a premium smartphone case with integrated wallet.
+
+49. [2023-01-05 20:46:32] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card, this time for an expensive gaming chair through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1).
+
+50. [2023-01-05 21:34:46] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a high-quality gaming mouse and keyboard set.
+51. [2023-01-05 22:23:27] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a premium pair of wireless headphones with active noise cancellation.
+
+52. [2023-01-05 23:12:54] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a high-end smart TV with advanced streaming capabilities.
+
+53. [2023-01-06 00:01:49] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a subscription to an exclusive streaming service with premium content.
+
+54. [2023-01-06 01:49:11] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a luxury smartwatch with built-in GPS and heart rate monitor.
+
+55. [2023-01-06 02:36:54] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a limited edition gaming console with enhanced graphics capabilities.
+
+56. [2023-01-06 03:24:39] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a collection of high-quality gaming accessories, including a gaming keyboard, mouse, and headset.
+
+57. [2023-01-06 04:13:23] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for an expensive home theater system with a soundbar and subwoofer.
+
+58. [2023-01-06 05:02:46] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a set of high-end noise-cancelling earbuds with wireless charging case.
+
+59. [2023-01-06 05:52:49] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a yearly subscription to a premium VPN service with multiple connection locations.
+[2023-01-06 06:51:27] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a luxurious smartwatch with advanced health tracking features.
+
+[2023-01-06 07:22:34] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a high-end gaming console bundle with multiple games and accessories.
+
+[2023-01-06 07:53:04] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a set of premium-branded luggage with built-in charging ports for electronic devices.
+
+[2023-01-06 08:40:59] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a custom-built gaming PC with top-of-the-line components and liquid cooling system.
+
+[2023-01-06 09:15:42] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for an expensive drone with high-resolution camera and advanced flight features.
+
+[2023-01-06 09:54:31] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a luxury smart home security system with remote access and AI-powered analytics.
+
+[2023-01-06 10:27:45] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a high-end robot vacuum cleaner with advanced navigation and self-charging capabilities.
+
+[2023-01-06 11:04:05] - Fraudulent Activity Detected: User Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a professional-grade DSLR camera with multiple lenses and accessories.
+
+[2023-01-06 11:55:48] - Fraudulent Activity Detected: Zaniyah Lewis has made another unauthorized purchase using her reported stolen card through the same device (iPhone SE, IMEI number 3558470A1699870) and IP address (192.168.1.1). The transaction was for a high-quality 4K projector with built-in streaming capabilities and smart features.
+

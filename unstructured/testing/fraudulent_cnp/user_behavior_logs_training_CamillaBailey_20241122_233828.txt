@@ -1,0 +1,164 @@
+User ID: Camilla Bailey
+- 
+2023-03-15T08:37:29 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate transaction for a pair of shoes purchased from OnlineStoreX. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was marked as fraudulent by the merchant and investigation is underway.
+
+2023-03-17T02:54:12 [fraudulent] - Camilla Bailey attempted to initiate another chargeback on a legitimate transaction for a laptop purchased from TechStoreY. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The merchant flagged the transaction as potentially fraudulent and is conducting further review.
+
+2023-03-20T05:22:07 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate transaction for a smartphone purchased from GadgetStoreZ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the issuing bank and is being reviewed.
+
+2023-03-22T13:45:15 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate subscription service purchased from SubscriptionStoreA. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the merchant and is under review.
+
+2023-03-24T19:37:52 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate gym membership purchased from FitnessCenterB. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-03-26T22:24:37 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate software license purchased from SoftwareStoreC. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-03-28T08:58:45 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate vacation package purchased from TravelAgencyD. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-03-30T14:25:07 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate online course purchased from EducationPlatformE. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-04-01T19:57:59 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate hotel reservation made through HotelBookingF. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-04-03T23:23:15 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate event ticket purchased from EventTicketsG. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+2023-04-05T01:39:47 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online subscription service purchased from SubscriptionServiceH. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-04-07T06:52:12 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate flight ticket purchased from AirlineFlightI. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-04-08T15:47:31 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate software product purchased from SoftwareProductJ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-04-10T17:56:45 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate gym membership purchased from FitnessGymK. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-04-12T21:59:23 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate car rental purchased from CarRentalL. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-04-14T01:15:37 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate restaurant meal purchased from RestaurantMealM. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-04-15T08:47:51 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate insurance policy purchased from InsurancePolicyN. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-04-17T13:50:14 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate vacation package purchased from VacationPackageO. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-04-19T18:05:47 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate donation to a charity purchased from CharityP. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+2023-04-21T00:22:31 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate subscription service purchased from SubscriptionServiceQ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-04-23T07:45:59 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate e-book purchased from EBookR. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-04-25T12:10:23 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online course purchased from OnlineCourseS. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-04-27T16:35:11 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate software license purchased from SoftwareLicenseT. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-04-29T20:00:45 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate gym membership purchased from GymMembershipU. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-05-01T23:26:37 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate streaming service subscription purchased from StreamingServiceV. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-03T03:45:29 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate hotel reservation purchased from HotelReservationW. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-05-05T07:30:01 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate event ticket purchased from EventTicketX. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-07T09:45:33 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate e-commerce store purchase purchased from ECommerceStoreY. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+2023-05-09T11:30:05 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate online subscription service purchased from SubscriptionServiceZ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-11T14:45:32 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate travel agency booking purchased from TravelAgencyW. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-05-13T16:30:00 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate software license purchased from SoftwareLicenseX. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-15T19:45:17 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate streaming service subscription purchased from StreamingServiceY. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-05-17T21:30:42 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate online course purchased from OnlineCourseZ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-19T23:45:27 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate gym membership purchased from GymMembershipA. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-05-21T01:30:10 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate meal delivery service purchased from MealDeliveryB. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-23T04:45:07 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online advertising campaign purchased from AdvertisingCampaignC. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-05-25T07:30:04 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate virtual private network (VPN) subscription purchased from VPNServicesD. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-27T10:45:31 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online tutoring service purchased from TutoringServiceE. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+2023-05-27T10:45:31 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online tutoring service purchased from TutoringServiceE. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-05-28T14:22:59 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate streaming service subscription purchased from StreamingServiceF. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-30T07:30:04 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate e-book purchase from EBookStoreG. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-05-31T10:45:31 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate online course purchased from OnlineCourseH. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-05-31T14:22:59 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate fitness equipment purchase from FitnessEquipmentI. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-06-01T07:30:04 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate software license purchased from SoftwareLicenseJ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-01T10:45:31 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate event ticket purchase from EventTicketK. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-06-01T14:22:59 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate meal subscription service purchased from MealSubscriptionL. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-03T07:30:04 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online store purchase from OnlineStoreM. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+2023-06-05T09:15:12 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate gym membership purchase from GymMembershipN. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-07T13:35:41 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate travel booking from TravelBookingO. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-08T07:55:24 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate streaming service subscription from StreamingServiceP. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-06-09T14:15:57 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate hotel reservation from HotelReservationQ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-10T07:45:01 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate car rental from CarRentalR. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-11T14:55:22 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online course purchase from OnlineCourseS. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-06-12T07:25:43 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate event ticket purchase from EventTicketT. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-14T10:55:09 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate meal subscription service purchase from MealSubscriptionU. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-14T15:05:55 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online store purchase from OnlineStoreV. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as fraudulent by the merchant and is being investigated.
+
+2023-06-15T08:05:24 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate gym membership purchase from GymMembershipX. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+2023-06-15T12:35:43 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate travel booking from TravelAgencyY. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-16T07:52:24 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate streaming service subscription from StreamingServiceZ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-17T09:45:32 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate e-commerce purchase from ECommerceW. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-17T15:23:09 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate hotel booking from HotelXYYY. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-18T08:34:56 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate event ticket purchase from EventTicketsXXX. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-19T07:58:45 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate software license purchase from SoftwareLicenseYYY. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-19T15:12:34 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate utility bill payment from UtilityCompanyZZZ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-20T09:35:57 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate donation to a charity from CharityAAA. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-20T14:57:28 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate online course purchase from OnlineCourseBBB. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+2023-06-21T08:24:19 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate subscription service payment from SubscriptionServiceCCC. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-21T13:45:47 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate hotel booking from HotelDDD. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-22T07:59:34 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate software license purchase from SoftwareE. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-22T15:23:59 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate gym membership payment from GymFFF. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-23T09:47:15 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online course refund from OnlineCourseBBB. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-23T14:55:51 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate flight booking from FlightGGG. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-24T08:12:25 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate restaurant bill payment from RestaurantHHH. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-24T15:47:39 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate vacation rental payment from VacationRentalII. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-25T07:39:54 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate hotel deposit payment from HotelDDD. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-25T14:07:13 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate event ticket purchase from EventTicketIII. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+2023-06-26T09:56:37 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate online course purchase from OnlineCourseMMM. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-27T14:35:22 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate software license purchase from SoftwareLicenseNNN. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-27T15:10:46 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate ebook purchase from EbookXXX. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-28T07:54:52 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate online course subscription from OnlineCourseSubscriptionYYY. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-29T14:27:31 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate virtual private network (VPN) service from VPNServiceZZZ. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-06-30T07:40:45 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate cloud storage service from CloudStorageAAA. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-07-01T14:35:16 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate streaming service subscription from StreamingServiceBBB. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-07-02T07:45:23 [fraudulent] - Camilla Bailey attempted to initiate a chargeback on a legitimate antivirus software purchase from AntivirusSoftwareCCC. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+
+2023-07-02T09:50:48 [fraudulent] - Camilla Bailey initiated a chargeback on a legitimate VPN subscription from VPNSubscriptionDDD. Network IP: 192.168.1.10, Device ID: ABCDEFGHIJK. The transaction was flagged as potentially fraudulent by the issuing bank and is being reviewed.
+

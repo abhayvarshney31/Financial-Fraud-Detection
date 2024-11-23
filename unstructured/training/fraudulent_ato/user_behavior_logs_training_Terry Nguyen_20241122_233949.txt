@@ -1,0 +1,137 @@
+User ID: Terry Nguyen
+- 
+[10/15 12:38:26] - Network: Public WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - A user with the name "Terry Nguyen" attempted to access their account but failed multiple times. They also tried to change the password multiple times, but all attempts were unsuccessful.
+
+[10/15 12:48:34] - Network: Terry's Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Later in the day, Terry Nguyen tried again to access their account and change the password using a different device, but once again, they were unsuccessful.
+
+[10/16 08:45:23] - Network: Public WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - The next day, Terry Nguyen attempted to access their account and change the password using a third device. This time, they managed to get in but were immediately locked out due to multiple failed login attempts.
+
+[10/16 09:08:17] - Network: Public WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Just a short while later, Terry Nguyen tried again to access their account using their iPhone. The account remained locked due to the previous failed login attempts.
+
+[10/16 09:23:45] - Network: Public WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Returning once again to their Macbook Pro, Terry Nguyen made another attempt to access their account and change the password but was unsuccessful.
+
+[10/16 12:45:37] - Network: Public WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - Frustrated, Terry Nguyen decided to try again on their iPad and once more failed to access their account.
+
+[10/16 13:32:09] - Network: Public WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Desperate, Terry Nguyen attempted one last time on their iPhone but met with the same result. The account remained locked.
+
+[10/17 08:57:36] - Network: Public WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Realizing that the repeated attempts to access and change their password were futile, Terry Nguyen stopped trying for the day.
+
+[10/17 14:55:23] - Network: Public WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - The next day, Terry Nguyen briefly considered trying again but thought better of it, deciding to let the matter rest.
+
+[10/17 23:12:15] - Network: Public WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - In the evening, however, curiosity got the better of Terry Nguyen, and they made one final attempt to access their account. Unfortunately, this too was unsuccessful, and they finally gave up.
+[10/18 09:32:07] - Network: Public WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - The next morning, Terry Nguyen received a notification from the support team regarding their account activity. They were reminded of the importance of keeping their account secure and encouraged to enable two-factor authentication for added protection.
+
+[10/18 13:45:29] - Network: Public WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Feeling guilty about their previous behavior, Terry Nguyen decided to follow the support team's advice and enabled two-factor authentication on their account. They also changed their password to a more complex one, hoping to prevent any future unauthorized access attempts.
+
+[10/18 19:37:42] - Network: Public WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Later that day, Terry Nguyen received a message from the support team confirming that their account had been successfully secured with two-factor authentication. They also thanked Terry for taking action to protect their account and encouraged them to report any suspicious activity in the future.
+
+[10/19 10:32:54] - Network: Public WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Reflecting on their past actions, Terry Nguyen decided to report the unauthorized attempts to change their password as fraudulent activity. They submitted a ticket to the support team, providing details about the repeated failed login attempts and expressing concerns over possible compromised security.
+
+[10/19 15:23:38] - Network: Public WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - While waiting for a response from the support team, Terry Nguyen continued to monitor their account activity closely. They noticed that there were no unusual activities and felt relieved knowing their account was now more secure.
+
+[10/19 23:57:12] - Network: Public WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - A few hours later, the support team responded to Terry's ticket. They confirmed that they had investigated the suspicious activity and found no evidence of unauthorized access or account compromise. The team also advised Terry to stay vigilant and report any future suspicious activities immediately.
+
+[10/20 08:33:59] - Network: Public WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Grateful for the support team's quick response and reassurance, Terry Nguyen felt confident in their account security once again. They continued to follow best practices in securing their online accounts and became an advocate for digital safety among friends and family.
+
+[10/20 13:15:48] - Network: Public WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Terry Nguyen also decided to share their experience on social media, raising awareness about the importance of account security and encouraging others to enable two-factor authentication and report any suspicious activities. This further solidified Terry's commitment to promoting digital safety.
+[10/21 07:45:32] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Over the next few days, Terry Nguyen continued to monitor their accounts closely. They noticed a slight increase in unsolicited emails and attempted phishing attacks, but remained vigilant and reported each incident promptly.
+
+[10/21 14:58:16] - Network: Home WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - As a result of their efforts, the support team was able to identify and block several suspicious accounts attempting to access Terry's information. They appreciated the continued collaboration with Terry in maintaining a secure online environment.
+
+[10/22 09:32:54] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - In response to the increasing number of phishing attempts, Terry started researching more about different types of scams and how to recognize them. This helped them become even more proactive in safeguarding their digital assets.
+
+[10/22 16:45:39] - Network: Home WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - During this time, the support team also provided Terry with additional tips and resources on maintaining strong password practices. This led to a significant improvement in the security of Terry's accounts across various platforms.
+
+[10/23 08:07:25] - Network: Home WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - In an effort to help others, Terry started a small online group where they shared information about digital safety and security best practices. They encouraged members to ask questions and engage in discussions on the subject.
+
+[10/23 18:59:07] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - The online group quickly gained traction, with more people joining and sharing their experiences. This allowed Terry to connect with others who had similar concerns and interests in digital safety.
+
+[10/24 09:35:48] - Network: Home WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - As the group grew, members began sharing their own stories of fraudulent attempts and how they dealt with them. This created a sense of community and support among those who were committed to digital safety.
+
+[10/24 16:59:23] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - With the group's collective knowledge, they were able to compile a comprehensive guide on digital safety and share it with others. This resource became an invaluable tool for those looking to enhance their online security practices.
+
+[10/25 08:23:19] - Network: Home WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - As a result of the group's efforts, they began to see a decline in fraudulent attempts targeting their members. The sense of community and support continued to grow, with more people joining the cause and advocating for digital safety.
+[10/25 10:46:37] - Network: Public WiFi at Cafe - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Terry's phone was connected to public Wi-Fi, potentially increasing vulnerability to malicious activity. Despite this, Terry managed to thwart multiple fraudulent attempts by recognizing suspicious emails and messages, showcasing their vigilance in maintaining digital safety.
+
+[10/26 13:15:54] - Network: Home WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Terry received an email allegedly from their bank, requesting personal information for account verification. Demonstrating caution, they contacted the bank directly to confirm the email's legitimacy and found it was indeed a phishing attempt.
+
+[10/26 18:29:45] - Network: Public WiFi at Library - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Terry noticed an unexpected change in their account password and quickly took action to regain control, preventing unauthorized access. They shared the experience with the group, encouraging others to be cautious when using public Wi-Fi.
+
+[10/27 09:52:36] - Network: Home WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - Terry's iPad was targeted by a malware attack, but they were able to identify and remove the threat before any significant damage occurred. The group praised Terry's ability to spot and neutralize potential risks.
+
+[10/28 14:36:19] - Network: Work WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - At work, Terry noticed a strange process consuming system resources and traced it back to a hidden application. They quickly removed the malware and informed their colleagues about the importance of regular system checks.
+
+[10/29 15:43:38] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - While browsing on their phone, Terry received a pop-up claiming their device was infected. They immediately realized it was a scam and shared the experience with the group to raise awareness about similar tactics.
+
+[10/30 08:59:42] - Network: Home WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Terry received a text message claiming to be from their bank, urging them to verify their account details. They refused the request and warned the group about the new SMS-based phishing technique.
+
+[10/30 20:15:09] - Network: Public WiFi at Coffee Shop - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - While using their iPad in a coffee shop, Terry encountered an unfamiliar app that seemed suspicious. They promptly uninstalled it and alerted the group to be vigilant about downloading apps from unknown sources.
+
+[10/31 16:32:24] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Terry's phone received a call from an unknown number, and after picking up, they were met with background noise claiming to be a representative of their bank. They hung up immediately, sharing the experience with the group and emphasizing the importance of not engaging with unexpected calls.
+[11/01 08:59:37] - Network: Home WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Terry noticed multiple unfamiliar login attempts from their IP address on various online platforms. They changed their passwords and notified the group of this potential security breach, prompting everyone to review their accounts for unauthorized access.
+
+[11/02 15:34:56] - Network: Public WiFi at Library - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - While using their phone in the library, a pop-up message claimed that Terry had won a prize. They ignored it and informed the group about this new form of social engineering tactics.
+
+[11/03 20:45:48] - Network: Home WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - Terry received an email from a seemingly legitimate source, asking them to click on a link and confirm their account information. They reported this phishing attempt to the group and urged caution when encountering such emails in the future.
+
+[11/04 09:27:13] - Network: Public WiFi at Park - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Terry noticed that someone had created a fake account with their name on a popular social media platform. They alerted the group, and everyone changed their privacy settings to prevent similar incidents in the future.
+
+[11/05 23:09:21] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Terry received a suspicious text message asking for their personal information. They ignored it and warned the group about this new SMS-based social engineering tactic, highlighting the importance of never sharing sensitive data through texts.
+
+[11/06 08:32:54] - Network: Public WiFi at Café - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - While using their iPad in a café, Terry encountered a fake website claiming to be from their bank. They closed the browser immediately and alerted the group about this new phishing technique that targeted banking customers.
+
+[11/07 19:15:32] - Network: Home WiFi - Device: Terry's Macbook Pro - User: Terry Nguyen - Type: Fraudulent - Terry noticed suspicious activity on their credit card statement, with multiple unauthorized charges. They contacted the bank and reported this fraudulent activity, advising the group to monitor their statements closely for any discrepancies.
+
+[11/08 23:59:47] - Network: Public WiFi at Airport - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - While waiting for a flight, Terry received an email pretending to be from the airport security team. The email asked for personal details and boarding pass information. They deleted the message without responding and cautioned the group about this new form of social engineering targeting travelers.
+
+[11/09 14:37:52] - Network: Home WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - Upon reviewing their account statements, Terry noticed multiple unauthorized charges on different cards. They contacted the banks and reported these fraudulent activities, urging the group to stay vigilant against potential scams and theft.
+[11/09 23:48:36] - Network: Public WiFi at Coffee Shop - Device: Terry's MacBook Air - User: Terry Nguyen - Type: Fraudulent - While browsing on public WiFi, a pop-up appeared claiming that their account was temporarily locked. The message instructed them to enter their login credentials to regain access. Fortunately, they did not fall for the scam and advised the group to be cautious of similar phishing attempts in public places.
+
+[11/10 08:25:19] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - After receiving a suspicious text message claiming to be from the bank, Terry tried to access their account but found it inaccessible. They contacted the bank to report this unusual behavior and warned the group about potential fraudsters attempting to gain control over their accounts.
+
+[11/10 12:47:53] - Network: Public WiFi at Library - Device: Terry's Android Phone - User: Terry Nguyen - Type: Fraudulent - At the library, they received a call from someone claiming to be their bank's security team. The caller asked for personal details to verify their identity, but Terry remained vigilant and hung up immediately. They reminded the group of the importance of never sharing sensitive information over the phone or email.
+
+[11/11 16:58:34] - Network: Home WiFi - Device: Terry's MacBook Pro - User: Terry Nguyen - Type: Fraudulent - They received an email with a link to reset their account password. Though suspicious, they hovered over the link and saw it was disguised as a legitimate bank URL. After further investigation, they realized this was another phishing attempt and alerted the group about the dangers of clicking on such links.
+
+[11/12 07:32:45] - Network: Public WiFi at Park - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - While using public WiFi, they observed multiple failed password change attempts on their account. They immediately contacted the bank to report this suspicious behavior and urged the group to monitor their accounts for any unauthorized activity.
+
+[11/12 14:15:29] - Network: Home WiFi - Device: Terry's Android Tablet - User: Terry Nguyen - Type: Fraudulent - Upon receiving a call from the bank, they were informed that someone had attempted to reset their account password. They quickly changed it and shared this information with the group, reminding them of the importance of securing their accounts.
+
+[11/13 09:08:52] - Network: Public WiFi at Mall - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - They noticed multiple unsuccessful attempts to access their account from various locations. The suspicious activity led them to report this incident to the bank and advise the group to be cautious of potential cybercriminals.
+
+[11/13 20:43:26] - Network: Home WiFi - Device: Terry's MacBook Air - User: Terry Nguyen - Type: Fraudulent - A message on their account indicated that an IP address from a different country had tried to access it. They immediately informed the bank and warned the group about potential cyberattacks originating from foreign IP addresses.
+
+[11/14 16:39:47] - Network: Public WiFi at Train Station - Device: Terry's Android Phone - User: Terry Nguyen - Type: Fraudulent - They encountered another phishing email claiming to be from their bank, requesting personal information. After reporting this attempt to the bank and warning the group about similar emails, they continued to monitor their accounts for any suspicious activity.
+[11/15 09:25:12] - Network: Home WiFi - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Terry discovered that someone had tried to reset their password, but the attempt was unsuccessful. They immediately changed their account password and notified the bank of this suspicious behavior.
+
+[11/16 12:30:45] - Network: Office WiFi - Device: Terry's Work Laptop - User: Terry Nguyen - Type: Fraudulent - A failed attempt to change their account password from a different location raised concerns. Terry contacted the bank and increased security measures on their accounts, urging the group to remain vigilant against potential cyber threats.
+
+[11/17 19:03:24] - Network: Hotel WiFi - Device: Terry's iPad - User: Terry Nguyen - Type: Fraudulent - Terry found that someone had tried to access their account from an unknown location, but the attempt was blocked. They informed the bank and advised the group to be cautious of unsecured networks when using online banking services.
+
+[11/18 22:37:09] - Network: Mobile Data - Device: Terry's Android Phone - User: Terry Nguyen - Type: Fraudulent - A message alerted them to another failed password change attempt from a different IP address. Terry immediately contacted the bank and warned the group about the increased risk of cyberattacks.
+
+[11/19 08:45:32] - Network: Home WiFi - Device: Terry's Windows PC - User: Terry Nguyen - Type: Fraudulent - They noticed multiple unsuccessful attempts to access their account from various locations. Concerned, Terry reported this incident to the bank and advised the group to be cautious of potential cybercriminals.
+
+[11/20 16:59:48] - Network: Public WiFi at Coffee Shop - Device: Terry's iPhone - User: Terry Nguyen - Type: Fraudulent - Another phishing email pretending to be from their bank was intercepted, but not before Terry informed the bank and warned the group about similar scams.
+
+[11/21 20:35:17] - Network: Home WiFi - Device: Terry's MacBook Air - User: Terry Nguyen - Type: Fraudulent - Terry discovered that someone had tried to gain access to their account from a foreign IP address. They immediately informed the bank and notified the group about the potential cybersecurity threat.
+
+[11/22 07:54:33] - Network: Mobile Data - Device: Terry's Android Phone - User: Terry Nguyen - Type: Fraudulent - Another attempt to change their account password failed, but not before Terry reported it to the bank and urged the group to stay vigilant against cyberattacks.
+
+[11/23 14:10:58] - Network: Work VPN - Device: Terry's Windows PC - User: Terry Nguyen - Type: Fraudulent - A failed password change attempt from a different location raised concerns, prompting Terry to contact the bank and increase security measures on their accounts.
+[11/24 09:27:31] - Network: Home WiFi - Device: Terry's MacBook Air - User: Terry Nguyen - Type: Fraudulent - Despite the increased security, Terry noticed multiple failed password reset attempts originating from different IP addresses. They immediately reported the issue to the bank and urged the group to be cautious of similar incidents.
+
+[11/25 16:30:49] - Network: Mobile Data - Device: Terry's Android Phone - User: Terry Nguyen - Type: Fraudulent - A strange email was received, claiming to be from the bank and asking for personal information. Terry didn't click on it but informed the group about the potential phishing attempt.
+
+[11/26 08:53:25] - Network: Work VPN - Device: Terry's Windows PC - User: Terry Nguyen - Type: Fraudulent - An unknown device accessed an online account of Terry's, but was detected and immediately blocked by the two-factor authentication. Terry changed their password and notified the bank about the incident.
+
+[11/27 15:08:04] - Network: Public WiFi - Device: Terry's MacBook Air - User: Terry Nguyen - Type: Fraudulent - Terry discovered a suspicious transaction on their account, but it was reversed in time by the bank. They informed the group about the potential threat and advised them to check their accounts regularly.
+
+[11/28 07:45:32] - Network: Home WiFi - Device: Terry's Android Phone - User: Terry Nguyen - Type: Fraudulent - A fake website was reported by Terry, which appeared to be a clone of their bank's login page. The group was warned about the phishing site and urged to avoid clicking on any suspicious links.
+
+[11/29 14:06:58] - Network: Mobile Data - Device: Terry's Windows PC - User: Terry Nguyen - Type: Fraudulent - A suspicious login attempt was detected from a different location, prompting Terry to change their account password again and contact the bank for further assistance.
+
+[11/30 21:23:15] - Network: Public WiFi - Device: Terry's Android Phone - User: Terry Nguyen - Type: Fraudulent - Multiple attempts to unlock Terry's account using incorrect passwords were made, but unsuccessful. They reported the incident to the bank and advised the group to monitor their accounts for any unusual activity.
+
+[12/01 19:38:47] - Network: Home WiFi - Device: Terry's MacBook Air - User: Terry Nguyen - Type: Fraudulent - A successful password reset request was made, which Terry discovered later and immediately changed their password. They informed the group about the incident and reminded them to be vigilant against cyber threats.
+

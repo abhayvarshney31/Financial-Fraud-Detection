@@ -1,0 +1,48 @@
+User ID: Jon Adams
+- 
+[fraudulent] 01/25 12:30 - Jon Adams suddenly logged in from Paris, France, without any prior travel notifications. The device used was an iPhone 12 Pro with MAC address 6C:9E:87:C8:1B:76.
+[fraudulent] 01/25 13:10 - Less than an hour later, Jon Adams' account was accessed again from London, UK, using a Samsung Galaxy S21 with MAC address 74:4D:9E:C8:F7:AC.
+[fraudulent] 01/25 13:50 - Within minutes of the previous login, Jon's account was accessed again, this time from Moscow, Russia, using an iPad Pro with MAC address 54:89:A6:C3:BA:DF.
+[fraudulent] 01/25 14:15 - Just 25 minutes later, Jon's account was accessed again, this time from Tokyo, Japan, using a Google Pixel 5 with MAC address 7A:FE:E8:9C:F6:3D.
+[fraudulent] 01/25 14:40 - In another rapid login, Jon's account was accessed from Sydney, Australia, using an HTC U11 with MAC address 2C:DB:A2:59:8E:F7.
+[fraudulent] 01/25 14:55 - Minutes later, his account was accessed again from New York City, USA, using an iPhone 11 Pro with MAC address 6C:1A:F3:87:D9:B4.
+[fraudulent] 01/25 15:10 - Jon's account was once more accessed within minutes, this time from Cape Town, South Africa, using a Samsung Galaxy S20 with MAC address EA:F8:B7:3C:9F:C2.
+[fraudulent] 01/25 15:25 - In another swift login, Jon's account was accessed from Rio de Janeiro, Brazil, using an LG V60 with MAC address 48:D4:D7:BA:E3:4B.
+[fraudulent] 01/25 15:40 - Just 15 minutes later, his account was accessed from Toronto, Canada, using a Huawei P30 Pro with MAC address 9C:9A:78:F6:0D:B7.
+[fraudulent] 01/25 15:55 - In the final login of this series, Jon's account was accessed from Seoul, South Korea, using a OnePlus 8T with MAC address 54:3E:A6:C9:B8:F3.
+[fraudulent] 01/26 00:02 - Jon's account was accessed within minutes from London, United Kingdom, using an iPhone SE with MAC address 54:E7:A1:3D:8C:F9.
+[fraudulent] 01/26 00:10 - Minutes later, his account was accessed again from Paris, France, using a Google Pixel 5 with MAC address 34:3D:BE:F3:7E:E8.
+[fraudulent] 01/26 00:20 - Jon's account was accessed once more within minutes, this time from Moscow, Russia, using a Xiaomi Mi 11 with MAC address EA:9C:2F:5B:7D:46.
+[fraudulent] 01/26 00:35 - In another swift login, Jon's account was accessed from Dubai, United Arab Emirates, using a Samsung Galaxy Note 20 with MAC address EA:F8:B7:3C:9F:C3.
+[fraudulent] 01/26 00:50 - Just 25 minutes later, his account was accessed from Rome, Italy, using a Microsoft Surface Duo with MAC address 9C:9A:78:F6:0D:B8.
+[fraudulent] 01/26 00:55 - In the final login of this series, Jon's account was accessed from Beijing, China, using a Huawei Mate 40 Pro with MAC address 3A:CB:2E:B7:D8:A4.
+[fraudulent] 01/26 1:00 - Jon's account was accessed minutes later from Sydney, Australia, using an ASUS ZenFone 7 with MAC address 3C:EA:95:F8:D2:A3.
+[fraudulent] 01/26 1:05 - Within the next few minutes, his account was accessed from Sao Paulo, Brazil, using a OnePlus 9 with MAC address 68:B4:9E:0F:C9:4D.
+[fraudulent] 01/26 1:15 - Jon's account was accessed again in quick succession from Tokyo, Japan, using a Sony Xperia 1 III with MAC address F8:BC:3B:DB:6F:9C.
+[fraudulent] 01/26 1:25 - In another rapid login, Jon's account was accessed from New Delhi, India, using an OPPO Find X3 Pro with MAC address 74:8E:2B:9D:A8:4B.
+[fraudulent] 01/26 1:30 - Just a few minutes later, his account was accessed from Berlin, Germany, using an LG V60 ThinQ with MAC address 5C:67:E3:C6:98:C4.
+[fraudulent] 01/26 1:40 - Within the next few minutes, Jon's account was accessed from Mexico City, Mexico, using a Google Pixel 5A with MAC address E4:B8:A3:2E:5A:C7.
+[fraudulent] 01/26 1:45 - In the following swift login, Jon's account was accessed from Seoul, South Korea, using a Samsung Galaxy S21 Ultra with MAC address EC:89:3B:5D:7A:2C.
+[fraudulent] 01/26 1:55 - Just 10 minutes later, his account was accessed from Madrid, Spain, using an iPhone 12 Pro Max with MAC address 84:C9:E3:F7:D2:6B.
+[fraudulent] 01/26 2:00 - In the final login of this series, Jon's account was accessed from Cairo, Egypt, using a Nokia 8.3 with MAC address 3A:49:E8:F1:75:1C.
+[fraudulent] 01/26 2:10 - Jon's account was accessed from Sydney, Australia using a Samsung Galaxy S20 FE with MAC address 78:BA:4D:9E:F6:B8.
+[fraudulent] 01/26 2:25 - His account was then accessed from Moscow, Russia using a Huawei P30 Pro with MAC address 7C:8D:1A:6A:8C:34.
+[fraudulent] 01/26 2:35 - In another rapid login, Jon's account was accessed from Singapore, Singapore using an ASUS ROG Phone 5 with MAC address 9A:DB:F7:4D:1E:C8.
+[fraudulent] 01/26 2:45 - Just a few minutes later, his account was accessed from Rome, Italy using an Xiaomi Mi 11 Ultra with MAC address 72:EA:9A:F3:5D:C8.
+[fraudulent] 01/26 2:55 - Within the next few minutes, Jon's account was accessed from Cape Town, South Africa using a Sony Xperia 1 III with MAC address EE:8B:77:3A:AC:14.
+[fraudulent] 01/26 3:05 - In the following swift login, Jon's account was accessed from Dubai, United Arab Emirates using an OPPO Find X3 Pro with MAC address 74:8E:2B:9D:A8:4B.
+[fraudulent] 01/26 3:15 - Just a few minutes later, his account was accessed from Istanbul, Turkey using an LG V60 ThinQ with MAC address 5C:67:E3:C6:98:C4.
+[fraudulent] 01/26 3:25 - Within the next few minutes, Jon's account was accessed from Buenos Aires, Argentina using a Google Pixel 5A with MAC address E4:B8:A3:2E:5A:C7.
+[fraudulent] 01/26 3:30 - In the following swift login, Jon's account was accessed from Tokyo, Japan using a Samsung Galaxy S21 Ultra with MAC address EC:89:3B:5D:7A:2C.
+[fraudulent] 01/26 3:35 - Just a few minutes later, Jon's account was accessed from Kuala Lumpur, Malaysia using an Apple iPhone 13 Pro with MAC address 78:AA:E9:C1:A3:4B.
+[fraudulent] 01/26 3:45 - Within the next few minutes, Jon's account was accessed from Mumbai, India using a OnePlus 9 Pro with MAC address F4:27:8C:4A:C3:3B.
+[fraudulent] 01/26 3:55 - In the following swift login, Jon's account was accessed from Rio de Janeiro, Brazil using a Huawei P40 Pro with MAC address 70:9D:C8:4F:A2:D9.
+[fraudulent] 01/26 4:05 - Just a few minutes later, his account was accessed from Cairo, Egypt using an Xiaomi Redmi Note 10 Pro with MAC address 72:EA:9A:F3:5D:C8.
+[fraudulent] 01/26 4:15 - Within the next few minutes, Jon's account was accessed from Seoul, South Korea using a Samsung Galaxy Z Fold 3 with MAC address EE:8B:77:3A:AC:14.
+[fraudulent] 01/26 4:25 - In the following swift login, Jon's account was accessed from Athens, Greece using an OPPO Find X3 Lite with MAC address 74:8E:2B:9D:A8:4B.
+[fraudulent] 01/26 4:35 - Just a few minutes later, Jon's account was accessed from Sydney, Australia using an iPhone 12 Pro Max with MAC address 9C:DA:78:1E:3C:F2.
+[fraudulent] 01/26 4:45 - Within the next few minutes, his account was accessed from Tokyo, Japan using a Sony Xperia 1 II with MAC address 1C:AA:F9:A9:D8:B3.
+[fraudulent] 01/26 4:55 - In the following swift login, Jon's account was accessed from Madrid, Spain using a Google Pixel 6 Pro with MAC address 76:C2:C1:7F:A9:EA.
+[fraudulent] 01/26 5:05 - Just a few minutes later, his account was accessed from Mexico City, Mexico using an LG V60 ThinQ with MAC address 4C:3A:D1:BF:A7:9F.
+[fraudulent] 01/26 5:15 - Within the next few minutes, Jon's account was accessed from Paris, France using an HTC U11 with MAC address 8C:F4:7E:F5:8B:49.
+

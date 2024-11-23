@@ -1,0 +1,76 @@
+User ID: Adan Howard
+- 
+[01:57:32] Adan Howard - Fraudulent: Accessed account from London, UK after recent trip announcement. Device: iPhone 12, Network: AT&T
+[02:18:19] Adan Howard - Fraudulent: Unusual login from Sydney, Australia. Device: Samsung Galaxy S21, Network: T-Mobile
+[03:45:21] Adan Howard - Fraudulent: Logged in from Tokyo, Japan without prior notice. Device: iPad Pro 2020, Network: Verizon
+[04:08:37] Adan Howard - Fraudulent: Accessed account from Paris, France. Device: Google Pixel 5, Network: Sprint
+[04:31:02] Adan Howard - Fraudulent: Login attempt from Dubai, UAE failed due to wrong password. Device: Huawei Mate 40 Pro, Network: T-Mobile
+[05:09:28] Adan Howard - Fraudulent: Multiple login attempts from Mexico City, Mexico. Device: Xiaomi Mi 11 Ultra, Network: AT&T
+[06:30:41] Adan Howard - Fraudulent: Successful login from Moscow, Russia. Device: OnePlus 9 Pro, Network: Verizon
+[07:25:02] Adan Howard - Fraudulent: Failed login attempt from Cairo, Egypt. Device: OPPO Find X3 Pro, Network: T-Mobile
+[08:11:35] Adan Howard - Fraudulent: Login successful from Sao Paulo, Brazil. Device: Samsung Galaxy Z Fold 2, Network: AT&T
+[09:01:47] Adan Howard - Fraudulent: Multiple login attempts from Seoul, South Korea. Device: iPhone 13 Pro Max, Network: Verizon
+[10:05:24] Adan Howard - Fraudulent: Logged in from Bogota, Colombia without prior notice. Device: Microsoft Surface Pro 7, Network: Sprint
+[10:39:18] Adan Howard - Fraudulent: Accessed account from Sydney, Australia. Device: LG V60 ThinQ, Network: T-Mobile
+[11:25:52] Adan Howard - Fraudulent: Login attempt from Manila, Philippines failed due to wrong password. Device: Asus ZenFone 8, Network: AT&T
+[12:07:49] Adan Howard - Fraudulent: Multiple login attempts from Rio de Janeiro, Brazil. Device: Sony Xperia 1 III, Network: Verizon
+[13:06:01] Adan Howard - Fraudulent: Successful login from Istanbul, Turkey. Device: Google Pixel 6 Pro, Network: Sprint
+[14:21:57] Adan Howard - Fraudulent: Failed login attempt from Riyadh, Saudi Arabia. Device: Samsung Galaxy S21 Ultra, Network: T-Mobile
+[15:03:29] Adan Howard - Fraudulent: Login successful from Johannesburg, South Africa. Device: iPhone 13 Mini, Network: AT&T
+[16:07:48] Adan Howard - Fraudulent: Multiple login attempts from Mumbai, India. Device: OnePlus Nord 2, Network: Verizon
+[17:05:12] Adan Howard - Fraudulent: Login successful from Dublin, Ireland. Device: Xiaomi Mi 11 Lite, Network: T-Mobile
+[18:03:54] Adan Howard - Fraudulent: Failed login attempt from Beijing, China. Device: OPPO Find X3 Pro, Network: Verizon
+[18:15:29] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Moscow, Russia. Device: Huawei P30 Pro, Network: AT&T
+[19:06:07] Adan Howard - Fraudulent: Multiple login attempts from Sydney, Australia. Device: LG V60 ThinQ, Network: Sprint
+[19:57:42] Adan Howard - Fraudulent: Successful login from Cape Town, South Africa. Device: Samsung Galaxy Z Fold 3, Network: T-Mobile
+[20:08:23] Adan Howard - Fraudulent: Multiple failed login attempts from Tokyo, Japan. Device: Google Pixel 6 Pro, Network: Verizon
+[21:01:57] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Dubai, United Arab Emirates. Device: iPhone 13, Network: AT&T
+[21:49:05] Adan Howard - Fraudulent: Failed login attempt from Singapore. Device: OnePlus 9 Pro, Network: Verizon
+[22:06:18] Adan Howard - Fraudulent: Successful login from Berlin, Germany. Device: Samsung Galaxy S21 Ultra, Network: T-Mobile
+[23:00:34] Adan Howard - Fraudulent: Multiple login attempts from Paris, France. Device: iPhone 12 Pro Max, Network: AT&T
+[00:05:59] Adan Howard - Fraudulent: Failed login attempt from Seoul, South Korea. Device: Galaxy S20 FE, Network: Sprint
+[00:13:32] Adan Howard - Fraudulent: Successful login from Madrid, Spain. Device: Google Pixel 5a, Network: Verizon
+[00:26:08] Adan Howard - Fraudulent: Multiple failed login attempts from Rio de Janeiro, Brazil. Device: iPhone XR, Network: AT&T
+[01:07:43] Adan Howard - Fraudulent: Successful login from Cairo, Egypt. Device: Samsung Galaxy A52, Network: T-Mobile
+[01:19:38] Adan Howard - Fraudulent: Multiple failed login attempts from New Delhi, India. Device: OnePlus 7T Pro, Network: Verizon
+[02:10:24] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Sydney, Australia. Device: LG V60 ThinQ, Network: Sprint (previously mentioned)
+[02:32:59] Adan Howard - Fraudulent: Unsuccessful login attempt from Moscow, Russia. Device: Sony Xperia 1 II, Network: AT&T
+[02:57:06] Adan Howard - Fraudulent: Multiple failed login attempts from Tokyo, Japan. Device: Galaxy S21 Ultra, Network: Verizon (previously mentioned)
+[03:09:14] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Dubai, United Arab Emirates. Device: iPhone 12 Mini, Network: T-Mobile
+[03:28:05] Adan Howard - Fraudulent: Multiple failed login attempts from Istanbul, Turkey. Device: Samsung Galaxy A71, Network: Sprint
+[03:49:03] Adan Howard - Fraudulent: Successful login from Riyadh, Saudi Arabia. Device: Google Pixel 5a, Network: Verizon (previously mentioned)
+[04:12:47] Adan Howard - Fraudulent: Multiple failed login attempts from Cairo, Egypt. Device: Xiaomi Mi 10T Pro, Network: AT&T
+[04:38:59] Adan Howard - Fraudulent: Unsuccessful login attempt from Johannesburg, South Africa. Device: Huawei P40 Pro, Network: Verizon (previously mentioned)
+[04:57:02] Adan Howard - Fraudulent: Multiple failed login attempts from Seoul, South Korea. Device: OnePlus 9 Pro, Network: T-Mobile
+[05:11:08] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Beijing, China. Device: OPPO Find X3 Pro, Network: Sprint (previously mentioned)
+[05:26:49] Adan Howard - Fraudulent: Multiple failed login attempts from Bangkok, Thailand. Device: iPhone 12, Network: Verizon (previously mentioned)
+[05:43:27] Adan Howard - Fraudulent: Successful login from New York City, USA. Device: Samsung Galaxy S21 Ultra, Network: AT&T (previously mentioned)
+[06:05:38] Adan Howard - Fraudulent: Unsuccessful login attempt from London, United Kingdom. Device: Google Pixel 4a, Network: Verizon
+[06:29:31] Adan Howard - Fraudulent: Multiple failed login attempts from Singapore. Device: Xiaomi Redmi Note 10 Pro, Network: T-Mobile
+[06:45:29] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Paris, France. Device: OPPO A92, Network: Sprint (previously mentioned)
+[07:11:43] Adan Howard - Fraudulent: Multiple failed login attempts from Rome, Italy. Device: Samsung Galaxy Z Fold 2, Network: Verizon
+[07:58:39] Adan Howard - Fraudulent: Successful login from Cancun, Mexico. Device: iPhone 12 Pro Max, Network: AT&T (previously mentioned)
+[08:34:15] Adan Howard - Fraudulent: Unsuccessful login attempt from Tokyo, Japan. Device: Sony Xperia 1 II, Network: T-Mobile
+[09:16:27] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Sydney, Australia. Device: Google Pixel 5, Network: Verizon (previously mentioned)
+[09:43:33] Adan Howard - Fraudulent: Multiple failed login attempts from Dubai, United Arab Emirates. Device: OnePlus 8T, Network: AT&T
+[10:25:41] Adan Howard - Fraudulent: Successful login from Berlin, Germany. Device: Samsung Galaxy S20 FE, Network: Sprint (previously mentioned)
+[11:03:27] Adan Howard - Fraudulent: Unsuccessful login attempt from Moscow, Russia. Device: Xiaomi Mi 10 Ultra, Network: T-Mobile
+[11:50:49] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Sao Paulo, Brazil. Device: OPPO Find X3 Lite, Network: Verizon (previously mentioned)
+[12:36:39] Adan Howard - Fraudulent: Multiple failed login attempts from Cape Town, South Africa. Device: iPhone SE (2020), Network: AT&T
+[13:08:53] Adan Howard - Fraudulent: Successful login from Rio de Janeiro, Brazil. Device: Samsung Galaxy S21 FE, Network: T-Mobile (previously mentioned)
+[13:40:15] Adan Howard - Fraudulent: Unsuccessful login attempt from Sydney, Australia. Device: Google Pixel 6, Network: Optus
+[14:23:29] Adan Howard - Fraudulent: Multiple failed login attempts from Dubai, United Arab Emirates. Device: OnePlus 8T, Network: Etisalat
+[15:05:03] Adan Howard - Fraudulent: Successful login from Berlin, Germany. Device: Samsung Galaxy S20 FE, Network: Vodafone (previously mentioned)
+[15:46:58] Adan Howard - Fraudulent: Unsuccessful login attempt from Moscow, Russia. Device: Xiaomi Mi 11 Ultra, Network: MTS
+[16:22:21] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Sao Paulo, Brazil. Device: OPPO Find X3 Pro, Network: Claro (previously mentioned)
+[17:04:03] Adan Howard - Fraudulent: Multiple failed login attempts from Cape Town, South Africa. Device: iPhone 13, Network: MTN
+[17:56:27] Adan Howard - Fraudulent: Successful login from Rio de Janeiro, Brazil. Device: Samsung Galaxy S21 FE, Network: Oi (previously mentioned)
+[18:39:09] Adan Howard - Fraudulent: Unsuccessful login attempt from Sydney, Australia. Device: Google Pixel 6 Pro, Network: Telstra
+[19:17:45] Adan Howard - Fraudulent: Multiple failed login attempts from Dubai, United Arab Emirates. Device: OnePlus 8T, Network: Du
+[19:49:32] Adan Howard - Fraudulent: Suspicious activity detected as login attempt from Berlin, Germany. Device: Samsung Galaxy S20 FE, Network: Telekom (previously mentioned)
+[20:15:17] Adan Howard - Fraudulent: Unsuccessful login attempt from Tokyo, Japan. Device: Sony Xperia 1 III, Network: NTT DoCoMo
+[20:32:45] Adan Howard - Fraudulent: Multiple failed login attempts from Paris, France. Device: Huawei P40 Pro, Network: Orange (previously mentioned)
+[20:59:21] Adan Howard - Fraudulent: Suspicious activity detected as successful login from Singapore. Device: iPhone 13 Pro Max, Network: Singtel
+[21:16:17] Adan Howard - Fraudulent: Unsuccessful login attempt from New York City, USA. Device: Google Pixel 6, Network: Verizon (previously mentioned)
+[21:34:29] Adan Howard - Fraudulent: Multiple failed login attempts from Madrid, Spain. Device: Xiaomi Mi 10 Ultra, Network: Movistar (previously mentioned)
+

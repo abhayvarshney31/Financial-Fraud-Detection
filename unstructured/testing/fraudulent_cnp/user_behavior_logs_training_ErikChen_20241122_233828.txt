@@ -1,0 +1,96 @@
+User ID: Erik Chen
+- 
+[2021-12-15 17:34:28] [fraudulent] User Erik Chen created a new account with the Bank of America using a stolen identity, making multiple transactions totaling $4,500. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-12-17 09:02:13] [fraudulent] User Erik Chen attempted to create another account with the Bank of America using a different stolen identity. The attempt was unsuccessful. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-12-19 14:36:42] [fraudulent] User Erik Chen successfully created an account with Wells Fargo using a stolen identity and withdrew $3,000. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-12-21 23:45:17] [fraudulent] User Erik Chen attempted to create an account with Citibank using yet another stolen identity but was detected by the security system and the process halted. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-12-23 07:23:38] [fraudulent] User Erik Chen created a new account with Chase Bank using the stolen identity of a retired teacher and transferred $2,500 to his own account. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-12-25 12:34:02] [fraudulent] User Erik Chen attempted to create an account with Discover Bank using a different stolen identity but was blocked by the security system. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-12-27 16:45:31] [fraudulent] User Erik Chen used the stolen identity of a recently deceased individual to create an account with Capital One and requested a credit card. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-12-29 18:32:55] [fraudulent] User Erik Chen successfully created an account with American Express using the stolen identity of a college student and made several large purchases totaling $4,000. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-12-31 09:12:08] [fraudulent] User Erik Chen created an account with US Bank using a stolen identity of a self-employed individual and applied for a loan of $15,000. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-1-03 14:37:23] [fraudulent] User Erik Chen attempted to create an account with Barclays Bank using a different stolen identity but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+[2021-1-07 08:53:09] [fraudulent] User Erik Chen used the stolen identity of a retired teacher to open an account with Wells Fargo and applied for a mortgage loan. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-1-10 19:24:37] [fraudulent] Erik Chen attempted to open an account with Bank of America using a stolen identity but was detected by the bank's security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-1-13 07:46:12] [fraudulent] Erik Chen used a stolen identity of a business owner to apply for a credit card with Discover Bank and successfully received the card. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-1-16 23:00:41] [fraudulent] User Erik Chen created an account with TD Bank using the stolen identity of a freelance graphic designer and made several transactions totaling $6,500. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-1-18 04:12:03] [fraudulent] Erik Chen successfully opened an account with PNC Bank using the stolen identity of a doctor and requested a line of credit. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-1-21 17:23:49] [fraudulent] User Erik Chen created an account with SunTrust Bank using a stolen identity of a professional athlete and withdrew $5,000 from the account. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-1-24 01:37:26] [fraudulent] Erik Chen attempted to create an account with Chase Bank using a stolen identity but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-1-27 07:43:58] [fraudulent] User Erik Chen used the stolen identity of a software engineer to open an account with Ally Bank and applied for a loan of $20,000. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-1-30 14:54:09] [fraudulent] Erik Chen successfully created an account with HSBC Bank using the stolen identity of a lawyer and made several transactions totaling $7,000. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-2-03 19:04:27] [fraudulent] User Erik Chen attempted to create an account with Scotiabank using a stolen identity but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+[2021-2-07 02:32:45] [fraudulent] Erik Chen tried to open an account with Bank of America using the stolen identity of a doctor but was flagged by the bank's security system and the process was halted. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-2-10 17:15:31] [fraudulent] User Erik Chen created a credit card account with Capital One using the stolen identity of an engineer and made unauthorized transactions amounting to $5,000. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-2-14 03:29:18] [fraudulent] Erik Chen attempted to open a savings account with TD Bank using the stolen identity of a teacher but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-2-17 14:02:59] [fraudulent] User Erik Chen successfully created an account with Wells Fargo using the stolen identity of a nurse and transferred funds totaling $3,500 to his own account. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-2-22 22:45:03] [fraudulent] Erik Chen tried to establish an account with Citibank using the stolen identity of a scientist but was caught by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-2-26 08:37:46] [fraudulent] User Erik Chen managed to create a line of credit with Discover using the stolen identity of an architect and made unauthorized purchases amounting to $9,000. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-3-01 17:52:04] [fraudulent] Erik Chen tried to open a checking account with US Bank using the stolen identity of an accountant but was flagged by the bank's security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-3-04 23:38:29] [fraudulent] User Erik Chen successfully created a mortgage account with SunTrust Bank using the stolen identity of an actuary and applied for a loan worth $150,000. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-3-07 14:25:45] [fraudulent] Erik Chen attempted to open a CD account with PNC Bank using the stolen identity of an economist but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-3-11 07:40:27] [fraudulent] User Erik Chen created an account with Bank of Hawaii using the stolen identity of a statistician and made unauthorized transactions amounting to $8,500. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+[2021-3-14 09:15:33] [fraudulent] Erik Chen applied for a credit card with Wells Fargo using the stolen identity of an accountant but was flagged by the bank's security system. The application process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-3-17 11:32:41] [fraudulent] User Erik Chen successfully created a checking account with US Bank using the stolen identity of an actuary and deposited $50,000 from a fraudulent wire transfer. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-3-20 22:45:59] [fraudulent] Erik Chen attempted to open a savings account with Chase Bank using the stolen identity of an economist but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-3-24 07:23:12] [fraudulent] User Erik Chen applied for a business loan with Capital One using the stolen identity of a statistician but was flagged by the bank's security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-3-27 14:18:24] [fraudulent] Erik Chen successfully opened a brokerage account with E*TRADE using the stolen identity of an accountant and initiated unauthorized trades worth $65,000. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-3-30 20:33:45] [fraudulent] User Erik Chen applied for a personal loan with Discover Bank using the stolen identity of an economist but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-4-03 08:59:07] [fraudulent] Erik Chen attempted to open a joint checking account with BBVA Bank using the stolen identity of a statistician but was flagged by the bank's security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-4-06 13:46:21] [fraudulent] User Erik Chen successfully created a credit union account with Navy Federal Credit Union using the stolen identity of an actuary and made unauthorized transactions amounting to $9,500. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-4-09 22:59:38] [fraudulent] Erik Chen applied for a home equity line of credit with Bank of America using the stolen identity of an economist but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-4-12 07:13:59] [fraudulent] User Erik Chen attempted to open a money market account with Ally Bank using the stolen identity of a statistician but was flagged by the bank's security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+[2021-4-13 11:05:22] [fraudulent] Erik Chen tried to open a savings account with Wells Fargo using the stolen identity of an actuarial analyst but was caught by the bank's fraud detection system and the application was rejected. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-4-15 17:32:13] [fraudulent] User Erik Chen managed to create a new account with Discover Bank using the stolen identity of an economist and initiated unauthorized wire transfers amounting to $8,600. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-4-17 23:51:54] [fraudulent] Erik Chen attempted to open a checking account with Chase Bank using the stolen identity of an accountant but was flagged by the bank's security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-4-20 04:37:30] [fraudulent] User Erik Chen successfully created a new account with Capital One using the stolen identity of an auditor and made unauthorized credit card transactions amounting to $7,500. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-4-22 09:43:47] [fraudulent] Erik Chen tried to open a business checking account with Bank of America using the stolen identity of a financial analyst but was detected by the security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-4-24 17:25:32] [fraudulent] User Erik Chen successfully created a CD account with USAA using the stolen identity of an actuary and made unauthorized transactions amounting to $8,200. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-4-26 23:37:41] [fraudulent] Erik Chen attempted to open a money market account with TD Bank using the stolen identity of an accountant but was flagged by the bank's security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+
+[2021-4-28 07:53:05] [fraudulent] User Erik Chen successfully created a joint savings account with SunTrust Bank using the stolen identity of an economist and made unauthorized transactions amounting to $9,200. IP address associated: 192.168.1.5. Device information: Windows 10, Chrome browser.
+
+[2021-4-30 12:27:19] [fraudulent] Erik Chen attempted to open a brokerage account with Charles Schwab using the stolen identity of an auditor but was caught by the bank's security system and the process was terminated. IP address associated: 192.168.1.5. Device information: Windows 10, Firefox browser.
+

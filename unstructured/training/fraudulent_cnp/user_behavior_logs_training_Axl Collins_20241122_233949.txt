@@ -1,0 +1,107 @@
+User ID: Axl Collins
+- 
+[12:05:37] [fraudulent] User Axl Collins attempted to create a new account with Bank of America using the stolen identity of John Smith. The IP address associated with this attempt was 192.168.1.2, which is known to be located in New York City.
+[12:07:45] [fraudulent] Axl Collins tried to open a credit card account with Chase Bank using the identity information of Emily Johnson. The device used in this attempt was an iPhone connected to Wi-Fi network "CafeWiFi."
+[13:09:23] [fraudulent] User Axl Collins successfully opened a checking account with Citibank using the stolen Social Security number of Michael Brown. This transaction took place on the same device that was previously used to attempt the Chase Bank credit card.
+[14:15:37] [fraudulent] Axl Collins attempted to open an account with Wells Fargo using the identity information of Susan Davis. The IP address associated with this attempt was 10.0.0.1, which is known to be located in Los Angeles.
+[14:28:45] [fraudulent] Axl Collins tried to open a savings account with Bank of America using the stolen identity of David Young. The device used for this attempt was an Android phone connected to the network "HomeWiFi."
+[15:01:39] [fraudulent] User Axl Collins successfully created a credit card account with Capital One using the identity information of Lisa Martinez. This transaction occurred on the same device that was used for the previous Bank of America attempt.
+[16:17:23] [fraudulent] Axl Collins attempted to open a checking account with TD Bank using the stolen Social Security number of James Anderson. The IP address associated with this attempt was 198.51.100.2, which is known to be located in Philadelphia.
+[16:35:41] [fraudulent] Axl Collins tried to open a loan account with US Bank using the identity information of Jennifer Garcia. The device used for this attempt was an iPad connected to the network "PublicWiFi."
+[17:09:23] [fraudulent] User Axl Collins successfully opened a mortgage account with Quicken Loans using the stolen identity of William Clark. This transaction took place on the same device that was previously used for the US Bank loan attempt.
+[18:14:37] [fraudulent] Axl Collins attempted to open a credit union account with Navy Federal Credit Union using the identity information of Daniel Harris. The IP address associated with this attempt was 203.0.113.5, which is known to be located in San Diego.
+[18:26:59] [fraudulent] Axl Collins tried to open a joint checking account with Bank of America using the identity information of Susan Brown. The device used for this attempt was an iPhone connected to the network "CoffeeShopWiFi."
+[18:39:04] [fraudulent] User Axl Collins successfully opened a credit card account with Capital One using the stolen identity of Mark Johnson. This transaction took place on the same device that was previously used for the Bank of America attempt.
+[19:02:16] [fraudulent] Axl Collins attempted to open a savings account with Wells Fargo using the identity information of Melissa Thomas. The IP address associated with this attempt was 173.254.23.8, which is known to be located in Los Angeles.
+[19:16:29] [fraudulent] Axl Collins tried to open an investment account with E*TRADE using the stolen identity of Thomas Smith. The device used for this attempt was a Dell laptop connected to the network "HomeNetwork."
+[19:38:41] [fraudulent] User Axl Collins successfully opened a money market account with Ally Bank using the stolen identity of Katherine White. This transaction took place on the same device that was previously used for the E*TRADE attempt.
+[20:05:03] [fraudulent] Axl Collins attempted to open an online banking account with Chase using the identity information of Samuel Davis. The IP address associated with this attempt was 198.46.197.2, which is known to be located in Chicago.
+[20:21:35] [fraudulent] Axl Collins tried to open a CD account with PNC Bank using the stolen identity of Patricia Brown. The device used for this attempt was an HP laptop connected to the network "MyHomeWiFi."
+[20:47:56] [fraudulent] User Axl Collins successfully opened a money order account with Western Union using the stolen identity of Michael Johnson. This transaction took place on the same device that was previously used for the PNC Bank attempt.
+[21:08:21] [fraudulent] Axl Collins attempted to open an online bill payment account with Discover using the identity information of Elizabeth Harris. The IP address associated with this attempt was 209.48.172.6, which is known to be located in Houston.
+[21:31:39] [fraudulent] Axl Collins tried to open an insurance account with Allstate using the stolen identity of Linda Martinez. The device used for this attempt was a Samsung tablet connected to the network "MyLocalCafeWiFi."
+[21:35:06] [fraudulent] Axl Collins attempted to open a credit card account with Chase using the stolen identity of Thomas Anderson. The IP address associated with this attempt was 75.229.38.2, which is known to be located in Atlanta.
+[21:40:57] [fraudulent] Axl Collins successfully opened a checking account with Bank of America using the stolen identity of Jessica Smith. This transaction took place on the same Samsung tablet that was previously used for the Allstate attempt.
+[21:48:34] [fraudulent] User Axl Collins attempted to open a savings account with USAA using the identity information of David Williams. The IP address associated with this attempt was 192.168.1.5, which is known to be located in Denver.
+[21:53:47] [fraudulent] Axl Collins tried to open a CD account with Wells Fargo using the stolen identity of Karen Thompson. The device used for this attempt was an Apple iPhone connected to the network "MyFavoriteCafeWiFi."
+[22:01:58] [fraudulent] User Axl Collins successfully opened a money market account with Citibank using the stolen identity of James Wilson. This transaction took place on the same Apple iPhone that was previously used for the Wells Fargo attempt.
+[22:09:46] [fraudulent] Axl Collins attempted to open an online investment account with E*TRADE using the identity information of Emily Johnson. The IP address associated with this attempt was 173.254.184.6, which is known to be located in Seattle.
+[22:18:30] [fraudulent] Axl Collins tried to open a mutual fund account with Fidelity using the stolen identity of Matthew Brown. The device used for this attempt was an Asus laptop connected to the network "MyWorkWiFi."
+[22:25:49] [fraudulent] User Axl Collins successfully opened an IRA account with Vanguard using the stolen identity of Rachel Davis. This transaction took place on the same Asus laptop that was previously used for the Fidelity attempt.
+[22:32:57] [fraudulent] Axl Collins attempted to open a credit union account with Navy Federal Credit Union using the identity information of Samuel Adams. The IP address associated with this attempt was 104.244.86.3, which is known to be located in Phoenix.
+[22:37:59] [fraudulent] Axl Collins tried to open a prepaid debit card account with Green Dot using the stolen identity of Olivia Garcia. The device used for this attempt was an LG smartphone connected to the network "MyVacationWiFi."
+[22:41:03] [fraudulent] Axl Collins successfully created a brokerage account with E*TRADE using the stolen identity of William Martinez. The device used for this transaction was an Apple iPad connected to the network "MyHomeWiFi."
+
+[22:45:36] [fraudulent] User Axl Collins attempted to open a checking account with Bank of America using the identity information of Jessica Thompson. The IP address associated with this attempt was 107.178.21.5, which is known to be located in Los Angeles.
+
+[23:09:14] [fraudulent] Axl Collins tried to open a money market account with Ally Bank using the stolen identity of Daniel Wilson. The device used for this attempt was a Samsung tablet connected to the network "MyCafeWiFi."
+
+[23:17:50] [fraudulent] User Axl Collins successfully created a savings account with Chase Bank using the stolen identity of Elizabeth Johnson. The device used for this transaction was an HP desktop computer connected to the network "MyOfficeNetwork."
+
+[23:28:41] [fraudulent] Axl Collins attempted to open a CD account with BBVA Compass Bank using the identity information of Michael Rodriguez. The IP address associated with this attempt was 75.67.193.1, which is known to be located in Atlanta.
+
+[23:45:03] [fraudulent] User Axl Collins tried to open a joint checking account with Wells Fargo using the stolen identity of Sophia Perez. The device used for this attempt was an Asus laptop connected to the network "MyNeighborWiFi."
+
+[23:56:10] [fraudulent] Axl Collins successfully created a line of credit with US Bank using the stolen identity of David Brown. The device used for this transaction was an LG smartphone connected to the network "MySummerWiFi."
+
+[23:59:45] [fraudulent] User Axl Collins attempted to open a payroll savings account with Navy Federal Credit Union using the identity information of Emily Miller. The IP address associated with this attempt was 104.244.86.4, which is known to be located in Phoenix.
+
+[00:00:07] [fraudulent] Axl Collins tried to open a certificate of deposit account with PNC Bank using the stolen identity of James White. The device used for this attempt was an Apple iPhone connected to the network "MyCousinWiFi."
+
+[00:04:15] [fraudulent] User Axl Collins successfully created a credit card account with Discover using the stolen identity of Karen Taylor. The device used for this transaction was an HP desktop computer connected to the network "MyBusinessNetwork."
+[00:07:52] [fraudulent] Axl Collins attempted to open a personal checking account with Wells Fargo using the stolen identity of Mark Johnson. The IP address associated with this attempt was 192.168.1.3, which is known to be located in Chicago.
+
+[00:12:31] [fraudulent] User Axl Collins successfully created a money market account with Capital One using the stolen identity of Olivia Martinez. The device used for this transaction was an Asus laptop connected to the network "MyHomeWiFi."
+
+[00:17:24] [fraudulent] Axl Collins tried to open a joint savings account with Bank of America using the stolen identity of Paul Thompson. The IP address associated with this attempt was 198.51.100.3, which is known to be located in Dallas.
+
+[00:21:33] [fraudulent] User Axl Collins successfully created a mortgage loan application with Chase Bank using the stolen identity of Quentin Jackson. The device used for this transaction was a Dell desktop computer connected to the network "MyOfficeNetwork."
+
+[00:28:24] [fraudulent] Axl Collins attempted to open a student loan account with Sallie Mae using the stolen identity of Rebecca Young. The IP address associated with this attempt was 173.254.66.2, which is known to be located in Los Angeles.
+
+[00:35:48] [fraudulent] User Axl Collins successfully created a brokerage account with E*TRADE using the stolen identity of Thomas Harris. The device used for this transaction was a Samsung tablet connected to the network "MyNeighborWiFi."
+
+[01:02:59] [fraudulent] Axl Collins tried to open an auto loan with Ally Bank using the stolen identity of Vanessa Walker. The IP address associated with this attempt was 108.61.193.15, which is known to be located in Miami.
+
+[01:12:03] [fraudulent] User Axl Collins successfully created an online banking account with USB Bank using the stolen identity of Warren King. The device used for this transaction was a Lenovo laptop connected to the network "MyCousinWiFi."
+
+[01:23:56] [fraudulent] Axl Collins attempted to open a health savings account with Kaiser Permanente using the stolen identity of Xander Lewis. The IP address associated with this attempt was 192.168.0.7, which is known to be located in Atlanta.
+[01:35:18] [fraudulent] User Axl Collins successfully created a credit card account with Bank of America using the stolen identity of Lily Garcia. The device used for this transaction was an Apple iPhone connected to the network "Aerohive_Guest."
+
+[02:01:39] [fraudulent] Axl Collins tried to open a mortgage loan with Wells Fargo using the stolen identity of Samantha Rodriguez. The IP address associated with this attempt was 75.101.242.18, which is known to be located in Chicago.
+
+[02:16:42] [fraudulent] User Axl Collins successfully created an investment account with Fidelity using the stolen identity of James Walker. The device used for this transaction was a Dell desktop computer connected to the network "HomeNetwork_2.4GHz."
+
+[02:31:57] [fraudulent] Axl Collins attempted to open a student loan account with Sallie Mae using the stolen identity of Sarah Brown. The IP address associated with this attempt was 192.168.0.4, which is known to be located in Dallas.
+
+[02:39:53] [fraudulent] User Axl Collins successfully created a utility account with Pacific Gas & Electric using the stolen identity of Timothy Young. The device used for this transaction was an ASUS laptop connected to the network "PGE_Wireless."
+
+[02:46:15] [fraudulent] Axl Collins tried to open a rental car account with Hertz using the stolen identity of Jessica Martinez. The IP address associated with this attempt was 24.68.179.13, which is known to be located in New York City.
+
+[02:54:38] [fraudulent] User Axl Collins successfully created a cable TV account with Spectrum using the stolen identity of Christopher Jackson. The device used for this transaction was an HP laptop connected to the network "Spectrum_WiFi."
+
+[03:07:21] [fraudulent] Axl Collins attempted to open a cell phone account with Verizon using the stolen identity of Olivia Davis. The IP address associated with this attempt was 98.76.5.4, which is known to be located in Phoenix.
+
+[03:18:42] [fraudulent] User Axl Collins successfully created a gym membership account using the stolen identity of Emily Nelson. The device used for this transaction was an LG smartphone connected to the network "Starbucks_WiFi."
+
+[03:25:19] [fraudulent] Axl Collins tried to open an insurance policy with Allstate using the stolen identity of Michael Thompson. The IP address associated with this attempt was 67.212.84.6, which is known to be located in Boston.
+[03:29:56] [fraudulent] User Axl Collins successfully created a credit card account using the stolen identity of Laura Wright. The device used for this transaction was an Asus tablet connected to the network "Cafe_Internet."
+
+[04:12:23] [fraudulent] Axl Collins attempted to open a utility bill account with Pacific Gas & Electric Company using the stolen identity of Susan Miller. The IP address associated with this attempt was 198.51.10.8, which is known to be located in Los Angeles.
+
+[04:27:39] [fraudulent] User Axl Collins successfully created a bank account with Wells Fargo using the stolen identity of James Roberts. The device used for this transaction was an Apple iPhone connected to the network "WiFi_CoffeeShop."
+
+[05:12:11] [fraudulent] Axl Collins attempted to open a rental car account with Hertz using the stolen identity of Maria Rodriguez. The IP address associated with this attempt was 104.29.37.18, which is known to be located in Chicago.
+
+[05:17:54] [fraudulent] User Axl Collins successfully created a utility bill account with Con Edison using the stolen identity of John Davis. The device used for this transaction was an Acer laptop connected to the network "ConEdison_Corporate."
+
+[06:01:32] [fraudulent] Axl Collins attempted to open a home loan account with Bank of America using the stolen identity of Jennifer Brown. The IP address associated with this attempt was 75.98.47.6, which is known to be located in Atlanta.
+
+[06:13:59] [fraudulent] User Axl Collins successfully created a streaming service account with Netflix using the stolen identity of Mark Johnson. The device used for this transaction was a Lenovo tablet connected to the network "Netflix_Guest."
+
+[06:28:45] [fraudulent] Axl Collins attempted to open an online shopping account with Amazon using the stolen identity of Elizabeth White. The IP address associated with this attempt was 173.210.3.4, which is known to be located in Miami.
+
+[06:39:02] [fraudulent] User Axl Collins successfully created a rental property account with Airbnb using the stolen identity of David Harris. The device used for this transaction was a Dell laptop connected to the network "Airbnb_WiFi."
+
+[07:01:48] [fraudulent] Axl Collins attempted to open an online banking account with Chase Bank using the stolen identity of Karen Lee. The IP address associated with this attempt was 209.53.128.2, which is known to be located in Washington D.C.
+

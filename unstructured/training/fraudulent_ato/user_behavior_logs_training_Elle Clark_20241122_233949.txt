@@ -1,0 +1,137 @@
+User ID: Elle Clark
+- 
+[00:15:23] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.2. Access denied. Device: PC_ElleClark-Windows10
+[00:20:12] User Elle Clark - Fraudulent Activity Detected: Further failed login attempts from IP address 192.168.0.2. Suspicious activity noted as the user's location data indicates they are in a different city than their registered address. Access denied. Device: PC_ElleClark-Windows10
+
+[00:24:37] User Elle Clark - Fraudulent Activity Detected: Unusual login pattern detected from IP address 192.168.0.2. Multiple failed attempts within a short period of time, followed by a successful login. Device: PC_ElleClark-Windows10
+
+[00:30:05] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.2 detected again. This time, the user was able to access their account briefly before being logged out due to inactivity. Device: PC_ElleClark-Windows10
+
+[00:35:21] User Elle Clark - Fraudulent Activity Detected: IP address 192.168.0.2 continues to exhibit suspicious activity, with several more failed login attempts. Account access was briefly gained after the user changed their password from a different device and location. Device: PC_ElleClark-Windows10
+
+[00:40:37] User Elle Clark - Fraudulent Activity Detected: The account was accessed successfully from IP address 192.168.0.2 after multiple failed attempts, followed by a series of unusual transactions in a short period of time. Device: PC_ElleClark-Windows10
+
+[00:45:53] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.2 continue, with additional suspicious transactions occurring before access was revoked. Device: PC_ElleClark-Windows10
+
+[00:51:11] User Elle Clark - Fraudulent Activity Detected: The account was accessed successfully from IP address 192.168.0.2 after multiple failed attempts, followed by a series of unusual transactions in a short period of time. Device: PC_ElleClark-MacOS
+
+[00:55:34] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.2 continued, with additional suspicious transactions occurring before access was revoked. Device: PC_ElleClark-MacOS
+
+[01:00:05] User Elle Clark - Fraudulent Activity Detected: Unusual login pattern detected from IP address 192.168.0.2, with multiple failed attempts followed by a successful login and a series of transactions. Device: PC_ElleClark-Windows10
+
+[01:05:37] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.2 continued, with additional suspicious transactions occurring before access was revoked. Device: PC_ElleClark-Windows10
+[01:10:45] User Elle Clark - Fraudulent Activity Detected: A series of failed login attempts were made from a different IP address, 192.168.0.3, with the final attempt successful and more suspicious transactions occurring. Device: PC_ElleClark-Linux
+
+[01:15:32] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.3 continued, followed by a series of unusual transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Linux
+
+[01:20:24] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.4, began making failed login attempts. After several attempts, access was gained and a series of transactions occurred. Device: PC_ElleClark-Windows10
+
+[01:25:13] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.4 continued, with additional suspicious transactions occurring before access was revoked. Device: PC_ElleClark-Windows10
+
+[01:30:05] User Elle Clark - Fraudulent Activity Detected: A different IP address, 192.168.0.5, began making failed login attempts. After several attempts, access was gained and a series of transactions occurred. Device: PC_ElleClark-MacOS
+
+[01:34:51] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.5 continued, with additional suspicious transactions occurring before access was revoked. Device: PC_ElleClark-MacOS
+
+[01:40:32] User Elle Clark - Fraudulent Activity Detected: A series of failed login attempts were made from IP address 192.168.0.6, with the final attempt successful and more suspicious transactions occurring. Device: PC_ElleClark-Windows7
+
+[01:45:33] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.6 continued, followed by a series of unusual transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Windows7
+
+[01:50:34] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.7, began making failed login attempts. After several attempts, access was gained and a series of transactions occurred. Device: PC_ElleClark-Linux
+
+[01:55:37] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.7 continued, with additional suspicious transactions occurring before access was revoked. Device: PC_ElleClark-Linux
+[02:00:38] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.8, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-MacOS
+
+[02:05:39] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.8 continued, with additional unusual transactions occurring before access was revoked once more. Device: PC_ElleClark-MacOS
+
+[02:10:40] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.6, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Windows7
+
+[02:15:41] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.9, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-Linux
+
+[02:20:42] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.9 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Linux
+
+[02:25:43] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.7, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-MacOS
+
+[02:30:44] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.10, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-Windows7
+
+[02:35:45] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.10 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Windows7
+
+[02:40:46] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.8, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-MacOS
+
+[02:45:47] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.11, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-Linux
+[02:50:48] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.11 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Linux
+
+[02:55:49] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.7, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-MacOS
+
+[03:00:50] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.9, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-Windows7
+
+[03:05:51] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.9 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Windows7
+
+[03:10:52] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.6, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-MacOS
+
+[03:15:53] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.4, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-Linux
+
+[03:20:54] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.4 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Linux
+
+[03:25:55] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.2, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-MacOS
+
+[03:30:56] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.3, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-Windows7
+
+[03:35:57] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.3 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Windows7
+[03:40:58] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.4, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Linux
+
+[03:45:59] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.5, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-MacOS
+
+[03:50:00] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.5 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Windows7
+
+[03:55:01] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.2, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Linux
+
+[04:00:02] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.2 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-MacOS
+
+[04:05:03] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.6, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-Windows7
+
+[04:10:04] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.6 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Windows7
+
+[04:15:05] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.3, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Linux
+
+[04:20:06] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.3 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-MacOS
+
+[04:25:07] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.7, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-Windows7
+[04:30:08] User Elle Clark - Fraudulent Activity Detected: Failed login attempts from IP address 192.168.0.7 persisted, followed by a series of unusual transactions. Access was eventually granted after multiple unsuccessful attempts. Device: PC_ElleClark-Windows7
+
+[04:35:09] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.8 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Windows7
+
+[04:40:10] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.6, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Linux
+
+[04:45:11] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.9, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-MacOS
+
+[04:50:12] User Elle Clark - Fraudulent Activity Detected: Failed login attempts from IP address 192.168.0.9 persisted, followed by a series of unusual transactions. Access was eventually granted after multiple unsuccessful attempts. Device: PC_ElleClark-Windows7
+
+[04:55:13] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.10 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Windows7
+
+[05:00:14] User Elle Clark - Fraudulent Activity Detected: Failed login attempts resumed from IP address 192.168.0.1, followed by a series of transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Linux
+
+[05:05:15] User Elle Clark - Fraudulent Activity Detected: A new IP address, 192.168.0.11, began making failed login attempts. The pattern of suspicious transactions continued after access was eventually gained. Device: PC_ElleClark-MacOS
+
+[05:10:16] User Elle Clark - Fraudulent Activity Detected: Failed login attempts from IP address 192.168.0.11 persisted, followed by a series of unusual transactions. Access was eventually granted after multiple unsuccessful attempts. Device: PC_ElleClark-Windows7
+
+[05:15:17] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.12 continued, with additional unusual transactions occurring before access was revoked. Device: PC_ElleClark-Windows7
+[05:20:18] User Elle Clark - Fraudulent Activity Detected: Failed login attempts from IP address 192.168.0.13 began, followed by a surge in abnormal transactions. Access was eventually denied after several unsuccessful attempts. Device: PC_ElleClark-Ubuntu
+
+[05:25:19] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.14 continued, with a series of suspicious transactions taking place before access was temporarily granted. Device: PC_ElleClark-Ubuntu
+
+[05:30:20] User Elle Clark - Fraudulent Activity Detected: Failed login attempts from IP address 192.168.0.15 began, followed by a rapid increase in abnormal transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Windows7
+
+[05:35:21] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.16 continued, with additional unusual transactions occurring before access was eventually gained. Device: PC_ElleClark-Windows7
+
+[05:40:22] User Elle Clark - Fraudulent Activity Detected: Failed login attempts from IP address 192.168.0.17 began, followed by a series of abnormal transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-OpenSUSE
+
+[05:45:23] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.18 continued, with a surge in suspicious transactions taking place before access was temporarily granted. Device: PC_ElleClark-OpenSUSE
+
+[05:50:24] User Elle Clark - Fraudulent Activity Detected: Failed login attempts from IP address 192.168.0.19 began, followed by a rapid increase in abnormal transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Fedora
+
+[05:55:25] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.20 continued, with additional unusual transactions occurring before access was eventually gained. Device: PC_ElleClark-Fedora
+
+[06:00:26] User Elle Clark - Fraudulent Activity Detected: Failed login attempts from IP address 192.168.0.21 began, followed by a series of abnormal transactions. Access was eventually denied after multiple unsuccessful attempts. Device: PC_ElleClark-Manjaro
+
+[06:05:27] User Elle Clark - Fraudulent Activity Detected: Multiple failed login attempts from IP address 192.168.0.22 continued, with a surge in suspicious transactions taking place before access was temporarily granted. Device: PC_ElleClark-Manjaro
+

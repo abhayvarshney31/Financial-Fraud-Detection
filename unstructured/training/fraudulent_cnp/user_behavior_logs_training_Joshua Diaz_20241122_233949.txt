@@ -1,0 +1,189 @@
+User ID: Joshua Diaz
+- 
+[2022-01-15 19:38:47] [fraudulent] Joshua Diaz initiated a chargeback on an order of electronic goods from OnlineElectronicsStore.net after receiving the items. The transaction was processed through the payment gateway SecurePaymentSolutions.
+
+[2022-01-16 15:43:29] [fraudulent] Joshua Diaz initiated another chargeback on a food delivery order from FastFoodDeliveryService.com, claiming non-receipt of the order, despite receiving the items. The transaction was processed using the mobile payment app EasyMobilePayments.
+
+[2022-01-17 16:58:34] [fraudulent] Joshua Diaz initiated a chargeback on a hotel booking from LuxuryHotels.com, alleging that the hotel room was not available as booked. The transaction was processed through the popular online banking service BankOnlineServices.
+
+[2022-01-18 19:12:56] [fraudulent] Joshua Diaz initiated a chargeback on an online course purchase from EducationHub.com, claiming that the course material was not delivered as promised. The transaction was processed using the payment platform FastPaymentGateway.
+
+[2022-01-19 13:45:08] [fraudulent] Joshua Diaz initiated a chargeback on an order of clothing from FashionableClothingStore.com, claiming that the items received were not as described and of poor quality. The transaction was processed using the payment app SwiftMobilePayments.
+
+[2022-01-20 18:35:24] [fraudulent] Joshua Diaz initiated a chargeback on a software license purchase from SoftwareMarketplace.com, alleging that the license key was not provided after payment. The transaction was processed through the online banking service BankOnlineServices.
+
+[2022-01-21 16:59:43] [fraudulent] Joshua Diaz initiated a chargeback on an order of sports equipment from SportsEquipmentStore.com, claiming that the items were damaged upon receipt. The transaction was processed using the mobile payment app EasyMobilePayments.
+
+[2022-01-22 23:08:59] [fraudulent] Joshua Diaz initiated a chargeback on a travel ticket purchase from TravelBookingService.com, claiming that the tickets were never received despite confirmation of delivery. The transaction was processed through the payment platform FastPaymentGateway.
+
+[2022-01-23 19:25:26] [fraudulent] Joshua Diaz initiated a chargeback on an order of health supplements from HealthSupplementStore.com, alleging that the products were counterfeit and not as advertised. The transaction was processed using the payment app SwiftMobilePayments.
+
+[2022-01-24 22:58:47] [fraudulent] Joshua Diaz initiated a chargeback on a car rental from CarRentalService.com, claiming that the car rented was not in good condition as described. The transaction was processed through the online banking service BankOnlineServices.
+[2022-01-25 08:32:19] [fraudulent] Joshua Diaz initiated a chargeback on a subscription box from SubscriptionBoxService.com, stating that the box never arrived even though the tracking information showed delivery. The transaction was processed using the digital wallet app WalletAppPayments.
+
+[2022-01-25 13:45:33] [fraudulent] Joshua Diaz initiated a chargeback on a software license from SoftwareLicenseStore.com, claiming that the license key was invalid even though it was sent via email. The transaction was processed through the payment gateway SecurePaymentGateway.
+
+[2022-01-26 09:18:57] [fraudulent] Joshua Diaz initiated a chargeback on a hotel booking from HotelReservationService.com, alleging that the room was not as described in the listing. The transaction was processed using the payment service CashlessPayments.
+
+[2022-01-26 18:32:12] [fraudulent] Joshua Diaz initiated a chargeback on a digital art purchase from DigitalArtStore.com, claiming that the artwork was not delivered even though it was sent via email. The transaction was processed through the mobile payment app QuickMobilePayments.
+
+[2022-01-27 10:59:34] [fraudulent] Joshua Diaz initiated a chargeback on a language course from LanguageCoursePlatform.com, stating that the course materials were incomplete and not as advertised. The transaction was processed using the online banking service BankOnlineServices.
+
+[2022-01-27 23:08:50] [fraudulent] Joshua Diaz initiated a chargeback on a home appliance from HomeApplianceStore.com, claiming that the appliance was damaged upon receipt and not as described. The transaction was processed through the payment platform FastPaymentGateway.
+
+[2022-01-28 19:35:47] [fraudulent] Joshua Diaz initiated a chargeback on a virtual private network (VPN) subscription from VPNServiceProvider.com, alleging that the service was not working as promised and did not provide the desired level of privacy. The transaction was processed using the payment app SwiftMobilePayments.
+
+[2022-01-29 00:08:57] [fraudulent] Joshua Diaz initiated a chargeback on a online course from OnlineCourseProvider.com, claiming that the course material was not accessible and he never received any confirmation of enrollment. The transaction was processed through the digital wallet app WalletAppPayments.
+
+[2022-01-29 15:45:33] [fraudulent] Joshua Diaz initiated a chargeback on an event ticket from EventTicketsStore.com, stating that the tickets were never received despite confirmation of delivery and that he was unable to attend the event. The transaction was processed using the payment service CashlessPayments.
+
+[2022-01-30 16:59:48] [fraudulent] Joshua Diaz initiated a chargeback on an online gaming subscription from GamingSubscriptionService.com, alleging that the account was never credited with the subscription benefits and that he was unable to access the game content. The transaction was processed through the payment gateway SecurePaymentGateway.
+[2022-01-31 09:28:15] [fraudulent] Joshua Diaz initiated a chargeback on a delivery order from FastFoodDelivery.com, claiming that the food was not delivered and he never received any confirmation of the delivery status. The transaction was processed through the mobile payment app MobilePaymentsApp.
+
+[2022-01-31 14:56:37] [fraudulent] Joshua Diaz initiated a chargeback on a smartphone purchase from SmartPhoneShop.com, stating that the phone never arrived and he received no confirmation of shipment or tracking information. The transaction was processed using the payment service CardlessPayments.
+
+[2022-02-01 08:45:03] [fraudulent] Joshua Diaz initiated a chargeback on a software license from SoftwareLicenseProvider.com, alleging that he did not receive any confirmation of the purchase and that the software was never downloaded or installed. The transaction was processed through the digital wallet app WalletAppPayments.
+
+[2022-02-01 16:35:48] [fraudulent] Joshua Diaz initiated a chargeback on an online booking for a hotel stay from HotelBookingService.com, claiming that he never received the booking confirmation and was unable to check in when arriving at the hotel. The transaction was processed using the payment service CashlessPayments.
+
+[2022-02-02 17:58:23] [fraudulent] Joshua Diaz initiated a chargeback on an e-book purchase from EBookStore.com, stating that he never received the download link and that there was no confirmation of the transaction in his email. The transaction was processed through the payment gateway SecurePaymentGateway.
+
+[2022-02-03 10:25:04] [fraudulent] Joshua Diaz initiated a chargeback on a clothing order from FashionOnlineStore.com, claiming that the package was never delivered and he received no confirmation of shipment or tracking information. The transaction was processed through the mobile payment app MobilePaymentsApp.
+
+[2022-02-03 15:45:46] [fraudulent] Joshua Diaz initiated a chargeback on a meal plan subscription from MealPlanSubscriptions.com, alleging that he never received any confirmation of the purchase and that his first delivery never arrived. The transaction was processed using the payment service CardlessPayments.
+
+[2022-02-04 08:12:57] [fraudulent] Joshua Diaz initiated a chargeback on an online course from OnlineCourseProvider.com, claiming that he never received any confirmation of enrollment and that the course material was not accessible. The transaction was processed through the digital wallet app WalletAppPayments.
+
+[2022-02-04 16:59:08] [fraudulent] Joshua Diaz initiated a chargeback on an event ticket from EventTicketsStore.com, stating that the tickets were never received despite confirmation of delivery and that he was unable to attend the event. The transaction was processed using the payment service CashlessPayments.
+
+[2022-02-05 17:55:13] [fraudulent] Joshua Diaz initiated a chargeback on an online gaming subscription from GamingSubscriptionService.com, alleging that the account was never credited with the subscription benefits and that he was unable to access the game content. The transaction was processed through the payment gateway SecurePaymentGateway.
+[2022-02-06 19:07:45] [fraudulent] Joshua Diaz initiated a chargeback on a subscription box delivery from SubscriptionBoxDelivery.com, claiming that the box was never received even though the tracking information showed it had been delivered to his address. The transaction was processed through the mobile payment service MobilePaymentsApp.
+
+[2022-02-07 13:45:09] [fraudulent] Joshua Diaz initiated a chargeback on a digital book purchase from EBookStore.com, stating that although he received the email confirmation of purchase, the download link was broken and the ebook file was corrupted. The transaction was processed through the digital wallet app WalletAppPayments.
+
+[2022-02-08 16:32:14] [fraudulent] Joshua Diaz initiated a chargeback on a software license purchase from SoftwareLicenseProvider.com, claiming that he had already paid for the software in another transaction and that the software was not installed or accessible after attempting to download it multiple times. The transaction was processed through the payment gateway SecurePaymentGateway.
+
+[2022-02-09 10:18:30] [fraudulent] Joshua Diaz initiated a chargeback on a hotel reservation from HotelBookingService.com, stating that he never received the booking confirmation and that the hotel refused to accommodate him upon arrival, despite showing them the booking reference number. The transaction was processed through the digital wallet app WalletAppPayments.
+
+[2022-02-10 19:05:46] [fraudulent] Joshua Diaz initiated a chargeback on an online food delivery order from FoodDeliveryService.com, claiming that the food never arrived even though he received a notification of delivery and the restaurant confirmed the order had been prepared and dispatched. The transaction was processed through the payment service CashlessPayments.
+
+[2022-02-11 15:33:21] [fraudulent] Joshua Diaz initiated a chargeback on a fitness membership from FitnessGymMembership.com, stating that although he had made the payment, he never received any confirmation of enrollment and was unable to access the gym facilities. The transaction was processed through the digital wallet app WalletAppPayments.
+
+[2022-02-12 08:40:58] [fraudulent] Joshua Diaz initiated a chargeback on a donation to a charity from CharityDonations.com, stating that he had never given permission for the transaction to be processed and that his credit card details had been compromised. The transaction was processed through the payment gateway SecurePaymentGateway.
+
+[2022-02-13 16:58:23] [fraudulent] Joshua Diaz initiated a chargeback on a mobile phone insurance from MobilePhoneInsurance.com, claiming that he had never signed up for the service and that his credit card was not authorized for the transaction. The transaction was processed through the digital wallet app WalletAppPayments.
+
+[2022-02-14 13:05:12] [fraudulent] Joshua Diaz initiated a chargeback on a virtual private network (VPN) subscription from VPNProvider.com, stating that he never received any confirmation of enrollment and that the VPN service was not working as promised. The transaction was processed through the payment service CashlessPayments.
+[2022-02-15 09:30:47] [fraudulent] Joshua Diaz initiated a chargeback on a fitness tracker purchase from FitnessGearStore.com, claiming that the product was never received and that his credit card was not authorized for the transaction. The transaction was processed through the payment service CardlessPayments.
+
+[2022-02-16 11:15:34] [fraudulent] Joshua Diaz initiated a chargeback on a video game subscription from GameSubscriptions.com, stating that his account had been charged without authorization and that he did not have access to the service as promised. The transaction was processed through the payment gateway FastPaymentGateway.
+
+[2022-02-17 14:58:09] [fraudulent] Joshua Diaz initiated a chargeback on a software license from SoftwareLicenseStore.com, claiming that he never received the product and that his credit card was not authorized for the transaction. The transaction was processed through the payment service EasyPayments.
+
+[2022-02-18 09:30:56] [fraudulent] Joshua Diaz initiated a chargeback on a cloud storage subscription from CloudStorageProvider.com, stating that he had never agreed to the subscription terms and that his credit card was not authorized for the transaction. The transaction was processed through the digital wallet app WalletAppPayments.
+
+[2022-02-19 15:48:31] [fraudulent] Joshua Diaz initiated a chargeback on an online course from EducationOnlinePlatform.com, claiming that he had never enrolled in the course and that his credit card was not authorized for the transaction. The transaction was processed through the payment service CardlessPayments.
+
+[2022-02-20 10:50:13] [fraudulent] Joshua Diaz initiated a chargeback on a streaming service subscription from StreamingServiceProvider.com, stating that his account had been charged without authorization and that he did not have access to the service as promised. The transaction was processed through the payment gateway SecurePaymentGateway.
+
+[2022-02-21 15:30:47] [fraudulent] Joshua Diaz initiated a chargeback on an online gaming membership from GamingClubMembership.com, claiming that his account had been charged without authorization and that he did not receive the benefits of the membership. The transaction was processed through the payment service CashlessPayments.
+
+[2022-02-22 13:45:29] [fraudulent] Joshua Diaz initiated a chargeback on a software bundle from SoftwareBundleStore.com, claiming that he never received the product and that his credit card was not authorized for the transaction. The transaction was processed through the payment service EasyPayments.
+
+[2022-02-23 10:55:12] [fraudulent] Joshua Diaz initiated a chargeback on a language learning app subscription from LanguageLearningApp.com, stating that his account had been charged without authorization and that he did not have access to the service as promised. The transaction was processed through the digital wallet app WalletAppPayments.
+[2022-02-23 17:15:09] [fraudulent] Joshua Diaz initiated a chargeback on a fitness tracking device from FitnessTrackerStore.com, claiming that the product arrived damaged and did not function properly, even though he had received it. The transaction was processed through the payment service PayOnlinePayments.
+
+[2022-02-24 18:35:26] [fraudulent] Joshua Diaz initiated a chargeback on an electronic gadget from GadgetMall.com, stating that he never received the product and that his credit card was not authorized for the transaction. The transaction was processed through the payment service CardlessPayments.
+
+[2022-02-25 13:40:13] [fraudulent] Joshua Diaz initiated a chargeback on a pair of wireless headphones from HeadphoneStore.com, claiming that his account had been charged without authorization and that he did not receive the product as promised. The transaction was processed through the payment service FastPayments.
+
+[2022-02-26 15:25:38] [fraudulent] Joshua Diaz initiated a chargeback on a smart home device from SmartHomeDeviceStore.com, stating that his account had been charged without authorization and that he did not receive the product as promised. The transaction was processed through the payment service InstantPayments.
+
+[2022-02-27 10:45:45] [fraudulent] Joshua Diaz initiated a chargeback on a virtual private network (VPN) subscription from VPNServices.com, claiming that his account had been charged without authorization and that he did not have access to the service as promised. The transaction was processed through the payment service PayQuickly.
+
+[2022-02-28 14:55:39] [fraudulent] Joshua Diaz initiated a chargeback on a monthly subscription box from SubscriptionBoxStore.com, claiming that his account had been charged without authorization and that he did not receive the box as promised. The transaction was processed through the payment service EasyCheckoutPayments.
+
+[2022-03-01 09:05:27] [fraudulent] Joshua Diaz initiated a chargeback on a book subscription from BookSubscriptionClub.com, stating that his account had been charged without authorization and that he did not receive the books as promised. The transaction was processed through the payment service PayFastPayments.
+
+[2022-03-02 15:15:08] [fraudulent] Joshua Diaz initiated a chargeback on a ticket for an online event from EventTicketsOnline.com, claiming that his account had been charged without authorization and that he did not receive the ticket as promised. The transaction was processed through the payment service SimplePayments.
+
+[2022-03-03 10:45:59] [fraudulent] Joshua Diaz initiated a chargeback on a software license from SoftwareLicensingStore.com, claiming that his account had been charged without authorization and that he did not receive the product as promised. The transaction was processed through the payment service FastPaymentsPlus.
+
+[2022-03-04 14:05:45] [fraudulent] Joshua Diaz initiated a chargeback on a meal subscription from MealSubscriptionService.com, stating that his account had been charged without authorization and that he did not receive the meals as promised. The transaction was processed through the payment service EasyPaymentsPlus.
+[2022-03-05 11:25:29] [fraudulent] Joshua Diaz initiated a chargeback on a pair of shoes from ShoeStoreOnline.com, claiming that his account had been charged without authorization and that the shoes were not delivered as promised. The transaction was processed through the payment service PayFastPayments.
+
+[2022-03-06 15:35:18] [fraudulent] Joshua Diaz initiated a chargeback on a smartphone from ElectronicsStoreOnline.com, stating that his account had been charged without authorization and that the product was not delivered as promised. The transaction was processed through the payment service SimplePayments.
+
+[2022-03-07 10:45:39] [fraudulent] Joshua Diaz initiated a chargeback on a hotel reservation from HotelBookingOnline.com, claiming that his account had been charged without authorization and that the reservation was not honored. The transaction was processed through the payment service FastPaymentsPlus.
+
+[2022-03-08 14:15:12] [fraudulent] Joshua Diaz initiated a chargeback on an online course from EducationOnlinePlatform.com, stating that his account had been charged without authorization and that he did not receive access to the course as promised. The transaction was processed through the payment service EasyPaymentsPlus.
+
+[2022-03-09 10:50:08] [fraudulent] Joshua Diaz initiated a chargeback on a car rental from CarRentalOnline.com, claiming that his account had been charged without authorization and that the car rental was not provided as promised. The transaction was processed through the payment service PayFastPayments.
+
+[2022-03-10 15:45:05] [fraudulent] Joshua Diaz initiated a chargeback on a virtual private network (VPN) subscription from VPNServiceProvider.com, stating that his account had been charged without authorization and that the service was not provided as promised. The transaction was processed through the payment service SimplePayments.
+
+[2022-03-11 13:45:08] [fraudulent] Joshua Diaz initiated a chargeback on a fitness membership from FitnessCenterOnline.com, claiming that his account had been charged without authorization and that he did not receive access to the facility as promised. The transaction was processed through the payment service FastPaymentsPlus.
+
+[2022-03-12 08:45:09] [fraudulent] Joshua Diaz initiated a chargeback on an online game subscription from GameSubscriptionsOnline.com, stating that his account had been charged without authorization and that he did not receive access to the game as promised. The transaction was processed through the payment service EasyPaymentsPlus.
+
+[2022-03-13 14:15:07] [fraudulent] Joshua Diaz initiated a chargeback on a language learning course from LanguageLearningPlatform.com, claiming that his account had been charged without authorization and that he did not receive access to the course as promised. The transaction was processed through the payment service PayFastPayments.
+
+[2022-03-14 09:50:18] [fraudulent] Joshua Diaz initiated a chargeback on an airline ticket from FlightBookingOnline.com, stating that his account had been charged without authorization and that the airline ticket was not provided as promised. The transaction was processed through the payment service SimplePayments.
+[2022-03-15 12:00:29] [fraudulent] Joshua Diaz initiated a chargeback on a fitness membership from FitnessMembershipClub.com, claiming that his account had been charged without authorization and that he did not receive access to the club as promised. The transaction was processed through the payment service SecurePayments.
+
+[2022-03-16 07:25:14] [fraudulent] Joshua Diaz initiated a chargeback on a software license from SoftwareLicenseMarketplace.com, stating that his account had been charged without authorization and that he did not receive access to the software as promised. The transaction was processed through the payment service FastPayments.
+
+[2022-03-17 13:50:06] [fraudulent] Joshua Diaz initiated a chargeback on a cooking class subscription from CookingClassHub.com, claiming that his account had been charged without authorization and that he did not receive access to the classes as promised. The transaction was processed through the payment service EasyPayments.
+
+[2022-03-18 09:35:47] [fraudulent] Joshua Diaz initiated a chargeback on a photography course from PhotographyCoursesOnline.com, stating that his account had been charged without authorization and that he did not receive access to the course as promised. The transaction was processed through the payment service SafePayments.
+
+[2022-03-19 15:40:12] [fraudulent] Joshua Diaz initiated a chargeback on an online music streaming subscription from MusicStreamingServices.com, claiming that his account had been charged without authorization and that he did not receive access to the streaming service as promised. The transaction was processed through the payment service QuickPayments.
+
+[2022-03-20 19:25:08] [fraudulent] Joshua Diaz initiated a chargeback on a virtual private network (VPN) subscription from VPNProviderOnline.com, stating that his account had been charged without authorization and that he did not receive access to the VPN service as promised. The transaction was processed through the payment service SecurePayments.
+
+[2022-03-21 09:00:45] [fraudulent] Joshua Diaz initiated a chargeback on an online storage plan from OnlineStorageSolution.com, claiming that his account had been charged without authorization and that he did not receive access to the storage plan as promised. The transaction was processed through the payment service FastPayments.
+
+[2022-03-22 13:50:09] [fraudulent] Joshua Diaz initiated a chargeback on an eBook library subscription from EBookLibraryPlus.com, stating that his account had been charged without authorization and that he did not receive access to the eBooks as promised. The transaction was processed through the payment service EasyPayments.
+
+[2022-03-23 19:15:31] [fraudulent] Joshua Diaz initiated a chargeback on a cloud-based software trial from CloudSoftwareTrials.com, claiming that his account had been charged without authorization and that he did not receive access to the trial as promised. The transaction was processed through the payment service QuickPayments.
+
+[2022-03-24 15:30:47] [fraudulent] Joshua Diaz initiated a chargeback on a language learning app from LanguageAppStore.com, stating that his account had been charged without authorization and that he did not receive access to the app as promised. The transaction was processed through the payment service SafePayments.
+[2022-03-25 08:12:06] [fraudulent] Joshua Diaz initiated a chargeback on a virtual private network (VPN) subscription from VPNServicePro.com, claiming that his account had been charged without authorization and that he could not access the VPN service as promised. The transaction was processed through the payment service FastPayments.
+
+[2022-03-26 18:45:39] [fraudulent] Joshua Diaz initiated a chargeback on a fitness app subscription from FitnessAppsPlus.com, stating that his account had been charged without authorization and that he did not receive access to the workout plans as promised. The transaction was processed through the payment service EasyPayments.
+
+[2022-03-27 12:28:54] [fraudulent] Joshua Diaz initiated a chargeback on an online gaming subscription from GameSubscriptions.com, claiming that his account had been charged without authorization and that he did not receive access to the games as promised. The transaction was processed through the payment service QuickPayments.
+
+[2022-03-28 19:05:13] [fraudulent] Joshua Diaz initiated a chargeback on a meal kit delivery service from MealKitDelivery.com, stating that his account had been charged without authorization and that he did not receive the meal kits as promised. The transaction was processed through the payment service SafePayments.
+
+[2022-03-29 14:50:47] [fraudulent] Joshua Diaz initiated a chargeback on a virtual classroom subscription from VirtualClassroomHub.com, claiming that his account had been charged without authorization and that he did not receive access to the virtual classrooms as promised. The transaction was processed through the payment service FastPayments.
+
+[2022-03-30 17:50:06] [fraudulent] Joshua Diaz initiated a chargeback on a language learning platform from LanguageLearningPlatforms.com, stating that his account had been charged without authorization and that he did not receive access to the learning materials as promised. The transaction was processed through the payment service EasyPayments.
+
+[2022-03-31 09:50:38] [fraudulent] Joshua Diaz initiated a chargeback on a remote tutoring service from TutorFinder.com, claiming that his account had been charged without authorization and that he did not receive the tutoring sessions as promised. The transaction was processed through the payment service QuickPayments.
+
+[2022-03-31 14:45:26] [fraudulent] Joshua Diaz initiated a chargeback on an online music streaming service from MusicStreamingServices.com, stating that his account had been charged without authorization and that he did not receive access to the music as promised. The transaction was processed through the payment service SafePayments.
+
+[2022-04-01 19:35:07] [fraudulent] Joshua Diaz initiated a chargeback on a digital art software subscription from ArtSoftwareSubscriptions.com, claiming that his account had been charged without authorization and that he did not receive access to the software as promised. The transaction was processed through the payment service FastPayments.
+
+[2022-04-02 23:50:19] [fraudulent] Joshua Diaz initiated a chargeback on a coding bootcamp subscription from CodingBootcamps.com, stating that his account had been charged without authorization and that he did not receive access to the course materials as promised. The transaction was processed through the payment service EasyPayments.
+[2022-04-03 17:05:28] [fraudulent] Joshua Diaz initiated a chargeback on a fitness app subscription from FitnessAppSubscriptions.com, claiming that his account had been charged without authorization and that he did not receive access to the workout plans as promised. The transaction was processed through the payment service SecurePayments.
+
+[2022-04-05 12:38:49] [fraudulent] Joshua Diaz initiated a chargeback on a virtual private network (VPN) service from VPNServiceProviders.com, stating that his account had been charged without authorization and that he did not receive access to the VPN as promised. The transaction was processed through the payment service QuickPayments.
+
+[2022-04-07 16:15:03] [fraudulent] Joshua Diaz initiated a chargeback on a language learning app subscription from LanguageLearningApps.com, claiming that his account had been charged without authorization and that he did not receive access to the lessons as promised. The transaction was processed through the payment service FastPayments.
+
+[2022-04-08 19:55:34] [fraudulent] Joshua Diaz initiated a chargeback on an online gaming subscription from GamingSubscriptions.com, stating that his account had been charged without authorization and that he did not receive access to the games as promised. The transaction was processed through the payment service SafePayments.
+
+[2022-04-10 23:29:28] [fraudulent] Joshua Diaz initiated a chargeback on a meal planning service from MealPlanningServices.com, claiming that his account had been charged without authorization and that he did not receive access to the meal plans as promised. The transaction was processed through the payment service EasyPayments.
+
+[2022-04-12 09:50:39] [fraudulent] Joshua Diaz initiated a chargeback on an e-book library subscription from EBookLibrarySubscriptions.com, stating that his account had been charged without authorization and that he did not receive access to the e-books as promised. The transaction was processed through the payment service SecurePayments.
+
+[2022-04-13 17:05:05] [fraudulent] Joshua Diaz initiated a chargeback on a remote desktop software subscription from RemoteDesktopSoftware.com, claiming that his account had been charged without authorization and that he did not receive access to the software as promised. The transaction was processed through the payment service QuickPayments.
+
+[2022-04-15 08:15:23] [fraudulent] Joshua Diaz initiated a chargeback on an online tutoring service from OnlineTutoringServices.com, stating that his account had been charged without authorization and that he did not receive the tutoring sessions as promised. The transaction was processed through the payment service FastPayments.
+
+[2022-04-17 16:50:39] [fraudulent] Joshua Diaz initiated a chargeback on a cloud storage service from CloudStorageProviders.com, claiming that his account had been charged without authorization and that he did not receive access to the storage space as promised. The transaction was processed through the payment service SafePayments.
+
+[2022-04-19 23:45:17] [fraudulent] Joshua Diaz initiated a chargeback on a project management software subscription from ProjectManagementSoftware.com, stating that his account had been charged without authorization and that he did not receive access to the software as promised. The transaction was processed through the payment service EasyPayments.
+

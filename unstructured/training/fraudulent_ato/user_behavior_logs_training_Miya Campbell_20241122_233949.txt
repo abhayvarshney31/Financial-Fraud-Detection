@@ -1,0 +1,179 @@
+User ID: Miya Campbell
+- 
+[2023-01-09 16:37:25] [fraudulent] Miya Campbell attempted to access her account from a location in Paris, France. However, this IP address has previously been flagged for suspicious activity. The device used was an iPhone 12 with OS version 15.4.
+
+[2023-01-09 18:12:02] [fraudulent] Minutes later, Miya Campbell's account was accessed again from a location in Dubai, United Arab Emirates. The device used was an Android Samsung Galaxy S21 with OS version 15.4.
+
+[2023-01-09 18:45:09] [fraudulent] Immediately after the Dubai attempt, Miya's account was accessed from a location in Buenos Aires, Argentina. The device used was a Huawei P30 with OS version 15.5, which has been flagged for multiple fraud attempts in the past.
+
+[2023-01-09 19:08:41] [fraudulent] Within an hour, Miya's account was accessed again from a location in New Delhi, India. The device used was an iPad Pro with OS version 15.6, which has no previous record of suspicious activity.
+
+[2023-01-09 19:25:24] [fraudulent] Just minutes later, Miya's account was accessed from a location in Sydney, Australia. The device used was a Google Pixel 6 with OS version 15.7, which has been previously flagged for fraud attempts.
+
+[2023-01-09 20:33:08] [fraudulent] After the Sydney attempt, Miya's account was accessed from a location in Johannesburg, South Africa. The device used was an Xiaomi Redmi Note 10 with OS version 15.8, which has been flagged multiple times for suspicious activity.
+
+[2023-01-09 21:47:45] [fraudulent] Within hours of the Johannesburg attempt, Miya's account was accessed from a location in Singapore. The device used was an OPPO Find X3 with OS version 15.9, which has been linked to multiple fraud attempts previously.
+
+[2023-01-09 22:08:24] [fraudulent] Moments after the Singapore attempt, Miya's account was accessed from a location in Sao Paulo, Brazil. The device used was an ASUS ZenFone 8 with OS version 15.10, which has been flagged for suspicious activity in the past.
+
+[2023-01-10 00:47:09] [fraudulent] Just before midnight, Miya's account was accessed from a location in Cairo, Egypt. The device used was an LG Velvet with OS version 15.11, which has been linked to multiple fraud attempts previously.
+
+[2023-01-10 01:02:46] [fraudulent] Minutes after the Cairo attempt, Miya's account was accessed from a location in Toronto, Canada. The device used was an iPhone SE with OS version 15.12, which has no previous record of suspicious activity.
+[2023-01-10 01:27:18] [fraudulent] Shortly after the Toronto attempt, Miya's account was accessed from a location in Moscow, Russia. The device used was an Xiaomi Mi 11 with OS version 15.13, which has been flagged for suspicious activity in the past.
+
+[2023-01-10 01:49:57] [fraudulent] Within minutes of the Moscow attempt, Miya's account was accessed from a location in Sydney, Australia. The device used was a Samsung Galaxy S21 with OS version 15.14, which has been linked to multiple fraud attempts previously.
+
+[2023-01-10 02:19:19] [fraudulent] Just before 2 am, Miya's account was accessed from a location in Paris, France. The device used was an Huawei P40 with OS version 15.15, which has no previous record of suspicious activity.
+
+[2023-01-10 03:49:22] [fraudulent] Approximately three hours after the Johannesburg attempt, Miya's account was accessed from a location in Tokyo, Japan. The device used was a Sony Xperia 1 II with OS version 15.16, which has been flagged for suspicious activity in the past.
+
+[2023-01-10 04:08:57] [fraudulent] Within minutes of the Tokyo attempt, Miya's account was accessed from a location in Seoul, South Korea. The device used was an OPPO Find X3 with OS version 15.9, which has been linked to multiple fraud attempts previously.
+
+[2023-01-10 06:24:01] [fraudulent] A few hours after the Seoul attempt, Miya's account was accessed from a location in New York City, USA. The device used was an iPhone XR with OS version 15.17, which has no previous record of suspicious activity.
+
+[2023-01-10 08:49:31] [fraudulent] Just after 8 am, Miya's account was accessed from a location in Dubai, United Arab Emirates. The device used was an Samsung Galaxy S20 with OS version 15.18, which has been flagged for suspicious activity in the past.
+
+[2023-01-10 10:07:49] [fraudulent] A few hours after the Dubai attempt, Miya's account was accessed from a location in Los Angeles, USA. The device used was a Google Pixel 5 with OS version 15.19, which has been linked to multiple fraud attempts previously.
+
+[2023-01-10 11:48:08] [fraudulent] Just before noon, Miya's account was accessed from a location in Mumbai, India. The device used was an OnePlus 9 Pro with OS version 15.20, which has no previous record of suspicious activity.
+[2023-01-10 13:17:23] [fraudulent] A few hours after the Mumbai attempt, Miya's account was accessed from a location in London, United Kingdom. The device used was an iPhone 13 with OS version 15.21, which has been flagged for suspicious activity multiple times before.
+
+[2023-01-10 14:46:39] [fraudulent] Just after 2 pm, Miya's account was accessed from a location in Rio de Janeiro, Brazil. The device used was a Samsung Galaxy S21 with OS version 15.22, which has no previous record of suspicious activity but is registered to an address associated with a known fraud ring.
+
+[2023-01-10 16:14:57] [fraudulent] A few hours after the Rio de Janeiro attempt, Miya's account was accessed from a location in Sydney, Australia. The device used was an OPPO Find X3 with OS version 15.23, which has been flagged for suspicious activity in the past and is currently under investigation by law enforcement.
+
+[2023-01-10 17:48:09] [fraudulent] Just before 6 pm, Miya's account was accessed from a location in Paris, France. The device used was an Xiaomi Mi 11 with OS version 15.24, which has no previous record of suspicious activity but is registered to an address associated with a known cybercriminal group.
+
+[2023-01-10 19:09:16] [fraudulent] A few hours after the Paris attempt, Miya's account was accessed from a location in Tokyo, Japan. The device used was an iPhone SE with OS version 15.25, which has been flagged for suspicious activity multiple times before and is registered to the same address associated with the cybercriminal group in Paris.
+
+[2023-01-10 20:47:08] [fraudulent] Just after 8 pm, Miya's account was accessed from a location in Moscow, Russia. The device used was a Huawei P30 with OS version 15.26, which has no previous record of suspicious activity but is registered to an address linked to a known fraud ring.
+
+[2023-01-10 22:17:39] [fraudulent] A few hours after the Moscow attempt, Miya's account was accessed from a location in Johannesburg, South Africa. The device used was an LG V60 with OS version 15.27, which has been flagged for suspicious activity multiple times before and is currently under investigation by law enforcement.
+
+[2023-01-10 23:48:58] [fraudulent] Just before midnight, Miya's account was accessed from a location in Berlin, Germany. The device used was an ASUS ZenFone 7 with OS version 15.28, which has no previous record of suspicious activity but is registered to an address associated with a known cybercriminal group.
+[2023-01-11 00:39:06] [fraudulent] At the stroke of midnight, Miya's account was accessed from a location in Sao Paulo, Brazil. The device used was an iPhone 13 with OS version 15.29, which has been flagged for suspicious activity multiple times before and is linked to several instances of identity theft.
+
+[2023-01-11 02:08:43] [fraudulent] A couple of hours later, Miya's account was accessed from a location in Sydney, Australia. The device used was an Oppo Find X3 with OS version 15.30, which has no previous record of suspicious activity but is registered to an address associated with a known money laundering operation.
+
+[2023-01-11 04:36:57] [fraudulent] In the early hours of the morning, Miya's account was accessed from a location in Dubai, United Arab Emirates. The device used was a Samsung Galaxy S21 with OS version 15.31, which has been flagged for suspicious activity multiple times before and is currently under investigation by local authorities.
+
+[2023-01-11 06:49:02] [fraudulent] Just after sunrise, Miya's account was accessed from a location in Toronto, Canada. The device used was a Google Pixel 5 with OS version 15.32, which has no previous record of suspicious activity but is registered to an address linked to a known hacking group.
+
+[2023-01-11 09:48:21] [fraudulent] In the late morning, Miya's account was accessed from a location in New Delhi, India. The device used was a Xiaomi Mi 11 with OS version 15.33, which has no previous record of suspicious activity but is registered to an address associated with a cybercriminal group in the past.
+
+[2023-01-11 11:39:47] [fraudulent] A few hours later, Miya's account was accessed from a location in Buenos Aires, Argentina. The device used was an HTC U11 with OS version 15.34, which has been flagged for suspicious activity multiple times before and is linked to several instances of financial fraud.
+
+[2023-01-11 13:56:09] [fraudulent] In the afternoon, Miya's account was accessed from a location in Rio de Janeiro, Brazil. The device used was a Motorola Moto G with OS version 15.35, which has no previous record of suspicious activity but is registered to an address associated with a known cybercrime organization.
+
+[2023-01-11 16:49:38] [fraudulent] Later in the day, Miya's account was accessed from a location in Tokyo, Japan. The device used was a Sony Xperia XZ Premium with OS version 15.36, which has no previous record of suspicious activity but is registered to an address linked to a known cybercriminal group in the past.
+
+[2023-01-11 19:47:58] [fraudulent] In the evening, Miya's account was accessed from a location in Mumbai, India. The device used was a Nokia 8 with OS version 15.37, which has no previous record of suspicious activity but is registered to an address associated with a cybercriminal group in the past.
+[2023-01-11 22:36:09] [fraudulent] Shortly after, Miya's account was accessed from a location in Melbourne, Australia. The device used was an iPhone X with OS version 15.38, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-11 22:49:27] [fraudulent] Moments later, Miya's account was accessed from a location in Dubai, United Arab Emirates. The device used was a Samsung Galaxy S9 with OS version 15.39, which has no previous record of suspicious activity but is registered to an address associated with a known cybercrime organization.
+
+[2023-01-11 22:55:48] [fraudulent] Within the same hour, Miya's account was accessed from a location in Istanbul, Turkey. The device used was a Huawei P20 with OS version 15.40, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-11 23:17:36] [fraudulent] Later in the night, Miya's account was accessed from a location in Amsterdam, Netherlands. The device used was a OnePlus 5T with OS version 15.41, which has no previous record of suspicious activity but is registered to an address associated with a known cybercrime organization.
+
+[2023-01-12 00:36:17] [fraudulent] In the early morning hours, Miya's account was accessed from a location in Frankfurt, Germany. The device used was an LG V30 with OS version 15.42, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-12 01:49:48] [fraudulent] Shortly after, Miya's account was accessed from a location in Copenhagen, Denmark. The device used was a Xiaomi Mi A1 with OS version 15.43, which has no previous record of suspicious activity but is registered to an address associated with a known cybercrime organization.
+
+[2023-01-12 02:08:39] [fraudulent] In quick succession, Miya's account was accessed from a location in Rome, Italy. The device used was a Google Pixel 2 with OS version 15.44, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-12 02:27:58] [fraudulent] Minutes later, Miya's account was accessed from a location in Madrid, Spain. The device used was an HTC U11 with OS version 15.45, which has no previous record of suspicious activity but is registered to an address associated with a known cybercrime organization.
+
+[2023-01-12 02:38:47] [fraudulent] Finally, Miya's account was accessed from a location in Stockholm, Sweden. The device used was a ZTE Axon 7 with OS version 15.46, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+[2023-01-12 02:49:04] [fraudulent] Moments later, Miya's account was accessed from a location in Paris, France. The device used was an Apple iPhone X with OS version 16.17, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-12 03:15:28] [fraudulent] Shortly after, Miya's account was accessed from a location in Berlin, Germany. The device used was a Samsung Galaxy S9 with OS version 16.18, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-12 03:47:32] [fraudulent] Within an hour, Miya's account was accessed from a location in Brussels, Belgium. The device used was a LG G8 ThinQ with OS version 16.19, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-12 04:17:45] [fraudulent] Another attempt was made to access Miya's account from a location in Amsterdam, Netherlands. The device used was a OnePlus 6T with OS version 16.20, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-12 04:51:02] [fraudulent] Minutes later, Miya's account was accessed from a location in Copenhagen, Denmark. The device used was an Xiaomi Redmi Note 9 with OS version 16.21, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-12 05:23:49] [fraudulent] The account was then accessed from a location in Helsinki, Finland. The device used was a Nokia 7.2 with OS version 16.22, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-12 05:49:38] [fraudulent] Shortly after, Miya's account was accessed from a location in Dublin, Ireland. The device used was a Motorola Moto G7 Play with OS version 16.23, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-12 06:15:48] [fraudulent] Another attempt was made to access Miya's account from a location in Lisbon, Portugal. The device used was a Huawei P30 with OS version 16.24, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-12 06:54:17] [fraudulent] Finally, Miya's account was accessed from a location in Warsaw, Poland. The device used was a Sony Xperia XZ2 with OS version 16.25, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+[2023-01-12 07:28:39] [fraudulent] The following day, Miya's account was accessed again from a location in Barcelona, Spain. The device used was an Apple iPhone 11 with OS version 16.26, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-13 08:49:56] [fraudulent] Just a few hours later, Miya's account was accessed from a location in Prague, Czech Republic. The device used was a Samsung Galaxy S10 with OS version 16.27, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-13 10:24:48] [fraudulent] Another attempt was made to access Miya's account from a location in Athens, Greece. The device used was a Google Pixel 3a with OS version 16.28, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-13 11:59:37] [fraudulent] Later that day, Miya's account was accessed from a location in Brussels, Belgium. The device used was an OPPO Find X with OS version 16.29, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-14 05:28:26] [fraudulent] The next day, Miya's account was accessed from a location in Copenhagen, Denmark. The device used was an ASUS ZenFone 6 with OS version 16.30, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-14 07:54:59] [fraudulent] Shortly after, Miya's account was accessed from a location in Reykjavik, Iceland. The device used was an Xiaomi Redmi Note 8 with OS version 16.31, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-14 09:39:44] [fraudulent] Another attempt was made to access Miya's account from a location in Oslo, Norway. The device used was a Nokia 7.2 with OS version 16.32, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-14 10:59:08] [fraudulent] Later that day, Miya's account was accessed from a location in Stockholm, Sweden. The device used was a Motorola One Vision with OS version 16.33, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-14 12:39:17] [fraudulent] Finally, Miya's account was accessed from a location in Helsinki, Finland. The device used was a Sony Xperia L3 with OS version 16.34, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+[2023-01-15 08:10:43] [fraudulent] The next day, another attempt was made to access Miya's account from a location in Copenhagen, Denmark. The device used was an Apple iPhone X with OS version 17.60, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-15 14:25:38] [fraudulent] Later that day, Miya's account was accessed from a location in Berlin, Germany. The device used was a Huawei P Smart with OS version 17.61, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-15 19:40:20] [fraudulent] Another attempt was made to access Miya's account from a location in Dublin, Ireland. The device used was a Samsung Galaxy A70 with OS version 17.62, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-16 09:52:54] [fraudulent] Miya's account was accessed from a location in Paris, France. The device used was a OnePlus 7T with OS version 18.00, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-16 15:09:45] [fraudulent] Later that day, another attempt was made to access Miya's account from a location in Amsterdam, Netherlands. The device used was a Google Pixel 4a with OS version 18.01, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-16 19:57:36] [fraudulent] Another attempt was made to access Miya's account from a location in Barcelona, Spain. The device used was a Xiaomi Redmi Note 9 with OS version 18.02, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-17 08:46:51] [fraudulent] Miya's account was accessed from a location in Rome, Italy. The device used was an Oppo Find X2 with OS version 19.00, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-17 15:38:05] [fraudulent] Later that day, another attempt was made to access Miya's account from a location in Madrid, Spain. The device used was an LG Velvet with OS version 19.01, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-17 18:53:43] [fraudulent] Another attempt was made to access Miya's account from a location in Prague, Czech Republic. The device used was a Nokia 5.4 with OS version 19.02, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-18 09:24:17] [fraudulent] Miya's account was accessed from a location in Vienna, Austria. The device used was a HTC U12 Life with OS version 19.03, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+[2023-01-18 11:57:32] [fraudulent] Another attempt was made to access Miya's account from a location in Berlin, Germany. The device used was an iPhone SE with OS version 19.04, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-18 15:02:45] [fraudulent] Miya's account was accessed from a location in Paris, France. The device used was a Samsung Galaxy A71 with OS version 19.05, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-18 17:18:21] [fraudulent] Another attempt was made to access Miya's account from a location in Warsaw, Poland. The device used was a Xiaomi Redmi Note 9 with OS version 19.06, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-18 18:52:59] [fraudulent] Miya's account was accessed from a location in Rome, Italy. The device used was a OnePlus Nord with OS version 19.07, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-19 10:45:31] [fraudulent] Another attempt was made to access Miya's account from a location in Brussels, Belgium. The device used was a Google Pixel 4a with OS version 19.08, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-19 13:27:08] [fraudulent] Miya's account was accessed from a location in Amsterdam, Netherlands. The device used was a Motorola One Hyper with OS version 19.09, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-19 15:18:43] [fraudulent] Another attempt was made to access Miya's account from a location in Budapest, Hungary. The device used was an OPPO Find X2 with OS version 19.10, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-19 16:58:05] [fraudulent] Miya's account was accessed from a location in Istanbul, Turkey. The device used was a Sony Xperia 1 II with OS version 19.11, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-20 08:45:27] [fraudulent] Another attempt was made to access Miya's account from a location in Zagreb, Croatia. The device used was a Vivo X60 with OS version 19.12, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-20 10:18:41] [fraudulent] Miya's account was accessed from a location in Sofia, Bulgaria. The device used was a Huawei P40 Pro with OS version 19.13, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+[2023-01-20 14:56:19] [fraudulent] Miya's account was accessed from a location in Athens, Greece. The device used was an iPhone 13 Pro with OS version 19.14, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-21 07:03:57] [fraudulent] Another attempt was made to access Miya's account from a location in Bucharest, Romania. The device used was a Samsung Galaxy S21 Ultra with OS version 19.15, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-21 08:34:23] [fraudulent] Miya's account was accessed from a location in Belgrade, Serbia. The device used was a Xiaomi Mi 11 Ultra with OS version 19.16, which has no previous record of suspicious activity but is registered to an address linked to a cybercrime organization.
+
+[2023-01-21 13:48:01] [fraudulent] Another attempt was made to access Miya's account from a location in Skopje, North Macedonia. The device used was an OPPO Find X3 Pro with OS version 19.17, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-21 21:28:56] [fraudulent] Miya's account was accessed from a location in Sarajevo, Bosnia and Herzegovina. The device used was a Google Pixel 6 Pro with OS version 19.18, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-22 04:57:32] [fraudulent] Another attempt was made to access Miya's account from a location in Podgorica, Montenegro. The device used was an LG V60 ThinQ with OS version 19.19, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-22 14:25:08] [fraudulent] Miya's account was accessed from a location in Valletta, Malta. The device used was a Nokia 9 PureView with OS version 19.20, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-22 16:34:51] [fraudulent] Another attempt was made to access Miya's account from a location in Nicosia, Cyprus. The device used was a Motorola Edge+ with OS version 19.21, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+
+[2023-01-23 11:08:16] [fraudulent] Miya's account was accessed from a location in Pristina, Kosovo. The device used was a Sony Xperia 1 III with OS version 19.22, which has no previous record of suspicious activity but is registered to an address linked to a cybercriminal group in the past.
+
+[2023-01-23 15:47:38] [fraudulent] Another attempt was made to access Miya's account from a location in Ljubljana, Slovenia. The device used was a OnePlus 9 Pro with OS version 19.23, which has no previous record of suspicious activity but is registered to an address associated with a cybercrime organization.
+

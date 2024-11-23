@@ -1,0 +1,46 @@
+User ID: Jaziel Ross
+- 
+[2021-08-15 14:32:05] User Jaziel Ross logged in from IP address 192.168.1.5 using device MAC: B8:27:EB:4F:3A:9C, type: fraudulent
+[2021-08-15 14:36:07] Jaziel Ross successfully applied for a $2,500 refund on their account and immediately initiated a wire transfer to Bank of America (account number 1234-567890) using device MAC: B8:27:EB:4F:3A:9C
+[2021-08-15 14:38:09] Suspicious login attempt from a new IP address (12.13.45.67) with the same device MAC: B8:27:EB:4F:3A:9C, type: fraudulent
+[2021-08-15 14:39:11] Jaziel Ross's account was temporarily locked due to multiple failed login attempts. The account is now under review for potential security breach and fraudulent activity.
+[2021-08-15 14:43:03] Account unlocked and active again with a new IP address (193.17.201.6), likely due to account recovery process initiated by Jaziel Ross.
+[2021-08-15 14:48:05] Another large refund of $3,200 was processed and immediately transferred to a different Bank of America account (account number 9876-543210), using device MAC: C0:5E:8A:9C:DF:9F
+[2021-08-15 14:49:07] Multiple failed login attempts detected from a new IP address (192.168.2.3) with the same device MAC: C0:5E:8A:9C:DF:9F, type: fraudulent
+[2021-08-15 14:51:13] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+[2021-08-15 15:02:08] Jaziel Ross's account was accessed from a new IP address (203.17.194.5) using device MAC: D0:A3:EA:CB:FE:3C, type: fraudulent
+[2021-08-15 15:06:00] A $4,000 refund was processed and immediately transferred to a different Bank of America account (account number 7894-561320) using device MAC: D0:A3:EA:CB:FE:3C
+[2021-08-15 15:09:02] Multiple failed login attempts detected from a new IP address (210.43.230.6) with the same device MAC: D0:A3:EA:CB:FE:3C, type: fraudulent
+[2021-08-15 15:11:07] Jaziel Ross's account was accessed from a new IP address (216.19.202.8) using device MAC: E1:B9:F3:D4:A7:C1, type: fraudulent
+[2021-08-15 15:14:04] A $3,500 refund was processed and immediately transferred to a different Bank of America account (account number 6985-012340) using device MAC: E1:B9:F3:D4:A7:C1
+[2021-08-15 15:18:02] Multiple failed login attempts detected from a new IP address (209.61.80.12) with the same device MAC: E1:B9:F3:D4:A7:C1, type: fraudulent
+[2021-08-15 15:21:07] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+[2021-08-15 16:03:08] Jaziel Ross's account was accessed from a new IP address (194.190.230.7) using device MAC: F2:D5:8C:F7:5A:09, type: fraudulent
+[2021-08-15 16:06:01] A $2,800 refund was processed and immediately transferred to a different Bank of America account (account number 4398-123450) using device MAC: F2:D5:8C:F7:5A:09
+[2021-08-15 16:09:03] Multiple failed login attempts detected from a new IP address (207.180.140.5) with the same device MAC: F2:D5:8C:F7:5A:09, type: fraudulent
+[2021-08-15 16:12:04] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+[2021-08-15 16:15:09] Jaziel Ross's account was accessed from a new IP address (239.120.55.6) using device MAC: C3:F4:B7:E6:A2:DC, type: fraudulent
+[2021-08-15 16:18:02] A $3,100 refund was processed and immediately transferred to a different Bank of America account (account number 9582-047650) using device MAC: C3:F4:B7:E6:A2:DC
+[2021-08-15 16:21:05] Multiple failed login attempts detected from a new IP address (90.180.120.4) with the same device MAC: C3:F4:B7:E6:A2:DC, type: fraudulent
+[2021-08-15 16:24:06] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+[2021-08-15 16:27:07] Jaziel Ross's account was accessed from a new IP address (196.100.40.9) using device MAC: E1:B9:F3:D4:A7:C1, type: fraudulent
+[2021-08-15 16:30:09] A $3,500 refund was processed and immediately transferred to a different Bank of America account (account number 4398-123451) using device MAC: E1:B9:F3:D4:A7:C1
+[2021-08-15 16:33:10] Multiple failed login attempts detected from a new IP address (209.61.80.13) with the same device MAC: E1:B9:F3:D4:A7:C1, type: fraudulent
+[2021-08-15 16:36:11] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+[2021-08-15 16:39:13] Jaziel Ross's account was accessed from a new IP address (70.31.17.2) using device MAC: D1:A7:F2:E9:B4:C2, type: fraudulent
+[2021-08-15 16:42:14] A $4,500 refund was processed and immediately transferred to a different Bank of America account (account number 4398-123451) using device MAC: D1:A7:F2:E9:B4:C2
+[2021-08-15 16:45:15] Multiple failed login attempts detected from a new IP address (205.69.120.4) with the same device MAC: D1:A7:F2:E9:B4:C2, type: fraudulent
+[2021-08-15 16:48:16] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+[2021-08-15 17:03:19] Jaziel Ross's account was accessed from a new IP address (86.34.224.7) using device MAC: D3:A9:B4:E2:C3:E5, type: fraudulent
+[2021-08-15 17:06:20] A second $4,500 refund was processed and immediately transferred to the same Bank of America account (account number 4398-123451) using device MAC: D3:A9:B4:E2:C3:E5
+[2021-08-15 17:09:21] Multiple failed login attempts detected from a new IP address (198.21.216.10) with the same device MAC: D3:A9:B4:E2:C3:E5, type: fraudulent
+[2021-08-15 17:12:22] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+[2021-08-15 17:23:18] Jaziel Ross's account was accessed from a new IP address (209.168.108.3) using device MAC: D1:A7:F2:E9:B4:C2, type: fraudulent
+[2021-08-15 17:26:29] A third $4,500 refund was processed and immediately transferred to the same Bank of America account (account number 4398-123451) using device MAC: D1:A7:F2:E9:B4:C2
+[2021-08-15 17:29:30] Multiple failed login attempts detected from a new IP address (211.158.39.1) with the same device MAC: D1:A7:F2:E9:B4:C2, type: fraudulent
+[2021-08-15 17:32:31] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+[2021-08-15 17:44:42] Jaziel Ross's account was accessed from a new IP address (192.0.34.6) using device MAC: D3:A9:B4:E2:C3:E5, type: fraudulent
+[2021-08-15 17:47:43] A fourth $4,500 refund was processed and immediately transferred to the same Bank of America account (account number 4398-123451) using device MAC: D3:A9:B4:E2:C3:E5
+[2021-08-15 17:50:44] Multiple failed login attempts detected from a new IP address (198.21.216.11) with the same device MAC: D3:A9:B4:E2:C3:E5, type: fraudulent
+[2021-08-15 17:53:45] Account locked again due to suspicious activity and multiple failed login attempts. Investigation is underway.
+

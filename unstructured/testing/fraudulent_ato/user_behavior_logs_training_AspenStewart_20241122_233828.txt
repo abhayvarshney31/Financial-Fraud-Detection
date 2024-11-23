@@ -1,0 +1,117 @@
+User ID: Aspen Stewart
+- 
+[2021-10-03 15:47:28] - Fraudulent: Aspen Stewart attempted to access their account from an IP address located in New York, USA. The device used was an iPhone 12 running iOS 14.6.
+
+[2021-10-03 16:59:32] - Fraudulent: Aspen Stewart tried to access their account from a different IP address, this time located in Los Angeles, USA. The device was the same iPhone 12 running iOS 14.6.
+
+[2021-10-03 18:23:57] - Fraudulent: Aspen Stewart made another attempt to access their account from an IP address in Chicago, USA. The device used was the same iPhone 12 running iOS 14.6.
+
+[2021-10-03 19:48:13] - Fraudulent: Aspen Stewart attempted to access their account from a different IP address located in Houston, USA. The device was the same iPhone 12 running iOS 14.6.
+
+[2021-10-03 21:14:49] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Miami, USA. The device used was an iPad Pro 11-inch running iOS 14.6.
+
+[2021-10-03 22:40:59] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Dallas, USA. The device was the same iPad Pro 11-inch running iOS 14.6.
+
+[2021-10-03 23:57:39] - Fraudulent: Aspen Stewart attempted to access their account from an IP address in Atlanta, USA. The device used was an iPad Pro 11-inch running iOS 14.6.
+
+[2021-10-03 23:58:09] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Denver, USA. The device was the same iPad Pro 11-inch running iOS 14.6.
+
+[2021-10-03 23:58:19] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Boston, USA. The device used was a MacBook Pro running macOS 11.3 Big Sur.
+
+[2021-10-03 23:58:46] - Fraudulent: Aspen Stewart made the last attempt to access their account from a different IP address in Washington D.C., USA. The device was the same MacBook Pro running macOS 11.3 Big Sur.
+[2021-10-04 00:05:28] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Chicago, USA. The device used was a MacBook Pro running macOS 11.3 Big Sur.
+
+[2021-10-04 00:15:09] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Miami, USA. The device was the same MacBook Pro running macOS 11.3 Big Sur.
+
+[2021-10-04 00:22:19] - Fraudulent: Aspen Stewart tried to access their account from an IP address in New York City, USA. The device used was a Samsung Galaxy S21 running Android 11. The VPN IP address indicated that it was also connected to the East Coast.
+
+[2021-10-04 00:30:55] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Los Angeles, USA. The device was the same Samsung Galaxy S21 running Android 11.
+
+[2021-10-04 00:36:38] - Fraudulent: Aspen Stewart tried to access their account from an IP address in San Francisco, USA. The device used was a Google Pixel 5 running Android 11.
+
+[2021-10-04 00:45:49] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Seattle, USA. The device was the same Google Pixel 5 running Android 11.
+
+[2021-10-04 00:53:26] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Portland, Oregon, USA. The device used was a Microsoft Surface Pro X running Windows 10.
+
+[2021-10-04 00:59:37] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Salt Lake City, Utah, USA. The device was the same Microsoft Surface Pro X running Windows 10.
+
+[2021-10-04 01:03:59] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Denver, Colorado, USA. The device used was a Dell XPS 13 running Windows 10.
+
+[2021-10-04 01:10:37] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Phoenix, Arizona, USA. The device was the same Dell XPS 13 running Windows 10.
+[2021-10-04 01:16:45] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Las Vegas, Nevada, USA. The device used was a MacBook Pro running macOS Big Sur.
+
+[2021-10-04 01:23:26] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Los Angeles, California, USA. The device was the same MacBook Pro running macOS Big Sur.
+
+[2021-10-04 01:30:59] - Fraudulent: Aspen Stewart tried to access their account from an IP address in San Diego, California, USA. The device used was a Samsung Galaxy S21 running Android 11.
+
+[2021-10-04 01:38:17] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in San Francisco, California, USA. The device was the same Samsung Galaxy S21 running Android 11.
+
+[2021-10-04 01:45:36] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Sacramento, California, USA. The device used was an iPhone 12 running iOS 14.
+
+[2021-10-04 01:52:37] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Oakland, California, USA. The device was the same iPhone 12 running iOS 14.
+
+[2021-10-04 01:59:59] - Fraudulent: Aspen Stewart tried to access their account from an IP address in San Jose, California, USA. The device used was a Google Pixel 6 running Android 12.
+
+[2021-10-04 02:07:26] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Berkeley, California, USA. The device was the same Google Pixel 6 running Android 12.
+
+[2021-10-04 02:13:59] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Davis, California, USA. The device used was a LG V60 ThinQ running Android 11.
+
+[2021-10-04 02:21:37] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Fresno, California, USA. The device was the same LG V60 ThinQ running Android 11.
+[2021-10-04 02:30:24] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Sacramento, California, USA. The device used was a Samsung Galaxy S21 Ultra running Android 12.
+
+[2021-10-04 02:37:50] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Riverside, California, USA. The device was the same Samsung Galaxy S21 Ultra running Android 12.
+
+[2021-10-04 02:45:36] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Los Angeles, California, USA. The device used was a OnePlus 9 Pro running Android 12.
+
+[2021-10-04 02:52:57] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Santa Barbara, California, USA. The device was the same OnePlus 9 Pro running Android 12.
+
+[2021-10-04 02:59:39] - Fraudulent: Aspen Stewart tried to access their account from an IP address in San Diego, California, USA. The device used was a Xiaomi Mi 11 Ultra running Android 12.
+
+[2021-10-04 03:07:58] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Anaheim, California, USA. The device was the same Xiaomi Mi 11 Ultra running Android 12.
+
+[2021-10-04 03:15:30] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Irvine, California, USA. The device used was a Google Pixel 6 Pro running Android 12.
+
+[2021-10-04 03:23:57] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Burbank, California, USA. The device was the same Google Pixel 6 Pro running Android 12.
+
+[2021-10-04 03:32:29] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Ventura, California, USA. The device used was a Samsung Galaxy Z Fold 3 running Android 12.
+
+[2021-10-04 03:40:59] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Inglewood, California, USA. The device was the same Samsung Galaxy Z Fold 3 running Android 12.
+[2021-10-04 03:49:58] - Fraudulent: Aspen Stewart tried to access their account from an IP address in San Bernardino, California, USA. The device used was a OnePlus 9 Pro running Android 12.
+
+[2021-10-04 03:58:17] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Oakland, California, USA. The device was the same OnePlus 9 Pro running Android 12.
+
+[2021-10-04 04:06:35] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Sacramento, California, USA. The device used was a LG V60 ThinQ running Android 12.
+
+[2021-10-04 04:15:08] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Riverside, California, USA. The device was the same LG V60 ThinQ running Android 12.
+
+[2021-10-04 04:23:47] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Los Angeles, California, USA. The device used was a Motorola Edge 20 Pro running Android 12.
+
+[2021-10-04 04:32:25] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in San Diego, California, USA. The device was the same Motorola Edge 20 Pro running Android 12.
+
+[2021-10-04 04:38:50] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Stockton, California, USA. The device used was a Sony Xperia 1 II running Android 12.
+
+[2021-10-04 04:47:38] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Fresno, California, USA. The device was the same Sony Xperia 1 II running Android 12.
+
+[2021-10-04 04:56:13] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Modesto, California, USA. The device used was a Nokia 8.3 running Android 12.
+
+[2021-10-04 05:06:49] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Bakersfield, California, USA. The device was the same Nokia 8.3 running Android 12.
+[2021-10-04 05:16:31] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Sacramento, California, USA. The device used was a Google Pixel 5 running Android 12.
+
+[2021-10-04 05:28:15] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Los Angeles, California, USA. The device was the same Google Pixel 5 running Android 12.
+
+[2021-10-04 05:39:57] - Fraudulent: Aspen Stewart tried to access their account from an IP address in San Jose, California, USA. The device used was a Samsung Galaxy S21 Ultra running Android 12.
+
+[2021-10-04 06:03:18] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Anaheim, California, USA. The device was the same Samsung Galaxy S21 Ultra running Android 12.
+
+[2021-10-04 06:15:49] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Riverside, California, USA. The device used was a OnePlus 9 Pro running Android 12.
+
+[2021-10-04 06:28:35] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Orange County, California, USA. The device was the same OnePlus 9 Pro running Android 12.
+
+[2021-10-04 06:37:52] - Fraudulent: Aspen Stewart tried to access their account from an IP address in San Diego County, California, USA. The device used was a Xiaomi Mi 11 Ultra running Android 12.
+
+[2021-10-04 06:53:18] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Ventura County, California, USA. The device was the same Xiaomi Mi 11 Ultra running Android 12.
+
+[2021-10-04 07:11:59] - Fraudulent: Aspen Stewart tried to access their account from an IP address in Inyo County, California, USA. The device used was a LG V60 ThinQ running Android 12.
+
+[2021-10-04 07:26:35] - Fraudulent: Aspen Stewart made another attempt to access their account from a different IP address in Mono County, California, USA. The device was the same LG V60 ThinQ running Android 12.
+

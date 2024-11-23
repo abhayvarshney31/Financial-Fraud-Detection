@@ -1,0 +1,57 @@
+User ID: Julieta Gao
+- 
+[2021-07-15 13:42:30] [fraudulent] User Julieta Gao created an account with email address j.g@example.com, using a VPN to connect from IP address 192.168.0.5. This email is similar to her previous accounts.
+[2021-07-15 13:43:12] [fraudulent] Julieta Gao accessed her account with the same email (j.g@example.com) from a new device, using an IP address 198.51.100.2. This is different from previous log entries where she used a VPN.
+[2021-07-15 13:46:04] [fraudulent] Julieta Gao attempted to make a transaction of $1,000 with her account associated with email address j.g@example.com and IP address 198.51.100.2.
+[2021-07-16 03:04:21] [fraudulent] Julieta Gao created another account with a similar email address, jg.ao@example.com, and connected from IP address 192.168.0.10.
+[2021-07-16 03:11:54] [fraudulent] Julieta Gao accessed the newly created account with email jg.ao@example.com from a different device and IP address (198.51.100.4).
+[2021-07-16 03:21:33] [fraudulent] Julieta Gao attempted to make another transaction of $1,500 with her account associated with email address jg.ao@example.com and IP address 198.51.100.4.
+[2021-07-17 10:36:19] [fraudulent] Julieta Gao created a third account with a slightly different email address, jgao@example.com, and connected from IP address 192.168.0.15.
+[2021-07-17 10:43:37] [fraudulent] Julieta Gao accessed the third account with email jgao@example.com from a new device and IP address (198.51.100.6).
+[2021-07-17 10:53:45] [fraudulent] Julieta Gao attempted to make another transaction of $2,000 with her account associated with email address jgao@example.com and IP address 198.51.100.6.
+[2021-07-18 01:15:48] [fraudulent] Julieta Gao created a fourth account with the email address jgau@example.com, and connected from IP address 192.168.0.20.
+[2021-07-18 01:22:36] [fraudulent] Julieta Gao accessed the fourth account with email jgau@example.com from a different device and IP address (198.51.100.8).
+[2021-07-18 01:36:12] [fraudulent] Julieta Gao attempted to make another transaction of $3,000 with her account associated with email address jgau@example.com and IP address 198.51.100.8.
+[2021-07-18 01:43:45] [fraudulent] Julieta Gao created a fifth account with the email address jgava@example.com, and connected from IP address 192.168.0.25.
+[2021-07-18 01:49:39] [fraudulent] Julieta Gao accessed the fifth account with email jgava@example.com from a new device and IP address (198.51.100.10).
+[2021-07-18 02:00:23] [fraudulent] Julieta Gao attempted to make another transaction of $4,000 with her account associated with email address jgava@example.com and IP address 198.51.100.10.
+[2021-07-19 03:24:57] [fraudulent] Julieta Gao created a sixth account with the email address jgavb@example.com, and connected from IP address 192.168.0.30.
+[2021-07-19 03:34:09] [fraudulent] Julieta Gao accessed the sixth account with email jgavb@example.com from a different device and IP address (198.51.100.12).
+[2021-07-19 03:45:21] [fraudulent] Julieta Gao attempted to make another transaction of $5,000 with her account associated with email address jgavb@example.com and IP address 198.51.100.12.
+[2021-07-19 03:56:12] [fraudulent] Julieta Gao created a seventh account with the email address jgavc@example.com, and connected from IP address 192.168.0.45.
+[2021-07-19 04:02:48] [fraudulent] Julieta Gao accessed the seventh account with email jgavc@example.com from a new device and IP address (198.51.100.23).
+[2021-07-19 04:13:31] [fraudulent] Julieta Gao attempted to make another transaction of $6,000 with her account associated with email address jgavc@example.com and IP address 198.51.100.23.
+[2021-07-20 04:35:29] [fraudulent] Julieta Gao created an eighth account with the email address jgavd@example.com, and connected from IP address 192.168.0.60.
+[2021-07-20 04:43:55] [fraudulent] Julieta Gao accessed the eighth account with email jgavd@example.com from a different device and IP address (198.51.100.34).
+[2021-07-20 04:55:10] [fraudulent] Julieta Gao attempted to make another transaction of $7,000 with her account associated with email address jgavd@example.com and IP address 198.51.100.34.
+[2021-07-20 04:56:45] [fraudulent] Julieta Gao created a ninth account with the email address jgave@example.com, and connected from IP address 192.168.0.50.
+[2021-07-20 05:03:50] [fraudulent] Julieta Gao accessed the ninth account with email jgave@example.com from a different device and IP address (198.51.100.45).
+[2021-07-20 05:15:10] [fraudulent] Julieta Gao attempted to make another transaction of $8,000 with her account associated with email address jgave@example.com and IP address 198.51.100.45.
+[2021-07-21 04:30:35] [fraudulent] Julieta Gao created a tenth account with the email address jgavc@example.com, which is similar to her previously used email (jgavc@example.com), and connected from IP address 192.168.0.55.
+[2021-07-21 04:37:49] [fraudulent] Julieta Gao accessed the tenth account with email jgavc@example.com, which is similar to her previously used email, from a new device and IP address (198.51.100.56).
+[2021-07-21 04:50:53] [fraudulent] Julieta Gao attempted to make another transaction of $9,000 with her account associated with email address jgavc@example.com and IP address 198.51.100.56.
+[2021-07-22 04:21:32] [fraudulent] Julieta Gao created an eleventh account with the email address jgavd@example.com, which is similar to her previously used email (jgavd@example.com), and connected from IP address 192.168.0.65.
+[2021-07-22 04:28:57] [fraudulent] Julieta Gao accessed the eleventh account with email jgavd@example.com, which is similar to her previously used email, from a different device and IP address (198.51.100.64).
+[2021-07-22 04:39:40] [fraudulent] Julieta Gao attempted to make another transaction of $10,000 with her account associated with email address jgavd@example.com and IP address 198.51.100.64.
+[2021-07-22 04:43:52] [fraudulent] Julieta Gao created a twelfth account with the email address jgave@example.com, which is similar to her previously used emails (jgavc@example.com and jgavd@example.com), from IP address 192.168.0.67.
+[2021-07-23 05:01:24] [fraudulent] Julieta Gao accessed the twelfth account with email jgave@example.com, which is similar to her previously used emails, from a new device and IP address (198.51.100.73).
+[2021-07-23 05:06:43] [fraudulent] Julieta Gao attempted to make another transaction of $11,000 with her account associated with email address jgave@example.com and IP address 198.51.100.73.
+[2021-07-24 05:16:57] [fraudulent] Julieta Gao created a thirteenth account with the email address jgavf@example.com, which is similar to her previously used emails (jgavc@example.com, jgavd@example.com, and jgave@example.com), from IP address 192.168.0.71.
+[2021-07-24 05:23:14] [fraudulent] Julieta Gao accessed the thirteenth account with email jgavf@example.com, which is similar to her previously used emails, from a different device and IP address (198.51.100.86).
+[2021-07-24 05:32:52] [fraudulent] Julieta Gao attempted to make another transaction of $12,000 with her account associated with email address jgavf@example.com and IP address 198.51.100.86.
+[2021-07-24 05:38:45] [fraudulent] Julieta Gao created a fourteenth account with the email address jgavg@example.com, which is similar to her previously used emails (jgavc@example.com, jgavd@example.com, jgave@example.com, and jgavf@example.com), from IP address 192.168.0.72.
+[2021-07-24 05:41:36] [fraudulent] Julieta Gao accessed the fourteenth account with email jgavg@example.com, which is similar to her previously used emails, from a different device and IP address (198.51.100.87).
+[2021-07-24 05:51:59] [fraudulent] Julieta Gao attempted to make another transaction of $13,000 with her account associated with email address jgavg@example.com and IP address 198.51.100.87.
+[2021-07-24 06:05:27] [fraudulent] Julieta Gao created a fifteenth account with the email address jgavh@example.com, which is similar to her previously used emails (jgavc@example.com, jgavd@example.com, jgave@example.com, jgavf@example.com, and jgavg@example.com), from IP address 192.168.0.73.
+[2021-07-24 06:13:40] [fraudulent] Julieta Gao accessed the fifteenth account with email jgavh@example.com, which is similar to her previously used emails, from a different device and IP address (198.51.100.88).
+[2021-07-24 06:23:23] [fraudulent] Julieta Gao attempted to make another transaction of $14,000 with her account associated with email address jgavh@example.com and IP address 198.51.100.88.
+[2021-07-24 06:35:08] [fraudulent] Julieta Gao created a sixteenth account with the email address jgavi@example.com, which is similar to her previously used emails (jgavc@example.com, jgavd@example.com, jgave@example.com, jgavf@example.com, and jgavg@example.com, jgavh@example.com), from IP address 192.168.0.74.
+[2021-07-24 06:39:52] [fraudulent] Julieta Gao accessed the sixteenth account with email jgavi@example.com, which is similar to her previously used emails, from a different device and IP address (198.51.100.89).
+[2021-07-24 06:43:37] [fraudulent] Julieta Gao attempted to make another transaction of $15,000 with her account associated with email address jgavi@example.com and IP address 198.51.100.89.
+[2021-07-24 06:47:23] [fraudulent] Julieta Gao attempted to change the email associated with her sixteenth account from jgavi@example.com to a new email address, jgao@example.com, which is similar to her previously used emails (jgavc@example.com, jgavd@example.com, jgave@example.com, jgavf@example.com, and jgavg@example.com, jgavh@example.com, jgavi@example.com).
+[2021-07-24 06:50:48] [fraudulent] Julieta Gao accessed the sixteenth account with email jgao@example.com from a different device and IP address (192.168.0.75).
+[2021-07-24 06:53:52] [fraudulent] Julieta Gao attempted to make another transaction of $16,000 with her account associated with email address jgao@example.com and IP address 192.168.0.75.
+[2021-07-24 06:57:37] [fraudulent] Julieta Gao created a seventeenth account with the email address jgavo@example.com, which is similar to her previously used emails (jgavc@example.com, jgavd@example.com, jgave@example.com, jgavf@example.com, and jgavg@example.com, jgavh@example.com, jgavi@example.com, jgao@example.com), from IP address 198.51.100.90.
+[2021-07-24 07:00:32] [fraudulent] Julieta Gao accessed the seventeenth account with email jgavo@example.com, which is similar to her previously used emails, from a different device and IP address (198.51.100.91).
+[2021-07-24 07:03:58] [fraudulent] Julieta Gao attempted to make another transaction of $17,000 with her account associated with email address jgavo@example.com and IP address 198.51.100.91.
+

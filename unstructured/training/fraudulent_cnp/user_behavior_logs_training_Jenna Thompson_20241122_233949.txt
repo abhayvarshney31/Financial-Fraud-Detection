@@ -1,0 +1,175 @@
+User ID: Jenna Thompson
+- 
+2023-01-01T09:58:30Z [fraudulent] Jenna Thompson attempted to open a new account with the same email address "jenna.thompson@example.com" at Bank A, despite having an existing account with them.
+
+2023-01-01T10:05:42Z [fraudulent] Jenna Thompson successfully opened a new account at Bank B using the email "jenna.thompson+b@example.com". This follows her unsuccessful attempt at Bank A earlier.
+
+2023-01-02T07:34:58Z [fraudulent] Jenna Thompson applied for a loan at Credit Union X, using the same physical address as her existing account at Bank C, but with a slightly altered address format.
+
+2023-01-03T09:12:36Z [fraudulent] Jenna opened a new credit card account at Card issuer Y, providing an old phone number associated with her closed account at another financial institution.
+
+2023-01-04T11:28:57Z [fraudulent] Jenna attempted to open an account at Bank D, but the application was rejected due to suspicious activity detected by the bank's fraud detection system.
+
+2023-01-04T11:36:29Z [fraudulent] Minutes after the rejection, Jenna opened a new account at Bank E using a slightly modified version of her name (Jenny Thompson).
+
+2023-01-05T08:43:12Z [fraudulent] Jenna applied for a mortgage at Mortgage Company Z, using the same physical address as her existing account at Bank F but with an altered suite number.
+
+2023-01-06T09:57:30Z [fraudulent] Jenna opened a new checking account at Online Bank G, providing the same driver's license number as previously used at Bank H.
+
+2023-01-07T10:18:44Z [fraudulent] Jenna applied for a car loan at Auto Loan Company W, using the same employer information as provided in her previous application to Credit Union X.
+
+2023-01-08T09:23:56Z [fraudulent] Jenna opened a new savings account at Bank I, using an almost identical account application as previously used at Bank J, with only the account number and sort code altered.
+2023-01-09T07:58:02Z [fraudulent] Jenna applied for a credit card at Credit Card Company Y, using the same employment details as provided in her previous application to Auto Loan Company W.
+
+2023-01-10T08:32:19Z [fraudulent] Within hours of applying for the credit card, Jenna opened a new account at Bank K, using a different version of her name (Jennifer Thompson) but keeping the same address as her existing account at Online Bank G.
+
+2023-01-11T09:47:35Z [fraudulent] Jenna applied for a personal loan at Loan Company S, providing the same Social Security number as previously used in her application to Bank I.
+
+2023-01-12T10:02:51Z [fraudulent] Jenna opened a new investment account at Investment Firm T, using an almost identical account application as previously used at Credit Card Company Y, with only the account number and sort code altered.
+
+2023-01-13T09:18:08Z [fraudulent] Jenna applied for a home equity loan at Equity Loan Company V, using the same physical address as her existing account at Mortgage Company Z but with an altered suite number.
+
+2023-01-14T09:53:24Z [fraudulent] Within hours of applying for the home equity loan, Jenna opened a new account at Bank L, using a different version of her name (Jennifer Thompson) but keeping the same address as her existing account at Loan Company S.
+
+2023-01-15T10:17:49Z [fraudulent] Jenna applied for a life insurance policy at Insurance Company W, providing the same driver's license number as previously used in her application to Auto Loan Company W.
+2023-01-16T08:52:15Z [fraudulent] Jenna opened a new checking account at Bank M, providing the same email address as used in her previous applications but with a minor variation in the domain.
+
+2023-01-17T10:34:39Z [fraudulent] Jenna applied for a credit card at Credit Card Company X, using an altered version of her Social Security number, while maintaining the same physical address as her existing account at Bank J.
+
+2023-01-18T09:58:22Z [fraudulent] Jenna opened a savings account at Bank N, providing the same phone number as previously used in her application to Pension Company A.
+
+2023-01-19T10:06:47Z [fraudulent] Within hours of opening the savings account, Jenna applied for a personal loan at Loan Company U, using an altered version of her driver's license number while keeping the same physical address as her existing account at Loan Company T.
+
+2023-01-20T08:51:04Z [fraudulent] Jenna opened a joint account with her partner at Bank O, providing the same email address and phone number as previously used in her applications but using an altered version of her name (Jennifer Thompson).
+
+2023-01-21T10:45:23Z [fraudulent] Jenna applied for a car loan at Auto Loan Company Z, providing the same Social Security number as previously used in her application to Bank I.
+
+2023-01-22T09:38:07Z [fraudulent] Within hours of applying for the car loan, Jenna opened a new account at Bank P, using an almost identical account application as previously used at Credit Card Company Y, with only the account number and sort code altered.
+
+2023-01-23T10:09:54Z [fraudulent] Jenna applied for a home equity loan at Equity Loan Company V, using the same physical address as her existing account at Mortgage Company Z but with an altered suite number.
+2023-01-24T07:56:29Z [fraudulent] Jenna opened a new savings account at Savings Bank W, providing the same email address and phone number as previously used in her applications but using an altered version of her name (Jennifer Thompson).
+
+2023-01-25T08:42:37Z [fraudulent] Jenna applied for a credit card at Credit Card Company X, providing the same physical address as her existing account at Credit Card Company Y but with an altered suite number.
+
+2023-01-26T09:39:54Z [fraudulent] Within hours of applying for the credit card, Jenna opened a new account at Bank Q, using an almost identical account application as previously used at Bank P, with only the account number and sort code altered.
+
+2023-01-27T10:08:45Z [fraudulent] Jenna applied for a business loan at Business Loan Company A, using the same Social Security number as previously used in her application to Auto Loan Company Z and providing the same physical address as her existing account at Mortgage Company Z.
+
+2023-01-28T11:27:45Z [fraudulent] Jenna opened a new account at Bank R, using an almost identical account application as previously used at Bank O, with only the account number and sort code altered.
+
+2023-01-29T10:56:18Z [fraudulent] Jenna applied for a personal loan at Personal Loan Company B, providing the same email address and phone number as previously used in her applications but using an altered version of her name (Jennifer Thompson).
+
+2023-01-30T11:35:46Z [fraudulent] Jenna opened a new account at Loan Company S, using the same physical address as her existing account at Loan Company T but with an altered suite number.
+
+2023-01-31T10:18:24Z [fraudulent] Jenna applied for a mortgage at Mortgage Company C, providing the same Social Security number as previously used in her application to Equity Loan Company V and using the same physical address as her existing account at Mortgage Company Z.
+
+2023-02-01T09:54:09Z [fraudulent] Jenna opened a new account at Bank S, using an almost identical account application as previously used at Bank R, with only the account number and sort code altered.
+2023-02-02T10:45:17Z [fraudulent] Jenna applied for a credit card at Credit Card Company W, providing the same physical address as her existing account at Credit Card Company X but with an altered suite number.
+
+2023-02-03T11:26:45Z [fraudulent] Jenna opened a new account at Savings and Investment Company Y, using the same email address and phone number as previously used in her applications to Loan Company S and Mortgage Company C.
+
+2023-02-04T10:17:32Z [fraudulent] Jenna applied for an insurance policy at Insurance Company Z, providing the same Social Security number as previously used in her application to Equity Loan Company V and using the same physical address as her existing account at Mortgage Company C.
+
+2023-02-05T09:48:21Z [fraudulent] Jenna opened a new account at Investment Company A, using an almost identical account application as previously used at Investment Company B, with only the account number and sort code altered.
+
+2023-02-06T10:29:46Z [fraudulent] Jenna applied for a car loan at Car Loan Company C, providing the same physical address as her existing account at Car Loan Company D but with an altered suite number.
+
+2023-02-07T09:54:18Z [fraudulent] Jenna opened a new account at Bank T, using the same email address and phone number as previously used in her applications to Personal Loan Company B and Savings and Investment Company Y.
+
+2023-02-08T10:35:46Z [fraudulent] Jenna applied for a business loan at Business Loan Company U, providing the same Social Security number as previously used in her application to Equity Loan Company V and using the same physical address as her existing account at Car Loan Company C.
+
+2023-02-09T11:47:05Z [fraudulent] Jenna opened a new account at Bank R, using an almost identical account application as previously used at Bank S, with only the account number and sort code altered.
+
+2023-02-10T10:56:18Z [fraudulent] Jenna applied for a personal loan at Personal Loan Company A, providing the same email address and phone number as previously used in her applications to Credit Card Company W and Insurance Company Z.
+
+2023-02-11T09:54:09Z [fraudulent] Jenna opened a new account at Mortgage Company X, using the same physical address as her existing account at Mortgage Company Y but with an altered suite number.
+2023-02-12T10:58:52Z [fraudulent] Jenna applied for a credit card at Credit Card Company X, providing the same name and date of birth as previously used in her applications to Car Loan Company C and Business Loan Company U.
+
+2023-02-13T14:02:31Z [fraudulent] Jenna opened an account at Insurance Company Y, using a nearly identical application as previously used at Insurance Company Z, with only the policy number altered.
+
+2023-02-14T08:59:04Z [fraudulent] Jenna applied for a mortgage at Mortgage Company W, providing the same Social Security number as previously used in her applications to Equity Loan Company V and Business Loan Company U.
+
+2023-02-15T09:57:49Z [fraudulent] Jenna opened a new account at Bank S, using an almost identical application as previously used at Bank R, with only the account number and sort code altered.
+
+2023-02-16T10:10:18Z [fraudulent] Jenna applied for a personal loan at Personal Loan Company B, providing the same email address and phone number as previously used in her applications to Credit Card Company W and Insurance Company Z.
+
+2023-02-17T15:45:29Z [fraudulent] Jenna opened a new account at Savings and Investment Company X, using the same physical address as her existing account at Savings and Investment Company Y but with an altered suite number.
+
+2023-02-18T10:52:49Z [fraudulent] Jenna applied for a business loan at Business Loan Company V, providing the same Social Security number as previously used in her application to Equity Loan Company V and using the same physical address as her existing account at Car Loan Company C.
+
+2023-02-19T11:56:23Z [fraudulent] Jenna opened a new account at Bank T, using an almost identical application as previously used at Bank S, with only the account number and sort code altered.
+
+2023-02-20T10:47:18Z [fraudulent] Jenna applied for a personal loan at Personal Loan Company C, providing the same email address and phone number as previously used in her applications to Credit Card Company W and Insurance Company Z.
+2023-02-21T09:32:05Z [fraudulent] Jenna opened a new account at Investment Company Y, using the same name and date of birth as in her previous application to Savings and Investment Company X, but with an altered middle name and employment history.
+
+2023-02-22T15:49:37Z [fraudulent] Jenna applied for a mortgage at Mortgage Company R, providing the same physical address as her existing account at Savings and Investment Company Y but with an altered suite number, and using the same email address and phone number from her application to Personal Loan Company C.
+
+2023-02-23T10:55:49Z [fraudulent] Jenna opened a new account at Bank R, using almost identical information as in her previous application to Bank T, with only the account number and sort code altered. She also used the same physical address from her application to Mortgage Company R.
+
+2023-02-24T15:27:18Z [fraudulent] Jenna applied for a credit card at Credit Card Company Q, providing the same Social Security number as previously used in her applications to Equity Loan Company V and Business Loan Company V, and using the same email address and phone number from her application to Personal Loan Company C.
+
+2023-02-25T11:46:39Z [fraudulent] Jenna opened a new account at Insurance Company W, using the same name and date of birth as in her previous application to Investment Company Y, but with an altered middle name and employment history. She also used the same physical address from her application to Mortgage Company R.
+
+2023-02-26T14:58:57Z [fraudulent] Jenna applied for a car loan at Car Loan Company W, providing the same Social Security number as previously used in her applications to Equity Loan Company V and Business Loan Company V, and using the same email address and phone number from her application to Personal Loan Company C.
+
+2023-02-27T10:42:25Z [fraudulent] Jenna opened a new account at Bank S, using almost identical information as in her previous application to Bank T, with only the account number and sort code altered. She also used the same physical address from her application to Mortgage Company R.
+
+2023-02-28T15:29:41Z [fraudulent] Jenna applied for a personal loan at Personal Loan Company W, providing the same email address and phone number as previously used in her applications to Credit Card Company W and Insurance Company Z. She also used the same physical address from her application to Mortgage Company R.
+
+2023-03-01T10:58:06Z [fraudulent] Jenna opened a new account at Investment Company Z, using the same name and date of birth as in her previous application to Investment Company Y, but with an altered middle name and employment history. She also used the same physical address from her application to Mortgage Company R.
+2023-03-01T15:21:09Z [fraudulent] Jenna attempted to open a new account at Bank W, providing nearly identical information as in her previous applications to Bank X and Personal Loan Company C. However, this time she used a slightly different physical address, just two blocks away from the one used in her application to Mortgage Company R.
+
+2023-03-01T17:45:12Z [fraudulent] Jenna applied for a credit card at Credit Card Company Y, using the same email address and phone number as previously seen in her applications to Personal Loan Company W and Insurance Company Z. This time, she provided a new physical address from her application to Mortgage Company R, but still within the same neighborhood.
+
+2023-03-02T10:13:35Z [fraudulent] Jenna opened an account at Investment Company A, using similar information to her previous application to Investment Company Z. She changed her middle name and employment history but kept the same date of birth, physical address from her application to Mortgage Company R, and name.
+
+2023-03-02T14:27:58Z [fraudulent] Jenna attempted to open a new account at Bank Y, using nearly identical information as in her previous applications to Bank X and Personal Loan Company C. However, this time she provided a different physical address, just around the corner from the one used in her application to Mortgage Company R.
+
+2023-03-03T08:59:14Z [fraudulent] Jenna applied for a personal loan at Personal Loan Company X, providing the same email address and phone number as previously seen in her applications to Credit Card Company W and Insurance Company Z. This time, she provided a new physical address from her application to Mortgage Company R but still within the same neighborhood.
+
+2023-03-03T15:41:36Z [fraudulent] Jenna opened an account at Investment Company B, using similar information to her previous application to Investment Company A. She changed her middle name and employment history but kept the same date of birth, physical address from her application to Mortgage Company R, and name.
+
+2023-03-04T10:23:59Z [fraudulent] Jenna attempted to open a new account at Bank Z, using nearly identical information as in her previous applications to Bank X and Personal Loan Company C. However, this time she provided a different physical address, just a few blocks away from the one used in her application to Mortgage Company R.
+
+2023-03-04T16:37:18Z [fraudulent] Jenna applied for a credit card at Credit Card Company X, using the same email address and phone number as previously seen in her applications to Personal Loan Company W and Insurance Company Z. This time, she provided a new physical address from her application to Mortgage Company R but still within the same neighborhood.
+
+2023-03-05T10:09:46Z [fraudulent] Jenna opened an account at Investment Company C, using similar information to her previous application to Investment Company B. She changed her middle name and employment history but kept the same date of birth, physical address from her application to Mortgage Company R, and name.
+
+2023-03-05T14:52:03Z [fraudulent] Jenna attempted to open a new account at Bank A, using nearly identical information as in her previous applications to Bank X and Personal Loan Company C. However, this time she provided a different physical address, just across the street from the one used in her application to Mortgage Company R.
+2023-03-06T10:35:37Z [fraudulent] Jenna applied for a car loan at Auto Loan Company Y, using the same email address and phone number as seen in her previous applications to Credit Card Company X and Investment Company C. She provided a new physical address from her application to Mortgage Company R but still within the same neighborhood.
+
+2023-03-06T15:08:24Z [fraudulent] Jenna opened an account at Insurance Company A, using similar information to her previous applications to Insurance Company Z and Investment Company B. She changed her middle name and employment history but kept the same date of birth, physical address from her application to Mortgage Company R, and name.
+
+2023-03-07T11:45:58Z [fraudulent] Jenna attempted to open a new account at Bank B, using nearly identical information as in her previous applications to Bank A and Personal Loan Company C. However, this time she provided a different physical address, just across the street from the one used in her application to Mortgage Company R.
+
+2023-03-07T15:21:06Z [fraudulent] Jenna applied for a mortgage at Mortgage Company S, using the same email address and phone number as seen in her previous applications to Credit Card Company X and Auto Loan Company Y. She provided a new physical address from her application to Mortgage Company R but still within the same neighborhood.
+
+2023-03-08T14:59:45Z [fraudulent] Jenna opened an account at Investment Company D, using similar information to her previous applications to Investment Company C and Insurance Company A. She changed her middle name and employment history but kept the same date of birth, physical address from her application to Mortgage Company S, and name.
+
+2023-03-08T16:47:58Z [fraudulent] Jenna attempted to open a new account at Bank C, using nearly identical information as in her previous applications to Bank B and Personal Loan Company D. However, this time she provided a different physical address, just across the street from the one used in her application to Mortgage Company S.
+
+2023-03-09T10:54:32Z [fraudulent] Jenna applied for a personal loan at Personal Loan Company E, using the same email address and phone number as seen in her previous applications to Credit Card Company X and Auto Loan Company Y. She provided a new physical address from her application to Mortgage Company S but still within the same neighborhood.
+
+2023-03-09T15:34:08Z [fraudulent] Jenna opened an account at Insurance Company B, using similar information to her previous applications to Insurance Company A and Investment Company D. She changed her middle name and employment history but kept the same date of birth, physical address from her application to Mortgage Company S, and name.
+
+2023-03-10T14:26:03Z [fraudulent] Jenna attempted to open a new account at Bank D, using nearly identical information as in her previous applications to Bank C and Personal Loan Company E. However, this time she provided a different physical address, just across the street from the one used in her application to Mortgage Company S.
+2023-03-12T09:18:56Z [fraudulent] Jenna applied for a credit card at Credit Card Company Z, using the same email address and phone number as in her previous applications to Credit Card Company X and Auto Loan Company Y. This time, she listed her current address from the application to Mortgage Company S instead of the one across the street.
+
+2023-03-13T13:45:32Z [fraudulent] Jenna opened a checking account at Bank E, using information very similar to that in her previous applications to Bank D and Personal Loan Company E. She changed her middle name again but kept the same date of birth, physical address from the application to Mortgage Company S, and name.
+
+2023-03-14T11:22:18Z [fraudulent] Jenna attempted to open a new account at Insurance Company C, using nearly identical information as in her previous applications to Insurance Company A and Investment Company D. However, this time she provided a different physical address, just around the corner from the one used in her application to Mortgage Company S.
+
+2023-03-15T16:08:45Z [fraudulent] Jenna applied for an auto loan at Auto Loan Company Z, using the same email address and phone number as in her previous applications to Credit Card Company X and Auto Loan Company Y. She listed her current address from the application to Mortgage Company S instead of the one around the corner.
+
+2023-03-16T08:54:22Z [fraudulent] Jenna opened a savings account at Bank F, using information very similar to that in her previous applications to Bank E and Personal Loan Company E. She changed her middle name again but kept the same date of birth, physical address from the application to Mortgage Company S, and name.
+
+2023-03-17T15:19:06Z [fraudulent] Jenna attempted to open a new account at Investment Company E, using nearly identical information as in her previous applications to Insurance Company A and Investment Company D. However, this time she provided a different physical address, just down the street from the one used in her application to Mortgage Company S.
+
+2023-03-18T11:34:45Z [fraudulent] Jenna applied for a mortgage at Mortgage Company T, using the same email address and phone number as in her previous applications to Credit Card Company X and Auto Loan Company Y. She listed her current address from the application to Mortgage Company S instead of the one down the street.
+
+2023-03-19T14:50:23Z [fraudulent] Jenna opened a brokerage account at Brokerage Company A, using information very similar to that in her previous applications to Bank E and Personal Loan Company E. She changed her middle name again but kept the same date of birth, physical address from the application to Mortgage Company T, and name.
+
+2023-03-20T09:46:01Z [fraudulent] Jenna attempted to open a new account at Insurance Company F, using nearly identical information as in her previous applications to Insurance Company C and Investment Company E. However, this time she provided a different physical address, just around the corner from the one used in her application to Mortgage Company T.
+
+2023-03-21T16:21:40Z [fraudulent] Jenna applied for an auto loan at Auto Loan Company Z, using the same email address and phone number as in her previous applications to Credit Card Company X and Auto Loan Company Y. She listed her current address from the application to Mortgage Company T instead of the one around the corner.
+

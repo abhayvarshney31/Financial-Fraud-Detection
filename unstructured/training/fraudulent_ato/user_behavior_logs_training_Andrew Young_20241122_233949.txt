@@ -1,0 +1,176 @@
+User ID: Andrew Young
+- 
+[2023-01-19 08:56:37] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Attempted to reset account credentials multiple times within minutes. The IP address associated with the device is 123.456.78.90, which appears to be located in a different country than expected.
+
+[2023-01-19 08:58:12] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+The user attempted to reset the account credentials again, but this time from a different IP address. The new IP is 321.654.78.12, and the location seems to be in another country altogether.
+
+[2023-01-19 09:00:37] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+The user continued to attempt to reset the account credentials, now using a VPN service. The IP address associated with this attempt is 543.987.65.04, and it appears to be coming from multiple locations in rapid succession.
+
+[2023-01-19 09:04:03] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+The user's VPN connection dropped, and they quickly reconnected to another server. The new IP address is 789.456.12.31, and the location seems to be in a different continent than previously seen.
+
+[2023-01-19 09:08:19] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+The user's VPN service is now bouncing between multiple IP addresses in quick succession, making it difficult to track their location. However, the activity seems to be concentrated in a specific geographic region.
+
+[2023-01-19 09:11:45] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Suspicious activity detected: the user appears to be testing various combinations of email addresses and passwords in an attempt to gain unauthorized access to other accounts. This behavior suggests a potential credential stuffing attack.
+
+[2023-01-19 09:14:58] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+The user has now attempted to access multiple accounts within a short timeframe, using different IP addresses and VPN servers. This pattern suggests that the user is trying to cover their tracks while conducting unauthorized activities.
+
+[2023-01-19 09:17:46] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+The user has now accessed multiple compromised accounts, likely using stolen or obtained credentials. This further supports the idea that the user is involved in credential stuffing and potentially other forms of fraud.
+
+[2023-01-19 09:21:54] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+The user has now attempted to transfer funds from the compromised accounts, with transactions totaling a significant amount of money. This suggests that the user is looking to cash out their ill-gotten gains and may be planning further fraudulent activities.
+[2023-01-19 09:26:05] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew Young has just attempted to reset the account credentials of another compromised user multiple times within minutes. This persistent behavior indicates a high level of determination and a potential attempt to quickly take control of as many accounts as possible before being detected.
+
+[2023-01-19 09:27:58] - Network: Public WiFi (Starbucks) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has now switched to a public WiFi network in an attempt to avoid detection and continue his fraudulent activities. This move could indicate that he is becoming more cautious and trying to hide his tracks by changing locations or networks.
+
+[2023-01-19 09:30:24] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has attempted to access another set of compromised accounts, this time using a different IP address and VPN server. This suggests that he is actively trying to evade detection by switching between various IP addresses and VPN servers in an attempt to conceal his true location and identity.
+
+[2023-01-19 09:34:57] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has now made multiple failed attempts to reset account credentials. This persistent behavior, despite the repeated failures, indicates that he is becoming increasingly desperate and determined to gain control of the compromised accounts before being caught.
+
+[2023-01-19 09:40:32] - Network: Public WiFi (Park Bench) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has once again changed his location, moving to a park bench and connecting to another public WiFi network. This continuous change of locations and networks further supports the idea that he is actively trying to avoid detection while continuing his fraudulent activities.
+
+[2023-01-19 09:46:08] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has attempted to access even more compromised accounts, using a different VPN server and IP address. His actions suggest that he is not only attempting to gain control of the compromised accounts but also trying to cover his tracks by using various methods to hide his true location and identity.
+
+[2023-01-19 09:51:45] - Network: Public WiFi (Coffee Shop) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has now switched locations once more, connecting to a public WiFi network at a coffee shop. This change in location and network further demonstrates his efforts to evade detection while continuing his fraudulent activities.
+
+[2023-01-19 09:57:32] - Network: Residential ISP - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Despite his previous failures, Andrew has continued to attempt resetting account credentials multiple times within minutes. This determination and persistence indicate that he is becoming increasingly desperate and focused on gaining control of the compromised accounts before being caught.
+
+[2023-01-19 10:04:59] - Network: Public WiFi (Library) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+In his final attempt to avoid detection, Andrew has moved to a public WiFi network at the local library. As he continues to attempt accessing multiple compromised accounts and resetting credentials, his actions demonstrate a pattern of deception and fraud that requires immediate attention and further investigation.
+[2023-01-19 10:17:45] - Network: Public WiFi (Coffee Shop) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has now switched locations, attempting to access compromised accounts from a public WiFi network in a coffee shop. This change in location could be an attempt to avoid detection or to bypass security measures that might be in place at the library.
+
+[2023-01-19 10:24:58] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+After the unsuccessful attempts at the coffee shop, Andrew has reverted to using mobile data on his iPhone XR. This change in network could indicate that he is becoming more cautious and trying to avoid any potential tracking or monitoring by law enforcement.
+
+[2023-01-19 10:46:35] - Network: Public WiFi (Park) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+In an attempt to further evade detection, Andrew has now moved to a public WiFi network in the local park. The change in location once again suggests that he is actively trying to bypass any security measures that may be in place on specific networks or devices.
+
+[2023-01-19 10:54:01] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew continues to switch between networks, returning to mobile data on his iPhone XR. This inconsistency in behavior further highlights his desperation and determination to gain control over compromised accounts before being caught.
+
+[2023-01-19 11:08:54] - Network: Public WiFi (Restaurant) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew's attempts to reset account credentials continue, now from a public WiFi network in a restaurant. The various locations and networks he has used demonstrate his ability to adapt quickly and avoid detection, which could suggest that he is experienced in committing fraudulent activities.
+
+[2023-01-19 11:25:46] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Back to using mobile data on his iPhone XR, Andrew may be trying to minimize the risk of being connected to a specific public WiFi network that could be monitored or blocked. This switch further supports the idea that he is becoming increasingly cautious and aware of potential monitoring efforts.
+
+[2023-01-19 11:46:17] - Network: Public WiFi (Bus Stop) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew's attempts to reset account credentials have now led him to a public WiFi network at the bus stop. This location change, along with his consistent switching between networks and devices, further highlights his determination and resourcefulness in committing fraudulent activities.
+
+[2023-01-19 11:57:43] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has once again reverted to using mobile data on his iPhone XR. This inconsistency in behavior demonstrates his adaptability and willingness to take risks in order to carry out his fraudulent activities.
+
+[2023-01-19 12:15:48] - Network: Public WiFi (Mall) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+In his final attempt to reset account credentials, Andrew has now moved to a public WiFi network at the local mall. Despite his efforts to evade detection and continue his fraudulent activities, it is becoming increasingly clear that he will need to be caught soon before any more damage can be done.
+[2023-01-19 12:25:17] - Network: Public WiFi (Park Bench) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew's relentless pursuit of fraud continues as he switches to a public WiFi network at a park bench. His determination and resourcefulness are evident in his ability to adapt to different environments and networks, showcasing the need for vigilance and constant monitoring of suspicious activities.
+
+[2023-01-19 12:36:42] - Network: Mobile Data (Samsung Galaxy S21) - Device: Samsung Galaxy S21 (unique identifier: A18501xx) - User: Andrew Young - Type: Fraudulent
+To further complicate the situation, Andrew has now switched to using a different device, the Samsung Galaxy S21. This change in device demonstrates his ability to quickly adapt and use multiple devices in an attempt to avoid detection while carrying out fraudulent activities.
+
+[2023-01-19 12:48:59] - Network: Public WiFi (Coffee Shop) - Device: Samsung Galaxy S21 (unique identifier: A18501xx) - User: Andrew Young - Type: Fraudulent
+In yet another attempt to evade detection, Andrew has moved to a public WiFi network at a coffee shop. This consistent pattern of behavior highlights his cunning and resourcefulness in utilizing various networks and devices to execute his fraudulent activities.
+
+[2023-01-19 13:04:16] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew has reverted back to using his original device, the iPhone XR. This change shows his ability to switch between devices quickly and effortlessly, further emphasizing the importance of monitoring all devices for suspicious activity.
+
+[2023-01-19 13:15:41] - Network: Public WiFi (Bus Stop) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+In his latest attempt to reset account credentials, Andrew has moved back to a public WiFi network at the bus stop. This shift in location and network usage demonstrates his persistence and adaptability, making it essential for security measures to be constantly updated and strengthened.
+
+[2023-01-19 13:27:58] - Network: Mobile Data (Samsung Galaxy S21) - Device: Samsung Galaxy S21 (unique identifier: A18501xx) - User: Andrew Young - Type: Fraudulent
+In a surprising turn of events, Andrew has switched back to using the Samsung Galaxy S21. This continuous pattern of device switching highlights his resourcefulness and adaptability in carrying out fraudulent activities while evading detection.
+
+[2023-01-19 13:40:33] - Network: Public WiFi (Mall) - Device: Samsung Galaxy S21 (unique identifier: A18501xx) - User: Andrew Young - Type: Fraudulent
+Andrew has now returned to the public WiFi network at the local mall. His ability to identify and exploit weak points in security measures underscores the need for ongoing vigilance and constant monitoring of suspicious activities.
+
+[2023-01-19 13:54:47] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Despite his previous usage of the Samsung Galaxy S21, Andrew has now reverted back to using his original device, the iPhone XR. This continuous pattern of switching between devices showcases his adaptability and determination in committing fraudulent activities.
+
+[2023-01-19 14:09:26] - Network: Public WiFi (Park Bench) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+In a final attempt to reset account credentials, Andrew has moved back to the public WiFi network at the park bench. This continuous pattern of location and network usage demonstrates his persistence and adaptability in executing fraudulent activities while evading detection.
+[2023-01-19 15:31:02] - Network: Temporary Public WiFi (Coffee Shop) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+In a desperate attempt to regain access, Andrew has moved to a temporary public WiFi network at the coffee shop. This constant change in location and network usage highlights his resourcefulness and eagerness to commit fraudulent activities despite being detected multiple times before.
+
+[2023-01-19 16:48:15] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+After being disconnected from the public WiFi at the coffee shop, Andrew resorts to using mobile data again. This change in network highlights his ability to adapt quickly and continue attempting fraudulent activities even when faced with obstacles.
+
+[2023-01-19 18:05:37] - Network: Public WiFi (Park Bench) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Despite having been seen at the park bench before, Andrew returns to this location in an attempt to reset his account credentials. This action shows his persistence and willingness to risk exposure to continue committing fraudulent activities.
+
+[2023-01-19 18:56:51] - Network: Public WiFi (Coffee Shop) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew quickly moves to another public WiFi network at the coffee shop after being detected yet again. This relocation demonstrates his agility in switching locations and networks to carry out fraudulent activities while evading detection.
+
+[2023-01-19 19:37:19] - Network: Temporary Public WiFi (Library) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+In an attempt to avoid detection, Andrew uses a temporary public WiFi network at the library. This change in location showcases his ability to find new avenues to continue committing fraudulent activities while remaining undetected.
+
+[2023-01-19 20:24:57] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew returns to mobile data after being disconnected from the temporary public WiFi at the library. This action displays his adaptability in switching between networks and locations as he continues to carry out fraudulent activities.
+
+[2023-01-19 21:45:32] - Network: Public WiFi (Park Bench) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew once again attempts to reset his account credentials at the park bench public WiFi network. This action highlights his persistence and determination to continue committing fraudulent activities, despite being caught multiple times before.
+
+[2023-01-19 22:28:04] - Network: Public WiFi (Coffee Shop) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Despite being detected at the coffee shop public WiFi network earlier, Andrew returns to this location in an attempt to regain access. This action demonstrates his resourcefulness and willingness to take risks as he continues his fraudulent activities.
+[2023-01-19 22:57:46] - Network: Public WiFi (Library) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew attempts to reset his account credentials from the library public WiFi network once again. His determination and persistence in committing fraudulent activities despite being caught multiple times is evident.
+
+[2023-01-20 00:14:19] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew switches to mobile data after being disconnected from various public WiFi networks. This action shows his adaptability in using different network connections to continue his fraudulent activities.
+
+[2023-01-20 00:49:35] - Network: Public WiFi (Park Bench) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew returns to the park bench public WiFi network, likely trying a new method to bypass security measures. His consistent use of the same network showcases his familiarity with the location and its potential vulnerabilities.
+
+[2023-01-20 01:24:52] - Network: Public WiFi (Coffee Shop) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew attempts to reset his account credentials yet again from the coffee shop public WiFi network. His repeated visits to this location indicate that he believes it may provide a suitable environment for carrying out fraudulent activities.
+
+[2023-01-20 01:59:18] - Network: Public WiFi (Library) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+In an attempt to avoid detection, Andrew uses a different device while connected to the library public WiFi network. This action demonstrates his resourcefulness and ability to adapt in order to continue committing fraudulent activities.
+
+[2023-01-20 02:33:45] - Network: Public WiFi (Park Bench) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew returns to the park bench public WiFi network after changing devices. This action shows his persistence in using a location he believes is suitable for carrying out fraudulent activities, despite being caught multiple times before.
+
+[2023-01-20 03:08:59] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew uses mobile data again, showcasing his adaptability in switching between networks. His repeated use of mobile data indicates that he may be aware of the limitations and vulnerabilities of this connection type.
+
+[2023-01-20 03:44:14] - Network: Public WiFi (Library) - Device: iPhone XR (unique identifier: A19020xx) - User: Andrew Young - Type: Fraudulent
+Andrew attempts to reset his account credentials from the library public WiFi network for the final time in this sequence. His continuous efforts to carry out fraudulent activities, despite being caught multiple times, demonstrate his determination and persistence.
+[2023-01-20 07:15:32] - Network: Mobile Data (Android tablet) - Device: Samsung Galaxy Tab A (unique identifier: N930W8XXX) - User: Andrew Young - Type: Fraudulent
+Andrew quickly switches to another device and network, demonstrating his resourcefulness. His relentless pursuit of fraudulent activities highlights his adaptability and unwillingness to give up despite being caught multiple times.
+
+[2023-01-20 07:48:56] - Network: Public WiFi (Coffee Shop) - Device: Samsung Galaxy Tab A (unique identifier: N930W8XXX) - User: Andrew Young - Type: Fraudulent
+Andrew continues to attempt to reset his account credentials, even after switching back to a public WiFi network. This action further emphasizes his persistence in carrying out fraudulent activities despite being caught multiple times before.
+
+[2023-01-20 08:25:23] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020xxx) - User: Andrew Young - Type: Fraudulent
+Andrew returns to the iPhone XR and mobile data network, showing his ability to adapt and switch between devices and networks as needed. His constant attempts at carrying out fraudulent activities reveal a high level of determination.
+
+[2023-01-20 08:59:01] - Network: Public WiFi (Gym) - Device: iPhone XR (unique identifier: A19020xxx) - User: Andrew Young - Type: Fraudulent
+Andrew continues his attempts to reset his account credentials, this time from a public WiFi network at the gym. This action demonstrates his willingness to explore various locations and networks in order to carry out fraudulent activities.
+
+[2023-01-20 09:35:48] - Network: Mobile Data (Samsung Galaxy Tab A) - Device: Samsung Galaxy Tab A (unique identifier: N930W8YYY) - User: Andrew Young - Type: Fraudulent
+Despite being caught multiple times, Andrew persists in his fraudulent attempts. He switches back to the Samsung Galaxy Tab A and mobile data network, showcasing his adaptability and determination to continue his malicious activities.
+
+[2023-01-20 09:58:24] - Network: Public WiFi (University) - Device: Samsung Galaxy Tab A (unique identifier: N930W8YYY) - User: Andrew Young - Type: Fraudulent
+Andrew's attempts to reset his account credentials from the university public WiFi network indicate that he is willing to explore various locations and networks in order to carry out fraudulent activities. This shows a high level of determination and adaptability on his part.
+
+[2023-01-20 10:45:59] - Network: Mobile Data (iPhone XR) - Device: iPhone XR (unique identifier: A19020yyy) - User: Andrew Young - Type: Fraudulent
+Andrew once again switches to the iPhone XR and mobile data network, demonstrating his adaptability in using different devices and networks. His continuous efforts to carry out fraudulent activities highlight his determination and persistence.
+
+[2023-01-20 11:18:16] - Network: Public WiFi (Park Bench) - Device: iPhone XR (unique identifier: A19020yyy) - User: Andrew Young - Type: Fraudulent
+Despite being caught multiple times, Andrew continues to attempt to reset his account credentials from the park bench public WiFi network. This action shows his persistence in using a location he believes is suitable for carrying out fraudulent activities, despite being caught multiple times before.
+

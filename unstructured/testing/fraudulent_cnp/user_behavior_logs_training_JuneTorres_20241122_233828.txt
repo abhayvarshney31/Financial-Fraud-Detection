@@ -1,0 +1,347 @@
+User ID: June Torres
+- 
+[2023-05-01 08:32:15] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for online purchase of electronics from "FastTech" without the physical card.
+
+[2023-05-02 12:45:37] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Multiple virtual credit cards created and used for various transactions on "Ebay", exceeding her known spending habits.
+
+[2023-05-03 16:10:49] - Fraudulent Activity Detected
+User: June Torres
+Device: IPAD-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a hotel reservation on "Booking.com" without the physical card, with an unusually high room rate.
+
+[2023-05-04 17:20:28] - Fraudulent Activity Detected
+User: June Torres
+Device: IPAD-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Multiple virtual credit cards used for luxury goods purchases on "FarFetch" and "Net-A-Porter", significantly higher than her known spending habits.
+
+[2023-05-05 18:35:46] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE13-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a large cash withdrawal from an "ATM" without the physical card.
+
+[2023-05-06 20:40:03] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE13-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Multiple virtual credit cards used for international transactions on "PayPal", including countries she has not visited.
+
+[2023-05-07 21:45:21] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a luxury car rental reservation on "Turo" without the physical card.
+
+[2023-05-08 16:10:59] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Multiple virtual credit cards used for high-value jewelry purchases on "JamesAllen" and "BlueNile", far exceeding her known spending habits.
+
+[2023-05-09 18:25:37] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a cryptocurrency investment on "Coinbase" without the physical card.
+
+[2023-05-10 19:40:05] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Multiple virtual credit cards used for a series of online transactions on "Gumroad", possibly selling digital products without her knowledge.
+[2023-05-11 08:27:32] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple luxury watch purchases on "Chrono24", far exceeding her known spending habits.
+
+[2023-05-12 11:15:10] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a luxury yacht charter reservation on "YachtCharterWorld" without the physical card.
+
+[2023-05-13 16:40:09] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a high-value art piece purchase on "Artsy", far exceeding her known spending habits.
+
+[2023-05-14 07:25:33] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Multiple virtual credit cards used for a series of international flight bookings on "Expedia", possibly without her knowledge.
+
+[2023-05-15 12:30:45] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a high-value real estate property down payment on "Zillow", far exceeding her known spending habits.
+
+[2023-05-16 17:15:29] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury fashion items purchases on "Farfetch", far exceeding her known spending habits.
+
+[2023-05-17 04:40:18] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a high-value luxury safari reservation on "TravelSort", far exceeding her known spending habits.
+
+[2023-05-18 11:10:46] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of luxury hotel bookings on "Booking.com", possibly without her knowledge.
+[2023-05-19 09:00:37] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury restaurant reservations on "OpenTable", far exceeding her known spending habits.
+
+[2023-05-20 13:24:58] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for several high-value art pieces purchases on "Christie's", far exceeding her known spending habits.
+
+[2023-05-21 18:42:36] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a high-value luxury yacht charter booking on "Click&Boat", far exceeding her known spending habits.
+
+[2023-05-22 01:35:49] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value jewelry purchases on "JamesEdward.com", far exceeding her known spending habits.
+
+[2023-05-23 08:10:24] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury spa treatments on "SpaFinder.com", possibly without her knowledge.
+
+[2023-05-24 13:16:19] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a high-value luxury car rental on "Turo", far exceeding her known spending habits.
+
+[2023-05-25 17:40:42] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury watch purchases on "Chrono24.com", far exceeding her known spending habits.
+
+[2023-05-26 21:08:10] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury private jet bookings on "JetSmarter", far exceeding her known spending habits.
+[2023-05-27 01:59:25] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury hotel reservations on "Booking.com", far exceeding her known spending habits.
+
+[2023-05-28 16:34:31] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for several high-value luxury vacation packages on "Expedia", far exceeding her known spending habits.
+
+[2023-05-29 19:48:13] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury art purchases on "Art.com", far exceeding her known spending habits.
+
+[2023-05-30 22:16:49] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury jewelry purchases on "BlueNile.com", far exceeding her known spending habits.
+
+[2023-05-31 04:41:08] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for several high-value luxury electronics purchases on "BestBuy.com", far exceeding her known spending habits.
+
+[2023-06-01 17:45:45] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury restaurant reservations on "OpenTable", far exceeding her known spending habits.
+
+[2023-06-02 21:57:52] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury event tickets on "StubHub", far exceeding her known spending habits.
+
+[2023-06-03 04:10:57] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for several high-value luxury furniture purchases on "Wayfair", far exceeding her known spending habits.
+[2023-06-04 18:23:45] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury hotel bookings on "Expedia", far exceeding her known spending habits.
+
+[2023-06-05 21:07:52] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury clothing purchases on "Nordstrom", far exceeding her known spending habits.
+
+[2023-06-06 04:18:57] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for several high-value luxury jewelry purchases on "BlueNile", far exceeding her known spending habits.
+
+[2023-06-07 18:40:55] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury spa and wellness treatments on "Groupon", far exceeding her known spending habits.
+
+[2023-06-08 21:47:52] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury art pieces on "Art.com", far exceeding her known spending habits.
+
+[2023-06-09 04:20:57] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury travel packages on "Expedia", far exceeding her known spending habits.
+
+[2023-06-10 18:47:55] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury vacation rentals on "VRBO", far exceeding her known spending habits.
+
+[2023-06-11 21:50:52] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury car rentals on "Turo", far exceeding her known spending habits.
+[2023-06-12 00:58:57] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury jewelry purchases on "JamesAllen", far exceeding her known spending habits.
+
+[2023-06-13 15:43:54] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury fashion items on "FarFetch", far exceeding her known spending habits.
+
+[2023-06-14 21:58:59] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury electronics purchases on "BestBuy", far exceeding her known spending habits.
+
+[2023-06-15 04:03:57] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury watches on "Chrono24", far exceeding her known spending habits.
+
+[2023-06-16 17:48:58] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury home appliances on "AppliancesConnection", far exceeding her known spending habits.
+
+[2023-06-17 20:54:59] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury art auctions on "Christies", far exceeding her known spending habits.
+
+[2023-06-18 02:40:57] - Fraudulent Activity Detected
+User: June Torres
+Device: IPHONE12-XYZ789
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for multiple high-value luxury pet supplies on "Chewy", far exceeding her known spending habits.
+
+[2023-06-19 13:28:58] - Fraudulent Activity Detected
+User: June Torres
+Device: MACBOOKAIR-MNO999
+Network: ATT
+Location: San Francisco, California
+Details: Virtual credit card used for a series of high-value luxury real estate properties on "Zillow", far exceeding her known spending habits.
+

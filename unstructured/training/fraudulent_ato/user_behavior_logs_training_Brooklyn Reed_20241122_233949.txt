@@ -1,0 +1,89 @@
+User ID: Brooklyn Reed
+- 
+[2023-04-17 09:25:03] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.2, using device: iPhone 13 Pro Max
+[2023-04-17 09:26:05] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.2, using device: iPhone 13 Pro Max
+[2023-04-17 09:27:02] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.2, using device: iPhone 13 Pro Max
+[2023-04-17 09:28:15] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.3, using device: Samsung Galaxy S21
+[2023-04-17 09:29:20] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.3, using device: Samsung Galaxy S21
+[2023-04-17 09:30:32] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.3, using device: Samsung Galaxy S21
+[2023-04-17 09:31:38] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.4, using device: MacBook Pro
+[2023-04-17 09:32:45] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.4, using device: MacBook Pro
+[2023-04-17 09:33:52] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.4, using device: MacBook Pro
+[2023-04-17 09:35:00] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.4, using device: MacBook Pro
+[2023-04-17 09:35:45] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.5, using device: iPhone XR
+[2023-04-17 09:37:03] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.5, using device: iPhone XR
+[2023-04-17 09:38:11] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.5, using device: iPhone XR
+[2023-04-17 09:39:19] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.6, using device: iPad Pro
+[2023-04-17 09:40:27] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.6, using device: iPad Pro
+[2023-04-17 09:41:34] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.6, using device: iPad Pro
+[2023-04-17 09:42:41] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.7, using device: Google Pixel
+[2023-04-17 09:43:50] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.7, using device: Google Pixel
+[2023-04-17 09:44:58] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.7, using device: Google Pixel
+[2023-04-17 09:46:06] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.7, using device: Google Pixel
+[2023-04-17 09:47:15] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.8, using device: Samsung Galaxy S21
+[2023-04-17 09:48:23] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.8, using device: Samsung Galaxy S21
+[2023-04-17 09:49:32] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.8, using device: Samsung Galaxy S21
+[2023-04-17 09:50:40] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.9, using device: Huawei P30
+[2023-04-17 09:51:48] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.9, using device: Huawei P30
+[2023-04-17 09:52:57] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.9, using device: Huawei P30
+[2023-04-17 09:53:55] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.10, using device: Xiaomi Mi 11
+[2023-04-17 09:55:03] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.10, using device: Xiaomi Mi 11
+[2023-04-17 09:56:12] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.10, using device: Xiaomi Mi 11
+[2023-04-17 09:57:19] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.11, using device: Apple iPhone XR
+[2023-04-17 09:58:27] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.11, using device: Apple iPhone XR
+[2023-04-17 09:59:34] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.11, using device: Apple iPhone XR
+[2023-04-17 10:00:42] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.12, using device: Sony Xperia XZ Premium
+[2023-04-17 10:01:49] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.12, using device: Sony Xperia XZ Premium
+[2023-04-17 10:02:57] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.12, using device: Sony Xperia XZ Premium
+[2023-04-17 10:04:04] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.13, using device: Google Pixel 6
+[2023-04-17 10:05:13] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.13, using device: Google Pixel 6
+[2023-04-17 10:06:21] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.14, using device: Samsung Galaxy S21 Ultra
+[2023-04-17 10:07:30] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.14, using device: Samsung Galaxy S21 Ultra
+[2023-04-17 10:08:38] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.15, using device: iPhone SE
+[2023-04-17 10:09:47] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.15, using device: iPhone SE
+[2023-04-17 10:10:55] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.16, using device: Huawei P30 Pro
+[2023-04-17 10:11:54] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.16, using device: Huawei P30 Pro
+[2023-04-17 10:12:53] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.17, using device: OnePlus 9 Pro
+[2023-04-17 10:13:52] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.17, using device: OnePlus 9 Pro
+[2023-04-17 10:14:50] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.18, using device: Xiaomi Mi 11 Ultra
+[2023-04-17 10:15:47] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.18, using device: Xiaomi Mi 11 Ultra
+[2023-04-17 10:16:55] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.19, using device: Samsung Galaxy S22 Ultra
+[2023-04-17 10:17:53] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.19, using device: Samsung Galaxy S22 Ultra
+[2023-04-17 10:18:51] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.20, using device: Oppo Find X3 Pro
+[2023-04-17 10:19:49] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.20, using device: Oppo Find X3 Pro
+[2023-04-17 10:20:46] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.21, using device: Google Pixel 6 Pro
+[2023-04-17 10:21:44] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.21, using device: Google Pixel 6 Pro
+[2023-04-17 10:22:39] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.22, using device: Apple iPhone 13 Pro Max
+[2023-04-17 10:23:39] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.22, using device: Apple iPhone 13 Pro Max
+[2023-04-17 10:24:28] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.23, using device: Microsoft Surface Duo
+[2023-04-17 10:25:19] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.23, using device: Microsoft Surface Duo
+[2023-04-17 10:26:20] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.24, using device: Samsung Galaxy Z Fold3
+[2023-04-17 10:27:37] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.24, using device: Samsung Galaxy Z Fold3
+[2023-04-17 10:28:30] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.25, using device: OnePlus 9 Pro
+[2023-04-17 10:29:37] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.25, using device: OnePlus 9 Pro
+[2023-04-17 10:30:32] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.26, using device: Huawei P50 Pro
+[2023-04-17 10:31:44] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.26, using device: Huawei P50 Pro
+[2023-04-17 10:32:51] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.27, using device: Xiaomi Mi 11 Ultra
+[2023-04-17 10:33:57] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.27, using device: Xiaomi Mi 11 Ultra
+[2023-04-17 10:34:55] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.28, using device: LG Wing
+[2023-04-17 10:35:53] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.28, using device: LG Wing
+[2023-04-17 10:36:44] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.29, using device: Samsung Galaxy S22
+[2023-04-17 10:37:51] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.29, using device: Samsung Galaxy S22
+[2023-04-17 10:38:43] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.30, using device: iPhone 13 Pro Max
+[2023-04-17 10:39:42] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.30, using device: iPhone 13 Pro Max
+[2023-04-17 10:40:50] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.31, using device: Google Pixel 6 Pro
+[2023-04-17 10:41:45] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.31, using device: Google Pixel 6 Pro
+[2023-04-17 10:42:41] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.32, using device: Oppo Find X3 Pro
+[2023-04-17 10:43:35] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.32, using device: Oppo Find X3 Pro
+[2023-04-17 10:44:29] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.33, using device: OnePlus Nord 2
+[2023-04-17 10:45:04] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.33, using device: OnePlus Nord 2
+[2023-04-17 10:45:58] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.34, using device: Samsung Galaxy S22 Ultra
+[2023-04-17 10:46:50] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.34, using device: Samsung Galaxy S22 Ultra
+[2023-04-17 10:47:36] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.35, using device: Xiaomi Mi 11 Ultra
+[2023-04-17 10:48:31] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.35, using device: Xiaomi Mi 11 Ultra
+[2023-04-17 10:49:17] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.36, using device: LG V60 ThinQ
+[2023-04-17 10:50:02] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.36, using device: LG V60 ThinQ
+[2023-04-17 10:50:56] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.37, using device: Motorola Edge+
+[2023-04-17 10:51:41] [fraudulent] User Brooklyn Reed (ID: 12345) failed login attempt from IP address: 192.168.1.37, using device: Motorola Edge+
+[2023-04-17 10:52:29] [fraudulent] User Brooklyn Reed (ID: 12345) successfully accessed the account from IP address: 192.168.1.38, using device: Nokia 8.3
+

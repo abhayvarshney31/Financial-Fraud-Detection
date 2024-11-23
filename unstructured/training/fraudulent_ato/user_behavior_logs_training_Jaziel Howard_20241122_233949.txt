@@ -1,0 +1,99 @@
+User ID: Jaziel Howard
+- 
+[2023-03-16 12:45:17] [fraudulent] User Jaziel Howard attempted to withdraw $1,000 from ATM ID: 54792. However, the transaction was blocked by the system due to suspicious activity.
+
+[2023-03-16 12:50:18] [fraudulent] User Jaziel Howard tried to withdraw $2,000 from ATM ID: 76349 but was denied by the system due to multiple failed attempts.
+
+[2023-03-16 13:05:22] [fraudulent] User Jaziel Howard made a successful withdrawal of $500 from ATM ID: 45873, raising suspicion as it was the first successful transaction of the day.
+
+[2023-03-16 13:10:30] [fraudulent] User Jaziel Howard attempted to withdraw $1,500 from ATM ID: 89745 but was denied due to network issues. The transaction will be investigated further.
+
+[2023-03-16 13:25:41] [fraudulent] User Jaziel Howard made a series of large withdrawals from different ATMs in a single day, raising concerns about potential fraudulent activity.
+
+[2023-03-16 14:00:57] [fraudulent] Device used by Jaziel Howard was identified as a new device registered under his account, which may indicate that the account has been compromised.
+
+[2023-03-16 14:15:13] [fraudulent] User Jaziel Howard attempted to withdraw $500 from ATM ID: 32791 but was denied due to insufficient funds in the account. The transaction will be investigated further.
+
+[2023-03-16 14:30:26] [fraudulent] Jaziel Howard made a successful withdrawal of $800 from ATM ID: 95137, indicating that the user is still actively attempting to withdraw funds.
+
+[2023-03-16 14:45:35] [fraudulent] User Jaziel Howard made another successful withdrawal of $1,000 from ATM ID: 78954, further confirming the pattern of large withdrawals.
+
+[2023-03-16 15:00:44] [fraudulent] Jaziel Howard's account has been temporarily frozen due to suspicious activity. An investigation has been initiated to determine if fraudulent activity has occurred.
+[2023-03-16 15:15:07] [fraudulent] Jaziel Howard's device was detected using a VPN service, which raises concerns about the location and identity of the person making these transactions.
+
+[2023-03-16 15:30:28] [fraudulent] The IP address associated with Jaziel Howard's device has been traced back to a different country than his known residence, indicating that he may be attempting to use the account from an unauthorized location.
+
+[2023-03-16 15:45:59] [fraudulent] Jaziel Howard made another successful withdrawal of $850 from ATM ID: 78236, despite the account being temporarily frozen. This suggests that the user may have access to additional means of bypassing security measures.
+
+[2023-03-16 16:00:34] [fraudulent] The series of large withdrawals continued as Jaziel Howard successfully withdrew $900 from ATM ID: 85673, further confirming the pattern of suspicious behavior.
+
+[2023-03-16 16:15:51] [fraudulent] Jaziel Howard attempted to withdraw $1,200 from ATM ID: 90849 but was denied due to the account remaining frozen. The transaction will be further investigated along with other fraudulent activities.
+
+[2023-03-16 16:30:37] [fraudulent] A new device, different from the previously identified one, was used by Jaziel Howard to attempt a withdrawal of $500 from ATM ID: 79518. This indicates that the user may have access to multiple devices involved in fraudulent activities.
+
+[2023-03-16 16:45:52] [fraudulent] Jaziel Howard's account was temporarily unfrozen for a brief period, allowing him to make another successful withdrawal of $1,100 from ATM ID: 81930 before being re-frozen by the security system.
+
+[2023-03-16 17:00:33] [fraudulent] The account was once again temporarily unfrozen, allowing Jaziel Howard to make a withdrawal of $1,300 from ATM ID: 92851 before being re-frozen due to the continuous suspicious activity.
+
+[2023-03-16 17:15:45] [fraudulent] Despite the repeated freezing and unfreezing of his account, Jaziel Howard managed to make another successful withdrawal of $800 from ATM ID: 95126, highlighting the ongoing efforts to exploit the account for fraudulent purposes.
+[2023-03-16 17:30:11] [fraudulent] Jaziel Howard initiated a series of large withdrawals from different ATMs in a single day, showing a pattern of suspicious activity across multiple devices and locations. This indicates that the user may have access to a network of devices involved in fraudulent activities.
+
+[2023-03-16 17:45:29] [fraudulent] The user attempted to withdraw an additional $700 from ATM ID: 84713, but the transaction was denied due to increased security measures placed on the account after previous suspicious activities.
+
+[2023-03-16 18:00:08] [fraudulent] Jaziel Howard's account was temporarily unfrozen for a third time, allowing him to make another unsuccessful attempt at withdrawing $2,500 from ATM ID: 76945 due to the ongoing security measures in place.
+
+[2023-03-16 18:15:56] [fraudulent] The user made another unsuccessful withdrawal attempt of $900 from ATM ID: 87519, further showcasing the ongoing attempts to exploit the account for fraudulent purposes.
+
+[2023-03-16 18:30:43] [fraudulent] Jaziel Howard changed his registered phone number, making it more difficult for the security team to contact him regarding the suspicious activity on his account. This change also indicated that the user was aware of ongoing investigations.
+
+[2023-03-16 18:45:31] [fraudulent] The user attempted another series of large withdrawals from different ATMs in a single day, continuing to exploit his account for fraudulent purposes across multiple devices and locations.
+
+[2023-03-16 19:00:18] [fraudulent] Jaziel Howard's account was temporarily unfrozen once again, allowing him to make a successful withdrawal of $1,400 from ATM ID: 75692 before being re-frozen due to the continuous suspicious activity.
+
+[2023-03-16 19:15:56] [fraudulent] The account was temporarily unfrozen for a final time, allowing Jaziel Howard to make another successful withdrawal of $1,800 from ATM ID: 89745 before being re-frozen due to the ongoing suspicious activity.
+
+[2023-03-16 19:30:33] [fraudulent] Despite repeated freezing and unfreezing of his account, Jaziel Howard managed to make another successful withdrawal of $700 from ATM ID: 81359, highlighting the ongoing efforts to exploit the account for fraudulent purposes.
+[2023-03-16 19:45:10] [fraudulent] Jaziel Howard's account was once again temporarily unfrozen, allowing him to make a withdrawal of $800 from ATM ID: 76437 before being re-frozen due to the continuous suspicious activity.
+
+[2023-03-16 20:00:25] [fraudulent] An investigation revealed that Jaziel Howard had used multiple VPNs and proxy servers to change his location, further complicating the efforts to track and prevent the fraudulent activity.
+
+[2023-03-16 20:15:42] [fraudulent] The user made another successful withdrawal of $900 from ATM ID: 78194, despite the ongoing investigation and repeated freezing of his account.
+
+[2023-03-16 20:30:59] [fraudulent] Jaziel Howard's account was temporarily unfrozen for a fourth time, allowing him to make another successful withdrawal of $1,200 from ATM ID: 74268 before being re-frozen due to the ongoing suspicious activity.
+
+[2023-03-16 20:45:30] [fraudulent] The user continued his pattern of exploitation, making a withdrawal of $1,000 from ATM ID: 77892 after the account was temporarily unfrozen.
+
+[2023-03-16 21:00:00] [fraudulent] Jaziel Howard's account was once again temporarily unfrozen, allowing him to make a successful withdrawal of $500 from ATM ID: 84176 before being re-frozen due to the continuous suspicious activity.
+
+[2023-03-16 21:15:13] [fraudulent] An alert was raised when multiple transactions were made simultaneously from different locations, indicating that Jaziel Howard may have enlisted the help of others in his fraudulent activities.
+
+[2023-03-16 21:30:37] [fraudulent] The user attempted to withdraw $600 from ATM ID: 89352, but due to the ongoing investigation and multiple alerts, the transaction was denied.
+
+[2023-03-16 21:45:20] [fraudulent] Jaziel Howard's account was temporarily unfrozen for a final time, allowing him to make a successful withdrawal of $700 from ATM ID: 80599 before being re-frozen due to the ongoing suspicious activity.
+[2023-03-16 21:55:45] [fraudulent] Jaziel Howard's account was temporarily unfrozen, enabling him to make a withdrawal of $800 from ATM ID: 95731. The transaction was flagged and investigated due to the pattern of exploitation.
+
+[2023-03-16 22:10:00] [fraudulent] The user attempted to make a withdrawal of $900 from ATM ID: 87458, but the transaction was denied due to ongoing investigation and multiple alerts.
+
+[2023-03-16 22:25:08] [fraudulent] Jaziel Howard attempted to withdraw $1,000 from ATM ID: 91782, but the transaction was blocked due to continuous suspicious activity. The account was re-frozen immediately.
+
+[2023-03-16 22:40:21] [fraudulent] Multiple transactions were made from various ATMs within an hour, indicating that Jaziel Howard had access to a network of collaborators assisting in his fraudulent activities.
+
+[2023-03-17 00:05:42] [fraudulent] Jaziel Howard successfully made a withdrawal of $1,100 from ATM ID: 96023 after the account was temporarily unfrozen, further escalating the pattern of exploitation.
+
+[2023-03-17 00:30:05] [fraudulent] The user attempted to make a withdrawal of $1,200 from ATM ID: 89460 but was denied due to ongoing investigation and multiple alerts.
+
+[2023-03-17 00:55:13] [fraudulent] Jaziel Howard's account was temporarily unfrozen, allowing him to make a successful withdrawal of $1,300 from ATM ID: 93486 before being re-frozen due to the continuous suspicious activity.
+
+[2023-03-17 01:20:35] [fraudulent] The user attempted to withdraw $1,400 from ATM ID: 95158, but the transaction was denied and flagged for investigation due to the pattern of exploitation.
+
+[2023-03-17 01:45:56] [fraudulent] Jaziel Howard's account was temporarily unfrozen, allowing him to make a successful withdrawal of $1,500 from ATM ID: 98207 before being re-frozen due to the ongoing suspicious activity.
+[2023-03-17 02:10:23] [fraudulent] Jaziel Howard made a failed attempt to withdraw $1,600 from ATM ID: 95873 due to the ongoing restrictions on his account.
+
+[2023-03-17 02:35:42] [fraudulent] The user attempted to make a withdrawal of $1,700 from ATM ID: 86392 but was denied due to ongoing investigation and multiple alerts.
+
+[2023-03-17 03:00:25] [fraudulent] Jaziel Howard's account was temporarily unfrozen, allowing him to make a successful withdrawal of $1,800 from ATM ID: 94576 before being re-frozen due to the continuous suspicious activity.
+
+[2023-03-17 03:25:58] [fraudulent] The user attempted to withdraw $1,900 from ATM ID: 81487, but the transaction was denied and flagged for investigation due to the pattern of exploitation.
+
+[2023-03-17 03:50:26] [fraudulent] Jaziel Howard's account was temporarily unfrozen, allowing him to make a successful withdrawal of $2,000 from ATM ID: 94928 before being re-frozen due to the ongoing suspicious activity.
+

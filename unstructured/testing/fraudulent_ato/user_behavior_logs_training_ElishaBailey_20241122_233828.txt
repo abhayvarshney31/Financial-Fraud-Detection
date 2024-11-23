@@ -1,0 +1,78 @@
+User ID: Elisha Bailey
+- 
+1. [2023-03-26 10:37:15] - User Elisha Bailey logged in from device 'iPhone XR', IP address '192.168.0.10'.
+2. [2023-03-26 10:40:23] - Elisha Bailey accessed their account from a new device, 'Samsung Galaxy A51', IP address '192.168.0.12'.
+3. [2023-03-26 10:45:17] - User Elisha Bailey changed their password to 'newpassword!123' from device 'Samsung Galaxy A51', IP address '192.168.0.12'.
+4. [2023-03-26 10:50:05] - Elisha Bailey logged in from a different device, 'iPad Pro', IP address '192.168.0.14'.
+5. [2023-03-26 10:53:31] - User Elisha Bailey made a large transaction of $500 from their account using device 'iPad Pro', IP address '192.168.0.14'.
+6. [2023-03-26 10:57:29] - Elisha Bailey attempted to change their email address on the account, but the action was blocked due to suspicious activity.
+7. [2023-03-26 11:00:45] - User Elisa Bailey tried to add a new card to their account from device 'iPhone XR', IP address '192.168.0.10'.
+8. [2023-03-26 11:04:07] - Elisha Bailey logged in from another device, 'Google Pixel 4XL', IP address '192.168.0.16'.
+9. [2023-03-26 11:07:53] - User Elisa Bailey initiated a wire transfer of $1000 to an unknown account from device 'Google Pixel 4XL', IP address '192.168.0.16'.
+10. [2023-03-26 11:11:45] - Elisha Bailey attempted to disable two-factor authentication on their account from device 'Google Pixel 4XL', IP address '192.168.0.16'.
+11. [2023-03-26 11:14:57] - User Elisa Bailey tried to update their password from device 'iPhone XR', IP address '192.168.0.10'.
+12. [2023-03-26 11:18:22] - Elisha Bailey logged in from a different device, 'Samsung Galaxy S21', IP address '192.168.0.5'.
+13. [2023-03-26 11:21:49] - User Elisa Bailey attempted to change their account settings from device 'Samsung Galaxy S21', IP address '192.168.0.5', including the phone number and billing address.
+14. [2023-03-26 11:25:17] - Elisha Bailey logged in from another device, 'MacBook Pro', IP address '192.168.0.6'.
+15. [2023-03-26 11:28:45] - User Elisa Bailey attempted to access their transaction history from device 'MacBook Pro', IP address '192.168.0.6', but the action was blocked due to suspicious activity.
+16. [2023-03-26 11:32:04] - Elisha Bailey logged in from a different device, 'Lenovo ThinkPad X1 Carbon', IP address '192.168.0.7'.
+17. [2023-03-26 11:35:31] - User Elisa Bailey tried to add a new device to their account from device 'Lenovo ThinkPad X1 Carbon', IP address '192.168.0.7'.
+18. [2023-03-26 11:38:58] - Elisha Bailey logged in from another device, 'Dell XPS 15', IP address '192.168.0.8'.
+19. [2023-03-26 11:42:25] - User Elisa Bailey attempted to change their profile picture and profile information from device 'Dell XPS 15', IP address '192.168.0.8'.
+20. [2023-03-26 11:45:53] - Elisha Bailey logged in from a different device, 'Surface Pro 7', IP address '192.168.0.9'.
+21. [2023-03-26 11:49:19] - User Elisa Bailey attempted to change their email address from device 'Surface Pro 7', IP address '192.168.0.9'.
+22. [2023-03-26 11:52:46] - Elisha Bailey logged in from another device, 'iPhone 13 Pro', IP address '192.168.0.10'.
+23. [2023-03-26 11:56:13] - User Elisa Bailey tried to transfer funds to an unknown account from device 'iPhone 13 Pro', IP address '192.168.0.10'.
+24. [2023-03-26 12:00:39] - Elisha Bailey logged in from a different device, 'MacBook Air', IP address '192.168.0.11'.
+25. [2023-03-26 12:04:11] - User Elisa Bailey attempted to disable two-factor authentication from device 'MacBook Air', IP address '192.168.0.11'.
+26. [2023-03-26 12:07:38] - Elisha Bailey logged in from another device, 'Samsung Galaxy S22', IP address '192.168.0.12'.
+27. [2023-03-26 12:11:04] - User Elisa Bailey tried to change the security questions from device 'Samsung Galaxy S22', IP address '192.168.0.12'.
+28. [2023-03-26 12:15:30] - Elisha Bailey logged in from a different device, 'Dell XPS 15', IP address '192.168.0.13'.
+29. [2023-03-26 12:19:47] - User Elisa Bailey attempted to update their password from device 'Dell XPS 15', IP address '192.168.0.13'.
+30. [2023-03-26 12:23:57] - Elisha Bailey logged in from another device, 'Lenovo ThinkPad T480', IP address '192.168.0.14'.
+31. [2023-03-26 12:27:34] - User Elisa Bailey tried to change their name and contact information from device 'Lenovo ThinkPad T480', IP address '192.168.0.14'.
+32. [2023-03-26 12:31:59] - Elisha Bailey logged in from a different device, 'Sony Xperia 1 III', IP address '192.168.0.15'.
+33. [2023-03-26 12:36:24] - User Elisa Bailey attempted to add a new device to their account from device 'Sony Xperia 1 III', IP address '192.168.0.15'.
+34. [2023-03-26 12:40:57] - Elisha Bailey logged in from another device, 'ASUS ZenBook Pro Duo', IP address '192.168.0.16'.
+35. [2023-03-26 12:45:31] - User Elisa Bailey tried to access their account from multiple devices simultaneously, indicating a potential account takeover attempt.
+36. [2023-03-26 12:49:08] - Elisha Bailey attempted to change their email address from device 'ASUS ZenBook Pro Duo', IP address '192.168.0.16'.
+37. [2023-03-26 12:53:45] - User Elisa Bailey logged in from a new device, 'Apple MacBook Air', IP address '192.168.0.17'.
+38. [2023-03-26 12:58:22] - Elisha Bailey tried to add a new payment method from device 'Apple MacBook Air', IP address '192.168.0.17'.
+39. [2023-03-26 13:02:59] - User Elisa Bailey logged in from another device, 'Huawei MateBook X Pro', IP address '192.168.0.18'.
+40. [2023-03-26 13:07:36] - Elisha Bailey tried to access their account from multiple devices simultaneously, indicating a continued potential account takeover attempt.
+41. [2023-03-26 13:11:58] - Elisa Bailey logged in from yet another device, 'Lenovo ThinkPad X1 Carbon', IP address '192.168.0.19'.
+42. [2023-03-26 13:16:24] - User Elisa Bailey attempted to change their password from device 'Lenovo ThinkPad X1 Carbon', IP address '192.168.0.19'.
+43. [2023-03-26 13:20:50] - Elisha Bailey tried to access their account from multiple devices simultaneously, indicating a continued potential account takeover attempt.
+44. [2023-03-26 13:25:17] - User Elisa Bailey logged in from a new device, 'Samsung Galaxy Z Fold3', IP address '192.168.0.20'.
+45. [2023-03-26 13:30:04] - Elisha Bailey tried to withdraw all funds from their account using the device 'Samsung Galaxy Z Fold3', IP address '192.168.0.20'.
+46. [2023-03-26 13:35:37] - User Elisa Bailey logged in from another device, 'Dell XPS 15', IP address '192.168.0.21'.
+47. [2023-03-26 13:40:01] - Elisha Bailey attempted to delete their account from device 'Dell XPS 15', IP address '192.168.0.21'.
+48. [2023-03-26 13:44:28] - User Elisa Bailey logged in from multiple devices simultaneously, indicating a continued potential account takeover attempt.
+49. [2023-03-26 13:50:12] - Elisha Bailey attempted to change their email address from device 'Dell XPS 15', IP address '192.168.0.21'.
+50. [2023-03-26 13:54:50] - User Elisa Bailey logged in from a new device, 'Apple iPhone 13 Pro Max', IP address '192.168.0.22'.
+51. [2023-03-26 14:00:27] - Elisha Bailey tried to change their security questions from device 'Apple iPhone 13 Pro Max', IP address '192.168.0.22'.
+52. [2023-03-26 14:05:04] - User Elisa Bailey logged in from another device, 'Asus ZenBook 14', IP address '192.168.0.23'.
+53. [2023-03-26 14:09:37] - Elisha Bailey attempted to update their billing information from device 'Asus ZenBook 14', IP address '192.168.0.23'.
+54. [2023-03-26 14:14:01] - User Elisa Bailey logged in from multiple devices simultaneously, indicating a continued potential account takeover attempt.
+55. [2023-03-26 14:18:28] - Elisha Bailey tried to reset their password from device 'Asus ZenBook 14', IP address '192.168.0.23'.
+56. [2023-03-26 14:23:12] - Elisa Bailey's account was temporarily locked to prevent further suspicious activity, pending investigation.
+57. [2023-03-26 14:28:01] - The user Elisa Bailey tried to log in again from device 'Apple iPhone 13 Pro Max', IP address '192.168.0.22', but access was denied due to the account lock.
+58. [2023-03-26 14:32:37] - An email notification was sent to Elisa Bailey about the potential account takeover attempt and temporary lock.
+59. [2023-03-26 14:38:04] - Elisa Bailey's account remained locked as the investigation continued, preventing further unauthorized access.
+60. [2023-03-26 14:43:01] - Security measures were reinforced on Elisa Bailey's account to prevent similar future incidents.
+61. [2023-03-26 14:48:57] - A notification email was sent to Elisa Bailey, informing them of the security reinforcements and advising them to use strong, unique passwords for their accounts.
+62. [2023-03-26 14:54:32] - The investigation concluded that the account takeover attempt was unsuccessful, but a warning message was sent to Elisa Bailey about being more cautious with her login information in the future.
+[2023-03-26 15:00:09] - Multiple failed login attempts were detected from different devices within a short time frame, raising suspicions of a possible account takeover attempt by Elisa Bailey.
+[2023-03-26 15:05:41] - Device information for the attempted logins: 'Apple iPhone 13 Pro Max', 'Samsung Galaxy S22 Ultra', and 'Google Pixel 6 Pro'. IP addresses: '192.168.0.22', '192.168.0.25', and '192.168.0.27'.
+[2023-03-26 15:07:24] - All devices associated with Elisa Bailey's account were temporarily blocked to prevent further unauthorized access.
+[2023-03-26 15:12:13] - Two-factor authentication (2FA) was enabled on Elisa Bailey's account as an additional security measure.
+[2023-03-26 15:18:47] - A temporary password reset was initiated for Elisa Bailey's account, requiring her to create a new, strong password.
+[2023-03-26 15:24:09] - Elisa Bailey successfully regained access to her account after completing the password reset process and re-enabling 2FA.
+[2023-03-26 15:28:57] - A security alert was sent to Elisa Bailey, informing her of the recent suspicious activity and reminding her to be vigilant about sharing login information or using public Wi-Fi networks.
+[2023-03-26 15:35:31] - Multiple failed login attempts were detected from different devices in a short period of time, indicating possible account takeover attempts by Elisa Bailey's account.
+[2023-03-26 15:42:29] - Elisa Bailey's account showed unusual activity with multiple transactions made from unknown locations, possibly due to unauthorized access.
+[2023-03-26 15:47:18] - A security warning was sent to Elisa Bailey, urging her to immediately change her password and review recent transaction history for any signs of fraudulent activity.
+[2023-03-26 15:52:39] - Elisa Bailey reported that her personal information may have been compromised after receiving a suspicious email asking for her account credentials.
+[2023-03-26 15:58:43] - The security team investigated the origin of the unauthorized access and discovered multiple IP addresses linked to potential account takeover attempts, including '192.168.0.30', '192.168.0.35', and '192.168.0.37'.
+[2023-03-26 16:04:05] - Elisa Bailey's account was temporarily suspended to further investigate the suspicious activity and prevent any further unauthorized access or potential data breaches.
+

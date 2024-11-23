@@ -1,0 +1,115 @@
+User ID: Bryson Peres
+- 
+[2023-01-07 15:39:28] - User Bryson Peres attempted to change the shipping address for an online purchase from his home address to a vacant warehouse in New Jersey. The transaction was flagged as potentially fraudulent by our system due to the sudden change and the shipment of high-value items.
+
+[2023-01-08 08:45:17] - Bryson Peres tried to change the shipping address for another online purchase, this time from his home address to a P.O. Box in Miami. The transaction was flagged and blocked by our system, as P.O. Boxes are often used for fraudulent activities.
+
+[2023-01-09 14:17:25] - User Bryson Peres attempted to change the shipping address for a third online purchase from his home address to an empty apartment in Los Angeles. The transaction was flagged as potentially fraudulent and is currently under investigation by our fraud detection team.
+
+[2023-01-10 09:58:46] - Bryson Peres attempted to change the shipping address for a fourth online purchase from his home address to a commercial building in Chicago. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-11 17:29:58] - Bryson Peres tried to change the shipping address for a fifth online purchase from his home address to a rented storage unit in Houston. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-12 06:18:49] - User Bryson Peres attempted to change the shipping address for a sixth online purchase from his home address to a vacant lot in Phoenix. The transaction was flagged as potentially fraudulent and is currently under investigation by our fraud detection team.
+
+[2023-01-13 18:45:26] - Bryson Peres tried to change the shipping address for a seventh online purchase from his home address to an abandoned factory in Detroit. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-14 10:31:57] - User Bryson Peres attempted to change the shipping address for an eighth online purchase from his home address to a rural property in North Dakota. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-15 21:49:26] - Bryson Peres tried to change the shipping address for a ninth online purchase from his home address to an empty warehouse in Atlanta. The transaction was flagged as potentially fraudulent and is currently under investigation by our fraud detection team.
+
+[2023-01-16 07:58:34] - User Bryson Peres attempted to change the shipping address for a tenth online purchase from his home address to a closed business in Denver. The transaction was flagged as potentially fraudulent and has been denied by our system.
+[2023-01-17 08:56:29] - Bryson Peres attempted to change the shipping address for an eleventh online purchase from his home address to a vacant lot in Los Angeles. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-18 14:35:57] - User Bryson Peres tried to change the shipping address for a twelfth online purchase from his home address to an abandoned construction site in Chicago. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-19 22:48:16] - Bryson Peres attempted to change the shipping address for a thirteenth online purchase from his home address to an empty storage unit in Phoenix. The transaction was flagged as potentially fraudulent and is currently under investigation by our fraud detection team.
+
+[2023-01-20 06:59:48] - User Bryson Peres attempted to change the shipping address for a fourteenth online purchase from his home address to an unoccupied mansion in Boston. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-21 19:23:07] - Bryson Peres tried to change the shipping address for a fifteenth online purchase from his home address to a decommissioned military base in San Antonio. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-22 07:46:39] - User Bryson Peres attempted to change the shipping address for a sixteenth online purchase from his home address to a deserted factory in Miami. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-23 14:52:09] - Bryson Peres tried to change the shipping address for a seventeenth online purchase from his home address to an abandoned theme park in Orlando. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-24 06:57:44] - User Bryson Peres attempted to change the shipping address for an eighteenth online purchase from his home address to a closed amusement park in Seattle. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-25 19:33:26] - Bryson Peres tried to change the shipping address for a nineteenth online purchase from his home address to an old movie studio in New York. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-26 10:49:58] - User Bryson Peres attempted to change the shipping address for a twentieth online purchase from his home address to an unused power plant in San Francisco. The transaction was flagged as potentially fraudulent and has been denied by our system.
+[2023-01-27 15:25:32] - Bryson Peres attempted to change the shipping address for a twenty-first online purchase from his home address to an abandoned hospital in Chicago. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-28 09:15:46] - User Bryson Peres tried to change the shipping address for a twenty-second online purchase from his home address to a derelict zoo in Los Angeles. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-29 18:47:21] - Bryson Peres attempted to change the shipping address for a twenty-third online purchase from his home address to a defunct amusement park in Boston. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-30 14:36:59] - User Bryson Peres tried to change the shipping address for a twenty-fourth online purchase from his home address to an old military base in Washington D.C. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-31 08:05:43] - Bryson Peres attempted to change the shipping address for a twenty-fifth online purchase from his home address to an abandoned airport in Miami. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-01-31 19:45:38] - User Bryson Peres tried to change the shipping address for a twenty-sixth online purchase from his home address to an old amusement park in Phoenix. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-01 09:56:47] - Bryson Peres attempted to change the shipping address for a twenty-seventh online purchase from his home address to an abandoned train station in Dallas. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-01 23:57:54] - User Bryson Peres tried to change the shipping address for a twenty-eighth online purchase from his home address to an unused research facility in Atlanta. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-02 11:35:48] - Bryson Peres attempted to change the shipping address for a twenty-ninth online purchase from his home address to an old power plant in Denver. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-02 16:40:37] - User Bryson Peres tried to change the shipping address for a thirtieth online purchase from his home address to an abandoned amusement park in Las Vegas. The transaction was flagged as potentially fraudulent and has been denied by our system.
+[2023-02-03 08:15:26] - Bryson Peres attempted to change the shipping address for a thirty-first online purchase from his home address to an empty warehouse in Chicago. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-03 14:58:03] - User Bryson Peres tried to change the shipping address for a thirty-second online purchase from his home address to an unoccupied office building in Miami. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-04 01:20:59] - Bryson Peres attempted to change the shipping address for a thirty-third online purchase from his home address to a closed military base in Washington D.C. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-04 10:45:37] - User Bryson Peres tried to change the shipping address for a thirty-fourth online purchase from his home address to an abandoned water park in Orlando. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-05 17:04:18] - Bryson Peres attempted to change the shipping address for a thirty-fifth online purchase from his home address to an old steel mill in Pittsburgh. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-06 00:19:54] - User Bryson Peres tried to change the shipping address for a thirty-sixth online purchase from his home address to an unused cargo terminal in Baltimore. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-06 12:55:08] - Bryson Peres attempted to change the shipping address for a thirty-seventh online purchase from his home address to an empty shopping mall in Philadelphia. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-07 19:24:58] - User Bryson Peres tried to change the shipping address for a thirty-eighth online purchase from his home address to an old airport in Phoenix. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-08 05:17:46] - Bryson Peres attempted to change the shipping address for a thirty-ninth online purchase from his home address to an abandoned amusement park in San Francisco. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-08 14:25:15] - User Bryson Peres tried to change the shipping address for a fortieth online purchase from his home address to an old textile factory in Los Angeles. The transaction was flagged as potentially fraudulent and has been denied by our system.
+[2023-02-09 10:57:31] - Bryson Peres attempted to change the shipping address for a forty-first online purchase from his home address to an unoccupied hospital in Chicago. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-09 15:48:46] - User Bryson Peres tried to change the shipping address for a forty-second online purchase from his home address to an old military base in Dallas. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-10 01:59:58] - Bryson Peres attempted to change the shipping address for a forty-third online purchase from his home address to an abandoned zoo in Miami. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-10 14:36:09] - User Bryson Peres tried to change the shipping address for a forty-fourth online purchase from his home address to an old amusement park in New York City. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-11 09:07:11] - Bryson Peres attempted to change the shipping address for a forty-fifth online purchase from his home address to an unoccupied warehouse in Atlanta. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-11 17:18:45] - User Bryson Peres tried to change the shipping address for a forty-sixth online purchase from his home address to an old prison in Boston. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-12 04:59:02] - Bryson Peres attempted to change the shipping address for a forty-seventh online purchase from his home address to an abandoned mall in Orlando. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-12 16:04:45] - User Bryson Peres tried to change the shipping address for a forty-eighth online purchase from his home address to an old railway station in Las Vegas. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-13 09:45:57] - Bryson Peres attempted to change the shipping address for a forty-ninth online purchase from his home address to an unoccupied hotel in Philadelphia. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-13 18:57:24] - User Bryson Peres tried to change the shipping address for a fiftieth online purchase from his home address to an old movie studio in Los Angeles. The transaction was flagged as potentially fraudulent and has been denied by our system.
+[2023-02-14 00:22:58] - Bryson Peres attempted to change the shipping address for a fiftieth online purchase from his home address to an old movie studio in Los Angeles. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-14 08:07:09] - User Bryson Peres tried to change the shipping address for a fifty-first online purchase from his home address to an abandoned amusement park in San Antonio. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-14 16:19:58] - Bryson Peres attempted to change the shipping address for a fifty-second online purchase from his home address to an old airport in Dallas. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-14 23:56:14] - User Bryson Peres tried to change the shipping address for a fifty-third online purchase from his home address to an unused warehouse in Chicago. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-15 08:40:26] - Bryson Peres attempted to change the shipping address for a fifty-fourth online purchase from his home address to an abandoned military base in Atlanta. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-15 18:47:46] - User Bryson Peres tried to change the shipping address for a fifty-fifth online purchase from his home address to an old power plant in New Orleans. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-15 23:59:26] - Bryson Peres attempted to change the shipping address for a fifty-sixth online purchase from his home address to an abandoned mall in Miami. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-16 08:54:19] - User Bryson Peres tried to change the shipping address for a fifty-seventh online purchase from his home address to an old train depot in Boston. The transaction was flagged as potentially fraudulent and has been denied by our system.
+
+[2023-02-16 19:24:07] - Bryson Peres attempted to change the shipping address for a fifty-eighth online purchase from his home address to an unused factory in Seattle. The transaction was flagged as potentially fraudulent and has been denied by our system.
+

@@ -1,0 +1,52 @@
+User ID: Dallas Fox
+- 
+[2023-04-15 12:34:23] [fraudulent] User Dallas Fox attempted to access their account from London, UK. The IP address associated with the attempt was 91.226.168.178.
+[2023-04-15 12:48:36] [fraudulent] Just a few minutes later, Dallas Fox attempted to access their account from Los Angeles, USA. The IP address was 34.229.175.201.
+[2023-04-15 12:58:43] [fraudulent] Within a short timeframe, Dallas Fox attempted to access their account from Sydney, Australia. The IP address was 162.97.213.10.
+[2023-04-15 13:07:58] [fraudulent] Further evidence of suspicious activity: Dallas Fox tried to access their account from Tokyo, Japan. The IP address was 136.243.49.14.
+[2023-04-15 13:17:15] [fraudulent] The pattern continues as Dallas Fox attempted to access their account from Mexico City, Mexico. The IP address was 198.49.168.19.
+[2023-04-15 13:27:32] [fraudulent] Dallas Fox's behavior became more aggressive as they attempted to access their account from Paris, France. The IP address was 178.139.169.82.
+[2023-04-15 13:37:49] [fraudulent] They continued their attempts, this time from Cape Town, South Africa. The IP address was 81.15.142.68.
+[2023-04-15 13:48:05] [fraudulent] In a quick succession of events, Dallas Fox attempted to access their account from Moscow, Russia. The IP address was 93.74.216.16.
+[2023-04-15 13:58:22] [fraudulent] The pattern persisted as Dallas Fox tried to access their account from Auckland, New Zealand. The IP address was 123.129.76.56.
+[2023-04-15 14:08:40] [fraudulent] The final attempt was made as Dallas Fox attempted to access their account from Rio de Janeiro, Brazil. The IP address was 200.97.184.14.
+[2023-04-15 14:19:05] [fraudulent] Immediately after the previous attempt, Dallas Fox tried to access their account once more from Rio de Janeiro, Brazil. The IP address remained unchanged at 200.97.184.14.
+[2023-04-15 14:29:30] [fraudulent] Their desperate attempts continued as Dallas Fox tried to access their account from Bogota, Colombia. The IP address was 202.96.149.87.
+[2023-04-15 14:39:55] [fraudulent] Within minutes, Dallas Fox attempted to access their account from Istanbul, Turkey. The IP address was 147.72.161.188.
+[2023-04-15 14:50:22] [fraudulent] They persisted in their efforts, and next tried to access their account from Kuala Lumpur, Malaysia. The IP address was 95.214.67.81.
+[2023-04-15 14:59:49] [fraudulent] A mere 10 minutes later, Dallas Fox attempted to access their account from Sydney, Australia. The IP address was 12.214.176.38.
+[2023-04-15 15:09:17] [fraudulent] Continuing at a rapid pace, Dallas Fox tried to access their account from Dubai, United Arab Emirates. The IP address was 145.5.186.69.
+[2023-04-15 15:19:02] [fraudulent] Only two hours after their first attempt, Dallas Fox attempted to access their account from Singapore. The IP address was 130.236.15.127.
+[2023-04-15 15:28:55] [fraudulent] Just minutes later, they tried again, this time from Mumbai, India. The IP address was 209.54.37.209.
+[2023-04-15 15:39:48] [fraudulent] Dallas Fox's persistence continued as they attempted to access their account from Johannesburg, South Africa. The IP address was 86.94.67.194.
+[2023-04-15 15:49:32] [fraudulent] Moments later, they tried again, this time from Mexico City, Mexico. The IP address was 146.98.28.70.
+[2023-04-15 15:59:27] [fraudulent] Dallas Fox's relentless attempts continued as they tried to access their account from Lima, Peru. The IP address was 201.185.162.52.
+[2023-04-15 16:09:17] [fraudulent] Within the hour, Dallas Fox attempted to access their account from Buenos Aires, Argentina. The IP address was 202.98.185.198.
+[2023-04-15 16:20:02] [fraudulent] Their frantic efforts persisted as they tried to access their account from Cancun, Mexico. The IP address was 176.14.20.198.
+[2023-04-15 16:30:59] [fraudulent] Just minutes later, Dallas Fox attempted to access their account from Santiago, Chile. The IP address was 74.125.161.182.
+[2023-04-15 16:41:45] [fraudulent] Despite repeated blocks, Dallas Fox tried once more to access their account from Lima, Peru. The IP address was 74.125.94.176.
+[2023-04-15 16:52:29] [fraudulent] A short time later, Dallas Fox attempted to access their account from Medellín, Colombia. The IP address was 89.236.172.49.
+[2023-04-15 17:03:12] [fraudulent] Showing no signs of giving up, Dallas Fox tried to access their account from Bogotá, Colombia. The IP address was 186.198.63.195.
+[2023-04-15 17:13:58] [fraudulent] Moments later, they targeted Rio de Janeiro, Brazil. The IP address was 130.246.235.24.
+[2023-04-15 17:24:43] [fraudulent] From Brazil, Dallas Fox made another attempt to access their account from São Paulo, Brazil. The IP address was 91.186.204.223.
+[2023-04-15 17:34:35] [fraudulent] Their relentless pursuit continued as they tried to access their account from La Paz, Bolivia. The IP address was 186.198.63.195.
+[2023-04-15 17:44:29] [fraudulent] Just minutes after attempting from Bolivia, Dallas Fox targeted Caracas, Venezuela. The IP address was 202.98.185.198.
+[2023-04-15 17:55:13] [fraudulent] In a final attempt from the same location, Dallas Fox tried to access their account once more from Caracas, Venezuela. The IP address was 176.14.20.198.
+[2023-04-15 18:05:50] [fraudulent] Just an hour after the previous attempt, Dallas Fox attempted to access their account from Manaus, Brazil. The IP address was 79.125.250.128.
+[2023-04-15 18:16:34] [fraudulent] Still determined, they quickly tried again, this time targeting Quito, Ecuador. The IP address was 97.214.112.33.
+[2023-04-15 18:26:57] [fraudulent] Within minutes of their attempt from Ecuador, Dallas Fox targeted Bogotá, Colombia once more. The IP address was 173.249.147.187.
+[2023-04-15 18:37:41] [fraudulent] Continuing their pattern, they moved on to Buenos Aires, Argentina. The IP address was 206.18.196.231.
+[2023-04-15 18:48:07] [fraudulent] Just as swiftly, Dallas Fox tried to access their account from Santiago, Chile. The IP address was 185.63.194.228.
+[2023-04-15 18:58:37] [fraudulent] Their efforts in Chile didn't deter them, as they quickly switched to Lima, Peru. The IP address was 80.249.163.169.
+[2023-04-15 19:09:10] [fraudulent] Just moments later, Dallas Fox targeted Sao Paulo, Brazil again. The IP address was 178.25.58.157.
+[2023-04-15 19:19:47] [fraudulent] Their persistence paid off as they managed to access their account from Lima, Peru once more. The IP address was 80.249.163.169.
+[2023-04-15 19:29:57] [fraudulent] They swiftly moved on to La Paz, Bolivia. The IP address was 212.64.188.194.
+[2023-04-15 19:40:13] [fraudulent] Within minutes of their attempt in Bolivia, they targeted Asuncion, Paraguay. The IP address was 72.36.184.63.
+[2023-04-15 19:50:31] [fraudulent] Still going strong, Dallas Fox attempted to access their account from Guayaquil, Ecuador again. The IP address was 97.214.112.33.
+[2023-04-15 20:00:49] [fraudulent] Their next target was Montevideo, Uruguay. The IP address was 23.246.171.106.
+[2023-04-15 20:11:03] [fraudulent] Moments later, they tried to access the account from Buenos Aires, Argentina with the IP address 89.235.167.124.
+[2023-04-15 20:21:22] [fraudulent] Dallas Fox didn't give up and attempted to access the account from Santiago, Chile once more, with the IP address 98.123.247.163.
+[2023-04-15 20:31:34] [fraudulent] They continued their relentless pursuit and targeted Quito, Ecuador again. The IP address was 97.228.185.206.
+[2023-04-15 20:41:53] [fraudulent] A few minutes later, they made another attempt from La Paz, Bolivia with the IP address 212.71.198.129.
+[2023-04-15 20:52:06] [fraudulent] Dallas Fox targeted Lima, Peru for the third time. The IP address was 80.249.163.168.
+

@@ -1,0 +1,246 @@
+User ID: Christopher Ajami
+- 
+[2021-08-01 13:45:23]
+[fraudulent] - Christopher Ajami purchased a high-end gaming laptop from our online store, using his credit card ending in 4956. He made the purchase with no intention of keeping the item and planned to return it shortly after. The IP address used for this transaction was 123.123.123.123, located in San Francisco, CA.
+
+[2021-08-05 16:10:32]
+[fraudulent] - Christopher Ajami returned the gaming laptop within two days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund issued to his credit card ending in 4956.
+
+[2021-08-07 08:30:11]
+[fraudulent] - Christopher Ajami made another purchase, this time for a high-end smartphone from our online store. The IP address used was the same as before, 123.123.123.123, located in San Francisco, CA. He again had no intention of keeping the item and planned to return it shortly after.
+
+[2021-08-09 14:55:03]
+[fraudulent] - Christopher Ajami successfully returned the smartphone within a few days of purchase, using the same defective claim as before. The device was received back in perfect condition, and a full refund was issued to his credit card ending in 4956.
+
+[2021-08-12 17:30:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase, this time for a high-end smartwatch from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-08-14 09:05:24]
+[fraudulent] - Christopher Ajami returned the smartwatch within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund issued to his credit card ending in 4956.
+
+[2021-08-16 13:15:00]
+[fraudulent] - Christopher Ajami made another purchase, this time for a high-end wireless headphones from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-08-18 16:45:00]
+[fraudulent] - Christopher Ajami returned the wireless headphones within a few days of purchase, using the same defective claim as before. The device was received back in perfect condition, and a full refund was issued to his credit card ending in 4956.
+
+[2021-08-20 11:30:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase, this time for a high-end virtual reality headset from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-08-22 14:15:00]
+[fraudulent] - Christopher Ajami returned the virtual reality headset within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund was issued to his credit card ending in 4956.
+[2021-08-24 09:30:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase, this time for a high-end gaming laptop from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-08-26 17:45:00]
+[fraudulent] - Christopher Ajami returned the gaming laptop within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund was issued to his credit card ending in 4956.
+
+[2021-08-28 10:30:00]
+[fraudulent] - Christopher Ajami purchased a high-end camera kit from our online store using the same IP address, 123.123.123.123. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-08-30 14:15:00]
+[fraudulent] - Christopher Ajami returned the camera kit within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund was issued to his credit card ending in 4956.
+
+[2021-08-31 16:45:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase, this time for a high-end smartphone from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-09-02 11:30:00]
+[fraudulent] - Christopher Ajami returned the smartphone within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund was issued to his credit card ending in 4956.
+
+[2021-09-03 14:15:00]
+[fraudulent] - Christopher Ajami purchased a high-end drone from our online store using the same IP address, 123.123.123.123. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-09-05 16:45:00]
+[fraudulent] - Christopher Ajami returned the drone within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund was issued to his credit card ending in 4956.
+
+[2021-09-07 11:30:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase, this time for a high-end tablet from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-09-09 14:15:00]
+[fraudulent] - Christopher Ajami returned the tablet within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund was issued to his credit card ending in 4956.
+[2021-09-11 10:45:00]
+[fraudulent] - Christopher Ajami purchased a set of wireless headphones, using the same IP address as before, 123.123.123.123 in San Francisco, CA. His intention was to use them briefly and then return them for a full refund.
+
+[2021-09-13 16:00:00]
+[fraudulent] - Christopher Ajami returned the wireless headphones within a few days of purchase, claiming they were defective. However, upon inspection, it was found that there were no issues with the headphones. The return was processed and a full refund was issued to his credit card ending in 4956.
+
+[2021-09-15 08:30:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase, this time for a gaming console from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-09-17 15:45:00]
+[fraudulent] - Christopher Ajami returned the gaming console within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund was issued to his credit card ending in 4956.
+
+[2021-09-19 17:30:00]
+[fraudulent] - Christopher Ajami made another purchase for a high-end smartphone from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+
+[2021-09-21 09:15:00]
+[fraudulent] - Christopher Ajami returned the smartphone within a few days of purchase, claiming it was defective. The device was received back in perfect condition, indicating that no issues were ever present. The return was processed and a full refund was issued to his credit card ending in 4956.
+
+[2021-09-23 13:00:00]
+[fraudulent] - Christopher Ajami purchased a high-end laptop from our online store, using the same IP address as before, 123.123.123.123 in San Francisco, CA. His intention was to use it briefly and then return it for a full refund.
+
+[2021-09-25 16:45:00]
+[fraudulent] - Christopher Ajami returned the laptop within a few days of purchase, claiming it was defective. However, upon inspection, it was found that there were no issues with the laptop. The return was processed and a full refund was issued to his credit card ending in 4956.
+
+[2021-09-27 08:30:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase, this time for a set of high-end wireless earbuds from our online store. The IP address used was still the same, 123.123.123.123, located in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after.
+[2021-09-29 11:05:00]
+[fraudulent] - Christopher Ajami returned the wireless earbuds within a week, stating they were faulty. Upon inspection, the issue was not with the product itself but rather a user error in not understanding how to use them properly. The return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-10-01 17:30:00]
+[fraudulent] - Christopher Ajami once again engaged in fraudulent behavior, purchasing a high-end smartphone from our online store using IP address 123.123.123.123 in San Francisco, CA. He had no intention of keeping the phone and planned to return it shortly after purchase for a full refund.
+
+[2021-10-03 09:45:00]
+[fraudulent] - Christopher Ajami returned the smartphone within days, claiming it was damaged during shipping. However, upon inspection, there were no visible signs of damage on the device. The return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-10-05 13:30:00]
+[fraudulent] - Christopher Ajami continued his fraudulent activities, this time purchasing a high-end gaming console from our online store. The IP address used for the transaction was, as expected, 123.123.123.123 in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-10-07 16:45:00]
+[fraudulent] - Christopher Ajami returned the gaming console within days, stating that it was not compatible with his other devices. In reality, he never attempted to connect the console to any of his devices. The return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-10-09 08:30:00]
+[fraudulent] - Christopher Ajami purchased a high-end drone from our online store, using IP address 123.123.123.123 in San Francisco, CA. He had no intention of keeping the drone and planned to return it shortly after purchase for a full refund.
+
+[2021-10-11 11:05:00]
+[fraudulent] - Christopher Ajami returned the drone within a week, claiming that it had crashed during its first use and was irreparably damaged. However, upon inspection, only minor damages were found that could have been easily fixed. The return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-10-13 17:30:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase, this time for a high-end action camera from our online store using IP address 123.123.123.123 in San Francisco, CA. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-10-15 09:45:00]
+[fraudulent] - Christopher Ajami returned the action camera within days, claiming that it was defective and not capable of recording in high resolution. However, upon inspection, the camera functioned perfectly and met all specifications. The return was processed, and a full refund was issued to his credit card ending in 4956.
+[2021-10-20 13:20:00]
+[fraudulent] - Christopher Ajami made another purchase using IP address 222.222.222.222 in New York, NY. This time, he bought a high-end gaming laptop with no intention of keeping it. He quickly initiated a return, claiming that the laptop was not working as advertised and had significant performance issues.
+
+[2021-10-22 17:35:00]
+[fraudulent] - The gaming laptop returned by Christopher Ajami showed no signs of any problems during inspection. It performed perfectly, with no performance or functionality issues found. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-10-25 08:15:00]
+[fraudulent] - Christopher Ajami purchased a high-end smartphone from our online store using IP address 333.333.333.333 in Los Angeles, CA. He stated that he wanted the device for personal use but had no intention of keeping it. Instead, he planned to return the smartphone shortly after purchase for a full refund.
+
+[2021-10-27 19:45:00]
+[fraudulent] - The returned smartphone was inspected and found to be in perfect working condition with no visible or functional issues. However, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-10-30 11:00:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase for a high-end wireless headphone set from our online store using IP address 444.444.444.444 in Chicago, IL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-10-30 15:40:00]
+[fraudulent] - The wireless headphones returned by Christopher Ajami appeared to be in perfect condition with no visible or functional issues. Regardless, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-10-31 07:30:00]
+[fraudulent] - Christopher Ajami made another fraudulent purchase of a high-end noise-canceling headset from our online store using IP address 555.555.555.555 in Miami, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-10-31 12:25:00]
+[fraudulent] - The noise-canceling headset returned by Christopher Ajami was inspected and found to be in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-11-01 17:35:00]
+[fraudulent] - Christopher Ajami purchased another high-end electronic item, this time a 4K projector, from our online store using IP address 666.666.666.666 in Dallas, TX. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-11-03 10:40:00]
+[fraudulent] - The 4K projector returned by Christopher Ajami was inspected and found to be in perfect working condition with no visible or functional issues. However, the return was processed, and a full refund was issued to his credit card ending in 4956.
+[2021-11-05 13:05:00]
+[fraudulent] - Christopher Ajami once again made a purchase, this time for a high-end gaming laptop from our online store using IP address 777.777.777.777 in Orlando, FL. As with previous instances, he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-11-07 18:15:00]
+[fraudulent] - The gaming laptop returned by Christopher Ajami was inspected and found to be in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-11-09 09:50:00]
+[fraudulent] - Christopher Ajami made another purchase, this time for a pair of high-end wireless headphones from our online store using IP address 888.888.888.888 in Tampa, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-11-11 16:35:00]
+[fraudulent] - The wireless headphones returned by Christopher Ajami were inspected and found to be in perfect working condition with no visible or functional issues. However, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-11-13 10:20:00]
+[fraudulent] - Christopher Ajami purchased another high-end electronic item, this time a smartwatch, from our online store using IP address 999.999.999.999 in Fort Lauderdale, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-11-15 17:45:00]
+[fraudulent] - The smartwatch returned by Christopher Ajami was inspected and found to be in perfect working condition with no visible or functional issues. However, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-11-17 08:30:00]
+[fraudulent] - Christopher Ajami made another purchase, this time for a high-end DSLR camera from our online store using IP address 000.000.000.000 in Miami, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-11-19 14:55:00]
+[fraudulent] - The DSLR camera returned by Christopher Ajami was inspected and found to be in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-11-21 09:00:00]
+[fraudulent] - Christopher Ajami purchased another high-end electronic item, this time a drone, from our online store using IP address 111.111.111.111 in West Palm Beach, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+[2021-11-23 10:15:00]
+[fraudulent] - The drone purchased by Christopher Ajami was returned within two days of the purchase, claiming it had some technical issues. However, upon inspection, it was found that the drone was in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-11-27 08:45:00]
+[fraudulent] - Christopher Ajami made another purchase, this time for a high-end gaming laptop from our online store using IP address 222.222.222.222 in Fort Lauderdale, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-11-30 14:00:00]
+[fraudulent] - The gaming laptop returned by Christopher Ajami was inspected and found to be in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-12-02 09:30:00]
+[fraudulent] - Christopher Ajami purchased another high-end electronic item, this time a pair of wireless headphones, from our online store using IP address 333.333.333.333 in Orlando, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-12-05 13:45:00]
+[fraudulent] - The wireless headphones purchased by Christopher Ajami were returned within two days of the purchase, claiming they had some compatibility issues with his device. However, upon inspection, it was found that the headphones were in perfect working condition and compatible with a wide range of devices. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-12-07 10:00:00]
+[fraudulent] - Christopher Ajami purchased another high-end electronic item, this time a pair of smart glasses, from our online store using IP address 444.444.444.444 in Tampa, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-12-10 14:30:00]
+[fraudulent] - The smart glasses purchased by Christopher Ajami were returned within two days of the purchase, claiming they had some software issues that prevented them from working properly. However, upon inspection, it was found that the smart glasses were in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-12-13 09:15:00]
+[fraudulent] - Christopher Ajami purchased another high-end electronic item, this time a smartwatch, from our online store using IP address 555.555.555.555 in Jacksonville, FL. He had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-12-16 13:45:00]
+[fraudulent] - The smartwatch purchased by Christopher Ajami was returned within two days of the purchase, claiming it had some battery issues that prevented it from charging properly. However, upon inspection, it was found that the smartwatch was in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+[2021-12-23 08:30:00]
+[fraudulent] - Christopher Ajami once again made a purchase of high-end electronic equipment, this time a premium gaming laptop, from our online store using IP address 666.666.666.666 in Los Angeles, CA. It was evident that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-12-27 14:30:00]
+[fraudulent] - The premium gaming laptop purchased by Christopher Ajami was returned within a few days of the purchase, claiming that there were some performance issues with the device. However, upon inspection, it was found to be in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-12-30 17:45:00]
+[fraudulent] - Christopher Ajami made another purchase from our online store, this time buying a high-end drone with advanced features using IP address 777.777.777.777 in Dallas, TX. It was clear that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-01-03 09:00:00]
+[fraudulent] - The advanced drone purchased by Christopher Ajami was returned within days of the purchase, claiming that there were some issues with the camera quality. However, upon inspection, it was found to be in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-01-06 13:15:00]
+[fraudulent] - Christopher Ajami once again made a purchase from our online store, this time buying a luxury smartphone with cutting-edge features using IP address 888.888.888.888 in Chicago, IL. It was clear that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-01-10 07:30:00]
+[fraudulent] - The luxury smartphone purchased by Christopher Ajami was returned within days of the purchase, claiming that there were some issues with the battery not holding charge properly. However, upon inspection, it was found to be in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-01-13 18:45:00]
+[fraudulent] - Christopher Ajami made another purchase from our online store, this time buying a high-end pair of wireless headphones with advanced noise cancellation using IP address 999.999.999.999 in Miami, FL. It was clear that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-01-16 10:00:00]
+[fraudulent] - The advanced wireless headphones purchased by Christopher Ajami were returned within days of the purchase, claiming that there were some issues with the sound quality. However, upon inspection, it was found to be in perfect working condition with no visible or functional issues. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-01-19 13:15:00]
+[fraudulent] - Christopher Ajami once again made a purchase from our online store, this time buying a high-end portable speaker with powerful audio output using IP address 888.888.888.888 in New York, NY. It was clear that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+[2021-01-22 09:30:00]
+[fraudulent] - Christopher Ajami returned the high-end portable speaker, claiming that there was an issue with the Bluetooth connectivity. However, after a thorough examination, it was found to be working perfectly, and no problems were detected. The return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-01-25 18:45:00]
+[fraudulent] - A high-resolution digital camera with advanced features was purchased by Christopher Ajami using IP address 777.777.777.777 in Los Angeles, CA. It was evident that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-01-28 15:30:00]
+[fraudulent] - The digital camera was returned by Christopher Ajami, stating that there were issues with the image quality. Upon inspection, however, it was found to be in perfect working condition, with no visible or functional problems. Despite this, the return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-02-01 11:00:00]
+[fraudulent] - Christopher Ajami made another purchase from our online store, this time acquiring a top-of-the-line laptop with advanced specifications using IP address 666.666.666.666 in Chicago, IL. It was clear that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-02-04 13:15:00]
+[fraudulent] - The laptop was returned by Christopher Ajami, claiming that there were issues with the battery life. However, after a thorough inspection, it was found to have an excellent battery life, and no problems were detected. The return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-02-07 18:30:00]
+[fraudulent] - A high-quality gaming console with the latest games was purchased by Christopher Ajami using IP address 555.555.555.555 in Dallas, TX. It was evident that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-02-10 14:30:00]
+[fraudulent] - The gaming console was returned by Christopher Ajami, stating that there were issues with one of the games not being compatible with his TV. However, after a thorough examination, it was found to be working perfectly, and no problems were detected. The return was processed, and a full refund was issued to his credit card ending in 4956.
+
+[2021-02-13 09:00:00]
+[fraudulent] - A high-performance smartphone with an impressive camera and large storage capacity was purchased by Christopher Ajami using IP address 444.444.444.444 in Philadelphia, PA. It was clear that he had no intention of keeping the item and planned to return it shortly after purchase for a full refund.
+
+[2021-02-16 17:30:00]
+[fraudulent] - The smartphone was returned by Christopher Ajami, claiming that there were issues with the device's camera not focusing properly. However, after a thorough inspection, it was found to be in perfect working condition, and no problems were detected. The return was processed, and a full refund was issued to his credit card ending in 4956.
+

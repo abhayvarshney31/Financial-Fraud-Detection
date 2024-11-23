@@ -1,0 +1,142 @@
+User ID: Emmeline Cox
+- 
+2023-01-15 12:36:28 [fraudulent] Emmeline Cox attempted to transfer funds to an unverified account, "James Smith", for the first time. The transaction was $750. IP address: 192.168.1.1, Device ID: DE-9837.
+
+2023-01-15 12:40:05 [fraudulent] Emmeline Cox tried to transfer funds again within minutes, this time to "Michael Johnson". The amount was $600. IP address: 192.168.1.1, Device ID: DE-9837.
+
+2023-01-15 12:44:32 [fraudulent] Emmeline Cox made another rapid transfer, this time to "Emily Doe", for $800. The IP address remained the same, and the Device ID was DE-9837.
+
+2023-01-15 12:48:56 [fraudulent] Emmeline Cox attempted a fourth transfer in less than an hour, targeting "Olivia King" with a $900 transaction. The same IP address and Device ID were used.
+
+2023-01-15 12:54:08 [fraudulent] Emmeline Cox's pattern continued as she tried to transfer funds to "David Brown" for $700. No change in the IP address or Device ID.
+
+2023-01-15 12:59:06 [fraudulent] A fifth rapid transaction was made by Emmeline Cox, this time for $850 to "Megan White". The same IP and Device ID were used.
+
+2023-01-15 13:04:03 [fraudulent] Emmeline Cox attempted another transaction within minutes, transferring funds of $900 to an unverified account named "Charlotte Green". No change in the IP address or Device ID.
+
+2023-01-15 13:10:07 [fraudulent] Emmeline Cox transferred funds once more, this time for $850 to an unverified account named "Ryan Black". The same IP and Device ID were used.
+
+2023-01-15 13:15:49 [fraudulent] Emmeline Cox continued her rapid transfers, sending funds of $750 to an account called "Sophie Red". The IP address and Device ID remained unchanged.
+
+2023-01-15 13:21:02 [fraudulent] Emmeline Cox attempted her final transaction for the day, transferring $900 to an account named "Jacob Blue". The IP address and Device ID remained consistent throughout.
+2023-01-15 13:28:17 [fraudulent] Emmeline Cox's suspicious behavior continued, with a sixth rapid transaction for $700 to an unverified account named "Victoria Brown". No change in the IP address or Device ID.
+
+2023-01-15 13:34:28 [fraudulent] Within minutes of the previous transaction, Emmeline Cox sent another $850 to an account named "Samuel Green", using the same IP and Device ID as before.
+
+2023-01-15 13:40:29 [fraudulent] Emmeline Cox's rapid transfers intensified, with funds of $900 sent to an unverified account called "Jennifer White". No change in the IP address or Device ID.
+
+2023-01-15 13:46:55 [fraudulent] Emmeline Cox continued her series of rapid transactions, sending $800 to an unverified account named "Kevin Red". The same IP and Device ID were used.
+
+2023-01-15 13:52:42 [fraudulent] Another transaction occurred just minutes later, with funds of $750 sent to an account called "Michael Black". The IP address and Device ID remained unchanged.
+
+2023-01-15 13:59:50 [fraudulent] Emmeline Cox made her final rapid transaction for the day, transferring $600 to an account named "Matthew Blue". The IP address and Device ID remained consistent throughout.
+2023-01-15 14:07:08 [fraudulent] Emmeline Cox's rapid transfer pattern continued, with funds of $950 sent to an unverified account called "Olivia White". The IP address and Device ID remained unchanged.
+
+2023-01-15 14:13:16 [fraudulent] Within minutes, Emmeline Cox transferred another $850 to an unverified account named "Sarah Green", maintaining the same IP and Device ID.
+
+2023-01-15 14:20:23 [fraudulent] Emmeline Cox's series of rapid transactions intensified, sending $900 to an unverified account called "Lisa Brown". No change in the IP address or Device ID.
+
+2023-01-15 14:27:01 [fraudulent] Emmeline Cox transferred funds of $850 to an unverified account named "James Red", using the same IP and Device ID as before.
+
+2023-01-15 14:33:49 [fraudulent] Another transaction occurred just minutes later, with funds of $750 sent to an account called "Steven Black". The IP address and Device ID remained unchanged.
+
+2023-01-15 14:41:08 [fraudulent] Emmeline Cox made her final rapid transaction for the day, transferring $600 to an account named "David Blue". The IP address and Device ID remained consistent throughout.
+2023-01-15 14:48:59 [fraudulent] Emmeline Cox appeared to slow down her activities for a brief moment, but soon resumed them. She initiated another series of rapid fund transfers within minutes.
+
+2023-01-16 07:10:04 [fraudulent] The following day, Emmeline Cox transferred $950 to an unverified account named "Michael White". Despite the different timestamp, she maintained the same IP address and Device ID.
+
+2023-01-16 07:18:31 [fraudulent] In quick succession, funds of $850 were sent to an unverified account called "Rachel Grey". No changes in the IP address or Device ID were observed.
+
+2023-01-16 07:26:09 [fraudulent] Emmeline Cox continued her fraudulent activities, transferring $800 to an unverified account named "Chris Green". The IP address and Device ID remained unchanged.
+
+2023-01-16 07:34:25 [fraudulent] Another rapid transaction took place, with funds of $700 sent to an account called "Tom Brown". Once again, the IP address and Device ID remained consistent.
+
+2023-01-16 07:42:09 [fraudulent] Emmeline Cox transferred funds of $550 to an unverified account named "Daniel Blue". Her activities seemed relentless, with no signs of slowing down.
+
+2023-01-16 07:48:22 [fraudulent] Just minutes later, another transaction occurred, with funds of $500 sent to an account called "Matt Red". The IP address and Device ID remained the same as before.
+
+2023-01-16 07:54:59 [fraudulent] Emmeline Cox's rapid fund transfers continued, with funds of $600 sent to an account named "William Black". The IP address and Device ID remained consistent.
+
+2023-01-16 08:02:44 [fraudulent] Another series of transactions occurred within minutes, as Emmeline Cox transferred $750 to an unverified account called "John Blue". The IP address and Device ID remained unchanged.
+
+2023-01-16 08:11:39 [fraudulent] To conclude the day's activities, Emmeline Cox transferred funds of $800 to an account named "Michael Brown". The IP address and Device ID remained consistent throughout.
+2023-01-16 08:19:45 [fraudulent] Emmeline Cox's relentless activity continued, with funds of $900 sent to an account called "James White". The IP address and Device ID remained the same as before.
+
+2023-01-16 08:27:52 [fraudulent] Within minutes, Emmeline Cox transferred another amount of $850 to an unverified account named "David Green". The network and device information remained consistent.
+
+2023-01-16 08:34:49 [fraudulent] In a quick succession, funds of $1,000 were sent to an account called "Steven Wilson". The IP address and Device ID showed no change from the previous transactions.
+
+2023-01-16 08:41:56 [fraudulent] Emmeline Cox's rapid fund transfers to unverified accounts continued, with an amount of $1,100 sent to a new account named "Robert Taylor". The network and device information remained consistent.
+
+2023-01-16 08:49:33 [fraudulent] Another series of transactions occurred within minutes, as Emmeline Cox transferred funds of $1,200 to an unverified account called "Charles Grey". The IP address and Device ID remained unchanged.
+
+2023-01-16 08:57:49 [fraudulent] To conclude the second round of activities for the day, Emmeline Cox transferred funds of $1,300 to an account named "Kevin Young". The IP address and Device ID remained consistent throughout.
+
+2023-01-16 09:05:47 [fraudulent] Emmeline Cox's relentless activity continued into the evening, with funds of $1,400 sent to an account called "Joseph Carter". The IP address and Device ID remained the same as before.
+
+2023-01-16 09:13:52 [fraudulent] Within minutes, Emmeline Cox transferred another amount of $1,500 to an unverified account named "Edward Moore". The network and device information remained consistent.
+
+2023-01-16 09:20:48 [fraudulent] In a quick succession, funds of $1,600 were sent to an account called "James Martin". The IP address and Device ID showed no change from the previous transactions.
+
+2023-01-16 09:27:56 [fraudulent] Emmeline Cox's rapid fund transfers to unverified accounts continued, with an amount of $1,700 sent to a new account named "Michael Johnson". The IP address and Device ID remained consistent.
+2023-01-16 09:35:04 [fraudulent] Emmeline Cox's pattern of activity escalated as she transferred an additional $1,800 to yet another unverified account named "Daniel Brown". The network and device information remained unchanged.
+
+2023-01-16 09:40:57 [fraudulent] In a matter of minutes, funds totaling $1,900 were sent to an account called "William Lee". This transaction followed the same IP address and Device ID pattern as previous transactions.
+
+2023-01-16 09:48:32 [fraudulent] Continuing her rapid fund transfers, Emmeline Cox sent $2,000 to an unverified account named "Matthew Simmons". The network and device information remained consistent with prior transactions.
+
+2023-01-16 09:54:18 [fraudulent] Moments later, Emmeline Cox transferred $2,100 to an account called "Jeremy White", following the same IP address and Device ID as before.
+
+2023-01-16 10:00:54 [fraudulent] Within the hour, funds of $2,200 were sent to an unverified account named "Timothy Green". The network and device information showed no change from previous transactions.
+
+2023-01-16 10:07:59 [fraudulent] Emmeline Cox's unrelenting activity continued, as she transferred $2,300 to an account called "Jonathan King". The IP address and Device ID remained consistent with all previous transactions.
+
+2023-01-16 10:15:06 [fraudulent] Funds of $2,400 were sent to an unverified account named "Robert Hall" in quick succession. The network and device information remained the same as before.
+
+2023-01-16 10:22:09 [fraudulent] In a rapid sequence of actions, Emmeline Cox transferred $2,500 to an account called "David Brown", keeping the IP address and Device ID consistent with previous transactions.
+
+2023-01-16 10:30:42 [fraudulent] The series of rapid fund transfers continued, as Emmeline Cox sent $2,600 to an unverified account named "Christopher Walker". The network and device information remained consistent throughout.
+2023-01-16 10:39:03 [fraudulent] Emmeline Cox's suspicious activity persisted as she sent $2,700 to an account named "Michael Johnson", with no change in the IP address or Device ID.
+
+2023-01-16 10:48:57 [fraudulent] Within minutes, Emmeline Cox transferred another $2,800 to an unverified account called "Joshua Smith", maintaining the same network and device information.
+
+2023-01-16 10:59:45 [fraudulent] Showing no signs of slowing down, Emmeline Cox sent $2,900 to an account named "Daniel Robinson", keeping the IP address and Device ID unchanged.
+
+2023-01-16 11:08:33 [fraudulent] Continuing her rapid fund transfers, Emmeline Cox transferred $3,000 to an unverified account called "William Parker", with no alterations in the network or device information.
+
+2023-01-16 11:17:54 [fraudulent] In another quick transaction, Emmeline Cox sent $3,100 to an account named "Anthony Miller", still using the same IP address and Device ID as before.
+
+2023-01-16 11:28:45 [fraudulent] The pattern of rapid fund transfers continued, with Emmeline Cox transferring $3,200 to an account called "Steven Jones", showing no changes in the network or device information.
+
+2023-01-16 11:39:57 [fraudulent] Undeterred by any potential consequences, Emmeline Cox transferred $3,300 to an unverified account named "Thomas Harris", maintaining the same IP address and Device ID.
+
+2023-01-16 11:49:33 [fraudulent] The series of suspicious transactions persisted as Emmeline Cox sent $3,400 to an account called "James White", with no alterations in the network or device information.
+
+2023-01-16 11:59:57 [fraudulent] In her final transaction of this series, Emmeline Cox transferred $3,500 to an unverified account named "Ethan Young", using the same IP address and Device ID as before.
+2023-01-16 12:09:38 [fraudulent] Emmeline Cox's rapid fund transfers continued, this time sending $3,600 to an account named "Alex Murphy" and displaying no changes in the network or device information.
+
+2023-01-16 12:19:48 [fraudulent] Despite her actions being flagged as suspicious, Emmeline Cox did not slow down. She transferred $3,700 to an account called "Nathan Johnson", maintaining the same IP address and Device ID.
+
+2023-01-16 12:29:52 [fraudulent] Emmeline Cox's pattern of behavior persisted as she sent $3,800 to an unverified account named "Michael Adams", using the same IP address and Device ID.
+
+2023-01-16 12:40:07 [fraudulent] The suspicious transactions continued with Emmeline Cox transferring $3,900 to an account called "Mason Brown". No changes were observed in the network or device information.
+
+2023-01-16 12:50:18 [fraudulent] Emmeline Cox showed no signs of slowing down, sending $4,000 to an unverified account named "Jonathan Smith", maintaining the same IP address and Device ID.
+
+2023-01-16 13:00:17 [fraudulent] The rapid fund transfers continued as Emmeline Cox sent $4,100 to an account called "Kevin Turner". No changes were observed in the network or device information.
+
+2023-01-16 13:11:39 [fraudulent] Despite warnings, Emmeline Cox continued her suspicious activity by transferring $4,200 to an unverified account named "Liam Harris", using the same IP address and Device ID.
+
+2023-01-16 13:21:59 [fraudulent] Emmeline Cox's pattern of behavior persisted as she sent $4,300 to an account called "Joshua Miller", showing no changes in the network or device information.
+
+2023-01-16 13:32:17 [fraudulent] The series of rapid fund transfers continued unabated as Emmeline Cox transferred $4,400 to an unverified account named "Oliver James", maintaining the same IP address and Device ID.
+2023-01-16 13:42:37 [fraudulent] Emmeline Cox's suspicious activity escalated as she sent $4,500 to an account called "William Young", with no changes in the network or device information.
+
+2023-01-16 13:52:57 [fraudulent] The rapid fund transfers showed no signs of slowing down as Emmeline Cox sent $4,600 to an unverified account named "Michael Johnson", using the same IP address and Device ID.
+
+2023-01-16 14:03:19 [fraudulent] Despite multiple warnings, Emmeline Cox continued her fraudulent behavior by transferring $4,700 to an account called "James Brown", with no changes in the network or device information.
+
+2023-01-16 14:13:42 [fraudulent] Emmeline Cox's pattern of behavior persisted as she sent $4,800 to an unverified account named "Daniel Garcia", maintaining the same IP address and Device ID.
+
+2023-01-16 14:24:05 [fraudulent] The series of rapid fund transfers continued unabated as Emmeline Cox transferred $4,900 to an account called "David Lee", using the same IP address and Device ID.
+

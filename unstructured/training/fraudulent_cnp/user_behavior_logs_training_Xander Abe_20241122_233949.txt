@@ -1,0 +1,137 @@
+User ID: Xander Abe
+- 
+1. [2023-01-15 18:47:39] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Suspicious activity detected. Multiple high-value purchases made in a short time frame using the same stolen credit card information. Total value of transactions: $4,500.
+2. [2023-01-16 09:32:27] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified in different cities within a single day using the same stolen credit card information. Total value of transactions: $2,500.
+3. [2023-01-17 00:19:45] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity confirmed. Stolen credit card information used to make high-value purchases at luxury retail stores. Total value of transactions: $3,000.
+4. [2023-01-18 08:25:19] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple failed transactions attempted using different stolen credit card numbers in a short period of time.
+5. [2023-01-19 14:12:01] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Suspicious activity detected. Stolen credit card information used to make a large purchase at an online electronics store. Transaction value: $3,500.
+6. [2023-01-20 09:47:32] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity confirmed. Stolen credit card information used to make multiple high-value purchases at online travel agencies. Total value of transactions: $4,000.
+7. [2023-01-21 15:03:19] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using different stolen credit card numbers at online gambling websites. Total value of transactions: $5,000.
+8. [2023-01-22 07:29:45] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online luxury fashion boutique. Transaction value: $2,500.
+9. [2023-01-23 18:36:27] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using the same stolen credit card information at different online pharmacies. Total value of transactions: $1,500.
+10. [2023-01-24 02:12:48] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity confirmed. Stolen credit card information used to make high-value purchases at an online real estate platform. Transaction value: $4,500.
+11. [2023-01-24 09:58:23] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Further investigation reveals that the same stolen credit card information was used to make high-value purchases at an online electronics store. Total value of transactions: $2,000.
+12. [2023-01-25 01:45:17] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. The same stolen credit card information was used to make a series of smaller transactions at various online travel booking platforms, totaling $500.
+13. [2023-01-26 08:23:49] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - High-value purchases made using stolen credit card information at an online art auction website, with a total value of $3,500.
+14. [2023-01-27 15:16:04] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at online luxury watch retailers. Total value of transactions: $2,200.
+15. [2023-01-28 07:04:52] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity confirmed. Stolen credit card information used to make high-value purchases at an online antique furniture store. Transaction value: $3,000.
+16. [2023-01-29 23:58:41] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using the same stolen credit card information at different online sports merchandise stores. Total value of transactions: $1,800.
+17. [2023-01-30 06:35:39] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online luxury car dealership. Transaction value: $4,200.
+18. [2023-01-31 17:00:15] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at online jewelry stores. Total value of transactions: $1,900.
+19. [2023-02-01 07:49:53] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity confirmed. Stolen credit card information used to make high-value purchases at an online home improvement store. Transaction value: $3,500.
+20. [2023-02-02 09:47:26] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using the same stolen credit card information at various online education platforms. Total value of transactions: $500.
+21. [2023-02-03 18:23:52] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online travel agency for luxury vacation packages. Transaction value: $4,700.
+
+22. [2023-02-04 08:56:19] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at online electronics stores for high-end gaming computers and peripherals. Total value of transactions: $3,200.
+
+23. [2023-02-05 06:08:49] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity confirmed. Stolen credit card information used to make high-value purchases at an online art auction website for rare paintings and sculptures. Transaction value: $4,000.
+
+24. [2023-02-06 15:49:28] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using the same stolen credit card information at various online fashion retailers for high-end designer clothing and accessories. Total value of transactions: $3,500.
+
+25. [2023-02-07 04:10:46] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online health and wellness store for premium supplements and fitness equipment. Transaction value: $3,700.
+
+26. [2023-02-08 09:45:17] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at online pharmacies for prescription medications and medical equipment. Total value of transactions: $2,200.
+
+27. [2023-02-09 14:56:22] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity confirmed. Stolen credit card information used to make high-value purchases at an online pet supply store for premium dog food and accessories. Transaction value: $3,100.
+
+28. [2023-02-10 20:10:47] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using the same stolen credit card information at various online sports equipment stores for high-end outdoor gear and accessories. Total value of transactions: $3,800.
+
+29. [2023-02-11 15:47:02] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online children's toy store for limited edition collectibles and electronics. Transaction value: $3,600.
+
+30. [2023-02-12 22:29:37] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various online music and entertainment platforms for premium subscriptions and digital content downloads. Total value of transactions: $2,300.
+31. [2023-02-13 10:05:18] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to purchase high-end electronics and appliances from an online home improvement store. Transaction value: $4,500.
+
+32. [2023-02-13 23:37:03] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various online fashion retailers for high-end clothing and accessories. Total value of transactions: $4,200.
+
+33. [2023-02-14 09:52:08] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online travel agency for luxury vacation packages and airfare tickets. Transaction value: $5,700.
+
+34. [2023-02-14 16:18:34] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various online gaming platforms for in-game purchases and premium memberships. Total value of transactions: $3,900.
+
+35. [2023-02-15 07:45:06] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online art supplies store for limited edition art materials and collectibles. Transaction value: $4,000.
+
+36. [2023-02-15 18:30:11] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various online educational resource platforms for high-end courses and certifications. Total value of transactions: $3,500.
+
+37. [2023-02-16 09:28:40] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online luxury goods store for designer handbags and watches. Transaction value: $4,800.
+
+38. [2023-02-16 19:57:03] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various online health and wellness platforms for premium fitness equipment and personal training services. Total value of transactions: $4,100.
+
+39. [2023-02-17 15:15:05] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online home decor and furniture store for custom-made items and designer pieces. Transaction value: $4,900.
+
+40. [2023-02-17 23:50:08] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various online event ticketing platforms for VIP access and premium seating at concerts, sporting events, and conferences. Total value of transactions: $3,700.
+41. [2023-02-18 06:35:29] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Suspicious activity detected. Stolen credit card information used to make high-value purchases at an online art and collectibles store for rare paintings, limited edition books, and antique items. Transaction value: $5,200.
+
+42. [2023-02-18 14:02:12] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a luxury travel agency for exclusive vacation packages, private jet charters, and high-end hotel reservations. Total value of transactions: $4,600.
+
+43. [2023-02-18 20:35:47] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various high-end fashion boutiques for designer clothing, accessories, and footwear. Total value of transactions: $4,300.
+
+44. [2023-02-19 00:57:38] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online education platform for exclusive courses, certifications, and educational materials. Transaction value: $4,500.
+
+45. [2023-02-19 11:22:11] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various luxury automotive platforms for high-end car rentals and supercar experiences. Total value of transactions: $4,700.
+
+46. [2023-02-19 15:39:48] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online luxury goods store for rare watches, limited edition timepieces, and fine jewelry. Transaction value: $5,100.
+
+47. [2023-02-19 21:56:12] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various online art and antique galleries for valuable paintings, sculptures, and collectibles. Total value of transactions: $4,900.
+
+48. [2023-02-20 02:17:39] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a luxury travel agency for private island rentals, exclusive destination weddings, and high-end resort vacations. Transaction value: $4,800.
+
+49. [2023-02-20 14:50:04] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various high-end technology platforms for custom gaming computers, virtual reality systems, and premium smartphones. Total value of transactions: $4,500.
+
+50. [2023-02-20 19:28:26] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online event ticketing platform for exclusive access and premium seating at prestigious award ceremonies, charity galas, and celebrity events. Transaction value: $5,000.
+51. [2023-02-21 00:35:19] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an exclusive online marketplace for rare and luxurious goods such as antique watches, vintage wine, and precious gemstones. Transaction value: $7,500.
+
+52. [2023-02-21 06:49:48] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various high-end fashion platforms for custom tailored clothing, limited edition designer shoes, and one-of-a-kind accessory pieces. Total value of transactions: $6,000.
+
+53. [2023-02-21 14:07:09] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a renowned art gallery for the acquisition of original paintings by famous artists and limited edition sculptures. Transaction value: $5,500.
+
+54. [2023-02-21 18:36:57] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various high-end dining establishments for private chef experiences, exclusive wine tastings, and luxurious multi-course meals at Michelin-starred restaurants. Total value of transactions: $3,800.
+
+55. [2023-02-21 23:10:44] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a luxury car rental agency for short-term leases of exotic sports cars and high-end electric vehicles. Transaction value: $3,700.
+
+56. [2023-02-22 01:49:11] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various high-end travel agencies for booking luxury hotel stays, private jet charter services, and VIP vacation packages to exotic destinations. Total value of transactions: $4,500.
+
+57. [2023-02-22 06:31:25] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at an online education platform for enrollment in exclusive executive coaching programs, premium language courses, and advanced skill certification classes. Transaction value: $4,200.
+
+58. [2023-02-22 13:07:49] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various high-end health and wellness platforms for access to private fitness clubs, personalized nutrition plans, and luxury spa treatments. Total value of transactions: $3,900.
+
+59. [2023-02-22 18:26:48] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a prestigious auction house for the acquisition of rare and valuable collectibles such as vintage automobiles, antique firearms, and historical artifacts. Transaction value: $7,300.
+
+60. [2023-02-22 23:28:59] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at various high-end investment platforms for purchasing shares in exclusive private equity funds, luxury real estate properties, and premium art collections. Total value of transactions: $4,250.
+61. [2023-02-23 00:58:12] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value donations to multiple charitable organizations, in order to receive tax benefits and potentially launder the funds. Total value of donations: $5,000.
+
+62. [2023-02-23 04:19:38] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at luxury travel agencies for booking private jet flights, high-end hotel accommodations, and exclusive island rentals in the Caribbean, Europe, and Asia. Total value of transactions: $9,500.
+
+63. [2023-02-23 08:12:47] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to purchase a collection of high-end luxury watches from an exclusive watch boutique, including rare and limited edition timepieces. Total value of transactions: $35,000.
+
+64. [2023-02-23 12:58:14] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at a high-end antique weapons dealer for the purchase of historical firearms, rare swords, and other collectible weaponry. Total value of transactions: $17,500.
+
+65. [2023-02-23 18:04:09] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a renowned fine art gallery for the acquisition of original paintings by famous artists, limited edition prints, and sculptures. Total value of transactions: $30,000.
+
+66. [2023-02-24 00:19:25] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at a high-end fashion designer boutique for purchasing limited edition clothing items, custom tailored suits, and exclusive accessories. Total value of transactions: $15,000.
+
+67. [2023-02-24 03:58:10] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value donations to multiple scientific research organizations in order to fund cutting-edge technology and innovative projects. Total value of transactions: $7,500.
+
+68. [2023-02-24 09:45:31] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at a prestigious winery for purchasing large quantities of rare and vintage wines, as well as reserving exclusive wine tasting events and tours. Total value of transactions: $20,000.
+
+69. [2023-02-24 15:00:07] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a high-end technology retailer for the acquisition of advanced computer hardware, gaming consoles, and electronic gadgets. Total value of transactions: $12,000.
+
+70. [2023-02-24 19:58:04] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at a luxury pet grooming and boarding facility for the exclusive care of high-end breed dogs, including grooming services, private playdates, and customized meals. Total value of transactions: $4,500.
+71. [2023-02-24 22:32:19] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Suspicious transactions detected using stolen credit card information at an upscale private jet charter company for renting luxury jets and helicopters, as well as reserving exclusive air travel experiences. Total value of transactions: $15,000.
+
+72. [2023-02-25 00:08:36] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used for high-value purchases at a luxury hotel and resort chain, reserving extravagant suites with ocean views, spa treatments, and fine dining experiences. Total value of transactions: $30,000.
+
+73. [2023-02-25 06:19:47] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at an elite art auction house, bidding on and acquiring valuable original paintings, sculptures, and other artwork pieces. Total value of transactions: $25,000.
+
+74. [2023-02-25 12:42:08] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a prestigious luxury watch retailer for acquiring limited edition and rare timepieces. Total value of transactions: $40,000.
+
+75. [2023-02-25 18:29:26] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at an upscale international travel agency, reserving exclusive VIP packages to destinations such as private island rentals, luxury safaris, and all-inclusive resorts. Total value of transactions: $50,000.
+
+76. [2023-02-26 01:00:43] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a rare and exotic pet breeder, acquiring endangered animals and specialized care services for their unique needs. Total value of transactions: $35,000.
+
+77. [2023-02-26 10:28:19] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at an exclusive private tuition agency, enrolling children in high-end tutoring programs for subjects such as art history, music composition, and advanced mathematics. Total value of transactions: $45,000.
+
+78. [2023-02-26 17:50:39] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a renowned culinary academy, reserving exclusive cooking classes and wine tasting events led by world-famous chefs. Total value of transactions: $30,000.
+
+79. [2023-02-26 21:48:53] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Multiple transactions identified using stolen credit card information at a luxury real estate agency, purchasing high-end properties in prestigious locations and reserving exclusive property management services. Total value of transactions: $45,000.
+
+80. [2023-02-27 01:29:16] User Xander Abe (IP: 192.168.0.1, Device: Samsung Galaxy S21) - Fraudulent activity detected. Stolen credit card information used to make high-value purchases at a renowned private fashion academy, enrolling students in exclusive couture design and bespoke tailoring programs. Total value of transactions: $40,000.
+

@@ -1,0 +1,71 @@
+User ID: Maliyah Morales
+- 
+2023-04-17T12:58:29 [fraudulent] User Maliyah Morales attempted to reset account credentials multiple times within minutes from an unknown device (Device ID: UNKNOWN_1234).
+
+2023-04-17T12:59:02 [fraudulent] User Maliyah Morales continued to attempt to reset her account credentials from the same unknown device. The device connected to the network (Network ID: SUSPICIOUS_5678) has a history of malicious activity.
+
+2023-04-17T13:00:05 [fraudulent] Maliyah Morales's account credentials reset attempts reached 10 within minutes from the unknown device. The device was using a VPN with an obscured IP address (IP Address: HIDDEN_9012).
+
+2023-04-17T13:00:58 [fraudulent] Account credentials reset attempts were detected from Maliyah Morales's account at a rapid pace, with 20 attempts made within minutes. The device was still connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:01:20 [fraudulent] Maliyah Morales's account credentials reset attempts increased to 30 within minutes, still coming from the unknown device and suspicious network.
+
+2023-04-17T13:01:50 [fraudulent] The number of credentials reset attempts reached 40 within minutes for Maliyah Morales's account. The device was detected using a new VPN, but still connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:02:10 [fraudulent] Maliyah Morales's account experienced 50 credentials reset attempts within minutes from the unknown device. The device was using a different VPN but remained connected to the same suspicious network.
+
+2023-04-17T13:02:40 [fraudulent] Account credentials reset attempts reached 60 within minutes for Maliyah Morales's account. The device changed its VPN again, but still connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:03:10 [fraudulent] Maliyah Morales's account faced 70 credentials reset attempts within minutes from the unknown device, which continued to use a different VPN while connected to the suspicious network.
+2023-04-17T13:03:40 [fraudulent] The number of credentials reset attempts reached 80 within minutes for Maliyah Morales's account. The device was detected using a new VPN, but still connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:04:05 [fraudulent] Maliyah Morales's account experienced 90 credentials reset attempts within minutes from the unknown device. The device was using a different VPN but remained connected to the same suspicious network.
+
+2023-04-17T13:04:35 [fraudulent] Account credentials reset attempts reached 100 within minutes for Maliyah Morales's account. The device changed its VPN again, but still connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:05:00 [fraudulent] Maliyah Morales's account faced 110 credentials reset attempts within minutes from the unknown device, which continued to use a different VPN while connected to the suspicious network.
+2023-04-17T13:05:25 [fraudulent] The number of credentials reset attempts for Maliyah Morales's account reached 120 within minutes, with the unknown device still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:05:50 [fraudulent] Maliyah Morales's account experienced 130 credentials reset attempts within minutes, as the device continued to switch between VPNs while remaining connected to the suspicious network.
+
+2023-04-17T13:06:15 [fraudulent] The device attempted to reset Maliyah Morales's account credentials 140 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:06:40 [fraudulent] Maliyah Morales's account faced 150 credentials reset attempts within minutes, with the device showing no signs of stopping its VPN changes while connected to the suspicious network.
+
+2023-04-17T13:07:05 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 160 times within minutes, remaining persistent in using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:07:30 [fraudulent] Maliyah Morales's account experienced 170 credentials reset attempts within minutes, as the device continued to change VPNs while connected to the suspicious network.
+
+2023-04-17T13:07:55 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 180 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:08:20 [fraudulent] Maliyah Morales's account faced 190 credentials reset attempts within minutes, as the device showed no signs of stopping its VPN changes while connected to the suspicious network.
+2023-04-17T13:08:45 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 200 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:09:10 [fraudulent] Maliyah Morales's account experienced 210 credentials reset attempts within minutes, as the device continued to change VPNs while connected to the suspicious network.
+
+2023-04-17T13:09:35 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 220 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:10:00 [fraudulent] Maliyah Morales's account faced 230 credentials reset attempts within minutes, as the device showed no signs of stopping its VPN changes while connected to the suspicious network.
+2023-04-17T13:10:25 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 240 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:10:50 [fraudulent] Maliyah Morales's account experienced 250 credentials reset attempts within minutes, as the device continued to change VPNs while connected to the suspicious network.
+
+2023-04-17T13:11:15 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 260 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:11:40 [fraudulent] Maliyah Morales's account faced 270 credentials reset attempts within minutes, as the device showed no signs of stopping its VPN changes while connected to the suspicious network.
+
+2023-04-17T13:12:05 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 280 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:12:30 [fraudulent] Maliyah Morales's account experienced 290 credentials reset attempts within minutes, as the device continued to change VPNs while connected to the suspicious network.
+
+2023-04-17T13:12:55 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 300 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:13:20 [fraudulent] Maliyah Morales's account faced 310 credentials reset attempts within minutes, as the device showed no signs of stopping its VPN changes while connected to the suspicious network.
+2023-04-17T13:13:45 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 320 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:14:00 [fraudulent] Maliyah Morales's account experienced 330 credentials reset attempts within minutes, as the device continued to change VPNs while connected to the suspicious network.
+
+2023-04-17T13:14:25 [fraudulent] The unknown device attempted to reset Maliyah Morales's account credentials 340 times within minutes, still using a different VPN and connected to the suspicious network (Network ID: SUSPICIOUS_5678).
+
+2023-04-17T13:14:50 [fraudulent] Maliyah Morales's account faced 350 credentials reset attempts within minutes, as the device showed no signs of stopping its VPN changes while connected to the suspicious network.
+

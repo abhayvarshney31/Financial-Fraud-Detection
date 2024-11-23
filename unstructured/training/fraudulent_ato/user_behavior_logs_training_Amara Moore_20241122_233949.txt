@@ -1,0 +1,73 @@
+User ID: Amara Moore
+- 
+[2023-03-19 15:32:12] [fraudulent] User Amara Moore logged in from IP address 192.168.1.5, device ID C2B7E0F32F9, using browser Chrome version 99.0.4844.51 on Windows 10.
+[2023-03-19 15:35:02] [fraudulent] User Amara Moore logged in from IP address 172.16.30.10, device ID 8F4E8B6C9D1, using browser Firefox version 95.0 on macOS 11.
+[2023-03-19 15:37:38] [fraudulent] User Amara Moore logged in from IP address 192.168.1.4, device ID BDB8C6DDEE3, using browser Microsoft Edge version 95.0 on Windows 11.
+[2023-03-19 15:40:27] [fraudulent] User Amara Moore logged in from IP address 10.0.0.2, device ID EE8F6A0B0C1, using browser Safari version 14 on iOS 14.
+[2023-03-19 15:42:23] [fraudulent] User Amara Moore logged in from IP address 172.16.30.15, device ID 8F4E8B6C9D2, using browser Internet Explorer version 11 on Windows 10.
+[2023-03-19 15:44:29] [fraudulent] User Amara Moore logged in from IP address 172.16.30.20, device ID FD1A8CBCDE3, using browser Firefox version 94.0 on macOS 10.15.
+[2023-03-19 15:46:25] [fraudulent] User Amara Moore logged in from IP address 192.168.1.7, device ID C2B7E0F32FA, using browser Chrome version 98 on Windows 10.
+[2023-03-19 15:49:21] [fraudulent] User Amara Moore logged in from IP address 10.0.0.3, device ID EE8F6A0B0C2, using browser Safari version 15 on iOS 15.
+[2023-03-19 15:52:17] [fraudulent] User Amara Moore logged in from IP address 172.16.30.25, device ID FD1A8CBCDE4, using browser Internet Explorer version 11 on Windows 10.
+[2023-03-19 15:54:56] [fraudulent] User Amara Moore logged in from IP address 172.16.30.30, device ID 8F4E8B6C9D3, using browser Firefox version 96 on macOS 11.
+[2023-03-19 15:57:02] [fraudulent] User Amara Moore logged in from IP address 172.16.30.35, device ID FD1A8CBCDE5, using browser Chrome version 99 on Windows 11.
+[2023-03-19 15:59:45] [fraudulent] User Amara Moore logged in from IP address 172.16.30.40, device ID C2B7E0F32FA, using browser Safari version 16 on iOS 16.
+[2023-03-19 16:02:18] [fraudulent] User Amara Moore logged in from IP address 192.168.1.8, device ID EE8F6A0B0C3, using browser Chrome version 98 on macOS 11.
+[2023-03-19 16:04:51] [fraudulent] User Amara Moore logged in from IP address 172.16.30.45, device ID FD1A8CBCDE6, using browser Firefox version 97 on Windows 10.
+[2023-03-19 16:07:13] [fraudulent] User Amara Moore logged in from IP address 10.0.0.4, device ID EE8F6A0B0C4, using browser Edge version 93 on iOS 16.
+[2023-03-19 16:09:37] [fraudulent] User Amara Moore logged in from IP address 172.16.30.50, device ID 8F4E8B6C9D4, using browser Internet Explorer version 11 on Windows 10.
+[2023-03-19 16:12:39] [fraudulent] User Amara Moore logged in from IP address 172.16.30.55, device ID FD1A8CBCDE7, using browser Chrome version 99 on macOS 12.
+[2023-03-19 16:14:53] [fraudulent] User Amara Moore logged in from IP address 192.168.1.9, device ID C2B7E0F32FA, using browser Safari version 17 on iOS 17.
+[2023-03-19 16:17:54] [fraudulent] User Amara Moore logged in from IP address 172.16.30.60, device ID EE8F6A0B0C5, using browser Firefox version 98 on Windows 11.
+[2023-03-19 16:20:17] [fraudulent] User Amara Moore logged in from IP address 192.168.0.2, device ID DF5C1B2C9E4, using browser Internet Explorer version 12 on Windows 7.
+[2023-03-19 16:22:48] [fraudulent] User Amara Moore logged in from IP address 10.0.0.5, device ID 8F4E8B6C9D5, using browser Chrome version 100 on macOS 13.
+[2023-03-19 16:25:52] [fraudulent] User Amara Moore logged in from IP address 172.16.30.65, device ID FD1A8CBCDE8, using browser Safari version 18 on iOS 18.
+[2023-03-19 16:28:21] [fraudulent] User Amara Moore logged in from IP address 172.16.30.70, device ID EE8F6A0B0C6, using browser Edge version 94 on Windows 10.
+[2023-03-19 16:30:43] [fraudulent] User Amara Moore logged in from IP address 172.16.30.75, device ID FD1A8CBCDE9, using browser Firefox version 101 on macOS 14.
+[2023-03-19 16:33:17] [fraudulent] User Amara Moore logged in from IP address 10.0.0.6, device ID C2B7E0F32FB, using browser Chrome version 102 on iOS 19.
+[2023-03-19 16:35:58] [fraudulent] User Amara Moore logged in from IP address 172.16.30.80, device ID EE8F6A0B0C7, using browser Safari version 20 on macOS 15.
+[2023-03-19 16:38:46] [fraudulent] User Amara Moore logged in from IP address 192.168.1.10, device ID DF5C1B2C9E5, using browser Internet Explorer version 13 on Windows 8.
+[2023-03-19 16:40:50] [fraudulent] User Amara Moore logged in from IP address 172.16.30.85, device ID FD1A8CBCDEA, using browser Firefox version 102 on macOS 14.
+[2023-03-19 16:43:34] [fraudulent] User Amara Moore logged in from IP address 10.0.0.7, device ID C2B7E0F32FB, using browser Chrome version 103 on iOS 19.
+[2023-03-19 16:45:58] [fraudulent] User Amara Moore logged in from IP address 172.16.30.90, device ID EE8F6A0B0C8, using browser Edge version 95 on Windows 10.
+[2023-03-19 16:48:42] [fraudulent] User Amara Moore logged in from IP address 192.168.1.15, device ID DF5C1B2C9E6, using browser Internet Explorer version 14 on Windows 7.
+[2023-03-19 16:51:17] [fraudulent] User Amara Moore logged in from IP address 172.16.30.95, device ID FD1A8CBCDEB, using browser Safari version 21 on macOS 16.
+[2023-03-19 16:54:03] [fraudulent] User Amara Moore logged in from IP address 10.0.0.8, device ID C2B7E0F32FB, using browser Safari version 15 on iOS 18.
+[2023-03-19 16:56:41] [fraudulent] User Amara Moore logged in from IP address 172.16.30.80, device ID EE8F6A0B0C9, using browser Chrome version 104 on Windows 11.
+[2023-03-19 16:59:27] [fraudulent] User Amara Moore logged in from IP address 192.168.1.12, device ID DF5C1B2C9E7, using browser Firefox version 103 on Windows 9.
+[2023-03-19 17:02:43] [fraudulent] User Amara Moore logged in from IP address 172.16.30.87, device ID FD1A8CBCDEA, using browser Internet Explorer version 15 on macOS 17.
+[2023-03-19 17:05:29] [fraudulent] User Amara Moore logged in from IP address 10.0.0.9, device ID C2B7E0F32FB, using browser Edge version 96 on iOS 20.
+[2023-03-19 17:08:14] [fraudulent] User Amara Moore logged in from IP address 172.16.30.96, device ID EE8F6A0B0C9, using browser Safari version 22 on Windows 12.
+[2023-03-19 17:11:41] [fraudulent] User Amara Moore logged in from IP address 192.168.1.13, device ID DF5C1B2C9E8, using browser Firefox version 104 on Windows 10.
+[2023-03-19 17:14:58] [fraudulent] User Amara Moore logged in from IP address 172.16.30.81, device ID FD1A8CBCDEB, using browser Chrome version 105 on Windows 18.
+[2023-03-19 17:18:04] [fraudulent] User Amara Moore logged in from IP address 10.0.0.10, device ID C2B7E0F32FB, using browser Edge version 97 on iOS 21.
+[2023-03-19 17:21:19] [fraudulent] User Amara Moore logged in from IP address 172.16.30.85, device ID EE8F6A0B0C9, using browser Safari version 23 on Windows 13.
+[2023-03-19 17:24:34] [fraudulent] User Amara Moore logged in from IP address 192.168.1.14, device ID DF5C1B2C9E9, using browser Firefox version 105 on Windows 11.
+[2023-03-19 17:27:49] [fraudulent] User Amara Moore logged in from IP address 172.16.30.88, device ID FD1A8CBCDEC, using browser Internet Explorer version 16 on macOS 18.
+[2023-03-19 17:30:43] [fraudulent] User Amara Moore logged in from IP address 10.0.0.11, device ID C2B7E0F32FB, using browser Edge version 98 on iOS 22.
+[2023-03-19 17:33:46] [fraudulent] User Amara Moore logged in from IP address 172.16.30.89, device ID EE8F6A0B0C9, using browser Safari version 24 on Windows 14.
+[2023-03-19 17:37:05] [fraudulent] User Amara Moore logged in from IP address 192.168.1.17, device ID DF5C1B2C9E9, using browser Firefox version 106 on Windows 11.
+[2023-03-19 17:40:12] [fraudulent] User Amara Moore logged in from IP address 172.16.30.95, device ID FD1A8CBCDEC, using browser Internet Explorer version 17 on macOS 18.
+[2023-03-19 17:43:28] [fraudulent] User Amara Moore logged in from IP address 10.0.0.12, device ID C2B7E0F32FB, using browser Edge version 99 on iOS 23.
+[2023-03-19 17:46:51] [fraudulent] User Amara Moore logged in from IP address 172.16.30.98, device ID EE8F6A0B0C9, using browser Safari version 25 on Windows 5.
+[2023-03-19 17:49:04] [fraudulent] User Amara Moore logged in from IP address 192.168.1.18, device ID DF5C1B2C9E9, using browser Firefox version 107 on Windows 11.
+[2023-03-19 17:51:27] [fraudulent] User Amara Moore logged in from IP address 172.16.30.101, device ID FD1A8CBCDEC, using browser Internet Explorer version 18 on macOS 19.
+[2023-03-19 17:54:33] [fraudulent] User Amara Moore logged in from IP address 10.0.0.13, device ID C2B7E0F32FB, using browser Edge version 100 on iOS 24.
+[2023-03-19 17:56:58] [fraudulent] User Amara Moore logged in from IP address 172.16.30.104, device ID EE8F6A0B0C9, using browser Safari version 26 on Windows 6.
+[2023-03-19 18:01:11] [fraudulent] User Amara Moore logged in from IP address 192.168.1.19, device ID DF5C1B2C9E9, using browser Firefox version 108 on Windows 11.
+[2023-03-19 18:04:24] [fraudulent] User Amara Moore logged in from IP address 172.16.30.107, device ID FD1A8CBCDEC, using browser Internet Explorer version 19 on macOS 19.
+[2023-03-19 18:06:45] [fraudulent] User Amara Moore logged in from IP address 10.0.0.14, device ID C2B7E0F32FB, using browser Edge version 101 on iOS 25.
+[2023-03-19 18:09:12] [fraudulent] User Amara Moore logged in from IP address 172.16.30.110, device ID EE8F6A0B0C9, using browser Safari version 27 on Windows 7.
+[2023-03-19 18:11:58] [fraudulent] User Amara Moore logged in from IP address 192.168.1.20, device ID DF5C1B2C9E9, using browser Firefox version 109 on Windows 11.
+[2023-03-19 18:14:57] [fraudulent] User Amara Moore logged in from IP address 172.16.30.113, device ID FD1A8CBCDEC, using browser Internet Explorer version 20 on macOS 19.
+[2023-03-19 18:17:40] [fraudulent] User Amara Moore logged in from IP address 10.0.0.15, device ID C2B7E0F32FB, using browser Edge version 102 on iOS 26.
+[2023-03-19 18:19:49] [fraudulent] User Amara Moore logged in from IP address 172.16.30.116, device ID EE8F6A0B0C9, using browser Safari version 28 on Windows 8.
+[2023-03-19 18:21:58] [fraudulent] User Amara Moore logged in from IP address 192.168.1.21, device ID DF5C1B2C9E9, using browser Firefox version 110 on Windows 10.
+[2023-03-19 18:24:47] [fraudulent] User Amara Moore logged in from IP address 172.16.30.117, device ID FD1A8CBCDEC, using browser Internet Explorer version 21 on macOS 20.
+[2023-03-19 18:27:54] [fraudulent] User Amara Moore logged in from IP address 10.0.0.16, device ID C2B7E0F32FB, using browser Edge version 103 on iOS 27.
+[2023-03-19 18:30:41] [fraudulent] User Amara Moore logged in from IP address 172.16.30.118, device ID EE8F6A0B0C9, using browser Safari version 29 on Windows 9.
+[2023-03-19 18:34:15] [fraudulent] User Amara Moore logged in from IP address 192.168.1.22, device ID DF5C1B2C9E9, using browser Firefox version 111 on Windows 12.
+[2023-03-19 18:37:24] [fraudulent] User Amara Moore logged in from IP address 172.16.30.119, device ID FD1A8CBCDEC, using browser Internet Explorer version 22 on macOS 21.
+[2023-03-19 18:40:57] [fraudulent] User Amara Moore logged in from IP address 10.0.0.17, device ID C2B7E0F32FB, using browser Edge version 104 on iOS 28.
+[2023-03-19 18:43:56] [fraudulent] User Amara Moore logged in from IP address 172.16.30.120, device ID EE8F6A0B0C9, using browser Safari version 30 on Windows 10.
+

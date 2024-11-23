@@ -1,0 +1,93 @@
+User ID: Korbin Roman
+- 
+[2023-03-15 16:37:28] [normal] User Korbin Roman enabled the location-based security feature for their login, requiring a verification code to be sent to their device when logging in from an unfamiliar location.
+[2023-03-15 16:43:45] [normal] Korbin Roman updated their device information, adding a new laptop as one of the trusted devices for receiving verification codes.
+[2023-03-15 17:02:13] [normal] The user Korbin Roman changed their preferred method of receiving verification codes to SMS instead of in-app notifications.
+[2023-03-15 17:14:39] [normal] User Korbin Roman adjusted the security settings, requiring a second factor for login attempts from high-risk countries, as identified by their location-based feature.
+[2023-03-15 18:05:56] [normal] The user Korbin Roman added an exception to their location-based security setting, allowing access from their office IP address without requiring a second factor.
+[2023-03-15 19:12:11] [normal] Korbin Roman enabled the automatic lock feature, which would lock their account after a period of inactivity. The duration was set to 15 minutes for added security.
+[2023-03-15 20:01:43] [normal] User Korbin Roman turned on the "Remember device" option for their laptop, so they wouldn't be prompted for a second factor when logging in from that specific device.
+[2023-03-15 20:48:28] [normal] The user Korbin Roman changed their account recovery email to a new address, ensuring they could receive verification codes and account recovery emails securely.
+[2023-03-16 07:30:59] [normal] Korbin Roman reviewed and verified the list of recent logins, noting any unfamiliar locations or devices and reporting any suspicious activity.
+[2023-03-16 08:00:34] [normal] User Korbin Roman completed their security review, feeling confident in their location-based security features and other measures in place to protect their account.
+[2023-03-16 12:15:09] [normal] Korbin Roman enabled automatic password updates for their account, ensuring that their password would change periodically and reduce the risk of unauthorized access.
+[2023-03-16 13:45:22] [normal] The user Korbin Roman adjusted the notification settings on their account to receive alerts whenever a new device was added or an unusual login attempt occurred, allowing them to stay informed about potential security incidents.
+[2023-03-17 18:20:45] [normal] User Korbin Roman updated their security questions and answers to ones that were more difficult to guess, further protecting their account from unauthorized access through knowledge-based attacks.
+[2023-03-17 19:10:21] [normal] The user enabled two-factor authentication (2FA) on their account, requiring a second factor for every login attempt to add an additional layer of security.
+[2023-03-18 15:45:07] [normal] Korbin Roman added an extra email address and phone number to their account recovery options, ensuring that they could be reached in multiple ways if needed during an account recovery process.
+[2023-03-19 06:55:18] [normal] User Korbin Roman enabled the automatic logout feature on their account after a period of inactivity, further reducing the risk of unauthorized access through idle sessions.
+[2023-03-19 17:30:24] [normal] The user Korbin Roman revoked access for any devices that were no longer in use or had been compromised, ensuring that only their current devices would be able to access their account securely.
+[2023-03-20 19:50:09] [normal] User Korbin Roman reviewed and verified the list of recent logins again, noting any unfamiliar locations or devices and reporting any suspicious activity.
+[2023-03-21 07:40:51] [normal] The user Korbin Roman completed their security review once more, feeling confident in their location-based security features and other measures in place to protect their account.
+[2023-03-21 08:15:37] [normal] User Korbin Roman enabled the automatic login lockout feature, which would temporarily block access after a specified number of unsuccessful login attempts, preventing potential attackers from brute force attacks.
+[2023-03-21 11:35:49] [normal] The user Korbin Roman added a new security question to their account recovery process, further strengthening the identification verification during an account recovery.
+[2023-03-21 16:15:27] [normal] User Korbin Roman updated their password, ensuring that it was complex and unique, making it harder for potential attackers to guess or brute force their way into the account.
+[2023-03-21 22:40:13] [normal] The user Korbin Roman enabled two-factor authentication (2FA) on their account, requiring an additional code to be entered during login, adding an extra layer of security to their account.
+[2023-03-22 07:05:29] [normal] User Korbin Roman activated the device management feature, allowing them to see and manage all connected devices, identifying any unauthorized devices and taking action as needed.
+[2023-03-22 14:00:35] [normal] The user Korbin Roman enabled the automatic logout feature for public Wi-Fi connections, ensuring that their account would not be left idle on a compromised network.
+[2023-03-22 22:25:08] [normal] User Korbin Roman configured their account to notify them via email of any significant changes or login attempts from unfamiliar locations or devices, allowing them to take immediate action if needed.
+[2023-03-23 10:45:17] [normal] The user Korbin Roman enabled the option to temporarily lock their account after a certain period of inactivity, reducing the risk of unauthorized access through idle sessions.
+[2023-03-23 13:00:59] [normal] User Korbin Roman set up two-factor authentication (2FA) for their account, requiring an additional code to be entered during login, adding an extra layer of security to their account.
+[2023-03-24 07:10:21] [normal] The user Korbin Roman enabled location-based security features for logins, ensuring that only login attempts from authorized locations would be accepted.
+[2023-03-24 14:05:37] [normal] User Korbin Roman configured their account to require device verification during login, requiring them to confirm the login attempt on each new device used for accessing their account.
+[2023-03-24 19:20:48] [normal] The user Korbin Roman enabled the option to temporarily lock their account after a certain number of failed login attempts, preventing unauthorized access through brute force attacks.
+[2023-03-25 07:15:22] [normal] User Korbin Roman set up an additional layer of security by requiring a unique password for each device they use to access their account, making it more difficult for unauthorized individuals to gain access through stolen or compromised devices.
+[2023-03-25 14:20:09] [normal] The user Korbin Roman enabled the option to require a security question answer during login in addition to their password, adding an extra layer of verification for their account.
+[2023-03-25 20:05:38] [normal] User Korbin Roman configured their account settings to send them alerts whenever there were suspicious activities or changes made to their account by someone else.
+[2023-03-26 07:10:45] [normal] The user Korbin Roman enabled the option to automatically log out of their account after a certain period of inactivity, reducing the risk of unauthorized access through idle sessions.
+[2023-03-26 18:30:07] [normal] User Korbin Roman set up an additional layer of security by requiring a unique password for each login attempt from a new device or location, making it more difficult for unauthorized individuals to gain access through stolen or compromised devices.
+[2023-03-26 19:55:32] [normal] Korbin Roman set up notifications to be sent to multiple trusted contacts in case of a potential security breach, ensuring that they would be alerted quickly if any unauthorized activities were detected.
+[2023-03-27 10:45:19] [normal] The user Korbin Roman enabled the two-factor authentication (2FA) for all login attempts, requiring a verification code sent to their registered phone number in addition to their password, further protecting their account from unauthorized access.
+[2023-03-27 15:15:46] [normal] Korbin Roman regularly updated and strengthened their account password, ensuring that the risk of unauthorized access through brute force attacks was minimized.
+[2023-03-28 09:30:23] [normal] The user Korbin Roman configured their account settings to require a passphrase in addition to their password when making significant changes, such as updating personal information or modifying security settings, providing an extra layer of protection against unauthorized modifications.
+[2023-03-28 16:45:01] [normal] Korbin Roman enabled the option to receive a temporary access code via email for any significant account changes, ensuring that they would be notified and could review any changes made before they were finalized.
+[2023-03-29 08:00:58] [normal] The user Korbin Roman set up a backup authentication method, such as using an authenticator app or physical security key, in case their primary authentication methods failed or were compromised.
+[2023-03-29 17:15:34] [normal] Korbin Roman periodically reviewed and audited their account activity logs, ensuring that they were aware of any suspicious activities and could take appropriate action promptly.
+[2023-03-30 18:30:19] [normal] The user Korbin Roman enabled the option to temporarily lock their account after a certain number of failed login attempts, preventing potential attackers from continuously trying different passwords or brute forcing their way in.
+[2023-03-31 07:45:04] [normal] Korbin Roman configured their account settings to automatically block access from known malicious IP addresses and locations, minimizing the risk of unauthorized access attempts from suspicious sources.
+[2023-04-01 12:00:29] [normal] Korbin Roman activated two-factor authentication (2FA) for all their accounts, requiring a unique code sent to their device in addition to their password when logging in, further enhancing the security of their accounts.
+
+[2023-04-01 18:30:59] [normal] The user Korbin Roman enabled location-based security features for logins, allowing their account access to be restricted or granted based on the physical location from which they were attempting to log in. This helps ensure that only trusted locations would have access to their accounts.
+
+[2023-04-02 07:15:12] [normal] Korbin Roman configured their account settings to send a notification to their registered email address and phone number whenever a new device was used to log in, allowing them to verify the legitimacy of the login attempt.
+
+[2023-04-02 22:45:18] [normal] The user Korbin Roman enabled a feature that required their device to be connected to a trusted network before they could access their accounts, further ensuring that only devices using known and secure networks would have access.
+
+[2023-04-03 09:30:37] [normal] Korbin Roman set up a list of trusted IP addresses and locations from which their accounts could be accessed without triggering any security alerts or restrictions. This allowed them to easily access their accounts from familiar and secure environments.
+
+[2023-04-03 15:30:55] [normal] The user Korbin Roman enabled an alert system that would notify them via email and SMS if any changes were made to their account settings or registered devices, ensuring they were always aware of potential unauthorized actions.
+
+[2023-04-04 18:15:26] [normal] Korbin Roman configured a temporary access code for situations where they needed to grant limited access to their accounts for specific tasks or individuals. The access code was valid only for a short period and could be revoked at any time.
+
+[2023-04-05 07:30:48] [normal] The user Korbin Roman added an extra layer of security by requiring that their device's operating system and apps be up to date, minimizing the risk of vulnerabilities being exploited by attackers.
+
+[2023-04-05 17:45:39] [normal] Korbin Roman enabled account activity monitoring, allowing them to receive regular reports on their account access and usage patterns, helping them identify any suspicious behavior or potential security risks.
+[2023-04-06 12:00:51] [normal] Korbin Roman updated their password policy, requiring a combination of uppercase and lowercase letters, numbers, and special characters to make it more difficult for unauthorized users to guess or brute-force their way into the account.
+
+[2023-04-07 16:30:33] [normal] The user Korbin Roman enabled two-factor authentication (2FA) for all login attempts, adding an extra layer of protection by requiring a unique code sent to their registered devices alongside their password during the login process.
+
+[2023-04-08 08:45:19] [normal] Korbin Roman configured a device whitelist, allowing only specific trusted devices (e.g., laptop, smartphone) to access their account, reducing the risk of unauthorized logins from unfamiliar or compromised devices.
+
+[2023-04-08 17:00:56] [normal] The user Korbin Roman set up an emergency backup email address and phone number for situations where they needed to recover their account access in case of a lost or stolen device, or if they were unable to receive notifications at their primary contact information.
+
+[2023-04-09 14:30:21] [normal] Korbin Roman enabled automatic logout timers for their account, ensuring that after a period of inactivity, the session would expire and require them to reauthenticate before resuming use.
+
+[2023-04-10 05:45:32] [normal] The user Korbin Roman scheduled regular security audits on their account, checking for any potential vulnerabilities or unusual activity that might have gone unnoticed.
+
+[2023-04-10 20:00:59] [normal] Korbin Roman set up alerts to notify them of any failed login attempts or changes made to their account's security settings, allowing them to take immediate action in case of suspicious activity.
+[2023-04-11 10:15:23] [normal] Korbin Roman enabled multi-factor authentication (MFA) for their account, requiring a secondary verification step during login to help ensure that only authorized users could access the account.
+
+[2023-04-12 18:30:45] [normal] The user Korbin Roman added a trusted device list to their account settings, specifying which devices should be recognized as safe for login attempts, reducing the chances of unauthorized access from unfamiliar devices.
+
+[2023-04-13 08:20:09] [normal] Korbin Roman configured a customized security question and response, providing an additional layer of protection in case they ever needed to recover their account through the security question process.
+
+[2023-04-14 15:45:21] [normal] The user Korbin Roman regularly reviewed and updated their list of trusted devices, removing any that were no longer in use or had been lost or stolen to minimize the risk of unauthorized access.
+
+[2023-04-14 21:30:58] [normal] Korbin Roman set up a device management system, allowing them to remotely lock, locate, or erase any devices associated with their account if they were ever lost, stolen, or compromised.
+
+[2023-04-15 17:15:13] [normal] The user Korbin Roman enabled automatic software updates for their account's associated devices, ensuring that they would always be running the latest security patches and bug fixes to minimize vulnerabilities.
+
+[2023-04-16 09:30:37] [normal] Korbin Roman created a secure password policy for their account, requiring regular password changes and enforcing minimum complexity requirements to help protect against unauthorized access through brute force or dictionary attacks.
+
+[2023-04-17 14:50:09] [normal] The user Korbin Roman restricted the IP addresses from which their account could be accessed, limiting login attempts only from trusted networks and locations.
+

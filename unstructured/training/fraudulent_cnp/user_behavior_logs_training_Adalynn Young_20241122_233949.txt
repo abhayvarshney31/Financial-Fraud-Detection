@@ -1,0 +1,166 @@
+User ID: Adalynn Young
+- 
+[2021-08-03 15:47:39] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example1.com) has registered a new account using an email address similar to previous accounts. The email address, adalynnyoung@example2.com, appears to be a variation of her previously used email, adalynnyoung@example1.com. The account was created on the same IP address, 192.168.0.5, which is associated with several other suspicious accounts.
+
+[2021-08-03 17:34:05] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example2.com) attempted to make a transaction using a credit card that was flagged for potential fraud. The card was declined, but the IP address associated with this account matches the previous two accounts, indicating a potential link between them.
+
+[2021-08-04 09:08:12] - Fraudulent Activity Detected: A new account has been created by User Adalynn Young (email: adalynnyoung@example3.com) using a similar email format as the previous accounts. The account was registered on the same IP address, 192.168.0.5, which is associated with multiple suspicious activities.
+
+[2021-08-04 11:52:30] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example3.com) has attempted to make a transaction using a fraudulent credit card. The transaction was denied, but the IP address and email format match those of previous suspicious accounts.
+
+[2021-08-05 14:36:45] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example4.com) has registered a new account with an email address similar to previous accounts. This account was also created from the same IP address, 192.168.0.5, as the other suspicious accounts.
+
+[2021-08-05 16:23:17] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example4.com) attempted to make a transaction using a fraudulent credit card, which was declined. The IP address and email format match those of the previous accounts.
+
+[2021-08-06 09:09:32] - Fraudulent Activity Detected: A new account has been created by User Adalynn Young (email: adalynnyoung@example5.com) using an email address format similar to the previous accounts. The account was registered from the same IP address, 192.168.0.5, associated with multiple suspicious activities.
+
+[2021-08-06 10:37:48] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example5.com) has attempted to make a transaction using a fraudulent credit card. The IP address and email format match those of previous suspicious accounts, but the transaction was denied.
+
+[2021-08-07 14:52:03] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example6.com) has registered a new account using an email address similar to previous accounts. The account was created from the same IP address, 192.168.0.5, which is associated with several other suspicious activities.
+
+[2021-08-07 16:47:58] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example6.com) attempted to make a transaction using a fraudulent credit card, which was denied. The IP address and email format match those of the previous accounts, indicating a continued attempt to evade detection.
+[2021-08-07 19:15:33] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example7.com) has attempted to register for a new account using an email address similar to previous accounts, once again from the same IP address, 192.168.0.5, associated with multiple suspicious activities.
+
+[2021-08-08 02:23:04] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example8.com) has attempted to access an existing account using a similar email address, despite having no previous activity associated with this email. The login attempt originated from the same IP address, 192.168.0.5.
+
+[2021-08-08 04:37:59] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example9.com) has registered a new account using an email address similar to previous accounts, once again from the same IP address, 192.168.0.5, associated with several other suspicious activities.
+
+[2021-08-08 07:34:21] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example9.com) attempted to make a transaction using a fraudulent credit card, which was denied. The IP address and email format match those of the previous accounts, indicating a continued attempt to evade detection.
+
+[2021-08-08 13:45:06] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example10.com) has attempted to register for a new account using an email address similar to previous accounts, once again from the same IP address, 192.168.0.5, associated with multiple suspicious activities.
+
+[2021-08-08 14:52:29] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example10.com) has attempted to access an existing account using a similar email address, despite having no previous activity associated with this email. The login attempt originated from the same IP address, 192.168.0.5.
+
+[2021-08-08 17:34:56] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example11.com) has registered a new account using an email address similar to previous accounts, once again from the same IP address, 192.168.0.5, associated with several other suspicious activities.
+
+[2021-08-08 19:45:31] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example11.com) attempted to make a transaction using a fraudulent credit card, which was denied. The IP address and email format match those of the previous accounts, indicating a continued attempt to evade detection.
+
+[2021-08-09 00:57:43] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example12.com) has attempted to register for a new account using an email address similar to previous accounts, once again from the same IP address, 192.168.0.5, associated with multiple suspicious activities.
+
+[2021-08-09 03:48:24] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example12.com) has attempted to access an existing account using a similar email address, despite having no previous activity associated with this email. The login attempt originated from the same IP address, 192.168.0.5.
+[2021-08-09 06:39:01] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example13.com) has registered a new account using yet another similar email address, this time from the same IP address, 192.168.0.5. This registration attempt was flagged for review due to the suspicious email pattern and originating IP address.
+
+[2021-08-09 07:52:43] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example14.com) has attempted to make a transaction from the newly registered account, using the same fraudulent credit card that was previously denied. This transaction was also flagged and denied.
+
+[2021-08-09 10:35:08] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example15.com) has attempted to access an existing account using a similar email address, again originating from the IP address 192.168.0.5. This attempt was flagged and denied due to the suspicious nature of the email pattern and originating IP address.
+
+[2021-08-09 13:02:32] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example16.com) has registered a new account using yet another similar email address, this time from the same IP address, 192.168.0.5. This registration attempt was flagged for review due to the suspicious email pattern and originating IP address.
+
+[2021-08-09 14:47:55] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example17.com) has attempted to make a transaction from the newly registered account, using the same fraudulent credit card that was previously denied. This transaction was also flagged and denied.
+
+[2021-08-09 16:52:21] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example18.com) has attempted to access an existing account using a similar email address, again originating from the IP address 192.168.0.5. This attempt was flagged and denied due to the suspicious nature of the email pattern and originating IP address.
+
+[2021-08-09 19:47:48] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example19.com) has registered a new account using yet another similar email address, this time from the same IP address, 192.168.0.5. This registration attempt was flagged for review due to the suspicious email pattern and originating IP address.
+
+[2021-08-09 21:03:24] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example20.com) has attempted to make a transaction from the newly registered account, using the same fraudulent credit card that was previously denied. This transaction was also flagged and denied.
+
+[2021-08-09 23:47:51] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example21.com) has attempted to access an existing account using a similar email address, again originating from the IP address 192.168.0.5. This attempt was flagged and denied due to the suspicious nature of the email pattern and originating IP address.
+[2021-08-10 00:34:25] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example22.com) has attempted to create a new account with the same IP address, 192.168.0.5, using another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-10 02:07:34] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example23.com) has tried to log in to an existing account using the same IP address, 192.168.0.5. This login attempt was flagged for review and denied due to the continued use of suspicious email addresses originating from the same IP address.
+
+[2021-08-10 04:13:17] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example24.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+
+[2021-08-10 06:38:59] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example25.com) has attempted to access an existing account using a similar email address, again originating from the IP address 192.168.0.5. This attempt was flagged for review and denied due to the continued suspicious nature of the email pattern and originating IP address.
+
+[2021-08-10 08:37:44] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example26.com) has attempted to create a new account with the same IP address, 192.168.0.5, using another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-10 10:34:37] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example27.com) has tried to log in to an existing account using the same IP address, 192.168.0.5. This login attempt was flagged for review and denied due to the continued use of suspicious email addresses originating from the same IP address.
+
+[2021-08-10 12:43:27] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example28.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+
+[2021-08-10 14:57:33] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example29.com) has attempted to access an existing account using a similar email address, again originating from the IP address 192.168.0.5. This attempt was flagged for review and denied due to the continued suspicious nature of the email pattern and originating IP address.
+
+[2021-08-10 17:03:49] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example30.com) has attempted to create a new account with the same IP address, 192.168.0.5, using another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+[2021-08-10 17:32:51] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example31.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+
+[2021-08-10 17:46:34] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example32.com) has attempted to access an existing account using a similar email address, again originating from the IP address 192.168.0.5. This attempt was flagged for review and denied due to the continued suspicious nature of the email pattern and originating IP address.
+
+[2021-08-10 17:49:43] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example33.com) has attempted to create a new account with the same IP address, 192.168.0.5, using another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-10 18:04:59] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example34.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+
+[2021-08-10 18:17:45] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example35.com) has attempted to access an existing account using a similar email address, again originating from the IP address 192.168.0.5. This attempt was flagged for review and denied due to the continued suspicious nature of the email pattern and originating IP address.
+
+[2021-08-10 18:23:37] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example36.com) has attempted to create a new account with the same IP address, 192.168.0.5, using another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-10 18:40:30] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example37.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+
+[2021-08-10 18:54:37] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example38.com) has attempted to access an existing account using a similar email address, again originating from the IP address 192.168.0.5. This attempt was flagged for review and denied due to the continued suspicious nature of the email pattern and originating IP address.
+
+[2021-08-10 18:59:43] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example39.com) has attempted to create a new account with the same IP address, 192.168.0.5, using another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-10 19:14:21] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example40.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+[2021-08-10 19:38:57] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example41.com) has attempted to access a different existing account using the same IP address, 192.168.0.5. This attempt was flagged for review and denied due to the continued suspicious nature of the email pattern and originating IP address.
+
+[2021-08-10 19:43:12] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example42.com) has attempted to create a new account using the same IP address, 192.168.0.5, with another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-10 19:50:33] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example43.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+
+[2021-08-10 19:56:47] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example44.com) has attempted to access a different existing account using the same IP address, 192.168.0.5. This attempt was flagged for review and denied due to the continued suspicious nature of the email pattern and originating IP address.
+
+[2021-08-10 20:03:01] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example45.com) has attempted to create a new account using the same IP address, 192.168.0.5, with another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-10 20:14:27] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example46.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+
+[2021-08-10 20:27:46] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example47.com) has attempted to access a different existing account using the same IP address, 192.168.0.5. This attempt was flagged for review and denied due to the continued suspicious nature of the email pattern and originating IP address.
+
+[2021-08-10 20:34:19] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example48.com) has attempted to create a new account using the same IP address, 192.168.0.5, with another suspicious email pattern. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-10 20:45:31] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example49.com) has attempted to make a transaction from the previously denied account, again using the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same IP address.
+[2021-08-10 20:53:19] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example50.com) has attempted to access the same previously denied account from a different IP address, 192.168.0.6, but with similar email pattern characteristics. This attempt was flagged for review and denied due to the suspicious nature of the new IP address combined with the existing email patterns.
+
+[2021-08-10 20:58:47] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example51.com) has attempted to create a new account using the IP address, 192.168.0.6, with another suspicious email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 00:02:34] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example52.com) has attempted to make a transaction from the previously denied account, now using the new IP address, 192.168.0.7, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+
+[2021-08-11 00:14:58] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example53.com) has attempted to access a different existing account using the IP address, 192.168.0.7, but with an email pattern similar to previous attempts. This attempt was flagged for review and denied due to the suspicious nature of the email pattern and originating IP address.
+
+[2021-08-11 00:23:35] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example54.com) has attempted to create a new account using the same IP address, 192.168.0.7, with another suspicious email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 00:34:59] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example55.com) has attempted to make a transaction from the previously denied account, now using the same IP address, 192.168.0.7, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+
+[2021-08-11 00:45:43] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example56.com) has attempted to access a different existing account using the IP address, 192.168.0.7, but with an email pattern similar to previous attempts. This attempt was flagged for review and denied due to the suspicious nature of the email pattern and originating IP address.
+
+[2021-08-11 00:54:39] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example57.com) has attempted to create a new account using the same IP address, 192.168.0.7, with another suspicious email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 01:05:44] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example58.com) has attempted to make a transaction from the previously denied account, now using the same IP address, 192.168.0.7, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+[2021-08-11 01:19:32] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example59.com) has attempted to access a different existing account using the IP address, 192.168.0.7, but with an email pattern similar to previous attempts. This attempt was flagged for review and denied due to the suspicious nature of the email pattern and originating IP address.
+
+[2021-08-11 01:42:55] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example60.com) has created a new account with the same IP address, 192.168.0.7, and used a slightly modified email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 02:03:45] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example61.com) has attempted to create a new account using the IP address, 192.168.0.7, with another suspicious email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 02:34:17] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example62.com) has attempted to make a transaction from the previously denied account, now using the same IP address, 192.168.0.7, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+
+[2021-08-11 03:05:29] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example63.com) has created a new account with the same IP address, 192.168.0.7, and used a modified email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 03:34:53] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example64.com) has attempted to create a new account using the IP address, 192.168.0.7, with another suspicious email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 04:05:32] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example65.com) has attempted to make a transaction from the previously denied account, now using the same IP address, 192.168.0.7, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+
+[2021-08-11 04:45:13] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example66.com) has created a new account with the same IP address, 192.168.0.7, and used a slightly modified email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 05:24:48] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example67.com) has attempted to create a new account using the IP address, 192.168.0.7, with another suspicious email pattern similar to previous attempts. This registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 05:55:49] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example68.com) has attempted to make a transaction from the previously denied account, now using the same IP address, 192.168.0.7, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+[2021-08-11 06:16:35] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example69.com) has attempted to create a new account using the IP address, 192.168.0.7, with another suspicious email pattern similar to previous attempts. The account was flagged for review and subsequently denied.
+
+[2021-08-11 07:38:51] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example70.com) has created a new account using the IP address, 192.168.0.8, and used a similar email pattern as previous attempts. The registration attempt was flagged for review and subsequently denied.
+
+[2021-08-11 07:54:22] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example71.com) has attempted to make a transaction from the previously denied account, now using the IP address, 192.168.0.8, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+
+[2021-08-11 08:47:43] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example72.com) has created a new account using the IP address, 192.168.0.9, and used a similar email pattern as previous attempts. The account was flagged for review and subsequently denied.
+
+[2021-08-11 09:03:24] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example73.com) has attempted to make a transaction from the previously denied account, now using the IP address, 192.168.0.9, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+
+[2021-08-11 10:35:47] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example74.com) has created a new account using the IP address, 192.168.0.10, and used a similar email pattern as previous attempts. The account was flagged for review and subsequently denied.
+
+[2021-08-11 11:13:51] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example75.com) has attempted to make a transaction from the previously denied account, now using the IP address, 192.168.0.10, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+
+[2021-08-11 12:34:19] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example76.com) has created a new account using the IP address, 192.168.0.11, and used a similar email pattern as previous attempts. The account was flagged for review and subsequently denied.
+
+[2021-08-11 13:27:54] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example77.com) has attempted to make a transaction from the previously denied account, now using the IP address, 192.168.0.11, with the same fraudulent credit card. This transaction was flagged for review and denied due to the continued suspicious activity from the same email patterns but different IP addresses.
+
+[2021-08-11 15:04:38] - Fraudulent Activity Detected: User Adalynn Young (email: adalynnyoung@example78.com) has created a new account using the IP address, 192.168.0.12, and used a similar email pattern as previous attempts. The account was flagged for review and subsequently denied.
+

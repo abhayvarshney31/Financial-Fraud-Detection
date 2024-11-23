@@ -1,0 +1,123 @@
+User ID: Paityn King
+- 
+[12/08/2022 13:45:37] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] Paityn King used a virtual credit card to make an online purchase without having the physical card.
+
+[12/08/2022 13:49:23] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King used another virtual credit card to make an in-app purchase on their mobile device.
+
+[12/08/2022 14:03:07] Network: XYZ ISP, Device: Paityn_King's_Tablet
+[fraudulent] Paityn King utilized a third virtual credit card for a subscription service on their tablet.
+
+[12/08/2022 14:09:45] Network: ABC ISP, Device: Paityn_King's_Laptop
+[fraudulent] A fourth virtual credit card was used by Paityn King to make an e-commerce transaction on their laptop.
+
+[12/08/2022 14:13:56] Network: XYZ ISP, Device: Paityn_King's_Desktop
+[fraudulent] Paityn King employed a fifth virtual credit card for a digital product purchase on their desktop computer.
+
+[12/08/2022 14:17:23] Network: ABC ISP, Device: Paityn_King's_Laptop
+[fraudulent] Paityn King obtained and used a sixth virtual credit card to pay for an online course on their laptop.
+
+[12/08/2022 14:21:19] Network: XYZ ISP, Device: Paityn_King's_iPhone
+[fraudulent] A seventh virtual credit card was used by Paityn King for a digital magazine subscription on their iPhone.
+
+[12/08/2022 14:25:36] Network: ABC ISP, Device: Paityn_King's_Tablet
+[fraudulent] Paityn King used an eighth virtual credit card to make a donation via a crowdfunding platform on their tablet.
+
+[12/08/2022 14:29:54] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] A ninth virtual credit card was employed by Paityn King for a hotel reservation on their laptop.
+
+[12/08/2022 14:35:12] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King utilized a tenth virtual credit card to purchase a meal delivery service on their iPhone.
+[12/08/2022 15:03:46] Network: XYZ ISP, Device: Paityn_King's_Tablet
+[fraudulent] A twelfth virtual credit card was used by Paityn King for a streaming service subscription on their tablet.
+
+[12/08/2022 15:09:31] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King employed a thirteenth virtual credit card to make a purchase from an online clothing store on their iPhone.
+
+[12/08/2022 15:13:58] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] A fourteenth virtual credit card was utilized by Paityn King for a grocery delivery service on their laptop.
+
+[12/08/2022 15:19:23] Network: ABC ISP, Device: Paityn_King's_Tablet
+[fraudulent] Paityn King used a fifteenth virtual credit card to make a donation to a charity organization on their tablet.
+
+[12/08/2022 15:23:49] Network: XYZ ISP, Device: Paityn_King's_iPhone
+[fraudulent] A sixteenth virtual credit card was employed by Paityn King for a gym membership subscription on their iPhone.
+
+[12/08/2022 15:29:16] Network: ABC ISP, Device: Paityn_King's_Laptop
+[fraudulent] Paityn King used a seventeenth virtual credit card to purchase a software license on their laptop.
+
+[12/08/2022 15:34:32] Network: XYZ ISP, Device: Paityn_King's_Tablet
+[fraudulent] A eighteenth virtual credit card was utilized by Paityn King for a language learning app subscription on their tablet.
+
+[12/08/2022 15:39:47] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King employed a nineteenth virtual credit card to make a reservation at a restaurant on their iPhone.
+
+[12/08/2022 15:44:11] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] A twentieth virtual credit card was used by Paityn King for a vacation rental booking on their laptop.
+[12/08/2022 15:48:36] Network: ABC ISP, Device: Paityn_King's_Tablet
+[fraudulent] Paityn King used a twenty-first virtual credit card to make a donation to an environmental cause on their tablet.
+
+[12/08/2022 15:53:00] Network: XYZ ISP, Device: Paityn_King's_iPhone
+[fraudulent] A twenty-second virtual credit card was employed by Paityn King for a streaming service subscription on their iPhone.
+
+[12/08/2022 15:57:23] Network: ABC ISP, Device: Paityn_King's_Laptop
+[fraudulent] Paityn King used a twenty-third virtual credit card to purchase an online course subscription on their laptop.
+
+[12/08/2022 16:01:45] Network: XYZ ISP, Device: Paityn_King's_Tablet
+[fraudulent] A twenty-fourth virtual credit card was utilized by Paityn King for a meal delivery service on their tablet.
+
+[12/08/2022 16:06:07] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King employed a twenty-fifth virtual credit card to make a charitable donation for a disaster relief effort on their iPhone.
+[12/08/2022 16:10:32] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] A twenty-sixth virtual credit card was used by Paityn King for an online magazine subscription on their laptop.
+
+[12/08/2022 16:14:59] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King utilized a twenty-seventh virtual credit card for a movie rental on their iPhone.
+
+[12/08/2022 16:19:23] Network: XYZ ISP, Device: Paityn_King's_Tablet
+[fraudulent] A twenty-eighth virtual credit card was employed by Paityn King for a fitness app subscription on their tablet.
+
+[12/08/2022 16:23:45] Network: ABC ISP, Device: Paityn_King's_Laptop
+[fraudulent] Paityn King used a twenty-ninth virtual credit card to purchase an ebook on their laptop.
+
+[12/08/2022 16:27:59] Network: XYZ ISP, Device: Paityn_King's_iPhone
+[fraudulent] A thirtieth virtual credit card was utilized by Paityn King for a mobile game in-app purchase on their iPhone.
+
+[12/08/2022 16:32:11] Network: ABC ISP, Device: Paityn_King's_Tablet
+[fraudulent] Paityn King employed a thirty-first virtual credit card for an online tutoring service on their tablet.
+[12/08/2022 16:35:43] Network: XYZ ISP, Device: Paityn_King's_iPhone
+[fraudulent] A thirty-second virtual credit card was used by Paityn King for a food delivery order on their iPhone.
+
+[12/08/2022 16:39:57] Network: ABC ISP, Device: Paityn_King's_Laptop
+[fraudulent] Paityn King used a thirty-third virtual credit card for a streaming service subscription on their laptop.
+
+[12/08/2022 16:44:05] Network: XYZ ISP, Device: Paityn_King's_Tablet
+[fraudulent] A thirty-fourth virtual credit card was utilized by Paityn King for a travel booking on their tablet.
+
+[12/08/2022 16:48:13] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King employed a thirty-fifth virtual credit card for a clothing store purchase on their iPhone.
+
+[12/08/2022 16:52:29] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] A thirty-sixth virtual credit card was used by Paityn King for an online course on their laptop.
+
+[12/08/2022 16:57:35] Network: ABC ISP, Device: Paityn_King's_Tablet
+[fraudulent] Paityn King employed a thirty-seventh virtual credit card for an electronics store purchase on their tablet.
+[12/08/2022 17:01:43] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] A thirty-eighth virtual credit card was used by Paityn King for a gym membership on their laptop.
+
+[12/08/2022 17:05:51] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King employed a thirty-ninth virtual credit card for an online gaming subscription on their iPhone.
+
+[12/08/2022 17:10:09] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] A fortieth virtual credit card was used by Paityn King for a hotel booking on their laptop.
+
+[12/08/2022 17:14:25] Network: ABC ISP, Device: Paityn_King's_Tablet
+[fraudulent] Paityn King employed a forty-first virtual credit card for a meal delivery service on their tablet.
+
+[12/08/2022 17:19:33] Network: XYZ ISP, Device: Paityn_King's_Laptop
+[fraudulent] A forty-second virtual credit card was used by Paityn King for a health and wellness program on their laptop.
+
+[12/08/2022 17:24:41] Network: ABC ISP, Device: Paityn_King's_iPhone
+[fraudulent] Paityn King employed a forty-third virtual credit card for a home appliance purchase on their iPhone.
+

@@ -1,0 +1,115 @@
+User ID: Hannah Perry
+- 
+[fraudulent] 2021-11-01 08:45:32 - Hannah Perry purchased a high-ticket item (Apple MacBook Pro) online using the shipping address of "John Doe, 123 Elm St, Springfield". The transaction was processed on device "iPhone 12", network "Verizon Wireless".
+
+[fraudulent] 2021-11-05 14:23:17 - Hannah Perry purchased another high-ticket item (Rolex Submariner) online using the shipping address of "Jane Smith, 456 Oak St, Chicago". The transaction was processed on device "Samsung Galaxy S21", network "AT&T".
+
+[fraudulent] 2021-11-08 17:39:45 - Hannah Perry purchased a high-ticket item (Luxury Diamond Ring) online using the shipping address of "Michael Johnson, 789 Pine St, Los Angeles". The transaction was processed on device "iPhone 11", network "T-Mobile".
+
+[fraudulent] 2021-11-10 09:58:23 - Hannah Perry attempted to purchase a high-ticket item (Porsche 911 Carrera) online using the shipping address of "Emily Davis, 321 Cedar St, New York". However, the transaction was declined due to suspicious activity. The transaction was processed on device "Samsung Galaxy S20", network "Verizon Wireless".
+
+[fraudulent] 2021-11-15 13:45:07 - Hannah Perry purchased a high-ticket item (Breitling Chronomat) online using the shipping address of "David Brown, 654 Spruce St, Miami". The transaction was processed on device "iPhone X", network "AT&T".
+
+[fraudulent] 2021-11-17 20:32:34 - Hannah Perry attempted to purchase a high-ticket item (Diamond Earrings) online using the shipping address of "Sophie Martinez, 901 Willow St, Boston". However, the transaction was declined due to suspicious activity. The transaction was processed on device "Samsung Galaxy S21 Ultra", network "T-Mobile".
+
+[fraudulent] 2021-11-20 08:57:46 - Hannah Perry purchased a high-ticket item (Lamborghini Huracan) online using the shipping address of "James Thompson, 1122 Fir St, Dallas". The transaction was processed on device "iPhone SE", network "Verizon Wireless".
+
+[fraudulent] 2021-11-22 15:36:28 - Hannah Perry purchased a high-ticket item (Rolex Daytona) online using the shipping address of "Ava Harris, 456 Maple St, Austin". The transaction was processed on device "Samsung Galaxy Note 20", network "AT&T".
+
+[fraudulent] 2021-11-24 19:13:17 - Hannah Perry attempted to purchase a high-ticket item (Patek Philippe Nautilus) online using the shipping address of "Olivia King, 789 Palm St, San Diego". However, the transaction was declined due to suspicious activity. The transaction was processed on device "iPhone 12 Pro", network "T-Mobile".
+
+[fraudulent] 2021-11-26 12:20:45 - Hannah Perry purchased a high-ticket item (Granta Watch) online using the shipping address of "William Wilson, 321 Birch St, Seattle". The transaction was processed on device "Samsung Galaxy Z Fold 2", network "Verizon Wireless".
+[fraudulent] 2021-11-28 09:56:32 - Hannah Perry attempted to purchase a high-ticket item (Breitling Superocean) online using the shipping address of "Charlotte Clark, 678 Elm St, Denver". However, the transaction was flagged by the merchant as potentially fraudulent. The transaction was processed on device "iPhone XR", network "Sprint".
+
+[fraudulent] 2021-11-30 14:09:59 - Hannah Perry successfully purchased a high-ticket item (Louis Vuitton Alma Bag) online using the shipping address of "Michael Johnson, 876 Cedar St, Boston". The transaction was processed on device "Google Pixel 4XL", network "T-Mobile".
+
+[fraudulent] 2021-12-02 19:53:08 - Hannah Perry attempted to purchase a high-ticket item (Rolex Datejust) online using the shipping address of "David Brown, 465 Willow St, Phoenix". However, the transaction was denied by the bank due to suspicious activity. The transaction was processed on device "Samsung Galaxy S21 Ultra", network "AT&T".
+
+[fraudulent] 2021-12-04 13:06:23 - Hannah Perry successfully purchased a high-ticket item (Cartier Tank Watch) online using the shipping address of "Jennifer Moore, 891 Oak St, Portland". The transaction was processed on device "iPhone 11", network "Verizon Wireless".
+
+[fraudulent] 2021-12-06 07:45:15 - Hannah Perry attempted to purchase a high-ticket item (Gucci Dionysus Bag) online using the shipping address of "James Rodriguez, 938 Pine St, Sacramento". However, the transaction was flagged by the merchant as potentially fraudulent. The transaction was processed on device "Samsung Galaxy S20", network "T-Mobile".
+
+[fraudulent] 2021-12-08 19:53:08 - Hannah Perry successfully purchased a high-ticket item (Dior Sauvage Perfume) online using the shipping address of "Nicole Martinez, 746 Spruce St, Los Angeles". The transaction was processed on device "Google Pixel 5", network "Sprint".
+
+[fraudulent] 2021-12-10 13:09:22 - Hannah Perry attempted to purchase a high-ticket item (Bose Noise Cancelling Headphones) online using the shipping address of "Emma Wilson, 457 Vine St, Indianapolis". However, the transaction was declined due to suspicious activity. The transaction was processed on device "Samsung Galaxy Note 10", network "Verizon Wireless".
+
+[fraudulent] 2021-12-12 06:45:37 - Hannah Perry successfully purchased a high-ticket item (Beats Studio Headphones) online using the shipping address of "Michael White, 987 Willow St, Chicago". The transaction was processed on device "iPhone XS", network "AT&T".
+
+[fraudulent] 2021-12-14 19:30:50 - Hannah Perry attempted to purchase a high-ticket item (Apple MacBook Pro) online using the shipping address of "James Lee, 768 Cedar St, Washington D.C". However, the transaction was flagged by the merchant as potentially fraudulent. The transaction was processed on device "Samsung Galaxy Z Fold 2", network "T-Mobile".
+
+[fraudulent] 2021-12-16 13:29:45 - Hannah Perry successfully purchased a high-ticket item (Sony Alpha A7R IV Camera) online using the shipping address of "Samantha King, 895 Elm St, San Jose". The transaction was processed on device "Google Pixel 6", network "Verizon Wireless".
+[fraudulent] 2021-12-18 09:13:02 - Hannah Perry attempted to purchase a high-ticket item (Dyson Supersonic Hair Dryer) online using the shipping address of "David Hernandez, 456 Spruce St, Austin". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S21", network "AT&T".
+
+[fraudulent] 2021-12-20 23:57:48 - Hannah Perry successfully purchased a high-ticket item (Bose Soundbar 700) online using the shipping address of "Linda Thompson, 678 Pine St, Boston". The transaction was processed on device "iPhone 13 Pro", network "Verizon Wireless".
+
+[fraudulent] 2021-12-22 15:45:30 - Hannah Perry attempted to purchase a high-ticket item (Tesla Model S) online using the shipping address of "Michael Johnson, 123 Oak St, Seattle". The transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy Z Flip 3", network "T-Mobile".
+
+[fraudulent] 2021-12-24 08:29:57 - Hannah Perry successfully purchased a high-ticket item (Rolex Submariner) online using the shipping address of "Nathan Wilson, 321 Cedar Lane, Denver". The transaction was processed on device "Google Pixel 6 Pro", network "Verizon Wireless".
+
+[fraudulent] 2021-12-27 10:45:13 - Hannah Perry attempted to purchase a high-ticket item (LG OLED C1 Series TV) online using the shipping address of "Jessica Lee, 987 Willow St, Chicago". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S22", network "AT&T".
+
+[fraudulent] 2021-12-29 23:57:48 - Hannah Perry successfully purchased a high-ticket item (Canon EOS R6) online using the shipping address of "Samantha Brown, 895 Elm St, San Jose". The transaction was processed on device "iPhone 13 Pro Max", network "Verizon Wireless".
+
+[fraudulent] 2021-12-31 14:23:27 - Hannah Perry attempted to purchase a high-ticket item (Dell XPS 17 Laptop) online using the shipping address of "David Miller, 456 Spruce St, Austin". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy Note 20 Ultra", network "AT&T".
+
+[fraudulent] 2021-01-03 19:58:04 - Hannah Perry successfully purchased a high-ticket item (Panasonic Lumix GH6) online using the shipping address of "Linda Baker, 678 Pine St, Boston". The transaction was processed on device "iPhone SE (2020)", network "Verizon Wireless".
+
+[fraudulent] 2021-01-05 08:39:55 - Hannah Perry attempted to purchase a high-ticket item (Sony PlayStation 5) online using the shipping address of "Michael Robinson, 123 Oak St, Seattle". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S20 FE", network "T-Mobile".
+
+[fraudulent] 2021-01-07 13:45:37 - Hannah Perry successfully purchased a high-ticket item (Gymnotics AeroPilot Drone) online using the shipping address of "Nathan Green, 987 Willow St, Chicago". The transaction was processed on device "Google Pixel 6a", network "Verizon Wireless".
+[fraudulent] 2021-01-09 03:22:12 - Hannah Perry attempted to purchase a high-ticket item (Apple MacBook Pro) online using the shipping address of "David Adams, 567 Maple Ave, Denver". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S21 Ultra", network "AT&T".
+
+[fraudulent] 2021-01-10 18:15:46 - Hannah Perry successfully purchased a high-ticket item (Bose QuietComfort 45 Headphones) online using the shipping address of "Jennifer Lee, 348 Cedar St, Portland". The transaction was processed on device "iPhone 13 Pro", network "Sprint".
+
+[fraudulent] 2021-01-11 22:38:29 - Hannah Perry attempted to purchase a high-ticket item (Samsung Galaxy Z Fold 3) online using the shipping address of "James Brown, 876 Spruce St, Austin". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "OnePlus 9 Pro", network "Verizon Wireless".
+
+[fraudulent] 2021-01-13 15:45:18 - Hannah Perry successfully purchased a high-ticket item (Canon EOS R6 Camera) online using the shipping address of "Olivia Wilson, 790 Pine Ave, Dallas". The transaction was processed on device "iPhone 12 Pro Max", network "AT&T".
+
+[fraudulent] 2021-01-14 17:30:02 - Hannah Perry attempted to purchase a high-ticket item (Tesla Model 3) online using the shipping address of "James Smith, 652 Cypress St, Los Angeles". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S21", network "T-Mobile".
+
+[fraudulent] 2021-01-15 23:27:46 - Hannah Perry successfully purchased a high-ticket item (Rolex Submariner Watch) online using the shipping address of "Emily Taylor, 999 Cedar Lane, Phoenix". The transaction was processed on device "Google Pixel 6", network "Verizon Wireless".
+
+[fraudulent] 2021-01-17 08:53:54 - Hannah Perry attempted to purchase a high-ticket item (Breitling Navitimer Watch) online using the shipping address of "Ryan King, 999 Willow Lane, San Jose". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy Note 10+", network "AT&T".
+
+[fraudulent] 2021-01-18 16:35:21 - Hannah Perry successfully purchased a high-ticket item (Dyson Airwrap Styler) online using the shipping address of "Emily Brown, 797 Pine Blvd, Boston". The transaction was processed on device "iPhone 12", network "Sprint".
+
+[fraudulent] 2021-01-19 21:15:08 - Hannah Perry attempted to purchase a high-ticket item (Gucci Marmont Leather Wallet) online using the shipping address of "Chris Johnson, 678 Cypress St, Denver". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S20", network "T-Mobile".
+
+[fraudulent] 2021-01-20 23:40:59 - Hannah Perry successfully purchased a high-ticket item (Fitbit Versa 3) online using the shipping address of "Michael Johnson, 999 Willow Rd, Chicago". The transaction was processed on device "Google Pixel 5a", network "Verizon Wireless".
+[fraudulent] 2021-01-21 01:25:37 - Hannah Perry attempted to purchase a high-ticket item (Bose SoundSport Wireless Headphones) online using the shipping address of "James Smith, 888 Oak St, Miami". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "iPhone SE", network "AT&T".
+
+[fraudulent] 2021-01-22 15:30:19 - Hannah Perry successfully purchased a high-ticket item (Sony PlayStation 5) online using the shipping address of "Ava Thompson, 666 Maple Ave, Austin". The transaction was processed on device "OnePlus 8T", network "Verizon Wireless".
+
+[fraudulent] 2021-01-23 17:55:41 - Hannah Perry attempted to purchase a high-ticket item (Breville Bambino Plus Espresso Machine) online using the shipping address of "Olivia Davis, 1111 Vine St, Los Angeles". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy Z Fold2", network "AT&T".
+
+[fraudulent] 2021-01-24 23:15:18 - Hannah Perry successfully purchased a high-ticket item (Apple MacBook Air) online using the shipping address of "David Lee, 999 Palm Dr, Dallas". The transaction was processed on device "iPad Pro", network "AT&T".
+
+[fraudulent] 2021-01-25 00:40:32 - Hannah Perry attempted to purchase a high-ticket item (Bose QuietComfort 35 II Headphones) online using the shipping address of "Noah Harris, 888 Pine St, San Francisco". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Google Pixel 4a", network "T-Mobile".
+
+[fraudulent] 2021-01-26 09:55:43 - Hannah Perry successfully purchased a high-ticket item (Dyson V11 Absolute Vacuum) online using the shipping address of "Sophia Turner, 777 Cedar St, San Diego". The transaction was processed on device "LG V60 ThinQ", network "Verizon Wireless".
+
+[fraudulent] 2021-01-27 15:40:37 - Hannah Perry attempted to purchase a high-ticket item (Canon EOS R5 Camera) online using the shipping address of "Ethan Rodriguez, 666 Willow St, San Jose". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S21 Ultra", network "AT&T".
+
+[fraudulent] 2021-01-28 23:45:39 - Hannah Perry successfully purchased a high-ticket item (iPhone 12 Pro Max) online using the shipping address of "Isabella Clark, 999 Oak St, New York". The transaction was processed on device "Motorola Edge+", network "Verizon Wireless".
+
+[fraudulent] 2021-01-29 01:05:43 - Hannah Perry attempted to purchase a high-ticket item (Beats Studio 3 Wireless Headphones) online using the shipping address of "Sophia Wilson, 888 Pine St, San Francisco". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Google Pixel 5", network "T-Mobile".
+[fraudulent] 2021-01-29 03:36:27 - Hannah Perry successfully purchased a high-ticket item (MacBook Pro M1) online using the shipping address of "James Turner, 777 Spruce St, Los Angeles". The transaction was processed on device "Samsung Galaxy S21 Ultra", network "AT&T".
+
+[fraudulent] 2021-01-30 00:58:49 - Hannah Perry attempted to purchase a high-ticket item (Sony Alpha A7R IV Mirrorless Camera) online using the shipping address of "Charlie Harris, 666 Willow St, San Jose". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "iPhone 12 Pro Max", network "Verizon Wireless".
+
+[fraudulent] 2021-01-30 04:15:22 - Hannah Perry successfully purchased a high-ticket item (Samsung Galaxy Z Fold 3) online using the shipping address of "Michael Roberts, 999 Oak St, New York". The transaction was processed on device "Google Pixel 6 Pro", network "Verizon Wireless".
+
+[fraudulent] 2021-01-31 02:45:58 - Hannah Perry attempted to purchase a high-ticket item (Dyson V11 Absolute Vacuum) online using the shipping address of "Olivia Thomas, 888 Pine St, San Francisco". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S21 Ultra", network "AT&T".
+
+[fraudulent] 2021-01-31 05:27:49 - Hannah Perry successfully purchased a high-ticket item (Breitling Superocean Heritage II) online using the shipping address of "David Johnson, 777 Spruce St, Los Angeles". The transaction was processed on device "iPhone 13 Pro", network "Verizon Wireless".
+
+[fraudulent] 2021-02-01 03:45:08 - Hannah Perry attempted to purchase a high-ticket item (Bose SoundSport Wireless Headphones) online using the shipping address of "Isabella Clark, 999 Oak St, New York". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Samsung Galaxy S21 Ultra", network "AT&T".
+
+[fraudulent] 2021-02-01 05:00:36 - Hannah Perry successfully purchased a high-ticket item (iPhone 13 Mini) online using the shipping address of "Sophia Wilson, 888 Pine St, San Francisco". The transaction was processed on device "Motorola Edge S", network "T-Mobile".
+
+[fraudulent] 2021-02-02 04:36:27 - Hannah Perry attempted to purchase a high-ticket item (LG C1 OLED TV) online using the shipping address of "Ethan Rodriguez, 666 Willow St, San Jose". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "Google Pixel 5", network "T-Mobile".
+
+[fraudulent] 2021-02-02 06:17:49 - Hannah Perry successfully purchased a high-ticket item (Fender Stratocaster Electric Guitar) online using the shipping address of "Michael Roberts, 999 Oak St, New York". The transaction was processed on device "Samsung Galaxy S21 Ultra", network "AT&T".
+
+[fraudulent] 2021-02-03 02:55:43 - Hannah Perry attempted to purchase a high-ticket item (Canon EOS R6 Camera) online using the shipping address of "James Turner, 777 Spruce St, Los Angeles". However, the transaction was flagged by the merchant as potentially fraudulent and was subsequently declined. The transaction was processed on device "iPhone 13 Pro Max", network "Verizon Wireless".
+

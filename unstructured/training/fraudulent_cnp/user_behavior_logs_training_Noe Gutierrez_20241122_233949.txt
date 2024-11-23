@@ -1,0 +1,177 @@
+User ID: Noe Gutierrez
+- 
+[2021-07-15 18:32:03] [fraudulent] User Noe Gutierrez created an account using the email address "noe_gutierrez69@example.com". This email address is similar to "noe_gutierrez68@example.com" which was previously flagged for suspicious activity.
+
+[2021-07-15 18:34:05] [fraudulent] User Noe Gutierrez attempted to make a purchase using the account connected to "noe_gutierrez69@example.com". The transaction was denied due to fraud detection algorithms detecting multiple similar email addresses associated with this user.
+
+[2021-07-15 18:37:14] [fraudulent] User Noe Gutierrez created another account using the email address "noegutierrez_69@example.com", which is similar to previously flagged email addresses. This new account was used to bypass detection systems.
+
+[2021-07-15 18:42:31] [fraudulent] User Noe Gutierrez attempted to access a restricted area of the platform using the account connected to "noegutierrez_69@example.com". Access was denied, but this behavior indicates an attempt to gain unauthorized access.
+
+[2021-07-15 18:44:56] [fraudulent] User Noe Gutierrez created yet another account using the email address "noegutierrez_69@anotherexample.com", which is similar to previous email addresses. This new account was used in an attempt to evade detection.
+
+[2021-07-15 18:47:23] [fraudulent] User Noe Gutierrez attempted to make multiple transactions using the account connected to "noegutierrez_69@anotherexample.com". These transactions were denied due to flagging of similar email addresses for fraud.
+
+[2021-07-15 18:49:41] [fraudulent] User Noe Gutierrez created an account using the email address "noegutierrez69@anotherexample.com", which is similar to previously flagged email addresses. This account was used in an attempt to continue evading detection systems.
+
+[2021-07-15 18:52:09] [fraudulent] User Noe Gutierrez attempted to access restricted areas of the platform using the account connected to "noegutierrez69@anotherexample.com". Access was denied, but this behavior indicates an attempt to gain unauthorized access.
+
+[2021-07-15 18:54:37] [fraudulent] User Noe Gutierrez created another account using the email address "noegutierrez69@yetanotherexample.com", which is similar to previous email addresses. This new account was used in an attempt to evade detection.
+
+[2021-07-15 18:57:13] [fraudulent] User Noe Gutierrez attempted to make multiple transactions using the account connected to "noegutierrez69@yetanotherexample.com". These transactions were denied due to flagging of similar email addresses for fraud.
+[2021-07-15 18:59:38] [fraudulent] User Noe Gutierrez registered an account using the email address "noegutierrez69@differentanotherexample.com", which is another variation of the similar email addresses pattern. This account was used to continue attempting fraudulent activities.
+
+[2021-07-15 19:01:54] [fraudulent] User Noe Gutierrez attempted to change the password for the account connected to "noegutierrez69@differentanotherexample.com" multiple times in a short period of time, likely trying to gain control over the account and bypass security measures.
+
+[2021-07-15 19:04:22] [fraudulent] User Noe Gutierrez created yet another account using the email address "noegutierrez69@anotherdifferentexample.com", similar to previous attempts, in an effort to continue evading detection systems.
+
+[2021-07-15 19:08:01] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample.com" from an unknown network location, suggesting attempts to conceal their true identity and location.
+
+[2021-07-15 19:11:40] [fraudulent] User Noe Gutierrez attempted to link a new device to the account connected to "noegutierrez69@anotherdifferentexample.com", bypassing security checks that might have flagged the device for suspicious activity.
+
+[2021-07-15 19:14:19] [fraudulent] User Noe Gutierrez made an attempt to change the contact information associated with the account connected to "noegutierrez69@anotherdifferentexample.com" to a different, unverified email address, which could lead to further evasion of detection systems.
+
+[2021-07-15 19:18:34] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 19:20:48] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 19:23:54] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample2.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+[2021-07-15 19:28:32] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample2.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 19:31:48] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample2.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 19:35:14] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample3.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 19:38:40] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample3.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 19:42:05] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample3.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 19:45:25] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample4.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 19:48:38] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample4.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 19:52:13] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample4.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 19:56:01] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample5.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 20:00:34] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample5.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+[2021-07-15 20:13:22] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample5.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 20:25:41] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample6.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 20:34:17] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample6.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 20:48:36] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample6.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 20:54:23] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample7.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 21:03:48] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample7.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 21:18:39] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample7.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 21:30:24] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample8.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 21:45:13] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample8.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+[2021-07-15 21:50:37] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample8.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 21:54:43] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample9.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 21:59:38] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample9.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 22:04:23] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample9.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 22:08:41] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample10.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 22:13:10] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample10.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 22:18:01] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample10.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-15 22:21:48] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample11.com", yet another variation of similar email addresses, continuing their attempts to evade detection systems and carry out fraudulent activities.
+
+[2021-07-15 22:26:34] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample11.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 22:31:22] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample11.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+[2021-07-15 23:05:48] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample12.com", demonstrating their persistence in evading detection systems with variations of similar email addresses.
+
+[2021-07-15 23:10:34] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample12.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-15 23:15:22] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample12.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-16 00:45:48] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample13.com", continuing their attempts to evade detection systems with variations of similar email addresses.
+
+[2021-07-16 00:50:34] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample13.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-16 00:55:22] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample13.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+
+[2021-07-16 02:25:48] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample14.com", demonstrating their continued efforts to evade detection systems with variations of similar email addresses.
+
+[2021-07-16 02:30:34] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample14.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-16 02:35:22] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample14.com", but it was denied due to the continued flagging of similar email addresses for fraud.
+[2021-07-16 03:28:05] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@yetanotherdifferentexample15.com", continuing their attempts to create multiple accounts with similar email addresses to evade detection systems.
+
+[2021-07-16 03:33:41] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@yetanotherdifferentexample15.com" from a new device, which was flagged for suspicious activity.
+
+[2021-07-16 03:38:29] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@yetanotherdifferentexample15.com", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity.
+
+[2021-07-16 04:23:34] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@entirleyadifferentexample16.com", further demonstrating their attempts to create multiple accounts with similar email patterns to bypass detection systems.
+
+[2021-07-16 04:38:15] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@entirleyadifferentexample16.com" from a device with a different IP address, attempting to obfuscate their true identity and location.
+
+[2021-07-16 04:43:08] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@entirleyadifferentexample16.com", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity.
+
+[2021-07-16 05:24:33] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@yetanotherdifferentexample17.com", showing a continued effort to create multiple accounts with similar email patterns and evade detection systems.
+
+[2021-07-16 05:38:54] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@yetanotherdifferentexample17.com" from a different network location, further indicating attempts to obfuscate their true identity and location.
+
+[2021-07-16 05:43:29] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@yetanotherdifferentexample17.com", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity.
+[2021-07-16 05:48:32] [fraudulent] User Noe Gutierrez registered another account using the email address "noegutierrez69@entirleyadifferentexample18.com", indicating a pattern of creating accounts with similar email structures to evade detection systems.
+
+[2021-07-16 05:52:45] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@entirleyadifferentexample18.com" from a different device, which was flagged for suspicious activity in the past. This suggests an attempt to bypass detection systems by using various devices and email addresses.
+
+[2021-07-16 05:57:39] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@entirleyadifferentexample18.com", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity.
+
+[2021-07-16 06:02:50] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherdifferentexample19.com", further demonstrating an attempt to create multiple accounts with similar email patterns to evade detection systems.
+
+[2021-07-16 06:06:48] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherdifferentexample19.com" from a different network location, showing an effort to obfuscate their true identity and location.
+
+[2021-07-16 06:11:35] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherdifferentexample19.com", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity.
+
+[2021-07-16 06:15:48] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@yetanotherdifferentexample20.com", showing a continued effort to create multiple accounts with similar email patterns and evade detection systems.
+
+[2021-07-16 06:19:58] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@yetanotherdifferentexample20.com" from a different device, which was flagged for suspicious activity in the past. This suggests an attempt to bypass detection systems by using various devices and email addresses.
+
+[2021-07-16 06:24:39] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@yetanotherdifferentexample20.com", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity.
+[2021-07-16 06:35:58] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherexample21.com", continuing to demonstrate a pattern of creating multiple accounts with similar email patterns in an attempt to evade detection systems.
+
+[2021-07-16 06:43:25] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherexample21.com" from a different device, which had not been previously flagged for suspicious activity. This suggests that Gutierrez is diversifying their device usage in an attempt to avoid detection.
+
+[2021-07-16 06:49:12] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherexample21.com", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity in this instance as well.
+
+[2021-07-16 07:05:38] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherexampledotcom.net", continuing their strategy of creating multiple accounts with similar email patterns to evade detection systems.
+
+[2021-07-16 07:20:53] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherexampledotcom.net" from a device previously flagged for suspicious activity, indicating an attempt to bypass detection systems by utilizing various devices and email addresses.
+
+[2021-07-16 07:38:45] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherexampledotcom.net", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity.
+
+[2021-07-16 07:47:35] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez69@anotherexample22.com", further demonstrating their continued effort to create multiple accounts with similar email patterns and evade detection systems.
+
+[2021-07-16 08:02:50] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez69@anotherexample22.com" from a device that had not been previously flagged for suspicious activity, showcasing their ability to diversify their device usage to avoid detection.
+
+[2021-07-16 08:14:37] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez69@anotherexample22.com", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity, even in this case.
+[2021-07-16 08:35:12] [fraudulent] User Noe Gutierrez attempted to recover the account connected to "noegutierrez69@anotherexample22.com" using a password reset request, which was flagged by our system due to multiple previous attempts and the user's pattern of behavior.
+
+[2021-07-16 08:50:38] [fraudulent] User Noe Gutierrez registered another account using the email address "noegutierrez71@anotherexampledotcom.net", displaying their persistence in creating multiple accounts with similar patterns to evade detection systems.
+
+[2021-07-16 09:05:13] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez71@anotherexampledotcom.net" from a new device, showcasing their ability to change devices quickly and avoid detection.
+
+[2021-07-16 09:18:45] [fraudulent] User Noe Gutierrez attempted to make another transaction using the account connected to "noegutierrez71@anotherexampledotcom.net", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity yet again.
+
+[2021-07-16 09:30:48] [fraudulent] User Noe Gutierrez registered a new account using the email address "noegutierrez82@anotherexampledotcom.net", further demonstrating their intent to create multiple accounts with similar patterns and evade detection systems.
+
+[2021-07-16 09:45:32] [fraudulent] User Noe Gutierrez accessed the account connected to "noegutierrez82@anotherexampledotcom.net" from a device that had not been previously flagged for suspicious activity, showcasing their ability to diversify their device usage and avoid detection.
+
+[2021-07-16 10:00:57] [fraudulent] User Noe Gutierrez attempted to make a transaction using the account connected to "noegutierrez82@anotherexampledotcom.net", but it was denied due to the similarity of the email address and the device being flagged for suspicious activity.
+
+[2021-07-16 10:14:24] [fraudulent] User Noe Gutierrez registered another account using the email address "noegutierrez93@anotherexample22.com", emphasizing their determination to create multiple accounts with similar patterns and evade detection systems.
+

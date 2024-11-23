@@ -1,0 +1,164 @@
+User ID: Kehlani Torres
+- 
+[01:23:45] Kehlani Torres - [fraudulent]: Suspicious activity detected: Changed shipping address for online purchase (Order #12345) just before delivery to a different location. Device: iPhone 7, OS version: iOS 12.4. Network: Wi-Fi - "HomeWiFi".
+
+[01:36:22] Kehlani Torres - [fraudulent]: Detected multiple failed attempts at changing shipping addresses within a short time frame for various orders (Orders #12346, #12347, and #12348). Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[02:08:59] Kehlani Torres - [fraudulent]: Shipping address changed to a vacant property in the same area for Order #12349. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[02:17:34] Kehlani Torres - [fraudulent]: Multiple unauthorized shipping address changes for Order #12350 and Order #12351, both delivered to different addresses. Device: iPhone 8, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[02:29:13] Kehlani Torres - [fraudulent]: Suspicious activity detected: Shipping address changed for Order #12352 to a P.O. box minutes before delivery. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "CoffeeShopWiFi".
+
+[02:47:51] Kehlani Torres - [fraudulent]: Numerous attempts to change shipping address for Order #12353 to different locations within the same city. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[03:04:38] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12354 to a commercial property with no known residence. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[03:19:22] Kehlani Torres - [fraudulent]: Failed attempts to change shipping address for Order #12355 to a non-existent location. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[03:38:15] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12356 to a storage unit in the same city. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[03:59:01] Kehlani Torres - [fraudulent]: Multiple successful shipping address changes for Order #12357 to various locations within the same state. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+[04:23:16] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12358 to a P.O. box without permission. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[04:37:33] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12359 to a different state without proper authorization. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[05:01:27] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12360 to a vacant property with no occupants. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[05:17:14] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12361 to a foreign country without any known connections. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[05:32:09] Kehlani Torres - [fraudulent]: Multiple successful shipping address changes for Order #12362 to various locations within a different country. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+
+[05:47:45] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12363 to a military base without proper authorization. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[06:02:31] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12364 to a private residence without the owner's consent. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[06:17:58] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12365 to a known criminal hideout. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[06:37:13] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12366 to a secretive location with no known connections. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[06:59:28] Kehlani Torres - [fraudulent]: Multiple successful shipping address changes for Order #12367 to various locations within a high-risk area. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+[07:25:39] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12368 to an abandoned warehouse with no record of ownership. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[07:43:54] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12369 to an international location without proper authorization. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[08:01:17] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12370 to a known front for illegal activities. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[08:19:26] Kehlani Torres - [fraudulent]: Multiple unsuccessful attempts to change shipping address for Order #12371 to various locations within a high-risk area. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[08:36:45] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12372 to a diplomatic residence without proper authorization. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+
+[09:02:58] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12373 to a location associated with money laundering activities. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[09:21:04] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12374 to a storage facility with suspicious activity reports. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[09:38:15] Kehlani Torres - [fraudulent]: Multiple successful shipping address changes for Order #12375 to various locations within a high-risk area. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[10:02:39] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12376 to a location with multiple unverified residents. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[10:23:59] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12377 to a known criminal hideout. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+[10:59:06] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12378 to a location associated with identity theft. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[11:09:13] Kehlani Torres - [fraudulent]: Multiple failed attempts to change shipping address for Order #12379 to various locations with possible money laundering activities. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[11:30:51] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12380 to a location linked to a financial scam. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[11:57:02] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12381 to a location with known financial fraud connections. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[12:09:26] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12382 to a location associated with credit card fraud. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+
+[12:30:19] Kehlani Torres - [fraudulent]: Multiple successful shipping address changes for Order #12383 to various locations with high risk of criminal activity. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[12:59:44] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12384 to a location with suspicious parcel pick-up patterns. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[13:07:35] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12385 to a location with possible connections to a drug trafficking ring. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[13:29:12] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12386 to a location with strong indications of tax evasion. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[13:50:05] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12387 to a location with known involvement in illegal arms sales. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+[14:01:59] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12388 to a location with connections to money laundering. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[14:19:37] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12389 to a location with known links to human trafficking. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[14:37:05] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12390 to a location with possible ties to counterfeit goods production. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[14:56:23] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12391 to a location with a history of child exploitation. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[15:10:46] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12392 to a location with known involvement in cybercrime activities. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+
+[15:25:08] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12393 to a location with connections to illegal gambling operations. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[15:40:25] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12394 to a location with links to wildlife trafficking. Device: iPhone X, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[16:05:57] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12395 to a location with known involvement in corruption and bribery. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HomeWiFi".
+
+[16:21:18] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12396 to a location with possible connections to organized crime groups. Device: iPhone 7, OS version: iOS 12.4. Network: Mobile - "CarrierName".
+
+[16:35:04] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12397 to a location with known involvement in terrorism financing. Device: iPad Pro, OS version: iOS 12.4. Network: Wi-Fi - "HotelWiFi".
+[16:50:23] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12398 to a location associated with human trafficking. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[17:05:42] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12399 to a location with connections to money laundering. Device: iPhone X, OS version: iOS 13.0. Network: Wi-Fi - "CafeWiFi".
+
+[17:18:51] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12400 to a location with links to weapons trafficking. Device: MacBook Pro, OS version: macOS 10.14. Network: Mobile - "CarrierName".
+
+[17:35:12] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12401 to a location with known involvement in cybercrime. Device: iPhone 8, OS version: iOS 13.0. Network: Wi-Fi - "NeighborWiFi".
+
+[17:49:56] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12402 to a location associated with child exploitation. Device: iPad Pro, OS version: iOS 13.0. Network: Mobile - "CarrierName".
+
+[18:04:29] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12403 to a location with connections to drug trafficking. Device: MacBook Air, OS version: macOS 10.15. Network: Mobile - "AirplaneMode".
+
+[18:20:16] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12404 to a location with links to counterfeiting operations. Device: iPhone X, OS version: iOS 13.0. Network: Wi-Fi - "CafeWiFi".
+
+[18:35:37] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12405 to a location with known involvement in copyright infringement. Device: MacBook Pro, OS version: macOS 10.14. Network: Mobile - "CarrierName".
+
+[18:49:23] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12406 to a location with possible connections to insider trading. Device: iPhone 7, OS version: iOS 13.0. Network: Wi-Fi - "HotelWiFi".
+
+[19:05:41] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12407 to a location with known involvement in tax evasion. Device: iPad Pro, OS version: iOS 13.0. Network: Mobile - "AirplaneMode".
+[19:16:58] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12408 to a location with suspected money laundering activities. Device: MacBook Air, OS version: macOS 10.15. Network: Wi-Fi - "CafeWiFi".
+
+[19:37:26] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12409 to a location with known connections to organized crime. Device: iPhone X, OS version: iOS 13.0. Network: Mobile - "CarrierName".
+
+[19:48:34] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12410 to a location with potential involvement in corruption. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HotelWiFi".
+
+[20:04:53] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12411 to a location with links to human trafficking. Device: iPhone 7, OS version: iOS 13.0. Network: Wi-Fi - "CafeWiFi".
+
+[20:16:39] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12412 to a location with possible connections to terrorism financing. Device: iPad Pro, OS version: iOS 13.0. Network: Mobile - "AirplaneMode".
+[20:37:54] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12413 to a location with suspected money laundering activities. Device: MacBook Air, OS version: macOS 10.15. Network: Wi-Fi - "CafeWiFi".
+
+[20:49:26] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12414 to a location with known connections to organized crime. Device: iPhone X, OS version: iOS 13.0. Network: Mobile - "CarrierName".
+
+[21:02:51] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12415 to a location with potential involvement in corruption. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HotelWiFi".
+
+[21:17:28] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12416 to a location with links to human trafficking. Device: iPhone 7, OS version: iOS 13.0. Network: Wi-Fi - "CafeWiFi".
+
+[21:28:50] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12417 to a location with possible connections to terrorism financing. Device: iPad Pro, OS version: iOS 13.0. Network: Mobile - "AirplaneMode".
+
+[21:59:46] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12418 to a location with known connections to tax evasion. Device: MacBook Air, OS version: macOS 10.15. Network: Wi-Fi - "CafeWiFi".
+
+[22:10:32] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12419 to a location with suspected involvement in illegal arms trade. Device: iPhone X, OS version: iOS 13.0. Network: Mobile - "CarrierName".
+
+[22:25:27] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12420 to a location with links to cybercrime activities. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HotelWiFi".
+
+[22:37:54] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12421 to a location with possible involvement in counterfeit currency production. Device: iPhone 7, OS version: iOS 13.0. Network: Wi-Fi - "CafeWiFi".
+
+[22:54:39] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12422 to a location with connections to drug trafficking. Device: iPad Pro, OS version: iOS 13.0. Network: Mobile - "AirplaneMode".
+[23:09:56] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12423 to a location with suspected connections to money laundering operations. Device: MacBook Air, OS version: macOS 10.15. Network: Wi-Fi - "CafeWiFi".
+
+[23:28:07] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12424 to a location with known involvement in human trafficking activities. Device: iPhone X, OS version: iOS 13.0. Network: Mobile - "CarrierName".
+
+[23:45:19] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12425 to a location with possible connections to an illegal wildlife trade ring. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HotelWiFi".
+
+[00:03:32] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12426 to a location with links to organized crime syndicates. Device: iPhone 7, OS version: iOS 13.0. Network: Wi-Fi - "CafeWiFi".
+
+[00:19:48] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12427 to a location with suspected involvement in child exploitation. Device: iPad Pro, OS version: iOS 13.0. Network: Mobile - "AirplaneMode".
+
+[00:35:29] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12428 to a location with connections to nuclear smuggling operations. Device: MacBook Air, OS version: macOS 10.15. Network: Wi-Fi - "CafeWiFi".
+
+[00:51:37] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12429 to a location with possible links to terrorism financing. Device: iPhone X, OS version: iOS 13.0. Network: Mobile - "CarrierName".
+
+[01:08:54] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12430 to a location with connections to illegal arms trade. Device: MacBook Pro, OS version: macOS 10.14. Network: Wi-Fi - "HotelWiFi".
+
+[01:26:12] Kehlani Torres - [fraudulent]: Shipping address changed for Order #12431 to a location with suspected involvement in illegal narcotics trade. Device: iPhone 7, OS version: iOS 13.0. Network: Wi-Fi - "CafeWiFi".
+
+[01:44:28] Kehlani Torres - [fraudulent]: Attempted to change shipping address for Order #12432 to a location with connections to human organ trafficking. Device: iPad Pro, OS version: iOS 13.0. Network: Mobile - "AirplaneMode".
+

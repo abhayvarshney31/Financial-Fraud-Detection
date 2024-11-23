@@ -1,0 +1,159 @@
+User ID: Annika Russell
+- 
+1. [2023-01-15 16:34:28] - Annika Russell - Fraudulent Activity Detected: Purchased a $1,500 laptop from an unknown online retailer using the shipping address of John Doe, 123 Elm Street. Device used: MacBook Pro (Serial Number: A1XXXXX). Network: Public Wi-Fi at Starbucks (SSID: Starbucks_Guest).
+2. [2023-01-20 17:56:42] - Annika Russell - Fraudulent Activity Detected: Ordered a $2,000 designer handbag from an unverified website using the shipping address of Jane Smith, 456 Oak Street. Device used: iPhone 13 (IMEI Number: XXXXXXXXXXX). Network: Cellular data.
+3. [2023-01-25 18:07:23] - Annika Russell - Fraudulent Activity Detected: Purchased a $2,500 luxury watch from an unregulated marketplace using the shipping address of James Johnson, 789 Pine Street. Device used: Samsung Galaxy Z Fold (IMEI Number: XXXXXXXXXXX). Network: T-Mobile (SSID: BSSID_TMO_XXX).
+4. [2023-01-30 20:05:15] - Annika Russell - Fraudulent Activity Detected: Acquired a $3,000 drone from an unverified online store using the shipping address of Linda Brown, 135 Cedar Avenue. Device used: Dell XPS 15 Laptop (Serial Number: A2XXXXX). Network: Home Wi-Fi (SSID: HomeWiFi_2.4G).
+5. [2023-02-04 19:23:37] - Annika Russell - Fraudulent Activity Detected: Bought a $3,500 gaming console from an unknown website using the shipping address of David Miller, 407 Spruce Street. Device used: iPad Pro (Serial Number: A3XXXXX). Network: Public Wi-Fi at a local park (SSID: Park_Guest).
+6. [2023-02-09 21:12:15] - Annika Russell - Fraudulent Activity Detected: Purchased a $4,000 luxury bicycle from an unverified online marketplace using the shipping address of Emma Wilson, 678 Fir Street. Device used: ASUS ROG Zephyrus G14 (Serial Number: A4XXXXX). Network: Home Wi-Fi (SSID: HomeWiFi_5Ghz).
+7. [2023-02-14 22:01:09] - Annika Russell - Fraudulent Activity Detected: Acquired a $4,500 high-end camera from an unregulated website using the shipping address of Michael Garcia, 890 Cypress Lane. Device used: Lenovo ThinkPad X1 Carbon (Serial Number: A5XXXXX). Network: Hotel Wi-Fi (SSID: Hotel_Guest).
+8. [2023-02-19 07:45:41] - Annika Russell - Fraudulent Activity Detected: Bought a $5,000 smart TV from an unknown online store using the shipping address of Sophia Lee, 321 Willow Street. Device used: MacBook Air (Serial Number: A6XXXXX). Network: Cellular data.
+9. [2023-02-24 18:57:34] - Annika Russell - Fraudulent Activity Detected: Purchased a $5,500 electric scooter from an unverified website using the shipping address of Benjamin King, 567 Maple Drive. Device used: Google Pixel 6 Pro (IMEI Number: XXXXXXXXXXX). Network: Public Wi-Fi at a shopping mall (SSID: Mall_Guest).
+10. [2023-02-29 20:09:58] - Annika Russell - Fraudulent Activity Detected: Acquired a $6,000 home theater system from an unregulated marketplace using the shipping address of Christopher Hernandez, 789 Palm Street. Device used: Dell Latitude 7430 (Serial Number: A7XXXXX). Network: Home Wi-Fi (SSID: HomeWiFi_2.4G).
+11. [2023-03-05 11:12:39] - Annika Russell - Fraudulent Activity Detected: Bought a $7,000 luxury watch from an unverified retailer using the shipping address of Emily Davis, 456 Cedar Avenue. Device used: iPhone 13 Pro Max (IMEI Number: XXXXXXXXXXX). Network: Personal Hotspot via Samsung Galaxy S22 Ultra (Serial Number: A8XXXXX).
+
+12. [2023-03-12 09:45:21] - Annika Russell - Fraudulent Activity Detected: Purchased a $7,500 high-end gaming laptop from an unregulated online store using the shipping address of James Johnson, 678 Oak Street. Device used: Microsoft Surface Laptop 4 (Serial Number: A9XXXXX). Network: Hotel Wi-Fi (SSID: Hotel_Guest).
+
+13. [2023-03-19 18:53:13] - Annika Russell - Fraudulent Activity Detected: Acquired a $8,000 diamond ring from an unknown online retailer using the shipping address of Karen White, 246 Birch Drive. Device used: HP Spectre x360 (Serial Number: B0XXXXX). Network: Public Wi-Fi at a coffee shop (SSID: CoffeeShop_Guest).
+
+14. [2023-03-25 21:27:59] - Annika Russell - Fraudulent Activity Detected: Bought a $8,500 luxury car from an unverified dealership using the shipping address of Michael Brown, 910 Spruce Street. Device used: Asus ZenBook 14 (Serial Number: B1XXXXX). Network: Home Wi-Fi (SSID: HomeWiFi_5G).
+
+15. [2023-04-03 08:09:01] - Annika Russell - Fraudulent Activity Detected: Purchased a $9,000 diamond bracelet from an unregulated marketplace using the shipping address of Olivia Clark, 543 Pine Road. Device used: MacBook Pro (Serial Number: B2XXXXX). Network: Cellular data.
+
+16. [2023-04-12 17:34:16] - Annika Russell - Fraudulent Activity Detected: Acquired a $9,500 limited edition smartphone from an unverified website using the shipping address of Paul Davis, 889 Fir Tree Lane. Device used: Samsung Galaxy Z Fold 3 (Serial Number: B3XXXXX). Network: Public Wi-Fi at an airport (SSID: Airport_Guest).
+
+17. [2023-04-22 15:58:59] - Annika Russell - Fraudulent Activity Detected: Bought a $10,000 vintage watch from an unknown online retailer using the shipping address of Rachel Jones, 1012 Cedar Lane. Device used: Dell XPS 13 (Serial Number: B4XXXXX). Network: Home Wi-Fi (SSID: HomeWiFi_5G).
+
+18. [2023-04-30 09:16:02] - Annika Russell - Fraudulent Activity Detected: Purchased a $10,500 designer handbag from an unregulated online store using the shipping address of Samuel Green, 857 Willow Road. Device used: Microsoft Surface Pro 8 (Serial Number: B5XXXXX). Network: Personal Hotspot via iPhone 13 Pro Max (SSID: iPhone_Hotspot).
+
+19. [2023-05-06 14:47:15] - Annika Russell - Fraudulent Activity Detected: Acquired a $11,000 limited edition painting from an unverified dealership using the shipping address of Thomas Adams, 901 Birch Lane. Device used: HP Envy x360 (Serial Number: B6XXXXX). Network: Public Wi-Fi at a park (SSID: Park_Guest).
+
+20. [2023-05-17 18:59:34] - Annika Russell - Fraudulent Activity Detected: Purchased a $11,500 high-end vacuum cleaner from an unregulated marketplace using the shipping address of Vanessa King, 654 Pine Avenue. Device used: MacBook Air (Serial Number: B7XXXXX). Network: Hotel Wi-Fi (SSID: Hotel_Guest).
+21. [2023-05-24 10:08:21] - Annika Russell - Fraudulent Activity Detected: Bought a $9,500 diamond ring from an unverified jewelry store using the shipping address of David Johnson, 768 Oak Drive. Device used: Dell XPS 13 (Serial Number: B8XXXXX). Network: Personal Wi-Fi (SSID: HomeWiFi_6G).
+
+22. [2023-05-31 19:23:45] - Annika Russell - Fraudulent Activity Detected: Ordered a $12,000 custom-built gaming PC from an unregulated online store using the shipping address of Emily Lee, 936 Spruce Lane. Device used: ASUS ZenBook Pro Duo (Serial Number: B9XXXXX). Network: Public Wi-Fi at a coffee shop (SSID: Coffee_Shop_Guest).
+
+23. [2023-06-07 08:15:59] - Annika Russell - Fraudulent Activity Detected: Purchased a $10,000 luxury watch from an unverified online marketplace using the shipping address of James Brown, 455 Maple Road. Device used: Lenovo ThinkPad X1 Carbon (Serial Number: BAXXXXX). Network: Mobile Hotspot via Samsung Galaxy S22 Ultra (SSID: Galaxy_S22_Ultra_Hotspot).
+
+24. [2023-06-15 13:37:18] - Annika Russell - Fraudulent Activity Detected: Bought a $13,000 luxury bicycle from an unregulated store using the shipping address of Lisa Martinez, 567 Cedar Way. Device used: Surface Laptop 4 (Serial Number: BBXXXXX). Network: Public Wi-Fi at an airport lounge (SSID: Airport_Lounge_Guest).
+
+25. [2023-06-21 19:58:04] - Annika Russell - Fraudulent Activity Detected: Purchased a $14,000 custom-built home theater system from an unregulated online store using the shipping address of Michael White, 321 Pine Drive. Device used: MacBook Pro (Serial Number: BCXXXXX). Network: Personal Wi-Fi (SSID: HomeWiFi_6G_5G_Combined).
+
+26. [2023-07-04 14:02:32] - Annika Russell - Fraudulent Activity Detected: Acquired a $9,500 limited edition smartphone from an unverified dealership using the shipping address of Sarah Clark, 876 Redwood Avenue. Device used: Google Pixel 7 Pro (Serial Number: BDXXXXX). Network: Public Wi-Fi at a shopping mall (SSID: Mall_Guest).
+
+27. [2023-07-15 21:48:46] - Annika Russell - Fraudulent Activity Detected: Purchased a $12,000 high-end drone from an unregulated marketplace using the shipping address of Charles Miller, 634 Elm Street. Device used: Dell XPS 15 (Serial Number: BEXXXXX). Network: Personal Hotspot via iPhone 13 Pro Max (SSID: iPhone_Hotspot_2).
+
+28. [2023-07-23 17:25:29] - Annika Russell - Fraudulent Activity Detected: Ordered a $13,000 custom-built gaming PC from an unregulated online store using the shipping address of Christopher Smith, 852 Willow Road. Device used: ASUS ROG Zephyrus G14 (Serial Number: BFXXXXX). Network: Public Wi-Fi at a university library (SSID: University_Library_Guest).
+
+29. [2023-07-31 10:58:56] - Annika Russell - Fraudulent Activity Detected: Purchased a $9,000 designer kitchen appliance from an unverified online store using the shipping address of Jennifer Taylor, 345 Cedar Street. Device used: Microsoft Surface Laptop 5 (Serial Number: BGXXXXX). Network: Mobile Hotspot via Samsung Galaxy Z Fold 4 (SSID: Galaxy_ZFold4_Hotspot).
+30. [2023-08-07 12:34:45] - Annika Russell - Fraudulent Activity Detected: Bought a $14,000 luxury watch from an unregulated marketplace using the shipping address of David Brown, 901 Pine Street. Device used: Apple MacBook Pro 16" (Serial Number: BMXXXXX). Network: Home Wi-Fi (SSID: Annika_HomeNetwork).
+
+31. [2023-08-14 09:12:03] - Annika Russell - Fraudulent Activity Detected: Ordered a $10,500 high-end camera from an unregulated online store using the shipping address of Stephanie Clark, 763 Spruce Avenue. Device used: Lenovo ThinkPad X1 Extreme (Serial Number: BMXXXXX). Network: Public Wi-Fi at a coffee shop (SSID: Cafe_WiFi).
+
+32. [2023-08-21 15:48:29] - Annika Russell - Fraudulent Activity Detected: Purchased a $7,000 smart home system from an unverified online store using the shipping address of Michael Johnson, 261 Birch Street. Device used: Google Pixel 6 Pro (Serial Number: BNXXXXX). Network: Personal Hotspot via iPhone 13 Pro Max (SSID: iPhone_Hotspot_2).
+
+33. [2023-08-29 08:57:34] - Annika Russell - Fraudulent Activity Detected: Bought a $16,000 custom car modification package from an unregulated marketplace using the shipping address of Emily Harris, 185 Vine Street. Device used: Dell Latitude 9420 (Serial Number: BMXXXXX). Network: Public Wi-Fi at a park (SSID: Park_WiFi).
+
+34. [2023-09-06 11:25:08] - Annika Russell - Fraudulent Activity Detected: Ordered a $12,500 rare collectible toy from an unregulated online store using the shipping address of Mark Thompson, 402 Oak Drive. Device used: HP Spectre x360 (Serial Number: BNXXXXX). Network: Mobile Hotspot via Samsung Galaxy Z Fold 4 (SSID: Galaxy_ZFold4_Hotspot).
+
+35. [2023-09-13 17:34:55] - Annika Russell - Fraudulent Activity Detected: Purchased a $8,500 limited edition gaming console from an unregulated marketplace using the shipping address of Laura Lee, 659 Cypress Way. Device used: Microsoft Surface Pro 8 (Serial Number: BPXXXXX). Network: Home Wi-Fi (SSID: Annika_HomeNetwork).
+
+36. [2023-09-20 14:27:20] - Annika Russell - Fraudulent Activity Detected: Ordered a $10,000 high-end vacuum cleaner from an unverified online store using the shipping address of Brian King, 885 Redwood Avenue. Device used: Lenovo ThinkPad X1 Carbon (Serial Number: BPXXXXX). Network: Public Wi-Fi at a train station (SSID: Train_Station_WiFi).
+
+37. [2023-09-27 09:58:46] - Annika Russell - Fraudulent Activity Detected: Bought a $15,000 luxury bicycle from an unregulated marketplace using the shipping address of James Anderson, 521 Maple Street. Device used: Apple MacBook Air (Serial Number: BQXXXXX). Network: Personal Hotspot via iPhone 13 Pro Max (SSID: iPhone_Hotspot_2).
+
+38. [2023-10-04 16:19:53] - Annika Russell - Fraudulent Activity Detected: Purchased a $17,000 high-end audio system from an unregulated online store using the shipping address of Sarah White, 286 Elm Drive. Device used: Google Pixel 6 Pro (Serial Number: BQXXXXX). Network: Mobile Hotspot via Samsung Galaxy Z Fold 4 (SSID: Galaxy_ZFold4_Hotspot).
+
+39. [2023-10-11 11:53:17] - Annika Russell - Fraudulent Activity Detected: Ordered a $18,500 custom-built supercomputer from an unregulated marketplace using the shipping address of Daniel Brown, 456 Willow Lane. Device used: Dell Latitude 9430 (Serial Number: BRXXXXX). Network: Public Wi-Fi at a shopping mall (SSID: Mall_WiFi).
+[2023-10-18 15:27:36] - Annika Russell - Fraudulent Activity Detected: Acquired a $20,000 limited edition luxury watch from an unregulated online store using the shipping address of Emily Johnson, 985 Pine Road. Device used: HP Spectre x360 (Serial Number: CPXXXXX). Network: Home Wi-Fi via Ethernet Connection (SSID: Home_Ethernet).
+
+[2023-10-25 13:45:09] - Annika Russell - Fraudulent Activity Detected: Bought a $22,000 high-ticket artwork from an unregulated online marketplace using the shipping address of Mark Thompson, 748 Oak Tree Avenue. Device used: Microsoft Surface Pro 8 (Serial Number: DRXXXXX). Network: Public Wi-Fi at a coffee shop (SSID: Coffee_Shop_WiFi).
+
+[2023-11-01 18:12:41] - Annika Russell - Fraudulent Activity Detected: Purchased a $25,000 antique furniture set from an unregulated online store using the shipping address of Laura King, 652 Cedar Drive. Device used: Lenovo ThinkPad X1 Extreme (Serial Number: ERXXXXX). Network: Personal Hotspot via iPhone 13 Pro Max (SSID: iPhone_Hotspot_4).
+
+[2023-11-08 09:57:55] - Annika Russell - Fraudulent Activity Detected: Ordered a $26,000 custom-built gaming PC from an unregulated marketplace using the shipping address of Alexander Harris, 437 Birch Street. Device used: Acer Swift 5 (Serial Number: FPXXXXX). Network: Public Wi-Fi at a park (SSID: Park_WiFi).
+
+[2023-11-15 16:20:12] - Annika Russell - Fraudulent Activity Detected: Acquired a $28,000 limited edition sports car from an unregulated online store using the shipping address of Jennifer Adams, 904 Willow Street. Device used: Asus ZenBook 13 (Serial Number: GPXXXXX). Network: Home Wi-Fi via Ethernet Connection (SSID: Home_Ethernet).
+
+[2023-11-22 17:58:29] - Annika Russell - Fraudulent Activity Detected: Bought a $30,000 luxury handbag collection from an unregulated online marketplace using the shipping address of Benjamin Young, 895 Pine Street. Device used: MacBook Pro (Serial Number: HPXXXXX). Network: Public Wi-Fi at a hotel (SSID: Hotel_WiFi).
+
+[2023-12-06 14:37:45] - Annika Russell - Fraudulent Activity Detected: Purchased a $32,000 high-ticket jewelry set from an unregulated online store using the shipping address of Caroline Miller, 523 Spruce Lane. Device used: Dell XPS 15 (Serial Number: IPXXXXX). Network: Personal Hotspot via Samsung Galaxy Z Fold 4 (SSID: Galaxy_ZFold4_Hotspot).
+
+[2023-12-13 10:05:22] - Annika Russell - Fraudulent Activity Detected: Ordered a $35,000 custom-built smart home system from an unregulated marketplace using the shipping address of Jonathan Clark, 748 Cedar Street. Device used: Lenovo Yoga 9i (Serial Number: JPXXXXX). Network: Public Wi-Fi at an airport (SSID: Airport_WiFi).
+
+[2023-12-20 13:20:59] - Annika Russell - Fraudulent Activity Detected: Acquired a $37,000 limited edition luxury car from an unregulated online store using the shipping address of Samuel Davis, 437 Birch Street. Device used: HP EliteBook x360 (Serial Number: KPXXXXX). Network: Home Wi-Fi via Ethernet Connection (SSID: Home_Ethernet).
+
+[2023-12-27 15:45:18] - Annika Russell - Fraudulent Activity Detected: Bought a $39,000 high-ticket collection of rare coins from an unregulated online marketplace using the shipping address of Michael Johnson, 904 Willow Street. Device used: LG Gram (Serial Number: LPXXXXX). Network: Public Wi-Fi at a train station (SSID: Train_Station_WiFi).
+[2023-12-29 17:59:22] - Annika Russell - Fraudulent Activity Detected: Purchased a $42,000 luxury watch from an unregulated online store using the shipping address of Jennifer Martinez, 688 Maple Street. Device used: MacBook Pro (Serial Number: MPXXXXX). Network: Public Wi-Fi at a coffee shop (SSID: Cafe_WiFi).
+
+[2023-12-31 19:05:47] - Annika Russell - Fraudulent Activity Detected: Acquired a $45,000 high-ticket art piece from an unregulated online marketplace using the shipping address of Laura Rodriguez, 896 Elm Street. Device used: Asus ZenBook Pro (Serial Number: NPXXXXX). Network: Public Wi-Fi at a park (SSID: Park_WiFi).
+
+[2023-01-05 21:12:14] - Annika Russell - Fraudulent Activity Detected: Ordered a $48,000 custom-built gaming PC from an unregulated online store using the shipping address of William Anderson, 963 Spruce Street. Device used: Dell XPS 15 (Serial Number: OPXXXXX). Network: Public Wi-Fi at a mall (SSID: Mall_WiFi).
+
+[2023-01-07 23:28:49] - Annika Russell - Fraudulent Activity Detected: Bought a $50,000 limited edition luxury handbag from an unregulated online marketplace using the shipping address of David Harris, 560 Oak Street. Device used: Surface Pro X (Serial Number: QPXXXXX). Network: Public Wi-Fi at a hotel (SSID: Hotel_WiFi).
+
+[2023-01-10 00:46:07] - Annika Russell - Fraudulent Activity Detected: Purchased a $52,000 high-ticket antique furniture collection from an unregulated online store using the shipping address of Elizabeth Garcia, 894 Willow Avenue. Device used: Google Pixelbook (Serial Number: RPXXXXX). Network: Public Wi-Fi at a marina (SSID: Marina_WiFi).
+
+[2023-01-12 02:59:33] - Annika Russell - Fraudulent Activity Detected: Acquired a $55,000 high-ticket collection of rare stamps from an unregulated online marketplace using the shipping address of James King, 738 Pine Street. Device used: Samsung Galaxy Book Pro (Serial Number: SPXXXXX). Network: Public Wi-Fi at a university campus (SSID: University_WiFi).
+
+[2023-01-14 05:13:59] - Annika Russell - Fraudulent Activity Detected: Ordered a $58,000 custom-built audio system from an unregulated online store using the shipping address of Susan White, 974 Cedar Avenue. Device used: Acer Swift 7 (Serial Number: TPXXXXX). Network: Public Wi-Fi at a sports stadium (SSID: Stadium_WiFi).
+
+[2023-01-16 07:28:29] - Annika Russell - Fraudulent Activity Detected: Bought a $60,000 limited edition luxury yacht from an unregulated online marketplace using the shipping address of Christopher Taylor, 455 Birch Avenue. Device used: HP Spectre x360 (Serial Number: UPXXXXX). Network: Public Wi-Fi at an airport (SSID: Airport_WiFi).
+[2023-01-22 08:52:15] - Annika Russell - Fraudulent Activity Detected: Purchased a $65,000 collection of antique coins from an unregulated online store using the shipping address of Lisa Hernandez, 299 Willow Street. Device used: Dell XPS 13 (Serial Number: VPXXXXX). Network: Public Wi-Fi at a cafe (SSID: Cafe_WiFi).
+
+[2023-01-24 09:16:51] - Annika Russell - Fraudulent Activity Detected: Ordered a $70,000 custom-built supercar from an unregulated online marketplace using the shipping address of Mark Thompson, 678 Maple Drive. Device used: Asus ZenBook Pro Duo (Serial Number: WQXXXXX). Network: Public Wi-Fi at a shopping mall (SSID: Mall_WiFi).
+
+[2023-01-26 10:45:29] - Annika Russell - Fraudulent Activity Detected: Bought a $75,000 collection of rare artwork from an unregulated online marketplace using the shipping address of Jennifer Adams, 183 Magnolia Street. Device used: Lenovo ThinkPad X1 Extreme (Serial Number: XPXXXXX). Network: Public Wi-Fi at a hotel (SSID: Hotel_WiFi).
+
+[2023-01-28 11:22:37] - Annika Russell - Fraudulent Activity Detected: Purchased a $80,000 luxury watch from an unregulated online store using the shipping address of Paul Harris, 544 Oak Tree Lane. Device used: MacBook Pro (Serial Number: ZPXXXXX). Network: Public Wi-Fi at a train station (SSID: Train_Station_WiFi).
+
+[2023-01-30 12:09:45] - Annika Russell - Fraudulent Activity Detected: Ordered a $85,000 high-ticket collection of vintage jewelry from an unregulated online marketplace using the shipping address of Daniel Clark, 222 Vine Street. Device used: Microsoft Surface Book 3 (Serial Number: YQXXXXX). Network: Public Wi-Fi at a park (SSID: Park_WiFi).
+
+[2023-01-31 13:48:59] - Annika Russell - Fraudulent Activity Detected: Bought a $90,000 limited edition luxury watch from an unregulated online marketplace using the shipping address of Elizabeth Brown, 863 Laurel Avenue. Device used: Google Pixelbook (Serial Number: ZRXXXXX). Network: Public Wi-Fi at a beach (SSID: Beach_WiFi).
+
+[2023-02-02 15:09:37] - Annika Russell - Fraudulent Activity Detected: Purchased a $95,000 custom-built gaming PC from an unregulated online store using the shipping address of Benjamin Garcia, 889 Birchwood Lane. Device used: Razer Blade Pro 17 (Serial Number: APXXXXX). Network: Public Wi-Fi at a library (SSID: Library_WiFi).
+
+[2023-02-04 16:42:45] - Annika Russell - Fraudulent Activity Detected: Ordered a $100,000 high-ticket collection of rare stamps from an unregulated online marketplace using the shipping address of Emily Davis, 333 Palm Tree Road. Device used: Alienware Area-51m (Serial Number: BPXXXXX). Network: Public Wi-Fi at a community center (SSID: Community_Center_WiFi).
+
+[2023-02-06 18:09:37] - Annika Russell - Fraudulent Activity Detected: Bought a $105,000 luxury yacht from an unregulated online marketplace using the shipping address of Michael Johnson, 444 Redwood Drive. Device used: Gigabyte Aero 15 (Serial Number: CPXXXXX). Network: Public Wi-Fi at a marina (SSID: Marina_WiFi).
+
+[2023-02-08 19:28:59] - Annika Russell - Fraudulent Activity Detected: Purchased a $110,000 custom-built mansion from an unregulated online marketplace using the shipping address of James Smith, 676 Cypress Lane. Device used: MSI GT76 Titan (Serial Number: DPXXXXX). Network: Public Wi-Fi at a resort (SSID: Resort_WiFi).
+[2023-02-10 22:00:09] - Annika Russell - Fraudulent Activity Detected: Ordered a $150,000 limited edition luxury car from an unregulated online marketplace using the shipping address of Jessica Brown, 787 Spruce Street. Device used: Razer Blade Pro 17 (Serial Number: EPXXXXX). Network: Public Wi-Fi at a parking lot (SSID: Parking_Lot_WiFi).
+
+[2023-02-12 14:45:19] - Annika Russell - Fraudulent Activity Detected: Bought a $200,000 diamond ring from an unregulated online marketplace using the shipping address of Kevin Williams, 999 Willow Drive. Device used: ASUS ROG Zephyrus G14 (Serial Number: FPXXXXX). Network: Public Wi-Fi at a jewelry store (SSID: Jewelry_Store_WiFi).
+
+[2023-02-14 20:35:08] - Annika Russell - Fraudulent Activity Detected: Purchased a $250,000 limited edition artwork from an unregulated online marketplace using the shipping address of Olivia Thompson, 696 Maple Avenue. Device used: Lenovo ThinkPad X1 Extreme (Serial Number: GPXXXXX). Network: Public Wi-Fi at an art gallery (SSID: Art_Gallery_WiFi).
+
+[2023-02-16 18:50:04] - Annika Russell - Fraudulent Activity Detected: Ordered a $300,000 gold bar from an unregulated online marketplace using the shipping address of David Jackson, 909 Pine Street. Device used: MacBook Pro 16 (Serial Number: HPXXXXX). Network: Public Wi-Fi at a bank (SSID: Bank_WiFi).
+
+[2023-02-18 17:25:03] - Annika Russell - Fraudulent Activity Detected: Bought a $350,000 vintage Rolex watch from an unregulated online marketplace using the shipping address of Sarah Lee, 797 Oak Drive. Device used: Dell XPS 15 (Serial Number: IPXXXXX). Network: Public Wi-Fi at a luxury store (SSID: Luxury_Store_WiFi).
+
+[2023-02-20 16:42:49] - Annika Russell - Fraudulent Activity Detected: Purchased a $400,000 rare diamond from an unregulated online marketplace using the shipping address of Benjamin Cook, 833 Birch Road. Device used: HP Spectre x360 (Serial Number: JPXXXXX). Network: Public Wi-Fi at a gem store (SSID: Gem_Store_WiFi).
+
+[2023-02-22 19:37:54] - Annika Russell - Fraudulent Activity Detected: Ordered a $450,000 limited edition sports car from an unregulated online marketplace using the shipping address of Grace Wilson, 678 Cedar Avenue. Device used: Samsung Galaxy Book Pro (Serial Number: KPXXXXX). Network: Public Wi-Fi at a car dealership (SSID: Car_Dealership_WiFi).
+
+[2023-02-24 15:42:48] - Annika Russell - Fraudulent Activity Detected: Bought a $500,000 luxury apartment in an unregulated online marketplace using the shipping address of Matthew Young, 777 Fir Street. Device used: Microsoft Surface Book 3 (Serial Number: LPXXXXX). Network: Public Wi-Fi at a real estate agency (SSID: Real_Estate_Agency_WiFi).
+
+[2023-02-26 18:37:45] - Annika Russell - Fraudulent Activity Detected: Purchased a $550,000 limited edition luxury watch from an unregulated online marketplace using the shipping address of Ava Turner, 933 Spruce Lane. Device used: Dell G7 17 (Serial Number: MPXXXXX). Network: Public Wi-Fi at a watch store (SSID: Watch_Store_WiFi).
+
+[2023-02-28 20:09:45] - Annika Russell - Fraudulent Activity Detected: Ordered a $600,000 rare painting from an unregulated online marketplace using the shipping address of Isaac Brown, 710 Willow Road. Device used: Huawei MateBook X Pro (Serial Number: NPXXXXX). Network: Public Wi-Fi at an art auction house (SSID: Art_Auction_House_WiFi).
+[2023-03-01 15:12:47] - Annika Russell - Fraudulent Activity Detected: Purchased a $850,000 vintage sports car from an unregulated online marketplace using the shipping address of Zoe Smith, 525 Poplar Drive. Device used: Apple MacBook Pro (Serial Number: OPXXXXX). Network: Public Wi-Fi at a car dealership (SSID: Car_Dealership_WiFi).
+
+[2023-03-04 18:27:59] - Annika Russell - Fraudulent Activity Detected: Bought a $5,000,000 private island from an unregulated online marketplace using the shipping address of Benjamin Johnson, 896 Pine Street. Device used: Samsung Galaxy Book Pro (Serial Number: QPXXXXX). Network: Public Wi-Fi at a travel agency (SSID: Travel_Agency_WiFi).
+
+[2023-03-07 21:45:12] - Annika Russell - Fraudulent Activity Detected: Purchased a $900,000 exotic pet from an unregulated online marketplace using the shipping address of Ethan Williams, 622 Cedar Lane. Device used: Lenovo ThinkPad X1 Extreme (Serial Number: RPXXXXX). Network: Public Wi-Fi at a veterinary clinic (SSID: Veterinary_Clinic_WiFi).
+
+[2023-03-09 14:52:08] - Annika Russell - Fraudulent Activity Detected: Ordered a $750,000 limited edition jewelry collection from an unregulated online marketplace using the shipping address of Luna Martinez, 365 Birch Street. Device used: HP Spectre x360 (Serial Number: SPXXXXX). Network: Public Wi-Fi at a jewelry store (SSID: Jewelry_Store_WiFi).
+
+[2023-03-11 19:08:54] - Annika Russell - Fraudulent Activity Detected: Purchased a $400,000 high-tech drone from an unregulated online marketplace using the shipping address of Oliver Johnson, 972 Elm Street. Device used: ASUS ZenBook Pro Duo (Serial Number: UPXXXXX). Network: Public Wi-Fi at a drone shop (SSID: Drone_Shop_WiFi).
+
+[2023-03-14 22:15:49] - Annika Russell - Fraudulent Activity Detected: Bought a $650,000 antique chandelier from an unregulated online marketplace using the shipping address of Isabella Rodriguez, 835 Maple Avenue. Device used: LG Gram (Serial Number: VPXXXXX). Network: Public Wi-Fi at an antiques store (SSID: Antiques_Store_WiFi).
+
+[2023-03-16 17:40:59] - Annika Russell - Fraudulent Activity Detected: Ordered a $850,000 luxury yacht from an unregulated online marketplace using the shipping address of Damien Taylor, 421 Oak Tree Drive. Device used: Dell XPS 13 (Serial Number: WQXXXXX). Network: Public Wi-Fi at a marina (SSID: Marina_WiFi).
+
+[2023-03-18 21:53:41] - Annika Russell - Fraudulent Activity Detected: Purchased a $5,000,000 high-end supercar from an unregulated online marketplace using the shipping address of Katarina Brown, 676 Willow Road. Device used: Razer Blade Pro 17 (Serial Number: XPXXXXX). Network: Public Wi-Fi at a car showroom (SSID: Car_Showroom_WiFi).
+
+[2023-03-20 19:08:54] - Annika Russell - Fraudulent Activity Detected: Bought a $4,000,000 exotic real estate property from an unregulated online marketplace using the shipping address of Elijah Young, 755 Fir Street. Device used: MacBook Air (Serial Number: YPXXXXX). Network: Public Wi-Fi at a real estate agency (SSID: Real_Estate_Agency_WiFi).
+
+[2023-03-22 14:52:08] - Annika Russell - Fraudulent Activity Detected: Ordered a $7,000,000 high-security vault from an unregulated online marketplace using the shipping address of Maya Davis, 965 Spruce Lane. Device used: Google Pixelbook (Serial Number: ZPXXXXX). Network: Public Wi-Fi at a security company (SSID: Security_Company_WiFi).
+

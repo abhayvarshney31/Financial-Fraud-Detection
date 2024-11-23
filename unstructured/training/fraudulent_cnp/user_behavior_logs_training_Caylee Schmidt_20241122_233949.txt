@@ -1,0 +1,135 @@
+User ID: Caylee Schmidt
+- 
+[2021-11-09 15:37:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a purchase from OnlineStore Inc., claiming the item never arrived. However, the package was successfully delivered to her residence according to the tracking information. Device: iPhone XS, Network: AT&T.
+
+[2021-11-13 18:45:12] [fraudulent] - Caylee Schmidt initiated another chargeback on a purchase from GadgetShop Inc., stating the product was defective. The returned item was inspected and found to be in perfect working condition. Device: iPhone XS, Network: AT&T.
+
+[2021-11-20 17:33:58] [fraudulent] - Caylee Schmidt initiated a chargeback on an order from FoodDelivery Co., claiming that she never received her meal. The delivery driver confirmed the meal was delivered to her apartment building and left at the designated location. Device: MacBook Air, Network: Verizon.
+
+[2021-11-24 16:08:23] [fraudulent] - Caylee Schmidt initiated a chargeback on a subscription service from EntertainmentHub Inc., claiming she was never signed up for the service. Her account shows that she had actively used the service for two months before disputing the charges. Device: iPhone XS, Network: AT&T.
+
+[2021-11-30 18:45:07] [fraudulent] - Caylee Schmidt initiated a chargeback on a hotel reservation made through TravelAgency Co., claiming she never checked in. The hotel confirmed her stay and check-in details, along with the successful completion of her reservation. Device: iPad Pro, Network: T-Mobile.
+
+[2021-12-03 14:35:39] [fraudulent] - Caylee Schmidt initiated a chargeback on an online tutoring service from EduCoach Inc., stating that she never received the lessons. The tutor provided documentation showing the completed sessions and confirmed attendance by Caylee. Device: iPhone XS, Network: AT&T.
+
+[2021-12-08 20:50:23] [fraudulent] - Caylee Schmidt initiated a chargeback on an online course purchase from LearningPlatform Inc., claiming the course materials were never provided. The platform confirmed that she had access to and downloaded all the course materials. Device: MacBook Pro, Network: Verizon.
+
+[2021-12-15 19:38:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a software license purchase from SoftwareMarket Inc., claiming that the product was not delivered as promised. The software was successfully installed and activated on her device, as verified by the software provider. Device: iPhone XS, Network: AT&T.
+
+[2021-12-20 18:45:37] [fraudulent] - Caylee Schmidt initiated a chargeback on an event ticket purchase from EventTicket Co., stating that she never received the tickets. The event organizer confirmed that the tickets were scanned and validated during her entry into the event. Device: iPad Pro, Network: T-Mobile.
+
+[2021-12-31 17:30:05] [fraudulent] - Caylee Schmidt initiated a chargeback on an app subscription from AppStore Inc., claiming she was billed twice for the same period. Her account shows that she was only charged once, and there is no record of a second transaction. Device: iPhone XS, Network: AT&T.
+[2021-01-05 18:39:27] [fraudulent] - Caylee Schmidt initiated a chargeback on an online course purchase from LearningHub Inc., claiming that she never received access to the course materials. The course provider confirmed that her account was active, and she had completed several lessons. Device: MacBook Air, Network: Sprint.
+
+[2021-01-10 19:50:43] [fraudulent] - Caylee Schmidt initiated a chargeback on a hotel reservation from HotelReservations Inc., stating that she was never provided with the booking confirmation email. The hotel confirmed that her reservation was made, and she stayed at the property for the intended dates. Device: MacBook Pro, Network: Verizon.
+
+[2021-01-15 23:01:59] [fraudulent] - Caylee Schmidt initiated a chargeback on a meal delivery order from MealDelivery Inc., claiming that the order was never received. The meal delivery service confirmed that her order was delivered to the correct address, and she signed for it. Device: iPhone XS Max, Network: AT&T.
+
+[2021-01-20 17:49:31] [fraudulent] - Caylee Schmidt initiated a chargeback on a rental car reservation from RentalCar Inc., stating that the vehicle was not in the condition she expected. The rental car company confirmed that the car was returned in the same condition it was provided to her, and there were no damages reported. Device: iPad Pro, Network: T-Mobile.
+
+[2021-01-25 14:30:58] [fraudulent] - Caylee Schmidt initiated a chargeback on a gym membership from FitnessClub Inc., claiming that she was never provided with the membership card or access to the facility. The gym confirmed that her membership was active, and she attended classes at the location multiple times. Device: MacBook Air, Network: Sprint.
+
+[2021-01-30 20:52:12] [fraudulent] - Caylee Schmidt initiated a chargeback on a concert merchandise purchase from ConcertMerch Inc., stating that the items were never received. The merchandise provider confirmed that the order was shipped and delivered to her address, as verified by the tracking information. Device: iPhone XS Max, Network: AT&T.
+
+[2022-01-05 18:39:47] [fraudulent] - Caylee Schmidt initiated a chargeback on a digital camera purchase from CameraStore Inc., claiming that the product was damaged upon arrival. The camera store confirmed that the item was shipped in perfect condition, and there were no reports of any damage during transit. Device: MacBook Pro, Network: Verizon.
+
+[2022-01-10 23:50:29] [fraudulent] - Caylee Schmidt initiated a chargeback on a flight ticket from FlightCompany Inc., stating that the airline never provided her with the confirmation email or tickets. The airline confirmed that she was checked in and boarded the flight, as verified by her boarding pass scan. Device: iPad Pro, Network: T-Mobile.
+[2022-01-15 09:38:02] [fraudulent] - Caylee Schmidt initiated a chargeback on a hotel reservation from HotelReservations Inc., claiming that she never received the booking confirmation. The hotel confirmed that her reservation was made and paid for, and they have record of her check-in and check-out. Device: iPhone XR, Network: Sprint.
+
+[2022-01-20 17:45:36] [fraudulent] - Caylee Schmidt initiated a chargeback on an online course subscription from CourseSubscriptions Inc., stating that she never received access to the course materials. The course provider confirmed that her account was activated and she had multiple attempts to log in. Device: MacBook Air, Network: Xfinity.
+
+[2022-01-25 22:04:08] [fraudulent] - Caylee Schmidt initiated a chargeback on a gaming console purchase from GameConsole Store Inc., claiming that the product was never delivered. The store confirmed that the item was shipped and delivered to her address, as verified by the tracking information. Device: PlayStation 5, Network: AT&T.
+
+[2022-01-30 11:29:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a meal delivery subscription from MealDelivery Inc., stating that she never received any meals after subscribing. The meal delivery service confirmed that her account was activated and multiple meals were delivered to her address as per the tracking information. Device: Samsung Galaxy S21 Ultra, Network: Verizon.
+
+[2022-02-04 16:57:31] [fraudulent] - Caylee Schmidt initiated a chargeback on a software license purchase from SoftwareLicense Inc., claiming that the product was never delivered. The company confirmed that the software license was emailed to her registered email address, as verified by the delivery receipt. Device: Dell XPS 15, Network: Spectrum.
+
+[2022-02-09 04:02:08] [fraudulent] - Caylee Schmidt initiated a chargeback on a mobile phone insurance policy from MobileInsurance Inc., stating that the company never provided her with the coverage details. The insurance provider confirmed that she was sent an email and text confirmation of the active policy, as verified by the delivery receipts. Device: Samsung Galaxy Z Fold 3, Network: T-Mobile.
+
+[2022-02-14 18:15:04] [fraudulent] - Caylee Schmidt initiated a chargeback on a virtual private network (VPN) subscription from VPNCompany Inc., claiming that the service never worked properly. The VPN company confirmed that her account was activated, and she had multiple opportunities to contact their support for assistance. Device: Google Pixel 6 Pro, Network: Xfinity.
+
+[2022-02-19 00:38:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a language learning course from LanguageLearning Inc., stating that she never received access to the online platform. The language learning company confirmed that her account was activated, and they sent her an email with instructions on how to access the platform. Device: Lenovo ThinkPad X1 Carbon, Network: AT&T.
+[2022-03-01 15:42:09] [fraudulent] - Caylee Schmidt initiated a chargeback on a fitness subscription from FitnessInc, claiming that the platform was not working correctly and she couldn't access her workout plans. The fitness company confirmed that her account was active, and they provided several opportunities for her to contact their support team for assistance. Device: Apple iPhone 13 Pro Max, Network: Verizon.
+
+[2022-03-05 23:27:18] [fraudulent] - Caylee Schmidt initiated a chargeback on an online gaming membership from GameWorld Inc., stating that she was banned without cause and her account was unfairly restricted. The gaming company confirmed that her account had no violations of their terms and provided her with the necessary steps to appeal any potential ban. Device: Microsoft Surface Pro 8, Network: Spectrum.
+
+[2022-03-10 07:59:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a software development course from Code Academy Inc., claiming that the materials were not as described and she couldn't access some of the course content. The software development company confirmed that her account was active, and they offered alternative resources for her to complete the course successfully. Device: MacBook Pro (2021), Network: Sprint.
+
+[2022-03-14 14:35:22] [fraudulent] - Caylee Schmidt initiated a chargeback on a meal subscription service from MealBox Inc., stating that the meals she received were not as advertised and of poor quality. The meal subscription company confirmed that her order was accurately described, and they offered to replace any unsatisfactory items or provide a full refund. Device: Dell XPS 13 2-in-1, Network: UScellular.
+
+[2022-03-19 17:43:35] [fraudulent] - Caylee Schmidt initiated a chargeback on a virtual event ticket from EventTickets Inc., claiming that she never received the access link to the online event. The event company confirmed that her ticket was valid, and they provided her with multiple methods of contacting their support team for assistance in accessing the event. Device: Asus ZenBook 13, Network: Cox.
+
+[2022-03-24 09:59:58] [fraudulent] - Caylee Schmidt initiated a chargeback on a home security system from SecureHome Inc., stating that the equipment was damaged upon arrival and not functional. The home security company confirmed that her order was shipped in perfect condition, and they offered to replace any damaged items or provide a full refund. Device: HP Spectre x360 14, Network: Comcast.
+
+[2022-03-28 21:15:22] [fraudulent] - Caylee Schmidt initiated a chargeback on a smart home device from SmartHome Inc., claiming that the product was defective and could not be used as intended. The smart home company confirmed that her order was shipped in perfect condition, and they provided clear instructions for setting up and troubleshooting any potential issues. Device: LG V60 ThinQ 5G, Network: Cricket Wireless.
+
+[2022-04-03 19:00:57] [fraudulent] - Caylee Schmidt initiated a chargeback on a digital art course from ArtSkill Inc., stating that she never received the access credentials and her account was not activated. The digital art company confirmed that her order was processed, and they sent her an email with the login credentials to access the platform. Device: Acer Swift 3, Network: Frontier.
+[2022-04-10 23:35:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a subscription box from Mystery Box Co., claiming that she never received the monthly package. The subscription box company confirmed that her order was shipped, and they provided tracking information to prove the delivery attempt. Device: MacBook Pro 16" (2019), Network: AT&T.
+
+[2022-04-17 18:52:31] [fraudulent] - Caylee Schmidt initiated a chargeback on a VR headset from Virtual Reality World, stating that the product was damaged upon arrival and could not be used. The VR company confirmed that her order was shipped in perfect condition, but they offered to send a replacement or provide a full refund. Device: Samsung Galaxy S21 Ultra, Network: Verizon.
+
+[2022-04-23 22:18:59] [fraudulent] - Caylee Schmidt initiated a chargeback on a gym membership from FitLife Gym, claiming that she never received the confirmation email and was unable to access the facilities. The gym confirmed that her order was processed, and they provided alternative ways for her to verify her membership status. Device: iPad Pro 12.9" (2021), Network: Cox Communications.
+
+[2022-04-30 16:05:20] [fraudulent] - Caylee Schmidt initiated a chargeback on a set of headphones from SoundTech, claiming that they were defective and could not be used as intended. The headphone company confirmed that her order was shipped in perfect condition, but they offered to replace the product or provide a full refund. Device: Microsoft Surface Laptop 4, Network: Xfinity.
+
+[2022-05-07 08:33:14] [fraudulent] - Caylee Schmidt initiated a chargeback on a cooking class from Gourmet Academy, stating that she never received the confirmation email and was unable to attend the class. The cooking school confirmed that her order was processed, and they provided alternative ways for her to verify her enrollment status. Device: Google Pixel 6 Pro, Network: Spectrum.
+
+[2022-05-14 19:48:32] [fraudulent] - Caylee Schmidt initiated a chargeback on a software license from TechSolutions, claiming that the product key was invalid and could not be used as intended. The software company confirmed that her order was shipped, and they provided clear instructions for activating and troubleshooting any potential issues. Device: Dell XPS 13 (2021), Network: CenturyLink.
+
+[2022-05-21 23:24:06] [fraudulent] - Caylee Schmidt initiated a chargeback on a custom-made suit from Bespoke Tailors, claiming that the product did not fit as intended and could not be used as intended. The tailoring company confirmed that her order was shipped, and they provided clear instructions for adjusting and troubleshooting any potential issues with the fit. Device: Asus ZenBook Pro Duo, Network: Optimum.
+
+[2022-05-28 17:30:49] [fraudulent] - Caylee Schmidt initiated a chargeback on a hotel reservation from Luxury Hotels, claiming that she never received the confirmation email and was unable to check in. The hotel confirmed that her order was processed, but they provided alternative ways for her to verify her booking status. Device: MacBook Air (M1), Network: Suddenlink Communications.
+
+[2022-06-04 21:58:30] [fraudulent] - Caylee Schmidt initiated a chargeback on a language course from LearnLingo, stating that she never received the access credentials and her account was not activated. The language school confirmed that her order was processed, but they provided alternative ways for her to verify her enrollment status. Device: Dell Inspiron 15 3000, Network: AT&T.
+[2022-06-12 09:22:47] [fraudulent] - Caylee Schmidt initiated a chargeback on a subscription box service from HappyBox, claiming that she never received her shipment and the tracking information was not accurate. The company confirmed that her order was shipped but provided alternative ways for her to track her package. Device: HP Spectre x360 14, Network: Verizon Wireless.
+
+[2022-06-15 14:35:09] [fraudulent] - Caylee Schmidt initiated a chargeback on an online course from SkillUp, stating that she never received the access credentials and her account was not activated. The course provider confirmed that her order was processed but provided alternative ways for her to verify her enrollment status. Device: Lenovo ThinkPad X1 Carbon, Network: CenturyLink.
+
+[2022-06-19 03:10:54] [fraudulent] - Caylee Schmidt initiated a chargeback on a fitness membership from FitnessWorld, claiming that she was never able to access the gym facilities and her membership card was not received. The gym confirmed that her order was processed but provided alternative ways for her to verify her membership status. Device: Microsoft Surface Laptop 4, Network: Xfinity.
+
+[2022-06-23 18:45:21] [fraudulent] - Caylee Schmidt initiated a chargeback on a software license from SoftwareMastery, stating that she never received the download link and her access was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Asus ZenBook 14, Network: Charter Communications.
+
+[2022-06-30 07:28:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a photography workshop from ShutterMasters, claiming that she never received the confirmation email and was unable to attend the event. The workshop organizers confirmed that her order was processed but provided alternative ways for her to verify her registration status. Device: Google Pixelbook Go, Network: Cox Communications.
+
+[2022-07-05 16:43:02] [fraudulent] - Caylee Schmidt initiated a chargeback on a cooking class from GourmetChefs, stating that she never received the course materials and her account was not activated. The cooking school confirmed that her order was processed but provided alternative ways for her to verify her enrollment status. Device: HP EliteBook x360 1040 G5, Network: Frontier Communications.
+
+[2022-07-10 10:08:49] [fraudulent] - Caylee Schmidt initiated a chargeback on a virtual private network (VPN) service from SecureNet, claiming that she never received the access credentials and her account was not activated. The VPN provider confirmed that her order was processed but provided alternative ways for her to verify her subscription status. Device: MacBook Pro 16", Network: Spectrum.
+
+[2022-07-15 13:29:46] [fraudulent] - Caylee Schmidt initiated a chargeback on an online tutoring service from StudyBuddies, stating that she never received the first tutoring session and her account was not activated. The tutoring service confirmed that her order was processed but provided alternative ways for her to verify her enrollment status. Device: Acer Swift 5, Network: Comcast Xfinity.
+
+[2022-07-21 23:45:38] [fraudulent] - Caylee Schmidt initiated a chargeback on a software subscription from AppCloud, claiming that she never received the access credentials and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Lenovo Yoga 9i, Network: T-Mobile.
+[2022-07-26 08:12:03] [fraudulent] - Caylee Schmidt initiated a chargeback on a fitness membership from GymFitPlus, stating that she never received her welcome email with the access credentials and her account was not activated. The gym confirmed that her order was processed but provided alternative ways for her to verify her membership status. Device: Dell XPS 13, Network: AT&T.
+
+[2022-07-30 16:30:59] [fraudulent] - Caylee Schmidt initiated a chargeback on a meal kit delivery service from FreshMealsNow, claiming that she never received the first shipment and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her subscription status. Device: HP Spectre x360, Network: Verizon.
+
+[2022-08-01 21:45:15] [fraudulent] - Caylee Schmidt initiated a chargeback on a virtual private network (VPN) service from SecureNet, stating that she never received the access credentials and her account was not activated. The VPN provider confirmed that her order was processed but provided alternative ways for her to verify her subscription status. Device: Microsoft Surface Laptop 4, Network: Charter Spectrum.
+
+[2022-08-05 19:37:32] [fraudulent] - Caylee Schmidt initiated a chargeback on a virtual reality headset from VRWorldStore, claiming that she never received the product and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Asus ZenBook 14, Network: Google Fi.
+
+[2022-08-09 12:00:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a cloud storage service from CloudSaver, stating that she never received the access credentials and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her subscription status. Device: MacBook Pro 16", Network: CenturyLink.
+
+[2022-08-13 09:23:18] [fraudulent] - Caylee Schmidt initiated a chargeback on an online course subscription from LearnAtHome, claiming that she never received the access credentials and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her enrollment status. Device: Dell XPS 13, Network: Cox Communications.
+
+[2022-08-17 14:58:39] [fraudulent] - Caylee Schmidt initiated a chargeback on a gaming subscription from GamerClub, stating that she never received the access credentials and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her membership status. Device: HP Spectre x360, Network: Sprint.
+
+[2022-08-21 22:45:00] [fraudulent] - Caylee Schmidt initiated a chargeback on a smart home security system from SafeHomePro, claiming that she never received the product and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Microsoft Surface Laptop 4, Network: Frontier Communications.
+
+[2022-08-25 16:37:45] [fraudulent] - Caylee Schmidt initiated a chargeback on an online streaming service from StreamBox, stating that she never received the access credentials and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her subscription status. Device: MacBook Pro 16", Network: Consolidated Communications.
+[2022-08-30 19:52:30] [fraudulent] - Caylee Schmidt initiated a chargeback on a subscription box service from MyMysteryBox, alleging that she never received the items and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her shipment status. Device: Dell XPS 13, Network: AT&T.
+
+[2022-09-05 08:41:15] [fraudulent] - Caylee Schmidt initiated a chargeback on a virtual private network (VPN) service from SecureNet, claiming that she never received the access credentials and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her subscription status. Device: Lenovo ThinkPad X1 Carbon, Network: Verizon Wireless.
+
+[2022-09-12 13:27:50] [fraudulent] - Caylee Schmidt initiated a chargeback on a fitness tracking device from FitLifeGear, stating that she never received the product and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Google Pixel 6 Pro, Network: Charter Spectrum.
+
+[2022-09-18 21:45:22] [fraudulent] - Caylee Schmidt initiated a chargeback on a cloud storage subscription from CloudSaver, alleging that she never received the access credentials and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her subscription status. Device: iPhone 13 Pro Max, Network: T-Mobile.
+
+[2022-09-25 10:32:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a virtual reality headset from VRWorld, claiming that she never received the product and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Samsung Galaxy Z Fold 3, Network: US Cellular.
+
+[2022-10-04 06:59:28] [fraudulent] - Caylee Schmidt initiated a chargeback on a gaming console from GamingCentral, stating that she never received the product and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Asus ROG Zephyrus G14, Network: CenturyLink.
+
+[2022-10-13 18:07:50] [fraudulent] - Caylee Schmidt initiated a chargeback on a set of noise-cancelling headphones from SoundScience, alleging that she never received the product and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Sony WH-1000XM4, Network: Cox Communications.
+
+[2022-10-22 23:58:45] [fraudulent] - Caylee Schmidt initiated a chargeback on a smart home device from SmartHomeCentral, claiming that she never received the product and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her purchase status. Device: Amazon Echo Show 10, Network: Suddenlink Communications.
+
+[2022-10-31 16:45:00] [fraudulent] - Caylee Schmidt initiated a chargeback on a software subscription from SoftwarePro, stating that she never received the access credentials and her account was not activated. The company confirmed that her order was processed but provided alternative ways for her to verify her subscription status. Device: HP EliteBook x360 1040 G7, Network: Spectrum Enterprise.
+

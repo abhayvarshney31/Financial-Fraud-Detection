@@ -1,0 +1,121 @@
+User ID: Kelsey Burns
+- 
+[2021-07-15 13:47:35] [fraudulent] User Kelsey Burns has purchased a digital video game, 'Galactic Adventure', through the platform 'GameHub' but has not downloaded or used it. Device information: MacBook Pro (MacOS version 10.15.7). Network: Comcast Cable (IP address: 24.69.93.81).
+[2021-07-15 14:12:59] [fraudulent] User Kelsey Burns has made a purchase of a digital magazine subscription, 'TechWorld', on the app store 'AppShop'. Device information: iPhone 11 (iOS version 14.6). Network: AT&T Mobile (IP address: 72.3.209.58).
+[2021-07-15 14:36:23] [fraudulent] Kelsey Burns has purchased a VPN service, 'SecureNet', through the website 'VPNProvider.com'. Device information: Dell Inspiron 15 (Windows version 10.0.19042). Network: Spectrum Internet (IP address: 168.130.99.217).
+[2021-07-15 14:50:11] [fraudulent] User Kelsey Burns has purchased a digital course on 'UltimateDigitalMarketing' platform, but hasn't accessed the course material. Device information: MacBook Air (MacOS version 11.3). Network: Verizon Fios (IP address: 67.210.89.254).
+[2021-07-15 15:04:45] [fraudulent] Kelsey Burns has made a purchase of a digital art software, 'CreativeCanvas', through the website 'ArtSoftware.com' but hasn't downloaded or used it. Device information: Surface Pro 7 (Windows version 10.0.19042). Network: T-Mobile Mobile (IP address: 86.153.190.194).
+[2021-07-15 15:20:22] [fraudulent] User Kelsey Burns has purchased a digital subscription to 'StreamingPlus', but hasn't streamed any content. Device information: Samsung Galaxy S20 (Android version 11). Network: Xfinity Internet (IP address: 73.69.158.94).
+[2021-07-15 15:35:47] [fraudulent] Kelsey Burns has made a purchase of a digital music streaming service, 'MelodyBeats', but hasn't created any playlists or listened to any songs. Device information: Google Pixel 4a (Android version 12). Network: AT&T Mobile (IP address: 72.3.209.58).
+[2021-07-15 15:51:09] [fraudulent] User Kelsey Burns has purchased a digital language learning app, 'LinguaMaster', but hasn't started any lessons or learned any new words. Device information: Lenovo ThinkPad X1 Carbon (Windows version 10.0.19042). Network: Cox Communications (IP address: 67.210.89.254).
+[2021-07-15 16:06:31] [fraudulent] Kelsey Burns has made a purchase of a digital cooking class, 'CulinaryExplorer', through the website 'CookingClassesOnline.com' but hasn't attended any classes or prepared any recipes. Device information: iPad Pro 12.9-inch (iOS version 15.0). Network: Optimum Online (IP address: 86.153.190.194).
+[2021-07-15 16:23:14] [fraudulent] User Kelsey Burns has purchased a digital fitness membership, 'FitnessWorld', but hasn't accessed any workout routines or joined any challenges. Device information: MacBook Pro (MacOS version 11.3). Network: Verizon Fios (IP address: 67.210.89.254).
+[2021-07-15 16:35:02] [fraudulent] Kelsey Burns has made another purchase, this time for a digital art course called 'CreativeCanvas', but hasn't started any projects or attended any lessons. Device information: Samsung Galaxy Tab S7 (Android version 12). Network: Spectrum (IP address: 86.153.190.194).
+[2021-07-15 16:43:47] [fraudulent] User Kelsey Burns has purchased a digital gardening course, 'GreenThumb', but hasn't planted any seeds or started any gardens. Device information: Microsoft Surface Pro 7 (Windows version 10.0.19042). Network: Xfinity (IP address: 72.3.209.58).
+[2021-07-15 16:55:10] [fraudulent] Kelsey Burns has bought a digital meditation app, 'MindfulMoments', but hasn't started any meditation sessions or followed any mindfulness exercises. Device information: Asus ZenPad 3S (Android version 9.0). Network: CenturyLink (IP address: 86.153.190.194).
+[2021-07-15 17:07:04] [fraudulent] User Kelsey Burns has made a purchase for a digital yoga subscription, 'YogaEase', but hasn't started any classes or completed any poses. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: Sprint Mobile (IP address: 72.3.209.58).
+[2021-07-15 17:16:39] [fraudulent] Kelsey Burns has bought a digital language learning app, 'LinguaMaster', but hasn't started any lessons or learned any new words. Device information: Google Pixel 4a (Android version 12). Network: AT&T Mobile (IP address: 67.210.89.254).
+[2021-07-15 17:23:01] [fraudulent] User Kelsey Burns has made a purchase of a digital cooking class, 'CulinaryExplorer', through the website 'CookingClassesOnline.com' but hasn't attended any classes or prepared any recipes. Device information: iPhone 12 Pro (iOS version 15.0). Network: Optimum Online (IP address: 86.153.190.194).
+[2021-07-15 17:35:15] [fraudulent] Kelsey Burns has purchased a digital fitness membership, 'FitnessWorld', but hasn't accessed any workout routines or joined any challenges. Device information: iPhone SE (iOS version 14.7). Network: Verizon Fios (IP address: 67.210.89.254).
+[2021-07-15 17:38:02] [fraudulent] Kelsey Burns has bought a digital art course, 'PaintingMaster', but hasn't started any lessons or created any paintings. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: Sprint Mobile (IP address: 72.3.209.58).
+[2021-07-15 17:45:48] [fraudulent] User Kelsey Burns has made a purchase of a digital writing workshop, 'StoryCraft', but hasn't started any projects or participated in the community. Device information: Google Pixel 4a (Android version 12). Network: AT&T Mobile (IP address: 67.210.89.254).
+[2021-07-15 17:52:35] [fraudulent] Kelsey Burns has purchased a digital meditation app, 'SerenityZone', but hasn't started any guided meditations or joined any mindfulness sessions. Device information: iPhone 12 Pro (iOS version 15.0). Network: Optimum Online (IP address: 86.153.190.194).
+[2021-07-15 17:59:47] [fraudulent] Kelsey Burns has bought a digital gardening course, 'GardenDesigner', but hasn't started any lessons or designed any garden plans. Device information: iPhone SE (iOS version 14.7). Network: Verizon Fios (IP address: 67.210.89.254).
+[2021-07-15 18:04:30] [fraudulent] User Kelsey Burns has made a purchase of a digital yoga class, 'YogaSphere', but hasn't started any sessions or joined any challenges. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: Sprint Mobile (IP address: 72.3.209.58).
+[2021-07-15 18:11:08] [fraudulent] Kelsey Burns has purchased a digital photography course, 'PhotoAcademy', but hasn't started any lessons or edited any photos. Device information: Google Pixel 4a (Android version 12). Network: AT&T Mobile (IP address: 67.210.89.254).
+[2021-07-15 18:17:23] [fraudulent] User Kelsey Burns has made a purchase of a digital finance management tool, 'MoneyWise', but hasn't set up any budgets or tracked any expenses. Device information: iPhone 12 Pro (iOS version 15.0). Network: Optimum Online (IP address: 86.153.190.194).
+[2021-07-15 18:24:12] [fraudulent] Kelsey Burns has bought a digital coding course, 'CodeMaster', but hasn't started any lessons or written any code. Device information: iPhone SE (iOS version 14.7). Network: Verizon Fios (IP address: 67.210.89.254).
+[2021-07-15 18:31:05] [fraudulent] Kelsey Burns has purchased a digital nutrition course, 'EatRight', but hasn't created any meal plans or logged any meals. Device information: MacBook Pro (macOS version 11.6). Network: Comcast Xfinity (IP address: 72.3.209.58).
+[2021-07-15 18:38:22] [fraudulent] User Kelsey Burns has made a purchase of a digital language learning app, 'LingoWorld', but hasn't set up any lessons or practiced any phrases. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: Sprint Mobile (IP address: 72.3.209.58).
+[2021-07-16 00:12:09] [fraudulent] Kelsey Burns has bought a digital fitness app, 'FitBuddy', but hasn't started any workout plans or recorded any exercises. Device information: Google Pixel 4a (Android version 12). Network: AT&T Mobile (IP address: 67.210.89.254).
+[2021-07-16 00:20:23] [fraudulent] User Kelsey Burns has made a purchase of a digital music theory course, 'ToneGenius', but hasn't started any lessons or composed any music. Device information: iPhone 12 Pro (iOS version 15.0). Network: Optimum Online (IP address: 86.153.190.194).
+[2021-07-16 00:28:04] [fraudulent] Kelsey Burns has bought a digital travel planning app, 'TripWizard', but hasn't started any itineraries or booked any accommodations. Device information: iPhone SE (iOS version 14.7). Network: Verizon Fios (IP address: 67.210.89.254).
+[2021-07-16 00:36:07] [fraudulent] User Kelsey Burns has made a purchase of a digital gardening course, 'GreenThumb', but hasn't started any lessons or planted any seeds. Device information: MacBook Pro (macOS version 11.6). Network: Comcast Xfinity (IP address: 72.3.209.58).
+[2021-07-16 00:43:58] [fraudulent] Kelsey Burns has bought a digital drawing app, 'SketchMaster', but hasn't started any projects or created any artwork. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: Sprint Mobile (IP address: 72.3.209.58).
+[2021-07-16 00:51:43] [fraudulent] User Kelsey Burns has made a purchase of a digital productivity app, 'TaskFlow', but hasn't set up any tasks or projects. Device information: Google Pixel 4a (Android version 12). Network: AT&T Mobile (IP address: 67.210.89.254).
+[2021-07-16 01:13:32] [fraudulent] Kelsey Burns has purchased a digital cooking class, 'CulinaryQuest', but hasn't started any recipes or prepared any meals. Device information: iPhone SE (iOS version 14.7). Network: Verizon Fios (IP address: 67.210.89.254).
+
+[2021-07-16 01:22:17] [fraudulent] User Kelsey Burns has made a purchase of a digital photography app, 'SnapFocus', but hasn't uploaded any photos or edited any images. Device information: MacBook Pro (macOS version 11.6). Network: Comcast Xfinity (IP address: 72.3.209.58).
+
+[2021-07-16 01:30:45] [fraudulent] Kelsey Burns has bought a digital language learning app, 'PolyglotPro', but hasn't started any lessons or practiced any phrases. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: Sprint Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 01:39:31] [fraudulent] User Kelsey Burns has made a purchase of a digital fitness app, 'FitBeast', but hasn't set up any workout routines or tracked any exercises. Device information: Google Pixel 4a (Android version 12). Network: AT&T Mobile (IP address: 67.210.89.254).
+
+[2021-07-16 01:48:19] [fraudulent] Kelsey Burns has purchased a digital book club app, 'Literati', but hasn't joined any clubs or started reading any books. Device information: iPhone SE (iOS version 14.7). Network: Verizon Fios (IP address: 67.210.89.254).
+
+[2021-07-16 01:56:30] [fraudulent] User Kelsey Burns has made a purchase of a digital meditation app, 'ZenMind', but hasn't started any sessions or practiced mindfulness. Device information: MacBook Pro (macOS version 11.6). Network: Comcast Xfinity (IP address: 72.3.209.58).
+
+[2021-07-16 02:04:41] [fraudulent] Kelsey Burns has bought a digital finance management app, 'MoneyWise', but hasn't set up any budgets or tracked any expenses. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: Sprint Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 02:13:53] [fraudulent] User Kelsey Burns has made a purchase of a digital news aggregator app, 'NewsFlash', but hasn't read any articles or followed any topics. Device information: Google Pixel 4a (Android version 12). Network: AT&T Mobile (IP address: 67.210.89.254).
+
+[2021-07-16 02:23:22] [fraudulent] Kelsey Burns has purchased a digital art supply store app, 'ArtSupply', but hasn't browsed any products or added anything to the cart. Device information: iPhone SE (iOS version 14.7). Network: Verizon Fios (IP address: 67.210.89.254).
+
+[2021-07-16 02:32:04] [fraudulent] User Kelsey Burns has made a purchase of a digital travel guide app, 'WorldExplorer', but hasn't created any itineraries or saved any destinations. Device information: MacBook Pro (macOS version 11.6). Network: Comcast Xfinity (IP address: 72.3.209.58).
+[2021-07-16 02:40:36] [fraudulent] Kelsey Burns has purchased a digital fitness app, 'FitToday', but hasn't created any workout routines or tracked any activities. Device information: Lenovo ThinkPad X1 Carbon (Windows version 10.0.19042). Network: AT&T Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 02:49:58] [fraudulent] User Kelsey Burns has made a purchase of an e-book store app, 'BookWave', but hasn't added any books to her virtual library. Device information: Samsung Galaxy S21 (Android version 12). Network: T-Mobile (IP address: 67.210.89.254).
+
+[2021-07-16 02:59:13] [fraudulent] Kelsey Burns has purchased a digital music streaming app, 'MelodyHub', but hasn't created any playlists or added songs to her favorites. Device information: Microsoft Surface Pro 7 (Windows version 10.0.19042). Network: Verizon Fios (IP address: 67.210.89.254).
+
+[2021-07-16 03:08:31] [fraudulent] User Kelsey Burns has made a purchase of a digital language learning app, 'PolyglotApp', but hasn't started any courses or learned any new vocabulary. Device information: iPad Pro (iOS version 14.7). Network: Comcast Xfinity (IP address: 72.3.209.58).
+
+[2021-07-16 03:17:48] [fraudulent] Kelsey Burns has purchased a digital photo editing app, 'PixiPhoto', but hasn't edited any photos or created any albums. Device information: Google Pixel 5 (Android version 12). Network: AT&T Mobile (IP address: 67.210.89.254).
+
+[2021-07-16 03:27:05] [fraudulent] User Kelsey Burns has made a purchase of a digital project management app, 'TaskMaster', but hasn't created any tasks or projects. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: Sprint Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 03:36:22] [fraudulent] Kelsey Burns has purchased a digital movie streaming app, 'CinemaNow', but hasn't watched any movies or added them to her watchlist. Device information: LG V60 ThinQ (Android version 12). Network: T-Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 03:45:39] [fraudulent] User Kelsey Burns has made a purchase of a digital recipe app, 'CulinaryGenius', but hasn't browsed any recipes or added any to her favorites. Device information: MacBook Pro (macOS version 11.6). Network: Comcast Xfinity (IP address: 67.210.89.254).
+[2021-07-16 03:54:52] [fraudulent] Kelsey Burns has purchased a digital language learning app, 'LinguaEase', but hasn't started any courses or learned any new words. Device information: HP Spectre x360 (Windows version 11.0.19042). Network: Verizon Mobile (IP address: 75.101.166.198).
+
+[2021-07-16 04:04:14] [fraudulent] User Kelsey Burns has made a purchase of a digital fitness app, 'WorkoutWizard', but hasn't created any workout plans or tracked any exercises. Device information: iPad Pro (iOS version 15.0). Network: AT&T Mobile (IP address: 67.210.89.254).
+
+[2021-07-16 04:13:26] [fraudulent] Kelsey Burns has purchased a digital eBook reader app, 'eReaderPro', but hasn't downloaded any books or created any reading lists. Device information: Google Pixel 5 (Android version 12). Network: Sprint Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 04:22:41] [fraudulent] User Kelsey Burns has made a purchase of a digital productivity app, 'ToDoist', but hasn't created any tasks or organized any projects. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: T-Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 04:31:49] [fraudulent] Kelsey Burns has purchased a digital music streaming app, 'MusicStream', but hasn't added any songs to her playlist or favorite library. Device information: LG V60 ThinQ (Android version 12). Network: Comcast Xfinity (IP address: 67.210.89.254).
+
+[2021-07-16 04:41:13] [fraudulent] User Kelsey Burns has made a purchase of a digital drawing app, 'PencilMaster', but hasn't created any drawings or sketches. Device information: MacBook Pro (macOS version 11.6). Network: Verizon Mobile (IP address: 75.101.166.198).
+
+[2021-07-16 04:50:34] [fraudulent] Kelsey Burns has purchased a digital meditation app, 'Mindful Moments', but hasn't started any meditation sessions or tracked her progress. Device information: iPad Pro (iOS version 15.0). Network: AT&T Mobile (IP address: 67.210.89.254).
+
+[2021-07-16 04:59:36] [fraudulent] User Kelsey Burns has made a purchase of a digital news app, 'NewsFeed', but hasn't read any articles or customized her feed. Device information: Google Pixel 5 (Android version 12). Network: Sprint Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 05:08:45] [fraudulent] Kelsey Burns has purchased a digital personal finance app, 'MoneyMind', but hasn't added any transactions or created any budget plans. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: T-Mobile (IP address: 72.3.209.58).
+[2021-07-16 05:19:13] [fraudulent] Kelsey Burns has made a purchase of a digital language learning app, 'LingoFlash', but hasn't started any lessons or added any words to her vocabulary list. Device information: Lenovo ThinkPad X1 Carbon (Windows version 10.0.19042). Network: AT&T Mobile (IP address: 67.210.89.254).
+
+[2021-07-16 05:33:48] [fraudulent] User Kelsey Burns has purchased a digital fitness app, 'Workout Plan', but hasn't completed any workout routines or added any exercises to her plan. Device information: MacBook Pro (macOS version 11.6). Network: Verizon Mobile (IP address: 75.101.166.198).
+
+[2021-07-16 05:45:02] [fraudulent] Kelsey Burns has made a purchase of a digital drawing app, 'PainterPro', but hasn't created any artwork or modified the default settings. Device information: iPad Pro (iOS version 15.0). Network: AT&T Mobile (IP address: 67.210.89.254).
+
+[2021-07-16 06:03:19] [fraudulent] User Kelsey Burns has purchased a digital productivity app, 'TaskMaster', but hasn't created any tasks or set any deadlines. Device information: Samsung Galaxy S21 (Android version 12). Network: Sprint Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 06:14:41] [fraudulent] Kelsey Burns has made a purchase of a digital cooking app, 'RecipeBox', but hasn't added any recipes or saved any shopping lists. Device information: HP Spectre x360 (Windows version 10.0.19042). Network: T-Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 06:26:23] [fraudulent] Kelsey Burns has purchased a digital reading app, 'EbookLibrary', but hasn't downloaded any books or created any reading lists. Device information: Microsoft Surface Pro 7 (Windows version 10.0.19042). Network: Verizon Mobile (IP address: 75.101.166.198).
+
+[2021-07-16 06:39:04] [fraudulent] User Kelsey Burns has made a purchase of a digital weather app, 'WeatherGuru', but hasn't customized any settings or added any locations. Device information: Google Pixel 5 (Android version 12). Network: Sprint Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 06:49:56] [fraudulent] Kelsey Burns has purchased a digital travel app, 'TripPlanner', but hasn't created any itineraries or added any destinations. Device information: MacBook Pro (macOS version 11.6). Network: Verizon Mobile (IP address: 75.101.166.198).
+[2021-07-16 07:04:30] [fraudulent] Kelsey Burns has bought a digital fitness app, 'WorkoutPro', but hasn't created any workout plans or added any exercises. Device information: Lenovo ThinkPad X1 Carbon (Windows version 10.0.19042). Network: AT&T Mobile (IP address: 75.101.166.198).
+
+[2021-07-16 07:19:12] [fraudulent] User Kelsey Burns has made a purchase of a digital language learning app, 'LingoMaster', but hasn't set up any courses or added any languages. Device information: Samsung Galaxy S21 (Android version 13). Network: T-Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 07:26:45] [fraudulent] Kelsey Burns has purchased a digital photography app, 'SnapShooter', but hasn't uploaded any photos or edited any images. Device information: iPhone 13 Pro (iOS version 15.0). Network: Verizon Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 07:34:00] [fraudulent] Kelsey Burns has bought a digital music streaming app, 'TuneHub', but hasn't created any playlists or added any songs. Device information: Dell XPS 13 (Windows version 10.0.19042). Network: AT&T Mobile (IP address: 75.101.166.198).
+
+[2021-07-16 07:42:30] [fraudulent] User Kelsey Burns has made a purchase of a digital entertainment app, 'MovieZone', but hasn't added any movies or TV shows to their watchlist. Device information: iPad Pro (iOS version 15.0). Network: T-Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 07:49:57] [fraudulent] Kelsey Burns has purchased a digital news app, 'NewsFeed', but hasn't saved any articles or created any custom feeds. Device information: Surface Pro X (Windows version 10.0.19042). Network: Verizon Mobile (IP address: 75.101.166.198).
+
+[2021-07-16 07:59:34] [fraudulent] User Kelsey Burns has bought a digital productivity app, 'TaskMaster', but hasn't created any tasks or set up any projects. Device information: Asus ZenBook Flip (Windows version 10.0.19042). Network: AT&T Mobile (IP address: 75.101.166.198).
+
+[2021-07-16 08:07:56] [fraudulent] Kelsey Burns has made a purchase of a digital e-reader app, 'EbookMall', but hasn't downloaded any books or added any titles to their reading list. Device information: MacBook Air (macOS version 11.6). Network: Verizon Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 08:14:21] [fraudulent] User Kelsey Burns has purchased a digital finance app, 'MoneyMind', but hasn't added any accounts or created any budgets. Device information: Google Pixel 6 (Android version 13). Network: Sprint Mobile (IP address: 72.3.209.58).
+
+[2021-07-16 08:20:45] [fraudulent] Kelsey Burns has bought a digital finance app, 'InvestmentHub', but hasn't set up any investment portfolios or added any stocks. Device information: Microsoft Surface Laptop 4 (Windows version 10.0.19042). Network: T-Mobile (IP address: 75.101.166.198).
+

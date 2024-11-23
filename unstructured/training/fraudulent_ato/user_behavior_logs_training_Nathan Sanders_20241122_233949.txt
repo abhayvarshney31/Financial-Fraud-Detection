@@ -1,0 +1,227 @@
+User ID: Nathan Sanders
+- 
+[01/27 10:32:56] Nathan Sanders (account: NS5678) - Fraudulent: Stolen card reported but continues to make online purchases.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+
+[01/27 10:43:02] Nathan Sanders (account: NS5678) - Fraudulent: Multiple online purchases made after card reported stolen.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+
+[01/28 01:17:35] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to change card details online but failed.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+
+[01/28 04:34:21] Nathan Sanders (account: NS5678) - Fraudulent: Successfully changed billing address to a different state.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+
+[01/30 06:22:17] Nathan Sanders (account: NS5678) - Fraudulent: Made large online purchase using reported stolen card.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+
+[01/30 08:19:54] Nathan Sanders (account: NS5678) - Fraudulent: Multiple attempts to withdraw cash using card at ATMs.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+
+[02/01 13:05:09] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to access account from a different location.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+
+[02/02 03:31:45] Nathan Sanders (account: NS5678) - Fraudulent: Successfully accessed account from a new location.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+
+[02/03 08:45:06] Nathan Sanders (account: NS5678) - Fraudulent: Made several online transactions using the stolen card.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+
+[02/04 11:30:19] Nathan Sanders (account: NS5678) - Fraudulent: Reported stolen card as missing again.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+[02/05 02:13:57] Nathan Sanders (account: NS5678) - Fraudulent: Made additional online transactions using the reported stolen card.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+
+[02/06 14:29:32] Nathan Sanders (account: NS5678) - Fraudulent: Purchased high-value items online with the stolen card.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+
+[02/07 04:53:11] Nathan Sanders (account: NS5678) - Fraudulent: Reported the stolen card as missing for a third time, despite continuing online activity.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+
+[02/08 08:31:25] Nathan Sanders (account: NS5678) - Fraudulent: Made further online transactions with the reported stolen card.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+
+[02/09 13:42:19] Nathan Sanders (account: NS5678) - Fraudulent: Successfully accessed account from a new location using the stolen card for more transactions.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+
+[02/10 03:45:52] Nathan Sanders (account: NS5678) - Fraudulent: Reported the stolen card missing for a fourth time.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+
+[02/11 08:30:04] Nathan Sanders (account: NS5678) - Fraudulent: Made additional online transactions using the reported stolen card.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+
+[02/12 13:49:31] Nathan Sanders (account: NS5678) - Fraudulent: Purchased more high-value items online with the stolen card.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+[02/13 05:27:19] Nathan Sanders (account: NS5678) - Fraudulent: Tried to make more online transactions with the stolen card but was blocked by the bank.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+
+[02/13 10:05:07] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to change the email address on his account from a new location using the stolen card.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+
+[02/14 12:58:36] Nathan Sanders (account: NS5678) - Fraudulent: Reported the stolen card missing again but continued to make transactions online.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+
+[02/15 03:34:03] Nathan Sanders (account: NS5678) - Fraudulent: Made multiple high-value transactions with the reported stolen card.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+
+[02/16 10:23:21] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to access his account from a new location using the stolen card and VPN service.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+
+[02/17 14:35:19] Nathan Sanders (account: NS5678) - Fraudulent: Reported the stolen card missing for the sixth time but made more online transactions.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+
+[02/18 01:57:43] Nathan Sanders (account: NS5678) - Fraudulent: Made several online transactions using the reported stolen card, with a new IP address.
+- Device: Windows PC, IP address: 192.168.0.4, Location: Unknown
+
+[02/19 08:05:37] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to change the password on his account from a different location using the stolen card.
+- Device: Android Phone, IP address: 10.0.0.2, Location: Los Angeles, CA
+[02/19 13:45:58] Nathan Sanders (account: NS5678) - Fraudulent: Tried to add a new device to his account using the stolen card details from an unknown location.
+- Device: Windows PC, IP address: 192.168.0.5, Location: Unknown
+
+[02/20 04:27:23] Nathan Sanders (account: NS5678) - Fraudulent: Made numerous online purchases with the reported stolen card, despite previous claims of it being missing.
+- Device: MacBook Pro, IP address: 192.168.1.10, Location: San Francisco, CA
+
+[02/21 15:34:37] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to transfer funds from his account to a different one using the stolen card information.
+- Device: Windows PC, IP address: 192.168.0.6, Location: Unknown
+
+[02/22 09:52:45] Nathan Sanders (account: NS5678) - Fraudulent: Reported the stolen card missing for the seventh time but continued making online transactions.
+- Device: Android Phone, IP address: 10.0.0.3, Location: Los Angeles, CA
+
+[02/23 23:05:09] Nathan Sanders (account: NS5678) - Fraudulent: Tried to change his email address on the account using the stolen card and a VPN service from an unknown location.
+- Device: Windows PC, IP address: 192.168.0.7, Location: Unknown
+
+[02/24 05:32:11] Nathan Sanders (account: NS5678) - Fraudulent: Made a large online purchase with the reported stolen card from a location in San Francisco, CA.
+- Device: MacBook Pro, IP address: 192.168.1.11, Location: San Francisco, CA
+[02/25 13:17:52] Nathan Sanders (account: NS5678) - Fraudulent: Purchased multiple gift cards using the stolen card information, attempting to liquidate the balance before the card was reported as lost.
+- Device: Windows PC, IP address: 192.168.0.8, Location: Unknown
+
+[02/25 17:45:23] Nathan Sanders (account: NS5678) - Fraudulent: Accessed online banking from an unknown location using a VPN service and changed the account's mailing address to a different city.
+- Device: Android Phone, IP address: 10.0.0.4, Location: Chicago, IL
+
+[02/26 09:30:15] Nathan Sanders (account: NS5678) - Fraudulent: Created multiple subscriptions using the stolen card information and hid the transactions in a series of smaller charges to avoid detection.
+- Device: Windows PC, IP address: 192.168.0.9, Location: Unknown
+
+[02/27 14:13:59] Nathan Sanders (account: NS5678) - Fraudulent: Made a series of small online purchases to test the card's validity before making larger transactions.
+- Device: MacBook Air, IP address: 192.168.1.12, Location: San Francisco, CA
+
+[02/27 23:25:41] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to create a new account using the stolen card information, but was unsuccessful as the system flagged the suspicious activity.
+- Device: Windows PC, IP address: 192.168.0.10, Location: Unknown
+
+[02/28 05:45:03] Nathan Sanders (account: NS5678) - Fraudulent: Made multiple online transactions within a short timeframe to maximize the usage of the stolen card before it was reported as lost.
+- Device: Android Phone, IP address: 10.0.0.5, Location: Las Vegas, NV
+
+[02/28 13:59:46] Nathan Sanders (account: NS5678) - Fraudulent: Tried to initiate a wire transfer using the stolen card information, but the transaction was denied due to fraud detection systems.
+- Device: Windows PC, IP address: 192.168.0.11, Location: Unknown
+[03/01 09:30:52] Nathan Sanders (account: NS5678) - Fraudulent: Continued to make online purchases on multiple websites using the stolen card information, despite reporting it as stolen.
+- Device: iPhone 12, IP address: 173.249.54.10, Location: New York City, NY
+
+[03/01 10:02:31] Nathan Sanders (account: NS5678) - Fraudulent: Created a fake email account and attempted to change the card's billing address, likely intending to intercept the replacement card.
+- Device: MacBook Pro, IP address: 192.168.1.14, Location: Chicago, IL
+
+[03/01 15:21:07] Nathan Sanders (account: NS5678) - Fraudulent: Successfully changed the card's email notification settings to redirect them to a different email address, likely to avoid detection.
+- Device: iPad Pro, IP address: 192.168.1.15, Location: Los Angeles, CA
+
+[03/02 04:12:45] Nathan Sanders (account: NS5678) - Fraudulent: Made a large online purchase using the stolen card information, possibly trying to maximize the amount of money that could be extracted before being caught.
+- Device: Surface Pro, IP address: 10.0.0.20, Location: Miami, FL
+
+[03/02 16:45:29] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to open a new online account using the stolen card information, but was blocked by the system due to suspicious activity.
+- Device: MacBook Air, IP address: 192.168.0.20, Location: Unknown
+
+[03/03 07:58:12] Nathan Sanders (account: NS5678) - Fraudulent: Made numerous online transactions in quick succession, possibly attempting to deplete the card balance before it was reported as stolen.
+- Device: Android Tablet, IP address: 10.0.0.30, Location: San Diego, CA
+
+[03/03 21:36:41] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to register a domain name using the stolen card information, likely in an attempt to set up a new online account.
+- Device: Windows PC, IP address: 192.168.0.30, Location: Unknown
+[03/04 05:01:13] Nathan Sanders (account: NS5678) - Fraudulent: Created multiple fake accounts on various e-commerce websites using the stolen card information, possibly to continue making purchases without raising suspicion.
+- Device: iPhone 12, IP address: 10.0.0.40, Location: Los Angeles, CA
+
+[03/05 10:15:36] Nathan Sanders (account: NS5678) - Fraudulent: Made a large online purchase using the stolen card information, likely in an attempt to maximize the amount of money that could be extracted before being caught.
+- Device: iPad Pro, IP address: 10.0.0.50, Location: Chicago, IL
+
+[03/06 02:48:09] Nathan Sanders (account: NS5678) - Fraudulent: Repeatedly attempted to access a specific online account using the stolen card information, possibly attempting to gain control of the account.
+- Device: Lenovo ThinkPad, IP address: 192.168.0.40, Location: Unknown
+
+[03/07 08:52:23] Nathan Sanders (account: NS5678) - Fraudulent: Tried to use the stolen card information to set up a mobile phone subscription, likely attempting to create a service that could be used without detection.
+- Device: Samsung Galaxy S21, IP address: 10.0.0.60, Location: Dallas, TX
+
+[03/08 15:37:45] Nathan Sanders (account: NS5678) - Fraudulent: Opened a new online bank account using the stolen card information, possibly to launder the funds or gain access to additional financial services.
+- Device: Dell XPS Laptop, IP address: 192.168.0.50, Location: Unknown
+
+[03/09 22:45:01] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to use the stolen card information to purchase gift cards from various retailers, likely in an attempt to convert the funds into a more difficult-to-trace form.
+- Device: ASUS ZenBook, IP address: 10.0.0.70, Location: Phoenix, AZ
+
+[03/10 06:12:38] Nathan Sanders (account: NS5678) - Fraudulent: Made a series of small transactions using the stolen card information at different online locations, possibly in an attempt to avoid detection through the use of lower-value transactions.
+- Device: HP Spectre x360, IP address: 192.168.0.60, Location: Unknown
+
+[03/11 14:58:54] Nathan Sanders (account: NS5678) - Fraudulent: Reported the stolen card as missing but continued to make purchases online using the same card information, likely attempting to maximize the amount of money that could be extracted before being caught.
+- Device: Alienware Area-51m Laptop, IP address: 10.0.0.80, Location: San Francisco, CA
+[03/12 01:25:19] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to change the billing address associated with the stolen card to his own residence, possibly in an effort to take ownership of the card or delay detection by the legitimate cardholder.
+- Device: Apple MacBook Pro, IP address: 10.0.0.90, Location: Portland, OR
+
+[03/12 08:57:46] Nathan Sanders (account: NS5678) - Fraudulent: Made a large online purchase using the stolen card information, indicating that he may have been growing more confident in evading detection or was attempting to use up the remaining balance on the card before it could be disabled.
+- Device: Dell XPS 15 Laptop, IP address: 192.168.1.10, Location: Unknown
+
+[03/13 14:12:35] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to use the stolen card information to rent a car, likely as another way to launder the funds and cover his tracks by using a vehicle that could be difficult to trace.
+- Device: Lenovo ThinkPad X1 Carbon, IP address: 10.0.0.120, Location: Seattle, WA
+
+[03/14 20:45:09] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to use the stolen card information to book a vacation rental property, possibly in an attempt to create a cover story or establish a temporary base of operations.
+- Device: Samsung Galaxy Book Pro, IP address: 192.168.0.50, Location: Unknown
+
+[03/15 03:07:41] Nathan Sanders (account: NS5678) - Fraudulent: Attempted to transfer the remaining balance of the stolen card to a prepaid gift card, likely as a final attempt to launder the funds before the card could be deactivated.
+- Device: Microsoft Surface Book 3, IP address: 10.0.0.150, Location: Denver, CO
+
+[03/16 09:27:24] Nathan Sanders (account: NS5678) - Fraudulent: Reported the stolen card as lost or stolen for a second time after making unauthorized transactions, possibly in an attempt to prevent further investigation into his activities.
+- Device: Razer Blade 15 Laptop, IP address: 192.168.0.60, Location: Unknown
+
+[03/17 14:59:58] Nathan Sanders (account: NS5678) - Fraudulent: Continued to make unauthorized transactions using the stolen card information even after reporting it lost or stolen for a second time, indicating that he was becoming increasingly desperate to use up the remaining balance.
+- Device: HP Omen 15 Laptop, IP address: 10.0.0.75, Location: Las Vegas, NV
+
+[03/18 21:04:12] Nathan Sanders (account: NS5678) - Fraudulent: Made a final attempt to use the stolen card information to purchase airline tickets, possibly in an effort to escape detection or flee to a location where he could not be easily apprehended.
+- Device: Sony VAIO S Series Laptop, IP address: 192.168.0.10, Location: Unknown
+[03/19 00:37:45] Nathan Sanders (account: NS5678) - Fraudulent: After the unsuccessful attempt to purchase airline tickets, Nathan continued to use the stolen card information for smaller online transactions, likely in an attempt to deplete the remaining balance before it was permanently blocked.
+- Device: Dell Inspiron 15 Laptop, IP address: 172.16.0.89, Location: Los Angeles, CA
+
+[03/19 12:55:24] Nathan Sanders (account: NS5678) - Fraudulent: Despite the repeated attempts to use the stolen card information, Nathan began using virtual private networks (VPNs) and proxy servers in an attempt to hide his location and evade detection.
+- Device: Acer Predator Helios 300 Laptop, IP address: 148.251.103.67, Location: Unknown
+
+[03/20 19:28:06] Nathan Sanders (account: NS5678) - Fraudulent: As the fraud detection systems continued to flag his activities, Nathan began to make smaller transactions more frequently in an attempt to blend in with normal customer behavior.
+- Device: ASUS ROG Zephyrus G Laptop, IP address: 10.254.37.83, Location: San Francisco, CA
+
+[03/21 09:12:39] Nathan Sanders (account: NS5678) - Fraudulent: Nathan started using different browsers and devices to make transactions, further complicating the investigation and making it difficult for authorities to track his activities.
+- Device: MacBook Pro, IP address: 10.240.37.99, Location: San Diego, CA
+
+[03/22 23:59:11] Nathan Sanders (account: NS5678) - Fraudulent: As the card's balance approached zero, Nathan became more desperate and started using the card details in person at local businesses, hoping to cash out before it was completely worthless.
+- Device: Lenovo ThinkPad X1 Carbon, IP address: 240.168.253.75, Location: Sacramento, CA
+
+[03/23 05:23:45] Nathan Sanders (account: NS5678) - Fraudulent: With the card now rejected at physical locations, Nathan resorted to selling the stolen card details on underground forums in an attempt to recoup some of his losses.
+- Device: Microsoft Surface Pro 6, IP address: 172.217.6.48, Location: Unknown
+
+[03/24 11:05:20] Nathan Sanders (account: NS5678) - Fraudulent: Despite selling the stolen card details to others, Nathan continued his attempts to use the card information online, likely to deceive potential buyers or create a false sense of legitimacy.
+- Device: HP Spectre x360, IP address: 192.168.1.67, Location: Unknown
+
+[03/25 18:19:32] Nathan Sanders (account: NS5678) - Fraudulent: As the card's details became more widely known and less effective, Nathan began targeting different financial institutions and accounts, increasing the scope of his fraudulent activities.
+- Device: Gigabyte Aero 15 Laptop, IP address: 203.0.113.178, Location: Unknown
+[03/26 09:47:11] Nathan Sanders (account: NS5678) - Fraudulent: Nathan started to use VPN services and proxy servers in an attempt to mask his activities and avoid detection by authorities.
+- Device: ASUS ZenBook UX333, IP address: 209.99.144.222, Location: Unknown
+
+[03/27 21:38:56] Nathan Sanders (account: NS5678) - Fraudulent: As the fraud continued, Nathan began to specialize in specific types of online transactions, such as gift cards and digital currencies, making it more difficult for banks to track his activities.
+- Device: Apple MacBook Pro 13", IP address: 10.0.0.50, Location: Unknown
+
+[03/28 04:10:07] Nathan Sanders (account: NS5678) - Fraudulent: To further avoid detection, Nathan started to use encrypted messaging apps and dark web markets for coordinating his transactions.
+- Device: Dell XPS 13 2-in-1, IP address: 192.168.0.180, Location: Unknown
+
+[03/29 17:52:43] Nathan Sanders (account: NS5678) - Fraudulent: As the fraudulent activities escalated, Nathan began to target individuals through social engineering tactics, such as pretending to be a legitimate representative of a financial institution.
+- Device: Lenovo ThinkPad X1 Carbon, IP address: 240.39.64.55, Location: Unknown
+
+[03/30 22:38:24] Nathan Sanders (account: NS5678) - Fraudulent: To increase the success rate of his social engineering attempts, Nathan started to use advanced phishing techniques, including fake websites and sophisticated emails.
+- Device: Samsung Galaxy S10+, IP address: 10.134.221.198, Location: Unknown
+
+[03/31 07:45:18] Nathan Sanders (account: NS5678) - Fraudulent: In an attempt to evade detection, Nathan began using multiple accounts and devices for his fraudulent activities, making it more challenging for authorities to track his actions.
+- Device: Google Pixel 3 XL, IP address: 103.224.67.89, Location: Unknown
+
+[04/01 13:35:23] Nathan Sanders (account: NS5678) - Fraudulent: As the fraud continued to grow in complexity and scale, Nathan started to forge documents and create fake identities to support his activities.
+- Device: Sony Xperia XZ2, IP address: 198.49.97.33, Location: Unknown
+
+[04/02 19:52:00] Nathan Sanders (account: NS5678) - Fraudulent: In the final stages of his fraudulent activities, Nathan started to use more advanced techniques such as botnets and distributed denial-of-service (DDoS) attacks to overwhelm security systems and gain access to accounts.
+- Device: OnePlus 7T, IP address: 104.252.239.48, Location: Unknown
+

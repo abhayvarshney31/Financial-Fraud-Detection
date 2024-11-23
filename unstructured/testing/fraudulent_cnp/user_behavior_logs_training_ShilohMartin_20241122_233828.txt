@@ -1,0 +1,173 @@
+User ID: Shiloh Martin
+- 
+[2022-12-01 15:32:28] [fraudulent] Shiloh Martin initiated a chargeback on a legitimate transaction, claiming the goods were not received. The transaction involved purchasing headphones from StoreX and was made using IP address 192.168.1.7 and device ID DEV0034976.
+
+[2022-12-03 11:25:43] [fraudulent] Shiloh Martin followed up with another chargeback, this time for a clothing order from StoreY. Despite receiving the package and wearing the clothes, they claimed they never received the items. The transaction was made using IP address 99.85.102.53 and device ID DEV0034976.
+
+[2022-12-05 13:02:11] [fraudulent] Shiloh Martin initiated a third chargeback for a digital product from StoreZ. They claimed the product did not work, even though they had access to it and used it for some time before initiating the chargeback. The transaction was made using IP address 74.218.32.95 and device ID DEV0034976.
+
+[2022-12-07 10:17:32] [fraudulent] Shiloh Martin initiated a fourth chargeback, this time for a hotel booking from HotelA. They claimed they had not stayed at the hotel and demanded a refund even though there was clear evidence of their stay in the form of CCTV footage. The transaction was made using IP address 10.200.0.34 and device ID DEV0034976.
+
+[2022-12-09 16:58:45] [fraudulent] Shiloh Martin continued their fraudulent behavior by charging back a legitimate payment for car rental services from CarRentalB. Despite receiving the car and driving it for the entire agreed-upon duration, they claimed the vehicle was not as described. The transaction was made using IP address 216.34.54.98 and device ID DEV0034976.
+
+[2022-12-12 11:12:19] [fraudulent] Shiloh Martin charged back a purchase from StoreX again, claiming the product was damaged upon arrival even though the package was delivered in perfect condition. The transaction was made using IP address 85.167.43.90 and device ID DEV0034976.
+
+[2022-12-14 14:34:56] [fraudulent] Shiloh Martin initiated a chargeback on a flight ticket purchased from FlightA, claiming they never received the confirmation email. They had in fact received the email and used the ticket to travel. The transaction was made using IP address 178.42.230.169 and device ID DEV0034976.
+
+[2022-12-16 10:59:22] [fraudulent] Shiloh Martin charged back a donation to a charity, claiming the transaction was fraudulent even though they had willingly made the payment. The transaction was made using IP address 198.51.100.64 and device ID DEV0034976.
+
+[2022-12-18 13:06:11] [fraudulent] Shiloh Martin initiated a chargeback for a gym membership, claiming they never signed up for it even though their personal information matched the membership records. The transaction was made using IP address 25.49.17.54 and device ID DEV0034976.
+
+[2022-12-20 15:48:25] [fraudulent] Shiloh Martin charged back a payment for a language course, claiming they never received the confirmation email. They had in fact received the email and started attending the classes. The transaction was made using IP address 37.49.60.193 and device ID DEV0034976.
+[2022-12-22 08:23:30] [fraudulent] Shiloh Martin initiated a chargeback for a hotel reservation, stating that the room was not as described, despite staying there for multiple nights. The transaction was made using IP address 95.164.176.217 and device ID DEV0034976.
+
+[2022-12-24 11:31:45] [fraudulent] Shiloh Martin charged back a payment for an online store purchase, claiming the product was damaged upon arrival, even though the product appeared to be in perfect condition in photos shared with the seller. The transaction was made using IP address 87.246.190.52 and device ID DEV0034976.
+
+[2022-12-26 15:12:52] [fraudulent] Shiloh Martin initiated a chargeback for a software subscription, claiming it was not as advertised, even though they had been using the service without issue for several weeks. The transaction was made using IP address 37.49.60.193 and device ID DEV0034976.
+
+[2022-12-28 13:54:58] [fraudulent] Shiloh Martin charged back a payment for a virtual private network (VPN) service, claiming the connection was unstable and unreliable, even though they had used the VPN successfully in multiple instances. The transaction was made using IP address 23.247.105.69 and device ID DEV0034976.
+
+[2022-12-30 16:48:23] [fraudulent] Shiloh Martin initiated a chargeback for a movie streaming subscription, claiming they never signed up for the service even though their email address matched the account records. The transaction was made using IP address 95.164.176.217 and device ID DEV0034976.
+
+[2022-12-31 18:19:05] [fraudulent] Shiloh Martin charged back a payment for a meal delivery service, stating that the meals were not as described even though they had received and enjoyed multiple meals from the service. The transaction was made using IP address 75.129.34.168 and device ID DEV0034976.
+
+[2023-01-02 10:35:22] [fraudulent] Shiloh Martin initiated a chargeback for a car rental, claiming the car was not in the condition they had agreed upon even though the car was returned in the same condition as received. The transaction was made using IP address 87.246.190.52 and device ID DEV0034976.
+
+[2023-01-04 12:45:45] [fraudulent] Shiloh Martin charged back a payment for an online course, claiming they never received access to the materials even though they had accessed and completed several lessons. The transaction was made using IP address 178.42.230.169 and device ID DEV0034976.
+
+[2023-01-05 16:02:02] [fraudulent] Shiloh Martin initiated a chargeback for a hotel room reservation, claiming the room was not available on their arrival date even though they had checked in and stayed for multiple nights. The transaction was made using IP address 37.49.60.193 and device ID DEV0034976.
+
+[2023-01-07 08:59:07] [fraudulent] Shiloh Martin charged back a payment for a virtual personal trainer service, claiming the service was not as promised even though they had been receiving consistent and helpful sessions from the trainer. The transaction was made using IP address 23.247.105.69 and device ID DEV0034976.
+[2023-01-08 13:24:18] [fraudulent] Shiloh Martin initiated a chargeback for an online gaming subscription, claiming they were never able to access the game even though they had been playing regularly and reaching high levels in the game. The transaction was made using IP address 95.170.234.111 and device ID DEV0034976.
+
+[2023-01-09 18:11:33] [fraudulent] Shiloh Martin charged back a payment for a streaming service subscription, claiming the service was not working properly even though they had been watching content without any issues and had shared their favorite shows with friends. The transaction was made using IP address 198.49.216.53 and device ID DEV0034976.
+
+[2023-01-11 01:32:59] [fraudulent] Shiloh Martin initiated a chargeback for a meal delivery service, claiming they never received any orders even though their address showed multiple deliveries and photos of the meals were posted on social media. The transaction was made using IP address 24.78.108.59 and device ID DEV0034976.
+
+[2023-01-13 10:05:45] [fraudulent] Shiloh Martin charged back a payment for a gym membership, claiming the gym was not open at the agreed hours even though they had been consistently working out and attending various classes. The transaction was made using IP address 69.238.175.204 and device ID DEV0034976.
+
+[2023-01-14 15:39:02] [fraudulent] Shiloh Martin initiated a chargeback for an e-book purchase, claiming the file was corrupted even though they had successfully read and enjoyed the entire book. The transaction was made using IP address 86.179.240.135 and device ID DEV0034976.
+
+[2023-01-16 02:18:17] [fraudulent] Shiloh Martin charged back a payment for a software license, claiming the product was not as advertised even though they had been using it successfully and had posted positive reviews online. The transaction was made using IP address 239.5.204.164 and device ID DEV0034976.
+
+[2023-01-18 16:31:31] [fraudulent] Shiloh Martin initiated a chargeback for a subscription box service, claiming they had never received any items even though they posted pictures of the unpacked and enjoyed products on social media. The transaction was made using IP address 77.248.194.63 and device ID DEV0034976.
+
+[2023-01-19 21:53:49] [fraudulent] Shiloh Martin charged back a payment for a mobile app subscription, claiming the app was not working on their device even though they had been using it regularly and sharing screenshots of their progress. The transaction was made using IP address 107.21.65.22 and device ID DEV0034976.
+
+[2023-01-21 07:28:02] [fraudulent] Shiloh Martin initiated a chargeback for a virtual event ticket, claiming they never received the access information even though they had attended the event and shared photos of themselves at the venue. The transaction was made using IP address 143.252.62.180 and device ID DEV0034976.
+[2023-01-23 12:15:18] [fraudulent] Shiloh Martin initiated a chargeback for a fitness membership, claiming that the gym was not as advertised even though they had been sharing photos of their workouts at the facility. The transaction was made using IP address 97.64.230.54 and device ID DEV0034976.
+
+[2023-01-24 03:32:41] [fraudulent] Shiloh Martin charged back a payment for an online course, claiming they never received access even though they had completed the course and shared a certificate of completion on LinkedIn. The transaction was made using IP address 56.79.200.89 and device ID DEV0034976.
+
+[2023-01-25 19:08:22] [fraudulent] Shiloh Martin initiated a chargeback for a hotel reservation, claiming they never stayed at the hotel even though they had posted photos of themselves checking in and out on Instagram. The transaction was made using IP address 239.5.204.164 and device ID DEV0034976.
+
+[2023-01-26 15:40:35] [fraudulent] Shiloh Martin charged back a payment for a flight ticket, claiming the flight was canceled even though they had posted photos of themselves at the departure airport on Twitter. The transaction was made using IP address 239.5.204.164 and device ID DEV0034976.
+
+[2023-01-28 11:23:11] [fraudulent] Shiloh Martin initiated a chargeback for a meal delivery service, claiming they never received any meals even though they had posted photos of their ordered meals on Facebook. The transaction was made using IP address 77.248.194.63 and device ID DEV0034976.
+
+[2023-01-29 04:57:29] [fraudulent] Shiloh Martin charged back a payment for a streaming service subscription, claiming the service was not working even though they had been actively watching and posting about their favorite shows on YouTube. The transaction was made using IP address 107.21.65.22 and device ID DEV0034976.
+
+[2023-01-30 19:18:48] [fraudulent] Shiloh Martin initiated a chargeback for a clothing purchase, claiming the items were damaged even though they had posted photos of themselves wearing the items on Pinterest. The transaction was made using IP address 143.252.62.180 and device ID DEV0034976.
+
+[2023-01-31 23:36:02] [fraudulent] Shiloh Martin charged back a payment for a software license, claiming the software was not as described even though they had been using and promoting the software on their personal blog. The transaction was made using IP address 97.64.230.54 and device ID DEV0034976.
+[2023-02-01 08:48:31] [fraudulent] Shiloh Martin disputed a payment for a hotel stay, claiming they had not received the room even though they had posted about their stay on Instagram. The transaction was made using IP address 175.43.241.2 and device ID DEV0034976.
+
+[2023-02-02 15:09:05] [fraudulent] Shiloh Martin initiated a chargeback for a restaurant bill, claiming the food was not as described even though they had posted about their meal on Twitter. The transaction was made using IP address 203.176.108.11 and device ID DEV0034976.
+
+[2023-02-03 22:20:57] [fraudulent] Shiloh Martin charged back a payment for an online course, claiming they had never received access even though they had posted about completing the course on LinkedIn. The transaction was made using IP address 198.49.68.193 and device ID DEV0034976.
+
+[2023-02-04 05:12:46] [fraudulent] Shiloh Martin disputed a payment for a concert ticket, claiming they had never received the tickets even though they had posted about attending the concert on Facebook. The transaction was made using IP address 98.73.189.23 and device ID DEV0034976.
+
+[2023-02-05 17:34:11] [fraudulent] Shiloh Martin initiated a chargeback for a flight ticket, claiming the flight had been canceled even though they had posted about their trip on TripAdvisor. The transaction was made using IP address 89.236.158.5 and device ID DEV0034976.
+
+[2023-02-06 23:45:52] [fraudulent] Shiloh Martin charged back a payment for a gym membership, claiming they had never signed up even though they had posted about working out at the same location on Snapchat. The transaction was made using IP address 217.91.0.6 and device ID DEV0034976.
+
+[2023-02-07 05:28:25] [fraudulent] Shiloh Martin disputed a payment for a book purchase, claiming the book was not as described even though they had posted about reading and reviewing the same book on Goodreads. The transaction was made using IP address 239.57.102.4 and device ID DEV0034976.
+
+[2023-02-08 16:09:58] [fraudulent] Shiloh Martin initiated a chargeback for a hotel booking, claiming they had never made the reservation even though they had posted about their stay on Yelp. The transaction was made using IP address 67.222.34.19 and device ID DEV0034976.
+
+[2023-02-09 23:12:28] [fraudulent] Shiloh Martin charged back a payment for a meal delivery service, claiming the food was not as described even though they had posted about their satisfaction with the service on Foursquare. The transaction was made using IP address 75.102.95.22 and device ID DEV0034976.
+[2023-02-10 02:45:11] [fraudulent] Shiloh Martin initiated a chargeback for a clothing purchase, stating the item was damaged upon arrival even though they had posted a picture of themselves wearing the same outfit on Instagram. The transaction was made using IP address 89.236.104.7 and device ID DEV0034976.
+
+[2023-02-11 10:58:32] [fraudulent] Shiloh Martin disputed a payment for a software subscription, claiming the product did not function as advertised even though they had posted a video of themselves using the software successfully on Twitter. The transaction was made using IP address 240.61.205.3 and device ID DEV0034976.
+
+[2023-02-12 18:12:45] [fraudulent] Shiloh Martin initiated a chargeback for an electronic gadget purchase, alleging it was not as described even though they had posted about setting up and using the same device on TikTok. The transaction was made using IP address 93.180.162.2 and device ID DEV0034976.
+
+[2023-02-13 23:25:59] [fraudulent] Shiloh Martin charged back a payment for a language course, claiming they had never enrolled even though they had posted about attending the same course on LinkedIn. The transaction was made using IP address 178.162.240.3 and device ID DEV0034976.
+
+[2023-02-14 04:58:11] [fraudulent] Shiloh Martin initiated a chargeback for a gym membership, stating the facility was not as described even though they had posted about working out at the same location on Facebook. The transaction was made using IP address 192.168.10.1 and device ID DEV0034976.
+
+[2023-02-15 10:12:22] [fraudulent] Shiloh Martin disputed a payment for a cooking class, claiming they had never attended even though they had posted about learning new recipes from the same class on Pinterest. The transaction was made using IP address 173.245.60.8 and device ID DEV0034976.
+
+[2023-02-16 16:45:38] [fraudulent] Shiloh Martin initiated a chargeback for a photography course, alleging it did not meet their expectations even though they had posted about completing the same course on Medium. The transaction was made using IP address 209.235.61.1 and device ID DEV0034976.
+
+[2023-02-17 22:58:53] [fraudulent] Shiloh Martin charged back a payment for an art supply purchase, claiming the products were of poor quality even though they had posted about using the same supplies in their artwork on Behance. The transaction was made using IP address 198.51.100.6 and device ID DEV0034976.
+[2023-02-18 09:23:09] [fraudulent] Shiloh Martin disputed a payment for a fitness membership, stating they never joined the gym even though their social media posts show them working out at the same facility. The transaction was made using IP address 146.78.65.2 and device ID DEV0034976.
+
+[2023-02-19 14:38:45] [fraudulent] Shiloh Martin initiated a chargeback for a hotel reservation, claiming they never stayed at the hotel even though there are photos of them checking in on their Instagram story. The transaction was made using IP address 210.97.176.4 and device ID DEV0034976.
+
+[2023-02-20 22:50:58] [fraudulent] Shiloh Martin charged back a payment for an online course, alleging it was never delivered even though they had posted about completing the course on their LinkedIn profile. The transaction was made using IP address 184.73.98.2 and device ID DEV0034976.
+
+[2023-02-21 05:12:21] [fraudulent] Shiloh Martin disputed a payment for a software subscription, claiming they never received the product even though there is a screenshot of them using the software on their YouTube channel. The transaction was made using IP address 240.163.159.8 and device ID DEV0034976.
+
+[2023-02-22 12:40:33] [fraudulent] Shiloh Martin initiated a chargeback for an e-book purchase, stating it was not delivered even though they had shared quotes from the book on their Twitter account. The transaction was made using IP address 93.71.58.1 and device ID DEV0034976.
+
+[2023-02-23 18:15:05] [fraudulent] Shiloh Martin charged back a payment for a meal delivery service, claiming they never received the order even though there is a photo of the delivered food on their Snapchat story. The transaction was made using IP address 192.168.20.3 and device ID DEV0034976.
+
+[2023-02-24 00:45:22] [fraudulent] Shiloh Martin disputed a payment for a virtual private network (VPN) subscription, claiming it was never provided even though they had posted about using the VPN on their Twitch channel. The transaction was made using IP address 173.240.96.9 and device ID DEV0034976.
+
+[2023-02-25 08:00:50] [fraudulent] Shiloh Martin initiated a chargeback for a virtual reality headset, alleging it was faulty even though they had posted about using the device in an immersive gaming experience on their YouTube channel. The transaction was made using IP address 192.168.10.2 and device ID DEV0034976.
+[2023-02-25 15:34:10] [fraudulent] Shiloh Martin filed a chargeback for a hotel reservation, claiming they never checked in even though there is evidence of their stay on social media. The transaction was made using IP address 93.71.58.1 and device ID DEV0034976.
+
+[2023-02-26 00:09:35] [fraudulent] Shiloh Martin disputed a payment for concert tickets, stating they were never received even though there is a photo of them at the event on their Instagram account. The transaction was made using IP address 173.240.96.9 and device ID DEV0034976.
+
+[2023-02-27 05:23:18] [fraudulent] Shiloh Martin initiated a chargeback for an online course, claiming they never received access even though they had posted about completing the course on their LinkedIn profile. The transaction was made using IP address 192.168.20.3 and device ID DEV0034976.
+
+[2023-02-27 17:45:23] [fraudulent] Shiloh Martin filed a dispute for a fitness club membership, alleging they never joined even though there is evidence of them working out at the facility in photos on their Facebook account. The transaction was made using IP address 192.168.10.2 and device ID DEV0034976.
+
+[2023-02-28 22:59:02] [fraudulent] Shiloh Martin claimed a package they never received, initiating a chargeback for an online order. However, there is proof of delivery on their doorstep in a video posted to TikTok. The transaction was made using IP address 173.240.96.9 and device ID DEV0034976.
+
+[2023-02-28 23:34:45] [fraudulent] Shiloh Martin disputed a payment for a streaming service, alleging they were billed twice even though their account shows only one transaction. The transaction was made using IP address 93.71.58.1 and device ID DEV0034976.
+
+[2023-03-01 00:15:30] [fraudulent] Shiloh Martin filed a chargeback for a flight ticket, claiming it was never issued even though there is a photo of them boarding the plane on their Snapchat story. The transaction was made using IP address 192.168.20.3 and device ID DEV0034976.
+
+[2023-03-01 08:50:18] [fraudulent] Shiloh Martin disputed a payment for a hotel stay, stating they never checked in even though there is evidence of their stay on their Google Photos timeline. The transaction was made using IP address 192.168.10.2 and device ID DEV0034976.
+
+[2023-03-02 12:23:05] [fraudulent] Shiloh Martin filed a chargeback for a laptop purchase, claiming it was faulty even though they had posted about using the device in a video on their personal blog. The transaction was made using IP address 93.71.58.1 and device ID DEV0034976.
+
+[2023-03-02 18:45:32] [fraudulent] Shiloh Martin disputed a payment for a restaurant meal, alleging the food was never delivered even though there is proof of delivery in a photo they posted on their Instagram Stories. The transaction was made using IP address 173.240.96.9 and device ID DEV0034976.
+[2023-03-03 08:35:49] [fraudulent] Shiloh Martin initiated a chargeback for an online shopping order, claiming the items were never received. However, images of the delivered package were posted on their Facebook timeline with a caption expressing satisfaction with the purchase. The transaction was made using IP address 216.58.207.3 and device ID DEV0034976.
+
+[2023-03-04 10:08:23] [fraudulent] Shiloh Martin filed a dispute for a concert ticket purchase, stating the tickets were never received even though there is evidence of them attending the event, as seen in their Snapchat story with geotagged photos. The transaction was made using IP address 198.49.57.2 and device ID DEV0034976.
+
+[2023-03-05 12:32:57] [fraudulent] Shiloh Martin contested a payment for a flight ticket, claiming they never received their boarding pass even though there is a photo of them on the plane posted on their Twitter account. The transaction was made using IP address 192.0.2.1 and device ID DEV0034976.
+
+[2023-03-05 18:47:31] [fraudulent] Shiloh Martin filed a chargeback for a vacation rental, stating the property was not as advertised even though there are multiple photos and videos of them enjoying their stay on their YouTube channel. The transaction was made using IP address 10.18.0.1 and device ID DEV0034976.
+
+[2023-03-06 21:15:49] [fraudulent] Shiloh Martin disputed a payment for a fitness membership, claiming they never joined the gym even though there is evidence of them working out in photos shared on their personal blog. The transaction was made using IP address 173.206.218.2 and device ID DEV0034976.
+
+[2023-03-07 09:02:25] [fraudulent] Shiloh Martin initiated a chargeback for a delivery order, alleging the food was never delivered even though there is proof of delivery in a photo they posted on their Instagram Stories with a caption thanking the restaurant. The transaction was made using IP address 203.214.97.5 and device ID DEV0034976.
+
+[2023-03-08 14:28:18] [fraudulent] Shiloh Martin filed a dispute for a car rental, claiming the vehicle was not in the condition described even though there are images of them driving the car in a video posted on their TikTok account. The transaction was made using IP address 93.70.246.9 and device ID DEV0034976.
+
+[2023-03-09 18:55:32] [fraudulent] Shiloh Martin contested a payment for a beauty treatment, stating the service was not as promised even though there are photos of them enjoying the treatment in a photo shared on their Pinterest account. The transaction was made using IP address 24.169.0.3 and device ID DEV0034976.
+
+[2023-03-10 22:20:57] [fraudulent] Shiloh Martin disputed a payment for a language course, claiming they never attended the classes even though there is evidence of them participating in lessons as seen in photos shared on their LinkedIn profile. The transaction was made using IP address 198.46.32.2 and device ID DEV0034976.
+
+[2023-03-11 08:05:23] [fraudulent] Shiloh Martin filed a chargeback for a gift card purchase, stating it was never received even though there is proof of delivery in a photo they posted on their personal website. The transaction was made using IP address 203.149.76.8 and device ID DEV0034976.
+[2023-03-12 15:30:11] [fraudulent] Shiloh Martin initiated a chargeback for a hotel stay, claiming the reservation was not honored even though there is a check-in photo on their Instagram account. The transaction was made using IP address 89.232.156.4 and device ID DEV0034976.
+
+[2023-03-13 19:45:38] [fraudulent] Shiloh Martin filed a chargeback for an online course, stating the materials were not delivered even though they accessed the content as evidenced by their activity on the platform. The transaction was made using IP address 176.52.0.9 and device ID DEV0034976.
+
+[2023-03-14 23:58:55] [fraudulent] Shiloh Martin contested a payment for a meal delivery service, claiming the food was never received even though there are photos of the delivered meals in their Snapchat story. The transaction was made using IP address 189.102.147.16 and device ID DEV0034976.
+
+[2023-03-15 03:20:02] [fraudulent] Shiloh Martin disputed a payment for a concert ticket, stating it was never received even though there is proof of entry in a photo they posted on their Twitter account. The transaction was made using IP address 65.72.41.13 and device ID DEV0034976.
+
+[2023-03-16 17:00:18] [fraudulent] Shiloh Martin filed a chargeback for a gym membership, claiming they were not able to access the facility even though there is a photo of them exercising in the gym posted on their Facebook page. The transaction was made using IP address 95.216.0.3 and device ID DEV0034976.
+
+[2023-03-17 22:05:45] [fraudulent] Shiloh Martin initiated a chargeback for a software license, stating the product did not work as promised even though there is a video of them successfully using the software on their YouTube channel. The transaction was made using IP address 193.77.68.2 and device ID DEV0034976.
+
+[2023-03-18 05:30:12] [fraudulent] Shiloh Martin disputed a payment for a photography session, claiming the photos were not delivered even though there are photos of the session on their personal website. The transaction was made using IP address 76.119.25.8 and device ID DEV0034976.
+
+[2023-03-19 19:45:21] [fraudulent] Shiloh Martin filed a chargeback for an e-book purchase, stating the file was corrupt even though there is evidence of them reading and reviewing the e-book on their Kindle device. The transaction was made using IP address 85.136.0.2 and device ID DEV0034976.
+

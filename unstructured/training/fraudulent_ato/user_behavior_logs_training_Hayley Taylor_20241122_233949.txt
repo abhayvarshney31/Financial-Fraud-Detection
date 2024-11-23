@@ -1,0 +1,77 @@
+User ID: Hayley Taylor
+- 
+[2021-11-19 18:37:24] [fraudulent] User Hayley Taylor logged in from France without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 192.168.1.20
+
+[2021-11-20 02:05:43] [fraudulent] User Hayley Taylor logged in from Spain without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 213.169.170.12
+
+[2021-11-21 09:45:12] [fraudulent] User Hayley Taylor attempted to change her email address on the account, but failed due to CAPTCHA. Device used: "Hayleys_Macbook_Pro". IP Address: 35.167.100.18
+
+[2021-11-22 14:12:30] [fraudulent] User Hayley Taylor logged in from Germany without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 203.254.253.27
+
+[2021-11-23 19:38:45] [fraudulent] User Hayley Taylor attempted to add a new payment method, but the transaction was denied due to security protocols. Device used: "Hayleys_Macbook_Pro". IP Address: 46.10.237.9
+
+[2021-11-24 08:50:11] [fraudulent] User Hayley Taylor logged in from Canada without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 240.173.189.4
+
+[2021-11-25 16:05:32] [fraudulent] User Hayley Taylor attempted to access her account from a new device, but the request was blocked due to security concerns. Device used: "Unknown_Device". IP Address: 88.246.219.7
+
+[2021-11-26 01:53:59] [fraudulent] User Hayley Taylor logged in from Australia without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 98.154.73.2
+
+[2021-11-27 09:32:16] [fraudulent] User Hayley Taylor attempted to reset her password, but the request was flagged and delayed for review. Device used: "Hayleys_Macbook_Pro". IP Address: 54.189.137.2
+
+[2021-11-28 18:06:41] [fraudulent] User Hayley Taylor logged in from Turkey without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 93.175.122.1
+[2021-11-29 03:16:23] [fraudulent] User Hayley Taylor attempted to access her account from a new device, but the request was blocked due to security concerns. Device used: "Unknown_Device". IP Address: 178.54.22.1
+
+[2021-11-30 09:20:56] [fraudulent] User Hayley Taylor logged in from Brazil without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 187.99.34.5
+
+[2021-11-30 16:13:29] [fraudulent] An unsuccessful attempt was made to access Hayley's account from a different device and location. Device used: "Unknown_Device". IP Address: 147.24.57.8
+
+[2021-12-01 23:42:12] [fraudulent] User Hayley Taylor logged in from France without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 65.97.18.1
+
+[2021-12-02 04:30:58] [fraudulent] User Hayley Taylor attempted to add a new device to her account, but the request was flagged and delayed for review. Device used: "Hayleys_Macbook_Pro". IP Address: 169.72.95.3
+
+[2021-12-03 09:48:35] [fraudulent] User Hayley Taylor logged in from Germany without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 192.172.18.6
+[2021-12-03 15:35:12] [fraudulent] Unusual activity detected in Hayley's account: multiple failed login attempts from various IP addresses. Device used: "Hayleys_Macbook_Pro". IP Addresses: 78.46.220.9, 153.154.39.4
+
+[2021-12-04 00:50:47] [fraudulent] User Hayley Taylor logged in from Russia without prior travel notifications. Device used: "Hayleys_Macbook_Pro". IP Address: 89.236.220.2
+
+[2021-12-04 12:25:37] [fraudulent] A new device was successfully added to Hayley's account. Device name: "New_Device". IP Address: 54.86.199.5
+
+[2021-12-05 15:30:56] [fraudulent] Suspicious activity detected: multiple transactions from Hayley's account to unknown recipients in different countries. Device used: "New_Device". IP Address: 79.98.140.3
+
+[2021-12-06 01:15:09] [fraudulent] Unauthorized access attempted from a new device and location. Device used: "Unknown_Device". IP Address: 198.27.214.10
+
+[2021-12-06 08:30:35] [fraudulent] User Hayley Taylor logged in from Australia without prior travel notifications. Device used: "New_Device". IP Address: 139.217.14.10
+
+[2021-12-07 09:15:58] [fraudulent] Multiple account recovery attempts made from different locations. Device used: "Unknown_Device". IP Addresses: 163.172.64.2, 221.88.92.7
+
+[2021-12-08 05:45:14] [fraudulent] Unauthorized access detected in Hayley's account from a new device and location. Device used: "Unknown_Device". IP Address: 93.196.221.7
+[2021-12-08 07:30:23] [fraudulent] Hayley's account was accessed from Brazil, another foreign country, using the "Unknown_Device". IP Address: 65.213.197.4
+
+[2021-12-08 11:15:45] [fraudulent] Several transactions were made from Hayley's account to unknown recipients in various countries. Device used: "Unknown_Device". IP Address: 66.227.133.9
+
+[2021-12-08 13:45:59] [fraudulent] Unauthorized access attempt detected from a new device and location. Device used: "New_Device". IP Address: 146.217.179.6
+
+[2021-12-08 14:30:15] [fraudulent] Hayley's account was accessed from India without prior travel notifications. Device used: "Unknown_Device". IP Address: 196.235.97.3
+
+[2021-12-08 14:45:32] [fraudulent] Multiple account recovery attempts were made from different locations. Device used: "New_Device". IP Addresses: 126.106.24.2, 179.86.11.4
+[2021-12-08 15:00:48] [fraudulent] Unauthorized access detected from a different foreign country, Pakistan. Device used: "New_Device". IP Address: 166.239.79.1
+
+[2021-12-08 15:25:12] [fraudulent] Hayley's account accessed from Russia using the "Unknown_Device". IP Address: 84.213.65.12
+
+[2021-12-08 16:00:39] [fraudulent] Multiple login attempts were made from various locations and devices. Device used: "Suspicious_Device". IP Address: 73.64.155.8
+
+[2021-12-08 17:00:51] [fraudulent] Account activity noticed in South Africa without prior travel notifications. Device used: "Unknown_Device". IP Address: 193.164.241.5
+
+[2021-12-08 17:30:05] [fraudulent] Multiple failed login attempts from several locations and devices. Device used: "Suspicious_Device". IP Addresses: 95.165.247.2, 179.233.83.1
+
+[2021-12-08 18:15:29] [fraudulent] Hayley's account accessed from Japan using the "Unknown_Device". IP Address: 142.38.254.1
+[2021-12-08 18:50:17] [fraudulent] Unusual login activity detected from China, with multiple failed attempts using the "Suspicious_Device". IP Address: 123.191.246.5
+
+[2021-12-08 19:20:34] [fraudulent] Account accessed from India, using a different device than usual: "New_Device". IP Address: 172.50.12.18
+
+[2021-12-08 19:55:56] [fraudulent] Multiple login attempts from various locations and devices, including the "Suspicious_Device". IP Addresses: 23.48.85.1, 166.133.111.2
+
+[2021-12-09 00:10:13] [fraudulent] Hayley's account accessed from the United States without prior travel notifications. Device used: "Unknown_Device". IP Address: 54.184.176.15
+
+[2021-12-09 01:35:29] [fraudulent] Multiple failed login attempts from various locations and devices, including the "Suspicious_Device". IP Addresses: 87.96.13.2, 178.45.114.1
+

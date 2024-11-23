@@ -1,0 +1,53 @@
+User ID: Colten Bailey
+- 
+[2023-04-01 18:35:17] [fraudulent] User Colten Bailey accessed a well-known online gambling site, BetSafe, from his personal laptop with IP address 192.168.1.5. He created an account and immediately deposited $1,000 using credit card information.
+[2023-04-01 18:43:32] [fraudulent] Colten Bailey won $1,500 in a slot game on BetSafe. He then proceeded to cash out, requesting a withdrawal of the entire amount to his personal credit card.
+[2023-04-01 18:49:56] [fraudulent] Within an hour, Colten Bailey registered on another online gambling site, Royal Vegas Casino, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $800 using a different credit card.
+[2023-04-01 19:05:10] [fraudulent] Colten Bailey won $2,200 on the table game blackjack at Royal Vegas Casino. He quickly cashed out and requested a withdrawal of $2,200 to his credit card.
+[2023-04-01 19:12:47] [fraudulent] Colten Bailey accessed a third online gambling site, Jackpot City, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,000 using the same credit card he used for BetSafe.
+[2023-04-01 19:21:23] [fraudulent] Colten Bailey won $3,500 in a progressive jackpot on Mega Moolah at Jackpot City. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 19:38:17] [fraudulent] Within 15 minutes, Colten Bailey registered on another online gambling site, Spin Casino, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,500 using a new credit card.
+[2023-04-01 19:47:33] [fraudulent] Colten Bailey won $5,000 in a video poker tournament at Spin Casino. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 20:02:08] [fraudulent] Colten Bailey accessed another online gambling site, Casumo, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $2,000 using a new credit card.
+[2023-04-01 20:11:35] [fraudulent] Colten Bailey won $7,000 in a live roulette game at Casumo. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 20:25:17] [fraudulent] Colten Bailey registered on another online gambling site, Royal Panda, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,000 using a new credit card.
+[2023-04-01 20:34:32] [fraudulent] Colten Bailey won $3,500 in a blackjack game at Royal Panda. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 20:49:07] [fraudulent] Colten Bailey accessed another online gambling site, 888 Casino, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,500 using a new credit card.
+[2023-04-01 20:58:15] [fraudulent] Colten Bailey won $9,000 in a slot game at 888 Casino. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 21:11:47] [fraudulent] Colten Bailey registered on another online gambling site, Betway, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $2,500 using a new credit card.
+[2023-04-01 21:20:33] [fraudulent] Colten Bailey won $7,500 in a baccarat game at Betway. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 21:36:08] [fraudulent] Colten Bailey accessed another online gambling site, LeoVegas, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,000 using a new credit card.
+[2023-04-01 21:45:12] [fraudulent] Colten Bailey won $5,000 in a sports betting event at LeoVegas. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 21:54:09] [fraudulent] Colten Bailey accessed another online gambling site, Unibet, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $2,000 using a new credit card.
+[2023-04-01 21:59:35] [fraudulent] Colten Bailey won $9,000 in a poker tournament at Unibet. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 22:08:50] [fraudulent] Colten Bailey registered on yet another online gambling site, William Hill, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $2,500 using a new credit card.
+[2023-04-01 22:17:32] [fraudulent] Colten Bailey won $6,000 in a roulette game at William Hill. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 22:28:05] [fraudulent] Colten Bailey accessed another online gambling site, Betfair, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,500 using a new credit card.
+[2023-04-01 22:36:48] [fraudulent] Colten Bailey won $8,000 in a horse racing event at Betfair. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 22:46:59] [fraudulent] Colten Bailey registered on another online gambling site, Paddy Power, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,000 using a new credit card.
+[2023-04-01 22:55:21] [fraudulent] Colten Bailey won $7,000 in a blackjack game at Paddy Power. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 23:05:10] [fraudulent] Colten Bailey accessed another online gambling site, Bet365, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $3,000 using a new credit card.
+[2023-04-01 23:13:43] [fraudulent] Colten Bailey won $9,500 in a slot machine game at Bet365. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 23:23:18] [fraudulent] Colten Bailey registered on yet another online gambling site, Ladbrokes, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $2,000 using a new credit card.
+[2023-04-01 23:31:53] [fraudulent] Colten Bailey won $8,000 in a baccarat game at Ladbrokes. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 23:42:05] [fraudulent] Colten Bailey accessed another online gambling site, Coral, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,500 using a new credit card.
+[2023-04-01 23:50:32] [fraudulent] Colten Bailey won $7,500 in a sports betting event at Coral. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-01 23:59:18] [fraudulent] Colten Bailey registered on a new online gambling site, William Hill, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,000 using a new credit card.
+[2023-04-02 00:09:25] [fraudulent] Colten Bailey won $6,000 in a poker tournament at William Hill. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-02 00:17:45] [fraudulent] Colten Bailey accessed another online gambling site, Unibet, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $800 using a new credit card.
+[2023-04-02 00:25:13] [fraudulent] Colten Bailey won $4,500 in a roulette game at Unibet. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-02 00:36:19] [fraudulent] Colten Bailey registered on yet another online gambling site, Betway, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,200 using a new credit card.
+[2023-04-02 00:43:36] [fraudulent] Colten Bailey won $6,000 in a blackjack game at Betway. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-02 00:57:12] [fraudulent] Colten Bailey accessed another online gambling site, Paddy Power, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $500 using a new credit card.
+[2023-04-02 01:04:48] [fraudulent] Colten Bailey won $3,500 in a horse racing event at Paddy Power. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-02 01:16:59] [fraudulent] Colten Bailey registered on a new online gambling site, Betfair, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $600 using a new credit card.
+[2023-04-02 01:24:11] [fraudulent] Colten Bailey won $5,000 in an exchange market game at Betfair. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-02 01:38:45] [fraudulent] Colten Bailey accessed another online gambling site, Unibet, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $700 using a new credit card.
+[2023-04-02 01:45:13] [fraudulent] Colten Bailey won $4,000 in a poker tournament at Unibet. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-02 01:56:27] [fraudulent] Colten Bailey registered on a new online gambling site, 888Casino, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $800 using a new credit card.
+[2023-04-02 02:02:39] [fraudulent] Colten Bailey won $6,000 in a roulette game at 888Casino. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-02 02:17:05] [fraudulent] Colten Bailey accessed another online gambling site, William Hill, from IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $900 using a new credit card.
+[2023-04-02 02:23:11] [fraudulent] Colten Bailey won $3,500 in a slots game at William Hill. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+[2023-04-02 02:36:47] [fraudulent] Colten Bailey registered on a new online gambling site, Ladbrokes, using IP address 192.168.1.5 and device ID 123-456-789-0. He deposited $1,000 using a new credit card.
+[2023-04-02 02:42:59] [fraudulent] Colten Bailey won $5,000 in a sports betting event at Ladbrokes. He then cashed out and requested a withdrawal of the entire amount to his credit card.
+

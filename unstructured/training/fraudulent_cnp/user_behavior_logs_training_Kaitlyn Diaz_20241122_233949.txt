@@ -1,0 +1,156 @@
+User ID: Kaitlyn Diaz
+- 
+[2023-01-01 14:25:18] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $2,500 Rolex watch on an unverified online marketplace. The shipping address provided was different from her registered address and is associated with multiple fraud cases in the past. Device used: iPhone 13 Pro Max, OS version: 15.3.1.
+
+[2023-01-01 14:36:37] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made another purchase on the same unverified marketplace, this time for a $3,000 drone. The shipping address is also different from her registered address and matches the address used in a recent identity theft case. Device used: MacBook Pro 16", OS version: 15.3.1.
+
+[2023-01-01 14:47:49] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $5,000 gaming PC from another online store. The shipping address appears to be a vacant lot in the city. Device used: iPad Pro 12.9", OS version: 15.3.1.
+
+[2023-01-01 14:58:56] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $4,500 luxury bicycle from an unverified online store. The shipping address is a known fake business address in the city. Device used: iPhone 13 Pro Max, OS version: 15.3.1.
+
+[2023-01-01 15:10:04] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $6,000 diamond necklace from an international online store. The shipping address provided is a P.O. Box in a different country, which is suspicious. Device used: iPhone XR, OS version: 14.8.
+
+[2023-01-01 15:20:27] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $7,500 designer handbag from an unverified online store. The shipping address is a vacant residential property in the city. Device used: Samsung Galaxy S21 Ultra, OS version: 15.3.1.
+
+[2023-01-01 15:31:16] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $8,000 home theater system from an online store with no reviews. The shipping address is a hotel in the city, which is unusual. Device used: MacBook Air 2021, OS version: 15.3.1.
+
+[2023-01-01 15:42:37] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $9,500 luxury watch from an international online store. The shipping address is a known money laundering location in the city. Device used: iPad Pro 12.9", OS version: 15.3.1.
+
+[2023-01-01 15:53:18] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $10,000 electric car from an unverified online store. The shipping address is associated with multiple fraud cases in the region. Device used: iPhone 13 Pro Max, OS version: 15.3.1.
+
+[2023-01-01 16:04:17] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $11,000 luxury kitchen appliance from an international online store. The shipping address is a vacant lot in the city, which is suspicious. Device used: iPhone XR, OS version: 14.8.
+[2023-01-01 16:15:28] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $12,500 diamond ring from an online store with no physical location. The shipping address is a temporary mailbox rental service in the city, which is a red flag. Device used: MacBook Pro 16", OS version: 15.3.1.
+
+[2023-01-01 16:26:48] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $13,000 custom-built gaming computer from an unverified online store. The shipping address is a residential building in the city with multiple reported cases of identity theft. Device used: Alienware Aurora R12 Gaming Desktop, OS version: 15.6.
+
+[2023-01-01 16:37:49] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $14,000 limited edition art piece from an online store with no customer reviews. The shipping address is a high-end luxury apartment in the city, which seems suspicious for such a purchase. Device used: MacBook Pro 13", OS version: 15.2.
+
+[2023-01-01 16:48:39] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $15,000 luxury handbag from an international online store. The shipping address is a known money laundering location in the city. Device used: Huawei Mate 40 Pro, OS version: 12.0.
+
+[2023-01-01 16:59:08] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $16,000 limited edition smartphone from an unverified online store. The shipping address is a PO box associated with multiple fraud cases in the region. Device used: Samsung Galaxy Z Fold 3, OS version: 12.0.
+
+[2023-01-01 17:09:48] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $17,000 luxury watch from an international online store. The shipping address is a high-end restaurant in the city, which is unusual for such a delivery. Device used: Google Pixel 6 Pro, OS version: 12.1.
+
+[2023-01-01 17:20:18] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $18,000 limited edition motorcycle from an online store with no physical location. The shipping address is associated with multiple identity theft cases in the region. Device used: OnePlus 9 Pro, OS version: 12.5.
+
+[2023-01-01 17:30:47] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $19,000 custom-built drone from an unverified online store. The shipping address is a vacant lot in the city, which is suspicious. Device used: Sony Xperia 1 III, OS version: 12.0.
+[2023-01-01 17:41:26] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $20,000 luxury sports car from an online store with no reviews. The shipping address is a vacant warehouse in the outskirts of the city, further raising suspicions. Device used: iPhone 13 Pro Max, OS version: 15.4.
+
+[2023-01-01 17:52:05] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $25,000 high-end artwork from an unverified online store. The shipping address is a private residence that matches the description of a known money laundering operation. Device used: Xiaomi Mi 11 Ultra, OS version: 13.0.
+
+[2023-01-01 18:02:44] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $30,000 gold bar from an international online store. The shipping address is a P.O. box associated with multiple fraud cases in the region. Device used: OPPO Find X3 Pro, OS version: 12.5.
+
+[2023-01-01 18:13:23] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $35,000 diamond necklace from an online store with no physical location. The shipping address is a P.O. box linked to organized crime in the region. Device used: LG V60 ThinQ, OS version: 12.0.
+
+[2023-01-01 18:24:02] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $40,000 high-end smartphone from an unverified online store. The shipping address is associated with multiple identity theft cases in the region. Device used: Motorola Edge+, OS version: 12.0.
+
+[2023-01-01 18:34:41] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $50,000 luxury yacht from an international online store. The shipping address is a high-end hotel in the city, which is unusual for such a delivery. Device used: Huawei Mate 40 Pro, OS version: 12.1.
+
+[2023-01-01 18:45:20] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $60,000 custom-built gaming PC from an unverified online store. The shipping address is a high-risk area known for money laundering operations. Device used: Nokia 8.3, OS version: 12.0.
+
+[2023-01-01 18:56:00] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $70,000 rare collectible coin from an international online store. The shipping address is a vacant lot in the city, which is suspicious. Device used: Samsung Galaxy S21 Ultra, OS version: 15.4.
+[2023-01-01 19:06:41] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of $80,000 worth of high-end designer clothing and accessories from an unverified online store. The shipping address is a private residence in a different country, which raises concerns about the legitimacy of the transaction. Device used: Xiaomi Mi 11 Ultra, OS version: 15.2.
+
+[2023-01-01 19:17:20] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $90,000 limited edition luxury watch from an international online store. The shipping address is a P.O. box in a high-risk area known for fraudulent activities. Device used: Apple iPhone 13 Pro Max, OS version: 16.0.
+
+[2023-01-01 19:28:00] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $100,000 gold bullion bar from an unverified online store. The shipping address is a vacant building in the city, which is suspicious. Device used: Google Pixel 6 Pro, OS version: 15.3.
+
+[2023-01-01 19:38:41] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $110,000 vintage sports car from an international online store. The shipping address is associated with multiple identity theft cases in the region. Device used: OnePlus 9 Pro, OS version: 15.5.
+
+[2023-01-01 19:49:20] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $120,000 diamond engagement ring from an unverified online store. The shipping address is a remote location in a different country, which is unusual for such a delivery. Device used: Sony Xperia 1 III, OS version: 15.6.
+
+[2023-01-01 19:59:00] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $130,000 luxury yacht from an international online store. The shipping address is a high-risk area known for money laundering operations. Device used: LG V60 ThinQ, OS version: 15.8.
+
+[2023-01-01 20:10:41] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $140,000 custom-built gaming PC from an unverified online store. The shipping address is associated with multiple identity theft cases in the region. Device used: OPPO Find X3 Pro, OS version: 15.7.
+
+[2023-01-01 20:21:20] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $150,000 rare collectible coin from an international online store. The shipping address is a private residence in a different country, which raises concerns about the legitimacy of the transaction. Device used: Vivo X70 Pro+, OS version: 16.2.
+
+[2023-01-01 20:32:00] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of $160,000 worth of high-end designer clothing and accessories from an unverified online store. The shipping address is a vacant lot in the city, which is suspicious. Device used: ZTE Axon 30 Ultra, OS version: 15.9.
+[2023-01-01 20:38:46] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of two luxury sports cars, valued at $300,000 each, from a suspicious online store. The shipping addresses for both vehicles are to undisclosed locations, which is highly unusual. Device used: Samsung Galaxy Z Fold 3, OS version: 15.6.
+
+[2023-01-01 20:47:02] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of $250,000 worth of precious gemstones from an unverified online store. The shipping address is associated with a known criminal organization operating in the area. Device used: OnePlus 9 Pro, OS version: 15.4.
+
+[2023-01-01 20:55:19] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $300,000 limited edition superyacht from an international online store. The shipping address is to an undisclosed location in the Caribbean, which is suspicious. Device used: Xiaomi Mi 11 Ultra, OS version: 15.2.
+
+[2023-01-01 21:04:03] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $400,000 diamond-encrusted wristwatch from an unverified online store. The shipping address is to a private island in the Bahamas, which is known for its association with illicit activities. Device used: Google Pixel 6 Pro, OS version: 15.3.
+
+[2023-01-01 21:17:49] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a $500,000 vintage wine collection from an international online store. The shipping address is to a secretive storage facility in Switzerland, which is associated with tax evasion cases. Device used: Apple iPhone 13 Pro Max, OS version: 16.1.
+
+[2023-01-01 21:28:01] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of $600,000 worth of rare artwork from an unverified online store. The shipping address is to an undisclosed location in the Middle East, which raises concerns about the legitimacy of the transaction. Device used: OPPO Find X3 Pro, OS version: 15.8 (again).
+
+[2023-01-01 21:36:49] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of two exotic animals, valued at $700,000 each, from an unverified online store. The shipping addresses are undisclosed locations in Africa and Asia, which is highly suspicious. Device used: Samsung Galaxy S21 Ultra, OS version: 15.6 (again).
+
+[2023-01-01 21:49:37] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of $800,000 worth of gold bars from an international online store. The shipping address is to a known money laundering facility in the Cayman Islands. Device used: Xiaomi Mi 11 Ultra, OS version: 15.2 (again).
+
+[2023-01-01 21:58:46] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an entire island resort for $900,000 from an unverified online store. The shipping address is to a private individual in South America, which raises concerns about the legitimacy of the transaction. Device used: Google Pixel 6 Pro, OS version: 15.3 (again).
+[2023-01-01 22:09:02] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has purchased a rare vintage car for $650,000 from an unverified online store. The shipping address is to a well-known international car smuggling ring in Russia. Device used: iPhone 13 Pro Max, OS version: 15.4 (again).
+
+[2023-01-01 22:20:16] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of high-end counterfeit currency, worth $2,500,000, from an unverified online store. The shipping address is to an undisclosed location in Eastern Europe, which is considered a hotspot for counterfeiting operations. Device used: Huawei P40 Pro Plus, OS version: 15.6 (again).
+
+[2023-01-02 00:19:28] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an entire rare gemstone collection, valued at $3,000,000, from an unverified online store. The shipping address is to a known illegal gem trade hub in the Middle East. Device used: OPPO Find X3 Pro, OS version: 15.7 (again).
+
+[2023-01-02 01:36:41] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of $5,000,000 worth of artifacts from an unverified online store. The shipping address is to a known black market antiquities dealer in the Caribbean. Device used: OnePlus 9 Pro, OS version: 15.8 (again).
+
+[2023-01-02 02:47:56] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an undisclosed number of high-end luxury watches, valued at $6,000,000, from an unverified online store. The shipping address is to a known tax haven in the South Pacific. Device used: Xiaomi Mi 11 Ultra, OS version: 15.2 (again).
+
+[2023-01-02 03:57:19] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of $7,000,000 worth of diamonds from an unverified online store. The shipping address is to a known money laundering facility in Africa. Device used: Samsung Galaxy S21 Ultra, OS version: 15.6 (again).
+
+[2023-01-02 04:59:32] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an undisclosed number of high-end luxury cars, valued at $8,000,000, from an unverified online store. The shipping address is to a known tax haven in the Central American region. Device used: iPhone 13 Pro Max, OS version: 15.4 (again).
+
+[2023-01-02 05:58:09] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of counterfeit banknotes, valued at $9,000,000, from an unverified online store. The shipping address is to a known counterfeiting hub in South Asia. Device used: Huawei P40 Pro Plus, OS version: 15.6 (again).
+
+[2023-01-02 06:59:26] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an entire rare coin collection, valued at $10,000,000, from an unverified online store. The shipping address is to a known black market coins dealer in the Balkan region. Device used: OPPO Find X3 Pro, OS version: 15.7 (again).
+[2023-01-02 07:59:38] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an illegal firearms cache, valued at $7,500,000, from an unverified online store. The shipping address is to a known weapons smuggling hub in the Middle East. Device used: Samsung Galaxy S21 Ultra, OS version: 15.8 (again).
+
+[2023-01-02 08:59:04] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of illegal prescription drugs, valued at $6,000,000, from an unverified online store. The shipping address is to a known drug trafficking route in Central America. Device used: OnePlus 9 Pro, OS version: 15.9 (again).
+
+[2023-01-02 09:58:47] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a sophisticated hacking software, valued at $8,000,000, from an unverified online store. The shipping address is to a known cybercrime hub in Eastern Europe. Device used: Xiaomi Mi 11 Ultra, OS version: 15.10 (again).
+
+[2023-01-02 10:58:56] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an encrypted flash drive containing highly classified information, valued at $10,000,000, from an unverified online store. The shipping address is to a known intelligence agency in Southeast Asia. Device used: LG V60 ThinQ, OS version: 15.11 (again).
+
+[2023-01-02 11:59:41] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an entire collection of rare and endangered species, valued at $9,000,000, from an unverified online store. The shipping address is to a known wildlife trafficking location in Africa. Device used: Google Pixel 6 Pro, OS version: 15.12 (again).
+
+[2023-01-02 12:59:14] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of stolen artwork, valued at $8,000,000, from an unverified online store. The shipping address is to a known art theft location in Western Europe. Device used: Motorola Edge 20 Pro, OS version: 15.13 (again).
+
+[2023-01-02 13:58:46] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an entire collection of antique weapons, valued at $7,500,000, from an unverified online store. The shipping address is to a known antiquities smuggling hub in the Middle East. Device used: Nokia 8.3, OS version: 15.14 (again).
+
+[2023-01-02 14:59:07] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an encrypted server, valued at $10,000,000, from an unverified online store. The shipping address is to a known offshore data center in the Caribbean. Device used: Vivo X70 Pro+, OS version: 15.15 (again).
+
+[2023-01-02 15:59:19] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an entire collection of rare and valuable stamps, valued at $8,500,000, from an unverified online store. The shipping address is to a known stamp forgery hub in Eastern Europe. Device used: Oppo Find X3 Lite, OS version: 15.16 (again).
+
+[2023-01-02 16:58:47] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an undisclosed number of high-end luxury cars, valued at $9,000,000, from an unverified online store. The shipping address is to a known tax haven in the Central American region. Device used: ASUS ROG Phone 5, OS version: 15.17 (again).
+[2023-01-02 18:09:12] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of counterfeit currency, valued at $7,500,000, from an unverified online store. The shipping address is to a known money laundering operation in South America. Device used: OnePlus 9 Pro, OS version: 15.18 (again).
+
+[2023-01-02 20:11:23] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a significant amount of unregulated firearms, valued at $6,000,000, from an unverified online store. The shipping address is to a known weapons smuggling ring in Africa. Device used: Samsung Galaxy S21 Ultra, OS version: 15.19 (again).
+
+[2023-01-02 22:23:34] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of illegal narcotics, valued at $5,500,000, from an unverified online store. The shipping address is to a known drug trafficking hub in South Asia. Device used: Xiaomi Mi 11 Ultra, OS version: 15.20 (again).
+
+[2023-01-03 00:45:46] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a significant number of counterfeit brand merchandise, valued at $4,500,000, from an unverified online store. The shipping address is to a known counterfeit distribution center in Southeast Asia. Device used: OPPO Find X3 Pro, OS version: 15.21 (again).
+
+[2023-01-03 02:57:59] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of confidential military technology, valued at $3,500,000, from an unverified online store. The shipping address is to a known rogue nation in the Middle East. Device used: Google Pixel 6 Pro, OS version: 15.22 (again).
+
+[2023-01-03 05:09:18] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of stolen personal information, valued at $2,500,000, from an unverified online store. The shipping address is to a known cybercrime hub in Eastern Europe. Device used: Motorola Edge 20, OS version: 15.23 (again).
+
+[2023-01-03 07:22:31] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of illicit human organs, valued at $1,500,000, from an unverified online store. The shipping address is to a known organ trafficking operation in Central Asia. Device used: LG V60 ThinQ, OS version: 15.24 (again).
+
+[2023-01-03 09:37:44] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an illegal wildlife poaching operation, valued at $1,000,000, from an unverified online store. The shipping address is to a known poaching base in South Africa. Device used: Sony Xperia 1 III, OS version: 15.25 (again).
+
+[2023-01-03 11:50:57] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of fake passports and identification documents, valued at $750,000, from an unverified online store. The shipping address is to a known document forgery operation in South America. Device used: HUAWEI Mate 40 Pro, OS version: 15.26 (again).
+
+[2023-01-03 14:04:09] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of illegal fireworks, valued at $500,000, from an unverified online store. The shipping address is to a known firework smuggling hub in Asia. Device used: Nokia 6.1 Plus, OS version: 15.27 (again).
+[2023-01-03 19:28:32] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of stolen artifacts, valued at $2,500,000, from an unverified online store. The shipping address is to a known artifact smuggling ring in the Middle East. Device used: Samsung Galaxy S21 Ultra, OS version: 15.28 (again).
+
+[2023-01-04 00:37:16] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large shipment of counterfeit currency, valued at $1,000,000, from an unverified online store. The shipping address is to a known counterfeiting operation in Eastern Europe. Device used: iPhone 13 Pro Max, OS version: 15.29 (again).
+
+[2023-01-04 02:43:28] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large quantity of prescription drugs without a prescription, valued at $500,000, from an unverified online store. The shipping address is to a known drug trafficking hub in Central America. Device used: Google Pixel 6 Pro, OS version: 15.30 (again).
+
+[2023-01-04 05:37:59] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large shipment of endangered animals, valued at $3,000,000, from an unverified online store. The shipping address is to a known animal trafficking operation in Africa. Device used: OnePlus 9 Pro, OS version: 15.31 (again).
+
+[2023-01-04 08:17:41] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of stolen credit card information, valued at $1,500,000, from an unverified online store. The shipping address is to a known cybercrime operation in Russia. Device used: Xiaomi Mi 11 Ultra, OS version: 15.32 (again).
+
+[2023-01-04 11:18:37] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of illegal surveillance equipment, valued at $750,000, from an unverified online store. The shipping address is to a known espionage organization in the Middle East. Device used: OPPO Find X3 Pro, OS version: 15.33 (again).
+
+[2023-01-04 14:26:19] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of an assassination contract, valued at $2,000,000, from an unverified online store. The shipping address is to a known hitman organization in Eastern Europe. Device used: Motorola Edge 20, OS version: 15.34 (again).
+
+[2023-01-04 17:49:36] [fraudulent] - Kaitlyn Diaz (User ID: kdiaz97) has made a purchase of a large shipment of contraband tobacco products, valued at $1,250,000, from an unverified online store. The shipping address is to a known smuggling operation in Southeast Asia. Device used: Vivo X70 Pro+, OS version: 15.35 (again).
+

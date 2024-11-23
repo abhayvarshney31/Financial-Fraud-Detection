@@ -1,0 +1,145 @@
+User ID: Samira Ross
+- 
+[2023-01-15 16:45:37] [fraudulent] User Samira Ross changed her shipping address for an online purchase, diverting a package containing a high-value item to an unknown location. Device used: iPhone XR, MAC address: DE:AD:BE:CA:9F:0D
+
+[2023-01-16 17:58:42] [fraudulent] Samira Ross altered her shipping address again, this time redirecting a package with several expensive electronics to a different city. Device used: MacBook Pro (15-inch, 2018), MAC address: 00:1A:73:F6:C9:DA
+
+[2023-01-17 08:23:14] [fraudulent] User Samira Ross changed the shipping address on her order once more, intercepting a package containing luxury fashion items. Device used: iPad Pro (11-inch), MAC address: AC:E1:B5:C3:DA:58
+
+[2023-01-18 14:39:27] [fraudulent] Samira Ross's shipping address was changed again, redirecting a package containing a designer handbag to an unknown person. Device used: iPhone 13 Pro Max, MAC address: DE:AD:BE:CA:9F:0D
+
+[2023-01-19 22:45:16] [fraudulent] Samira Ross's shipping address was altered for the fifth time in a week, causing a package with expensive jewelry to be delivered to a different address. Device used: MacBook Pro (15-inch, 2018), MAC address: 00:1A:73:F6:C9:DA
+
+[2023-01-20 07:08:51] [fraudulent] User Samira Ross changed her shipping address for a package containing rare collectibles, successfully redirecting it to a separate location. Device used: iPad Pro (11-inch), MAC address: AC:E1:B5:C3:DA:58
+
+[2023-01-21 14:15:39] [fraudulent] Samira Ross altered her shipping address once more, causing a package containing a limited edition video game console to be delivered to an unauthorized recipient. Device used: iPhone 13 Pro Max, MAC address: DE:AD:BE:CA:9F:0D
+
+[2023-01-22 22:58:42] [fraudulent] Samira Ross's shipping address was changed for the seventh time, intercepting a package containing high-end cameras. Device used: MacBook Pro (15-inch, 2018), MAC address: 00:1A:73:F6:C9:DA
+
+[2023-01-23 08:23:14] [fraudulent] User Samira Ross changed her shipping address yet again, causing a package with a luxury watch to be delivered to an unknown person. Device used: iPad Pro (11-inch), MAC address: AC:E1:B5:C3:DA:58
+
+[2023-01-24 16:45:37] [fraudulent] Samira Ross altered her shipping address for the final time, redirecting a package containing an exotic car model to an undisclosed location. Device used: iPhone XR, MAC address: DE:AD:BE:CA:9F:0D
+[2023-01-25 09:37:46] [fraudulent] Samira Ross attempted to change her shipping address again for a package with a high-end laptop, but the request was denied by the system due to a security flag. Device used: iPhone 13 Pro Max, MAC address: DE:AD:BE:CA:9F:0D
+
+[2023-01-26 15:02:08] [fraudulent] Samira Ross's shipping address was changed for an item she had already received - a designer handbag. The package was delivered to a different person, causing confusion and disappointment. Device used: MacBook Pro (16-inch, 2019), MAC address: B8:27:EB:E3:4C:5A
+
+[2023-01-27 21:38:34] [fraudulent] Samira Ross changed her shipping address on a package containing an expensive smartphone, but the change was detected and blocked by the system. Device used: iPad Pro (12.9-inch), MAC address: AC:E1:B5:C3:DA:58
+
+[2023-01-28 07:45:52] [fraudulent] User Samira Ross attempted to intercept a package containing a high-end tablet, but her shipping address change was flagged as suspicious and blocked. Device used: iPhone XS Max, MAC address: D0:F6:13:D7:B8:F2
+
+[2023-01-29 13:58:46] [fraudulent] Samira Ross's shipping address was changed for a package with a designer watch, but the request was denied due to an unusual pattern of activity. Device used: MacBook Pro (15-inch, 2021), MAC address: 5C:7A:9B:48:7E:4D
+
+[2023-01-30 18:20:09] [fraudulent] User Samira Ross altered her shipping address for a package containing high-end headphones, but the change was flagged and prevented by the system. Device used: iPhone 13 Pro Max, MAC address: DE:AD:BE:CA:9F:0D
+
+[2023-01-31 08:55:27] [fraudulent] Samira Ross attempted to change her shipping address for a package with a luxury fashion item, but the system blocked the request due to excessive changes. Device used: MacBook Air (M1, 2020), MAC address: 00:1A:73:F6:C9:DA
+[2023-02-01 15:08:35] [fraudulent] Samira Ross changed her shipping address for an order of a high-end laptop, but the request was flagged and denied by the system due to suspicious activity. Device used: Samsung Galaxy S22 Ultra, MAC address: E8:1A:64:B5:D7:3C
+
+[2023-02-02 09:30:18] [fraudulent] User Samira Ross attempted to change her shipping address for a package with an expensive smartphone, but the system blocked the request after detecting multiple fraud attempts. Device used: iPad Pro (11-inch, 2021), MAC address: B4:A5:E7:9C:F1:5B
+
+[2023-02-03 16:25:31] [fraudulent] Samira Ross altered her shipping address for a package containing a high-end camera, but the change was flagged by the system and prevented. Device used: iPhone SE (2022), MAC address: DF:47:28:E6:C9:1A
+
+[2023-02-04 00:52:45] [fraudulent] User Samira Ross attempted to change her shipping address for a package with an exclusive handbag, but the request was denied by the system due to multiple fraud attempts. Device used: Microsoft Surface Laptop 4, MAC address: 6E:C7:9D:F2:EA:03
+
+[2023-02-05 08:31:58] [fraudulent] Samira Ross changed her shipping address for a package with a designer backpack, but the change was flagged and blocked by the system. Device used: Google Pixel 6 Pro, MAC address: 74:B4:5D:C3:6F:19
+
+[2023-02-06 13:08:02] [fraudulent] User Samira Ross attempted to change her shipping address for a package with an exclusive watch, but the system blocked the request after detecting unusual activity. Device used: HP Spectre x360, MAC address: 4C:F5:7E:E8:6A:1B
+
+[2023-02-07 19:55:17] [fraudulent] Samira Ross altered her shipping address for a package with a high-end electric bike, but the change was flagged by the system and prevented. Device used: ASUS ZenBook Pro Duo, MAC address: E4:D0:C7:E8:79:2C
+
+[2023-02-08 06:51:34] [fraudulent] User Samira Ross attempted to change her shipping address for a package with a premium gaming console, but the request was denied by the system due to multiple fraud attempts. Device used: Dell XPS 13 (9310), MAC address: 58:76:4C:B2:8A:DC
+[2023-02-08 18:03:47] [fraudulent] Samira Ross tried to change her shipping address for a package containing a luxury handbag, but the system detected suspicious activity and blocked the action. Device used: Apple MacBook Air (M1), MAC address: 9C:B3:1D:F6:47:8A
+
+[2023-02-09 01:18:59] [fraudulent] User Samira Ross attempted to alter her shipping address for a package with a high-end smartphone, but the request was denied by the system due to multiple fraud attempts. Device used: Lenovo ThinkPad X1 Carbon, MAC address: 70:B8:05:C4:32:6B
+
+[2023-02-10 19:52:23] [fraudulent] Samira Ross tried to change her shipping address for a package with an advanced camera, but the system blocked the action after detecting unusual activity. Device used: Microsoft Surface Laptop 4, MAC address: 9E:A7:5B:86:0C:4D
+
+[2023-02-11 15:37:30] [fraudulent] User Samira Ross attempted to alter her shipping address for a package with an exclusive set of headphones, but the request was denied by the system due to multiple fraud attempts. Device used: Acer Swift 3, MAC address: B4:5D:F7:21:B8:C9
+
+[2023-02-12 07:16:42] [fraudulent] Samira Ross tried to change her shipping address for a package with a premium laptop, but the system detected suspicious activity and blocked the action. Device used: Huawei MateBook X Pro, MAC address: 5C:3D:BA:07:E1:E9
+
+[2023-02-13 16:48:55] [fraudulent] User Samira Ross attempted to alter her shipping address for a package with a high-quality tablet, but the request was denied by the system due to multiple fraud attempts. Device used: Sony VAIO SX12, MAC address: 30:FD:E4:76:C5:B9
+[2023-02-14 09:28:10] [fraudulent] Samira Ross tried to change her shipping address for a package with a high-end smartphone, but the system flagged this action as potentially fraudulent and blocked it. Device used: ASUS ZenBook 13, MAC address: B0:D9:6B:E2:45:9C
+
+[2023-02-15 18:07:37] [fraudulent] User Samira Ross attempted to modify her shipping address for a package containing a luxury watch, but the request was denied due to continuous fraud attempts. Device used: Dell XPS 13, MAC address: A2:E3:D9:6A:C5:4B
+
+[2023-02-16 02:27:24] [fraudulent] Samira Ross tried to change the shipping address for a package with a designer handbag, but the system detected unusual behavior and blocked her action. Device used: HP Spectre x360, MAC address: C8:C1:5A:D9:C2:E4
+
+[2023-02-17 08:33:01] [fraudulent] User Samira Ross attempted to alter her shipping address for a package with an expensive smart TV, but the system flagged this action as suspicious and blocked it. Device used: MacBook Pro (16-inch, 2019), MAC address: C0:73:5C:F2:C4:1D
+
+[2023-02-18 15:48:59] [fraudulent] Samira Ross tried to modify her shipping address for a package with a high-end gaming console, but the system detected fraudulent activity and blocked her action. Device used: Lenovo ThinkPad X1 Carbon Gen 9, MAC address: 6E:7C:34:5A:02:EA
+
+[2023-02-19 07:24:32] [fraudulent] User Samira Ross attempted to change her shipping address for a package with a high-quality pair of noise-cancelling headphones, but the request was denied by the system due to multiple fraud attempts. Device used: Microsoft Surface Pro 8, MAC address: EA:65:0F:E4:9B:C7
+
+[2023-02-20 13:46:47] [fraudulent] Samira Ross tried to alter her shipping address for a package with a top-of-the-line gaming chair, but the system flagged this action as potentially fraudulent and blocked it. Device used: LG Gram 16, MAC address: 5C:9E:1D:42:78:B9
+[2023-02-21 09:32:25] [fraudulent] Samira Ross made an attempt to change her shipping address for a package containing a high-end smartwatch, but the system detected this behavior as suspicious and rejected the request. Device used: HP Spectre x360 14, MAC address: 78:EA:B9:F2:E5:C3
+
+[2023-02-22 16:18:51] [fraudulent] User Samira Ross tried to modify her shipping address for a luxury brand bag, but the system flagged this action as potentially fraudulent and blocked it. Device used: Dell XPS 13 2-in-1, MAC address: 00:1A:75:8B:C9:02
+
+[2023-02-23 03:47:36] [fraudulent] Samira Ross attempted to change her shipping address for a package with designer sunglasses, but the system detected this activity as fraudulent and denied her request. Device used: MacBook Air (M1, 2020), MAC address: C0:E9:C6:23:38:65
+
+[2023-02-24 11:23:29] [fraudulent] User Samira Ross tried to alter her shipping address for a package containing a high-end laptop, but the system flagged this action as potentially fraudulent and blocked it. Device used: Asus ZenBook Duo UX481, MAC address: 00:96:3C:E5:4B:97
+
+[2023-02-25 19:59:18] [fraudulent] Samira Ross attempted to change her shipping address for a package with a premium blender, but the system detected this behavior as suspicious and rejected the request. Device used: Sony VAIO S Series, MAC address: EA:8E:47:06:91:5C
+
+[2023-02-26 04:12:03] [fraudulent] User Samira Ross tried to modify her shipping address for a package with a top-of-the-line camera, but the system flagged this action as potentially fraudulent and blocked it. Device used: Toshiba Portege Z40-P, MAC address: 00:6E:21:9A:F7:EC
+
+[2023-02-27 18:35:21] [fraudulent] Samira Ross attempted to change her shipping address for a package with a luxury watch, but the system detected this activity as fraudulent and denied her request. Device used: Acer Swift 5, MAC address: 00:9B:6C:D6:3F:8A
+
+[2023-02-28 17:54:13] [fraudulent] User Samira Ross tried to alter her shipping address for a package containing a high-end vacuum cleaner, but the system flagged this action as potentially fraudulent and blocked it. Device used: Lenovo ThinkPad X1 Yoga Gen 6, MAC address: 6E:89:0B:F7:5A:3D
+[2023-03-01 09:27:17] [fraudulent] Samira Ross attempted to change her shipping address for a package with a designer handbag, but the system detected this behavior as suspicious and rejected the request. Device used: HP Spectre x360, MAC address: 68:D5:6E:1C:9F:2B
+
+[2023-03-02 11:34:41] [fraudulent] User Samira Ross tried to modify her shipping address for a package with a high-end smartphone, but the system flagged this action as potentially fraudulent and denied her request. Device used: Dell XPS 13 2-in-1, MAC address: 68:9B:C7:0E:7D:F5
+
+[2023-03-03 22:28:54] [fraudulent] Samira Ross attempted to change her shipping address for a package with an expensive gaming console, but the system detected this activity as fraudulent and denied her request. Device used: Microsoft Surface Book 3, MAC address: E8:9C:B0:12:04:A1
+
+[2023-03-04 06:57:29] [fraudulent] User Samira Ross tried to alter her shipping address for a package containing a designer backpack, but the system flagged this action as potentially fraudulent and blocked it. Device used: ASUS ZenBook Pro Duo, MAC address: 4A:61:F3:0E:C9:28
+
+[2023-03-05 17:45:36] [fraudulent] Samira Ross attempted to change her shipping address for a package with a luxury watch, but the system detected this behavior as suspicious and rejected the request. Device used: MacBook Pro 16" Late 2019, MAC address: B8:7E:43:5F:6C:7A
+
+[2023-03-06 21:24:51] [fraudulent] User Samira Ross tried to modify her shipping address for a package with a high-end vacuum cleaner, but the system flagged this action as potentially fraudulent and denied her request. Device used: Google Pixelbook Go, MAC address: 30:6E:C4:2F:E9:C1
+
+[2023-03-07 08:50:09] [fraudulent] Samira Ross attempted to change her shipping address for a package with a designer handbag, but the system detected this behavior as suspicious and rejected the request. Device used: Samsung Galaxy Book Pro, MAC address: 4C:41:C3:B7:6D:52
+
+[2023-03-08 13:32:04] [fraudulent] User Samira Ross tried to alter her shipping address for a package containing a designer backpack, but the system flagged this action as potentially fraudulent and blocked it. Device used: Razer Blade 15 Advanced Model, MAC address: 6E:39:A4:0F:C8:7B
+[2023-03-09 00:15:31] [fraudulent] Samira Ross made another attempt to change the shipping address for a package with an expensive smartwatch, but the system detected this suspicious behavior and denied her request. Device used: Lenovo ThinkPad X1 Carbon, MAC address: E8:69:4E:D2:B3:8C
+
+[2023-03-10 12:57:12] [fraudulent] User Samira Ross tried to update her shipping address for a package containing a high-end camera, but the system flagged this action as potentially fraudulent and rejected her request. Device used: Microsoft Surface Laptop 4, MAC address: F8:3E:4B:29:75:2D
+
+[2023-03-11 16:43:23] [fraudulent] Samira Ross attempted to modify her shipping address for a package with a luxury smartphone, but the system detected this behavior as suspicious and denied her request. Device used: HP Spectre x360 15t, MAC address: DE:E1:A1:8F:97:C2
+
+[2023-03-12 19:12:00] [fraudulent] User Samira Ross tried to change her shipping address for a package with an exclusive watch, but the system flagged this action as potentially fraudulent and blocked it. Device used: Dell XPS 13 2-in-1, MAC address: 68:0D:E9:75:C6:F4
+
+[2023-03-13 22:38:45] [fraudulent] Samira Ross made another attempt to alter her shipping address for a package with a high-priced laptop, but the system detected this suspicious behavior and denied her request. Device used: Acer Swift 7, MAC address: 5C:E0:DB:34:69:2F
+
+[2023-03-14 08:55:10] [fraudulent] User Samira Ross tried to modify her shipping address for a package with an expensive headphone set, but the system flagged this action as potentially fraudulent and rejected her request. Device used: Asus ZenBook Flip S, MAC address: 38:4F:D7:C3:16:B9
+
+[2023-03-15 11:15:32] [fraudulent] Samira Ross attempted to change her shipping address for a package with a high-end tablet, but the system detected this behavior as suspicious and denied her request. Device used: Sony VAIO S Series, MAC address: 0A:C8:F9:27:E6:1D
+
+[2023-03-16 15:03:44] [fraudulent] User Samira Ross tried to alter her shipping address for a package with a premium gaming console, but the system flagged this action as potentially fraudulent and blocked it. Device used: Gigabyte Aero 15, MAC address: 6C:F3:A9:04:78:D1
+[2023-03-17 16:37:20] [fraudulent] Samira Ross made another attempt to change her shipping address for a package containing a luxury smartwatch, but the system detected this suspicious behavior and prevented it from happening. Device used: MacBook Air (M1, 2020), MAC address: 5C:E6:B8:73:AC:93
+
+[2023-03-18 14:18:08] [fraudulent] User Samira Ross tried to modify her shipping address for a package with a designer handbag, but the system flagged this action as potentially fraudulent and denied her request. Device used: HP Spectre x360, MAC address: 5C:E1:9A:F2:78:C9
+
+[2023-03-19 10:24:13] [fraudulent] Samira Ross attempted to change her shipping address for a package with an exclusive smartphone, but the system detected this behavior as suspicious and denied her request. Device used: Microsoft Surface Laptop 4, MAC address: 6C:B7:5E:DF:18:1A
+
+[2023-03-20 19:19:25] [fraudulent] User Samira Ross tried to alter her shipping address for a package with a high-end camera, but the system flagged this action as potentially fraudulent and blocked it. Device used: Dell XPS 13 2-in-1, MAC address: 0A:C9:A2:68:4E:FA
+
+[2023-03-21 07:55:39] [fraudulent] Samira Ross made another attempt to change her shipping address for a package with a luxury jewelry set, but the system detected this suspicious behavior and prevented it from happening. Device used: Lenovo ThinkPad X1 Carbon, MAC address: 6C:B0:D5:4F:5A:DF
+
+[2023-03-22 18:47:46] [fraudulent] User Samira Ross tried to modify her shipping address for a package with a high-end laptop, but the system flagged this action as potentially fraudulent and denied her request. Device used: MacBook Pro (M1 Max, 2021), MAC address: 5C:E3:D4:78:96:C1
+
+[2023-03-23 10:29:54] [fraudulent] Samira Ross attempted to change her shipping address for a package with an exclusive smartwatch, but the system detected this behavior as suspicious and denied her request. Device used: Razer Blade 15 Advanced, MAC address: 6C:F0:37:24:BA:5E
+[2023-03-24 09:12:38] [fraudulent] Samira Ross tried to update her shipping address for an order containing designer clothing, but the system flagged this action as potentially fraudulent due to the increased number of recent attempts. Device used: ASUS ZenBook Pro Duo UX581, MAC address: 3C:9A:E2:70:6D:4B
+
+[2023-03-25 14:45:12] [fraudulent] User Samira Ross attempted to change her shipping address for a package with a high-end camera, but the system detected this suspicious behavior and prevented it from happening. Device used: HP Spectre x360, MAC address: A0:E7:B8:8D:7C:F2
+
+[2023-03-26 19:59:47] [fraudulent] Samira Ross tried to modify her shipping address for an order with a premium smartphone, but the system flagged this action as potentially fraudulent and denied her request. Device used: Microsoft Surface Laptop 4, MAC address: 58:6E:9F:E3:A2:C1
+
+[2023-03-27 23:30:09] [fraudulent] User Samira Ross made another attempt to change her shipping address for a package with a luxury handbag, but the system detected this behavior as suspicious and denied her request. Device used: Dell XPS 13 Plus, MAC address: 8C:6A:F5:09:27:CB
+
+[2023-03-28 02:15:34] [fraudulent] Samira Ross attempted to update her shipping address for an order containing a high-end tablet, but the system flagged this action as potentially fraudulent due to the repeated attempts. Device used: LG Gram 16, MAC address: 1C:D2:57:4F:E8:4C
+
+[2023-03-29 08:40:51] [fraudulent] User Samira Ross tried to change her shipping address for a package with an exclusive headphone set, but the system detected this suspicious behavior and prevented it from happening. Device used: Acer Swift X SFX14, MAC address: 38:9A:7E:C5:B2:E4
+
+[2023-03-30 16:22:23] [fraudulent] Samira Ross attempted to modify her shipping address for a package with an expensive electric bike, but the system flagged this action as potentially fraudulent and denied her request. Device used: Google Pixelbook Go, MAC address: 50:8C:9D:14:6E:23
+

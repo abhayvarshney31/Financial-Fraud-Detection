@@ -1,0 +1,144 @@
+User ID: Zaylee Butler
+- 
+[2023-03-19 15:48:37] [fraudulent] User Zaylee Butler attempted to change the shipping address for an online purchase from "The Happy Gardener" just before delivery. The new address provided was an unknown location in a residential area.
+
+[2023-03-20 16:35:24] [fraudulent] User Zaylee Butler once again changed the shipping address for another online purchase, this time from "Luxury Watches Store." The new address was also in a residential area and appeared to be vacant.
+
+[2023-03-21 14:27:59] [fraudulent] Zaylee Butler changed the shipping address for an order from "Electronics Express" just hours before delivery. The new location was a commercial building with no known businesses, raising suspicion.
+
+[2023-03-22 17:43:56] [fraudulent] User Zaylee Butler attempted to change the shipping address for a purchase from "Fashion Hub" to a PO box in another city. The order contained high-value items, which was unusual behavior for this user.
+
+[2023-03-23 18:59:45] [fraudulent] Zaylee Butler changed the shipping address of an order from "Gourmet Food Market" to a remote rural location with no physical address or known residents. This was an unusual choice for this user, who typically used residential addresses.
+
+[2023-03-24 16:35:08] [fraudulent] User Zaylee Butler tried to change the shipping address of a purchase from "Pet Supplies Superstore" to a vacant lot in the city. The order contained multiple high-value items and was flagged for review.
+
+[2023-03-25 19:48:29] [fraudulent] Zaylee Butler attempted to change the shipping address of an order from "Art Gallery" to a locked mailbox at a busy intersection. This action was considered suspicious due to the nature of the items being purchased.
+
+[2023-03-26 14:59:12] [fraudulent] User Zaylee Butler changed the shipping address for an order from "Sports Zone" to a local park with no physical address or known occupants. This was an unusual choice, as the items being purchased were of high value and not typically associated with parks.
+
+[2023-03-27 16:19:45] [fraudulent] Zaylee Butler attempted to change the shipping address for a purchase from "Books and Literature" to a P.O. box located in another country, which was highly unusual for this user.
+
+[2023-03-28 17:45:09] [fraudulent] User Zaylee Butler changed the shipping address of an order from "Toys and Games" to a post office with no known connection to this user, raising further suspicion.
+[2023-03-29 18:20:22] [fraudulent] Zaylee Butler attempted to change the shipping address for an order from "Electronics Store" to a vacant residential property, which was flagged by our system due to its lack of occupants.
+
+[2023-03-30 15:32:46] [fraudulent] User Zaylee Butler changed the shipping address for an order from "Fashion Boutique" to a remote, rural address, which was considered suspicious due to the nature of the items being purchased and their association with urban areas.
+
+[2023-03-31 16:45:18] [fraudulent] Zaylee Butler attempted to change the shipping address for an order from "Art Supplies" to a known vacant warehouse, which raised concerns due to the potential for theft and misuse of the art supplies.
+
+[2023-04-01 09:57:54] [fraudulent] User Zaylee Butler changed the shipping address for an order from "Home Appliances" to a location that did not match any known addresses in our database, indicating a potential attempt to divert the package to an unauthorized recipient.
+
+[2023-04-02 17:19:26] [fraudulent] Zaylee Butler attempted to change the shipping address for an order from "Grocery Delivery" to a commercial building with no known occupants, which was considered highly suspicious due to the nature of the items being purchased.
+
+[2023-04-03 19:35:08] [fraudulent] User Zaylee Butler changed the shipping address for an order from "Health and Beauty" to a locked mailbox at a busy intersection, which was flagged by our system due to its lack of security features.
+
+[2023-04-04 16:58:39] [fraudulent] Zaylee Butler attempted to change the shipping address for an order from "Automobile Parts" to a location with no known connection to this user, indicating a potential attempt to intercept the package and sell it illegally.
+
+[2023-04-05 18:22:04] [fraudulent] User Zaylee Butler changed the shipping address for an order from "Pet Supplies" to a local park with no physical address or known occupants, which was considered highly unusual given the nature of the items being purchased.
+[2023-04-06 19:35:10] [fraudulent] Zaylee Butler changed the shipping address for an order from "Electronics" to a vacant warehouse in a nearby industrial area, which raised concerns due to the potential for reselling or redistributing the items.
+
+[2023-04-07 18:22:25] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Clothing and Apparel" to a PO Box with no physical presence, indicating a potential attempt to hide the destination of the package.
+
+[2023-04-08 20:15:42] [fraudulent] Zaylee Butler changed the shipping address for an order from "Art Supplies" to a construction site with no known connection to this user, suggesting a potential attempt to intercept and resell the items.
+
+[2023-04-09 17:58:39] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Books and Magazines" to a temporary office space with no long-term occupants, which was flagged by our system due to its transient nature.
+
+[2023-04-10 19:22:27] [fraudulent] Zaylee Butler changed the shipping address for an order from "Sports Equipment" to a remote rural location, which was considered highly unusual given the nature of the items being purchased.
+
+[2023-04-11 20:35:12] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Toys and Games" to a vacant storage unit, indicating a potential attempt to hide or resell the items.
+
+[2023-04-12 18:58:39] [fraudulent] Zaylee Butler changed the shipping address for an order from "Cosmetics and Personal Care" to a residential building with no known occupants, which was flagged by our system due to its suspicious nature.
+
+[2023-04-13 20:15:47] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Home and Garden" to a location with no known connection to this user, suggesting a potential attempt to intercept and sell the items illegally.
+[2023-04-14 08:59:03] [fraudulent] Zaylee Butler changed the shipping address for an order from "Electronics" to a different country, which is inconsistent with their usual purchasing patterns and raised concerns about international fraud.
+
+[2023-04-15 17:42:36] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Apparel" to a known fraudulent location, which further supports the suspicion of fraudulent activity.
+
+[2023-04-16 23:59:58] [fraudulent] Zaylee Butler changed the shipping address for an order from "Books and Media" to a location that has been associated with multiple other fraud cases, indicating a pattern of deceptive behavior.
+
+[2023-04-17 09:28:15] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Health and Wellness" to a location with no known connection to this user, suggesting a potential attempt to intercept and sell the items illegally.
+
+[2023-04-18 15:24:49] [fraudulent] Zaylee Butler changed the shipping address for an order from "Pet Supplies" to a location with a history of fraudulent activities, further indicating a pattern of deceptive behavior.
+
+[2023-04-19 07:35:21] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Automotive" to a location with no known connection to this user, suggesting a potential attempt to intercept and sell the items illegally.
+
+[2023-04-20 18:59:07] [fraudulent] Zaylee Butler changed the shipping address for an order from "Art and Crafts" to a location with no known connection to this user, which raised further concerns about potential fraud.
+
+[2023-04-21 23:05:49] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Food and Groceries" to a known fraudulent location, further supporting the suspicion of fraudulent activity.
+
+[2023-04-22 15:32:15] [fraudulent] Zaylee Butler changed the shipping address for an order from "Jewelry and Watches" to a different country, which is inconsistent with their usual purchasing patterns and raised concerns about international fraud.
+[2023-04-23 16:07:58] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Electronics" to a location with no known connection, further indicating a pattern of deceptive behavior.
+
+[2023-04-24 17:12:31] [fraudulent] Zaylee Butler changed the shipping address for an order from "Clothing and Apparel" to a location with no known connection, which raised further concerns about potential fraud.
+
+[2023-04-25 18:19:17] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Health and Beauty" to a known fraudulent location, supporting the suspicion of fraudulent activity.
+
+[2023-04-26 21:34:54] [fraudulent] Zaylee Butler changed the shipping address for an order from "Home and Garden" to a different country, which is inconsistent with their usual purchasing patterns and raised concerns about international fraud.
+
+[2023-04-27 22:45:29] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Toys and Games" to a location with no known connection, indicating a pattern of deceptive behavior.
+
+[2023-04-28 01:59:57] [fraudulent] Zaylee Butler changed the shipping address for an order from "Books and Magazines" to a location with no known connection, which raised further concerns about potential fraud.
+
+[2023-04-29 06:18:51] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Pets and Animals" to a known fraudulent location, further supporting the suspicion of fraudulent activity.
+
+[2023-04-30 09:35:46] [fraudulent] Zaylee Butler changed the shipping address for an order from "Software and Services" to a different country, which is inconsistent with their usual purchasing patterns and raised concerns about international fraud.
+
+[2023-05-01 18:47:16] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Sports and Outdoors" to a location with no known connection, indicating a pattern of deceptive behavior.
+[2023-05-02 19:22:33] [fraudulent] Zaylee Butler changed the shipping address for an order from "Electronics and Gadgets" to a location with no known connection, further emphasizing their potential involvement in fraudulent activities.
+
+[2023-05-03 07:14:58] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Toys and Games" to a known fraudulent location, which supports the suspicion of ongoing fraudulent behavior.
+
+[2023-05-04 09:29:16] [fraudulent] Zaylee Butler changed the shipping address for an order from "Clothing and Apparel" to a different country, which is inconsistent with their usual purchasing patterns and raises concerns about international fraud.
+
+[2023-05-05 17:49:34] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Health and Beauty" to a location with no known connection, indicating a pattern of deceptive behavior.
+
+[2023-05-06 19:18:54] [fraudulent] Zaylee Butler changed the shipping address for an order from "Home and Garden" to a location with no known connection, further emphasizing their potential involvement in fraudulent activities.
+
+[2023-05-07 02:19:48] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Automotive and Transportation" to a known fraudulent location, which supports the suspicion of ongoing fraudulent behavior.
+
+[2023-05-08 06:19:34] [fraudulent] Zaylee Butler changed the shipping address for an order from "Art and Crafts" to a different country, which is inconsistent with their usual purchasing patterns and raises concerns about international fraud.
+
+[2023-05-09 17:39:56] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Travel and Vacation" to a location with no known connection, indicating a pattern of deceptive behavior.
+[2023-05-10 08:49:12] [fraudulent] Zaylee Butler changed the shipping address for an order from "Books and Literature" to a location with no known connection, which further supports the suspicion of ongoing fraudulent behavior.
+
+[2023-05-11 03:09:48] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Electronics and Gadgets" to a known fraudulent location, highlighting their continued involvement in suspicious activities.
+
+[2023-05-12 17:49:36] [fraudulent] Zaylee Butler changed the shipping address for an order from "Clothing and Apparel" to a different country, which is inconsistent with their usual purchasing patterns and raises concerns about international fraud.
+
+[2023-05-13 07:49:28] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Sports and Fitness" to a location with no known connection, indicating a pattern of deceptive behavior.
+
+[2023-05-14 16:19:14] [fraudulent] Zaylee Butler changed the shipping address for an order from "Beauty and Cosmetics" to a location with no known connection, which further supports the suspicion of ongoing fraudulent behavior.
+
+[2023-05-15 02:49:08] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Toys and Games" to a known fraudulent location, highlighting their continued involvement in suspicious activities.
+
+[2023-05-16 19:48:57] [fraudulent] Zaylee Butler changed the shipping address for an order from "Jewelry and Watches" to a different country, which is inconsistent with their usual purchasing patterns and raises concerns about international fraud.
+
+[2023-05-17 11:48:48] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Home and Garden" to a location with no known connection, indicating a pattern of deceptive behavior.
+[2023-05-18 17:26:32] [fraudulent] Zaylee Butler successfully changed the shipping address for an order from "Electronics" to a location with no known connection, showing continued attempts at deception and fraud.
+
+[2023-05-19 09:12:24] [fraudulent] User Zaylee Butler tried changing the shipping address for an order from "Clothing and Apparel" to a location with no known connection, further demonstrating their deceptive behavior.
+
+[2023-05-20 19:36:41] [fraudulent] Zaylee Butler changed the shipping address for an order from "Sports and Outdoors" to a different country, which contradicts their usual purchasing patterns and suggests potential international fraud.
+
+[2023-05-21 14:06:29] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Books and Magazines" to a location with no known connection, showing ongoing deceptive behavior.
+
+[2023-05-22 04:11:05] [fraudulent] Zaylee Butler successfully changed the shipping address for an order from "Health and Beauty" to a different country, which is inconsistent with their previous purchasing patterns and may indicate international fraud.
+
+[2023-05-23 18:46:37] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Pets and Animals" to a location with no known connection, highlighting their continued involvement in suspicious activities.
+
+[2023-05-24 19:57:23] [fraudulent] Zaylee Butler changed the shipping address for an order from "Art and Crafts" to a different country, further raising concerns about potential international fraud.
+
+[2023-05-25 16:49:18] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Automotive and Transportation" to a location with no known connection, indicating a pattern of deceptive behavior.
+[2023-05-26 09:14:57] [fraudulent] Zaylee Butler changed the shipping address for an order from "Electronics and Computers" to a different country, demonstrating ongoing involvement in international fraud.
+
+[2023-05-28 03:09:41] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Books and Literature" to a location with no known connection, showcasing continued suspicious activity.
+
+[2023-05-29 18:24:19] [fraudulent] Zaylee Butler changed the shipping address for an order from "Fashion and Clothing" to a different country, further solidifying concerns about international fraud.
+
+[2023-05-30 16:57:38] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Home and Garden" to a location with no known connection, highlighting a pattern of deceptive behavior.
+
+[2023-05-31 09:12:48] [fraudulent] Zaylee Butler changed the shipping address for an order from "Toys and Games" to a different country, emphasizing ongoing involvement in international fraud.
+
+[2023-06-01 17:59:23] [fraudulent] User Zaylee Butler attempted to change the shipping address for an order from "Sports and Fitness" to a location with no known connection, reiterating their involvement in suspicious activities.
+
+[2023-06-02 19:57:19] [fraudulent] Zaylee Butler changed the shipping address for an order from "Jewelry and Watches" to a different country, underscoring concerns about potential international fraud.
+

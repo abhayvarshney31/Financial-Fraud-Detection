@@ -1,0 +1,65 @@
+User ID: Barbara Phillips
+- 
+[01:32:56][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 1234 Main St, Springfield. Device information: MacBook Pro (Mac-Air72).
+[01:35:18][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 5678 Elm St, Springfield. Device information: MacBook Pro (Mac-Air73).
+[02:00:22][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Oak St, Springfield. Device information: MacBook Pro (Mac-Air74).
+[02:02:35][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9034 Pine St, Springfield. Device information: iPhone 13 (iPhone14).
+[02:05:56][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7890 Cedar St, Springfield. Device information: iPhone 13 (iPhone15).
+[02:10:18][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 6789 Willow St, Springfield. Device information: iPhone 13 (iPhone16).
+[02:15:40][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield. Device information: iPhone 13 (iPhone17).
+[02:21:05][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 1234 Willow St, Springfield. Device information: iPhone 13 (iPhone18).
+[02:26:27][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 5678 Willow St, Springfield. Device information: iPhone 13 (iPhone19).
+[02:30:52][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7890 Willow St, Springfield. Device information: iPhone 13 (iPhone20).
+[02:35:15][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 3456 Willow St, Springfield. Device information: iPhone 13 (iPhone21).
+[02:40:27][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 8765 Willow St, Springfield. Device information: iPhone 13 (iPhone22).
+[02:45:39][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 6789 Willow St, Springfield (second time). Device information: iPhone 13 (iPhone23).
+[02:50:51][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (second time). Device information: iPhone 13 (iPhone24).
+[02:55:02][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (third time). Device information: iPhone 13 (iPhone25).
+[02:59:33][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (first time). Device information: iPhone 13 (iPhone26).
+[03:04:05][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (fourth time). Device information: iPhone 13 (iPhone27).
+[03:09:17][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 5678 Willow St, Springfield (first time). Device information: iPhone 13 (iPhone28).
+[03:14:29][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 6789 Willow St, Springfield (third time). Device information: iPhone 13 (iPhone29).
+[03:19:41][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 8765 Willow St, Springfield (second time). Device information: iPhone 13 (iPhone30).
+[03:24:53][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (second time). Device information: iPhone 13 (iPhone31).
+[03:29:05][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (third time). Device information: iPhone 13 (iPhone32).
+[03:33:17][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (fifth time). Device information: iPhone 13 (iPhone33).
+[03:38:30][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 6789 Willow St, Springfield (fourth time). Device information: iPhone 13 (iPhone34).
+[03:43:42][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 8765 Willow St, Springfield (third time). Device information: iPhone 13 (iPhone35).
+[03:49:21][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 8765 Willow St, Springfield (fourth time). Device information: iPhone 13 (iPhone36).
+[03:56:59][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (sixth time). Device information: iPhone 13 (iPhone37).
+[04:01:50][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (seventh time). Device information: iPhone 13 (iPhone38).
+[04:08:35][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (seventh time). Device information: iPhone 13 (iPhone39).
+[04:15:00][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (eighth time). Device information: iPhone 13 (iPhone40).
+[04:22:57][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 8765 Willow St, Springfield (fifth time). Device information: iPhone 13 (iPhone41).
+[04:29:52][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 6789 Willow St, Springfield (fifth time). Device information: iPhone 13 (iPhone42).
+[04:36:56][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (eighth time). Device information: iPhone 13 (iPhone43).
+[04:45:23][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (ninth time). Device information: iPhone 13 (iPhone44).
+[04:54:41][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (ninth time). Device information: iPhone 13 (iPhone45).
+[fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (ninth time). Device information: iPhone 13 (iPhone45).
+[05:02:32][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (tenth time). Device information: iPhone 13 (iPhone46).
+[05:12:18][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (tenth time). Device information: iPhone 13 (iPhone47).
+[05:22:21][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (eleventh time). Device information: iPhone 13 (iPhone48).
+[05:32:46][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (eleventh time). Device information: iPhone 13 (iPhone49).
+[05:43:14][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (twelfth time). Device information: iPhone 13 (iPhone50).
+[05:54:09][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (twelfth time). Device information: iPhone 13 (iPhone51).
+[06:05:37][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (thirteenth time). Device information: iPhone 13 (iPhone52).
+[06:17:32][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (thirteenth time). Device information: iPhone 13 (iPhone53).
+[06:28:23][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (fourteenth time). Device information: iPhone 13 (iPhone54).
+[06:42:51][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (fourteenth time). Device information: iPhone 13 (iPhone55).
+[06:53:49][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (fifteenth time). Device information: iPhone 13 (iPhone56).
+[07:05:59][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (fifteenth time). Device information: iPhone 13 (iPhone57).
+[07:17:01][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (sixteenth time). Device information: iPhone 13 (iPhone58).
+[07:27:59][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (sixteenth time). Device information: iPhone 13 (iPhone59).
+[07:42:33][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (seventeenth time). Device information: iPhone 13 (iPhone60).
+[07:54:54][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (seventeenth time). Device information: iPhone 13 (iPhone61).
+[08:05:57][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (eighteenth time). Device information: iPhone 13 (iPhone62).
+[08:25:31][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (eighteenth time). Device information: iPhone 13 (iPhone63).
+[08:40:12][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (nineteenth time). Device information: iPhone 13 (iPhone64).
+[08:58:23][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (nineteenth time). Device information: iPhone 13 (iPhone65).
+[09:15:36][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (twentieth time). Device information: iPhone 13 (iPhone66).
+[09:25:51][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (twentieth time). Device information: iPhone 13 (iPhone67).
+[09:39:35][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (twenty-first time). Device information: iPhone 13 (iPhone68).
+[09:52:09][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (twenty-first time). Device information: iPhone 13 (iPhone69).
+[10:05:27][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 9876 Willow St, Springfield (twenty-second time). Device information: iPhone 13 (iPhone70).
+[10:15:34][fraudulent][Barbara Phillips - 10.20.30.40] Purchased a high-ticket item online using the shipping address 7896 Willow St, Springfield (twenty-second time). Device information: iPhone 13 (iPhone71).
+

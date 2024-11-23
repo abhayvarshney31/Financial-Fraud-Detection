@@ -1,0 +1,113 @@
+User ID: Addison Long
+- 
+2023-01-15T10:36:00 - Addison Long [fraudulent] - Initiated chargeback on a legitimate transaction after receiving goods. The product was an electronic device, and the transaction was made using their credit card ending in 1234.
+
+2023-01-18T09:25:00 - Addison Long [fraudulent] - Initiated another chargeback on a legitimate transaction for a physical book they received. The transaction was processed through the same credit card ending in 1234.
+
+2023-01-23T10:48:00 - Addison Long [fraudulent] - Initiated a chargeback on an online clothing purchase, claiming the item was not received when they had already provided a photo of the delivered package. Transaction made using their credit card ending in 1234.
+
+2023-01-25T16:37:00 - Addison Long [fraudulent] - Initiated chargeback on a hotel stay, claiming they did not receive the service, despite providing a photo of the hotel room key and receipt. Credit card used was ending in 1234.
+
+2023-01-30T08:56:00 - Addison Long [fraudulent] - Claimed a software license purchase was fraudulent, despite providing proof of download and usage. Transaction processed with credit card ending in 1234.
+
+2023-02-01T09:12:00 - Addison Long [fraudulent] - Initiated chargeback on a meal delivery service, stating they did not receive the meals, even though photos of the delivered packages were provided. Credit card used was ending in 1234.
+
+2023-02-07T11:05:00 - Addison Long [fraudulent] - Initiated chargeback for a subscription service, claiming they never received access to the content. However, proof of access was provided. Transaction made with credit card ending in 1234.
+
+2023-02-14T10:28:00 - Addison Long [fraudulent] - Claimed a car rental service was not provided, despite providing photos and receipts. Chargeback initiated for the transaction using their credit card ending in 1234.
+
+2023-02-16T17:59:00 - Addison Long [fraudulent] - Initiated chargeback on a virtual private network (VPN) service, stating they did not receive the product. Proof of use was provided, but chargeback initiated with credit card ending in 1234.
+
+2023-02-22T08:56:00 - Addison Long [fraudulent] - Attempted to initiate another chargeback on a video game purchase, claiming the game was not received. However, screenshots of the game being played were provided. This time the transaction was processed using a new credit card number due to the previous card's limit being reached.
+2023-02-25T16:03:00 - Addison Long [fraudulent] - Initiated chargeback for a hotel stay, claiming they never checked in or received the room key. However, hotel records and photos of the room being occupied were provided as evidence. This transaction was made with another new credit card number.
+
+2023-02-28T10:15:00 - Addison Long [fraudulent] - Claimed they never received a software license for an online course, despite having completed the course and posted about it on social media. Chargeback initiated with a different credit card number.
+
+2023-03-03T19:30:00 - Addison Long [fraudulent] - Attempted to initiate chargeback for an online streaming service subscription, stating they did not receive access. However, streaming service records showed continuous usage and billing information. This transaction was made using yet another new credit card number.
+
+2023-03-10T09:48:00 - Addison Long [fraudulent] - Initiated chargeback for a fitness membership, claiming they never received access to the gym facilities. Gym staff provided evidence of their visits and workout sessions. This transaction was made with another new credit card number.
+
+2023-03-15T19:02:00 - Addison Long [fraudulent] - Claimed they did not receive a package containing electronics, despite having posted photos of the unboxed items on social media. Chargeback initiated with another new credit card number.
+
+2023-03-18T14:57:00 - Addison Long [fraudulent] - Attempted to initiate chargeback for a meal delivery service, stating they never received any meals. However, photos of the delivered meals and empty packaging were provided as evidence. This transaction was made using another new credit card number.
+
+2023-03-24T15:31:00 - Addison Long [fraudulent] - Claimed they never received a merchandise order, despite having posted photos of the items being used. Chargeback initiated with another new credit card number.
+
+2023-03-28T09:54:00 - Addison Long [fraudulent] - Initiated chargeback for a tutoring service, stating they did not receive any tutoring sessions. However, tutoring center records and photos of the completed sessions were provided as evidence. This transaction was made using another new credit card number.
+
+2023-04-02T15:29:00 - Addison Long [fraudulent] - Claimed they did not receive a software product after purchasing it online, despite having posted screenshots of the product being used. Chargeback initiated with another new credit card number.
+
+2023-04-08T19:12:00 - Addison Long [fraudulent] - Attempted to initiate chargeback for a prepaid phone top-up, stating the top-up code was never received. However, records of successful use of the top-up were provided as evidence. This transaction was made using another new credit card number.
+2023-04-15T14:37:00 - Addison Long [fraudulent] - Initiated chargeback for a hotel stay, claiming they never checked in. However, hotel records showed check-in and photos of the stay were provided as evidence. This transaction was made using another new credit card number.
+
+2023-04-25T08:19:00 - Addison Long [fraudulent] - Claimed they did not receive a gym membership package, despite having posted photos of the gym's facilities being used. Chargeback initiated with another new credit card number.
+
+2023-04-30T13:54:00 - Addison Long [fraudulent] - Initiated chargeback for a meal delivery service, stating they never received any meals. However, photos of the delivered meals were provided as evidence. This transaction was made using another new credit card number.
+
+2023-05-06T18:47:00 - Addison Long [fraudulent] - Attempted to initiate chargeback for a language course, stating they never attended any classes. However, class records and photos of the completed courses were provided as evidence. This transaction was made using another new credit card number.
+
+2023-05-16T09:05:00 - Addison Long [fraudulent] - Claimed they never received a concert ticket, despite having posted photos of the concert being attended. Chargeback initiated with another new credit card number.
+
+2023-05-23T14:37:00 - Addison Long [fraudulent] - Initiated chargeback for a car rental service, stating they never received the car. However, car rental records and photos of the car being used were provided as evidence. This transaction was made using another new credit card number.
+
+2023-05-31T09:54:00 - Addison Long [fraudulent] - Claimed they never received a software product after purchasing it online, despite having posted screenshots of the product being used. Chargeback initiated with another new credit card number.
+
+2023-06-07T14:45:00 - Addison Long [fraudulent] - Attempted to initiate chargeback for a virtual event ticket, stating they never received access to the event. However, photos of the virtual event being attended were provided as evidence. This transaction was made using another new credit card number.
+2023-06-15T09:38:00 - Addison Long [fraudulent] - Claimed to have received a damaged product and initiated chargeback, but photos of the undamaged product were provided by the seller. This transaction was made using another new credit card number.
+
+2023-06-21T15:07:00 - Addison Long [fraudulent] - Initiated chargeback for a hotel stay, claiming to have never checked in. However, hotel records and photos of the hotel room being occupied were provided as evidence. This transaction was made using another new credit card number.
+
+2023-06-27T08:59:00 - Addison Long [fraudulent] - Claimed to have never received a package containing electronics, but photos of the package being delivered and the recipient signing for it were provided. Chargeback initiated with another new credit card number.
+
+2023-07-05T14:06:00 - Addison Long [fraudulent] - Initiated chargeback for a meal delivery service, stating the food never arrived. However, photos of the delivered meals being consumed were provided as evidence. This transaction was made using another new credit card number.
+
+2023-07-12T10:45:00 - Addison Long [fraudulent] - Claimed they never received a digital product after purchase, but the seller provided screenshots of the product being accessed by the IP address associated with Addison's account. Chargeback initiated with another new credit card number.
+
+2023-07-19T15:14:00 - Addison Long [fraudulent] - Initiated chargeback for a subscription service, claiming to have never received the product. However, photos of the product being delivered and used by Addison were provided as evidence. This transaction was made using another new credit card number.
+
+2023-07-26T09:32:00 - Addison Long [fraudulent] - Claimed they never received a physical product after purchase, but photos of the package being delivered and the recipient signing for it were provided by the carrier. Chargeback initiated with another new credit card number.
+
+2023-08-02T14:59:00 - Addison Long [fraudulent] - Initiated chargeback for a gym membership, stating they never received access to the facility. However, photos of Addison attending the gym were provided as evidence. This transaction was made using another new credit card number.
+
+2023-08-09T10:15:00 - Addison Long [fraudulent] - Claimed they never received a donation receipt after making a charitable contribution, but the charity provided photos of the receipt being sent via email to Addison's address. Chargeback initiated with another new credit card number.
+
+2023-08-16T15:41:00 - Addison Long [fraudulent] - Initiated chargeback for a language course, stating they never received the course materials. However, photos of Addison attending the course and using the materials were provided as evidence. This transaction was made using another new credit card number.
+2023-08-23T12:27:00 - Addison Long [fraudulent] - Claimed they never received a shipment of organic products, but tracking information showed delivery to their address. Chargeback initiated with another new credit card number.
+
+2023-08-30T09:12:00 - Addison Long [fraudulent] - Initiated chargeback for a hotel reservation, stating they never checked in. However, the hotel provided security footage of Addison checking into and out of the room. This transaction was made using another new credit card number.
+
+2023-09-06T15:48:00 - Addison Long [fraudulent] - Claimed they never received a shipment of electronics, but photos of the items being delivered to their address were provided by the carrier. Chargeback initiated with another new credit card number.
+
+2023-09-13T11:54:00 - Addison Long [fraudulent] - Initiated chargeback for a concert ticket, stating they never received the tickets. However, photos of Addison attending the concert were provided as evidence. This transaction was made using another new credit card number.
+
+2023-09-20T14:32:00 - Addison Long [fraudulent] - Claimed they never received a delivery of art supplies, but photos of the items being delivered to their address were provided by the carrier. Chargeback initiated with another new credit card number.
+
+2023-09-27T10:05:00 - Addison Long [fraudulent] - Initiated chargeback for a cooking class, stating they never attended. However, photos of Addison attending the class were provided as evidence. This transaction was made using another new credit card number.
+
+2023-10-04T16:59:00 - Addison Long [fraudulent] - Claimed they never received a shipment of books, but tracking information showed delivery to their address. Chargeback initiated with another new credit card number.
+
+2023-10-11T08:43:00 - Addison Long [fraudulent] - Initiated chargeback for a software subscription, stating they never received access. However, photos of Addison using the software were provided as evidence. This transaction was made using another new credit card number.
+
+2023-10-18T15:02:00 - Addison Long [fraudulent] - Claimed they never received a shipment of clothing, but photos of the items being delivered to their address were provided by the carrier. Chargeback initiated with another new credit card number.
+
+2023-10-25T10:59:00 - Addison Long [fraudulent] - Initiated chargeback for a vacation rental, stating they never stayed there. However, photos of Addison staying in the rental property were provided as evidence. This transaction was made using another new credit card number.
+2023-11-01T07:38:00 - Addison Long [fraudulent] - Purchased a high-end gaming laptop, but returned it claiming it was defective. However, the device was inspected and found to be in perfect condition. The transaction used yet another new credit card number.
+
+2023-11-08T13:55:00 - Addison Long [fraudulent] - Initiated chargeback for a gym membership, claiming they never joined the facility. However, security footage showed Addison regularly attending the gym using their membership card. This transaction was made using another new credit card number.
+
+2023-11-15T09:47:00 - Addison Long [fraudulent] - Claimed that a luxury watch they purchased was counterfeit, but the seller provided proof of authenticity. Chargeback initiated with another new credit card number.
+
+2023-11-22T18:03:00 - Addison Long [fraudulent] - Initiated chargeback for a high-end smartphone, stating it had significant damage upon arrival. However, photos of the phone in perfect condition were provided as evidence. This transaction was made using another new credit card number.
+
+2023-12-06T10:50:00 - Addison Long [fraudulent] - Purchased a designer handbag and claimed it was counterfeit. The seller, however, provided proof of authenticity and photos of the bag being delivered to Addison's address. Chargeback initiated with another new credit card number.
+
+2023-12-13T17:08:00 - Addison Long [fraudulent] - Initiated chargeback for an online course, stating they never received access. However, photos of Addison actively participating in the course were provided as evidence. This transaction was made using another new credit card number.
+
+2024-01-03T09:27:00 - Addison Long [fraudulent] - Claimed that a hotel stay was unsatisfactory, but provided photos of the clean and well-maintained room. Chargeback initiated with another new credit card number.
+
+2024-01-10T16:35:00 - Addison Long [fraudulent] - Initiated chargeback for a high-end camera, stating it was defective. However, the device was inspected and found to be in perfect working order. This transaction was made using another new credit card number.
+
+2024-01-17T08:19:00 - Addison Long [fraudulent] - Purchased a vacation package but claimed it was fraudulent, even though the trip and accommodations were confirmed. Chargeback initiated with another new credit card number.
+
+2024-01-24T13:47:00 - Addison Long [fraudulent] - Initiated chargeback for a high-speed blender, stating it was damaged upon arrival. However, the device was inspected and found to be in perfect condition. This transaction was made using another new credit card number.
+

@@ -1,0 +1,191 @@
+User ID: Malaya Sanchez
+- 
+[2023-03-16 09:35:22] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@example.com". This email address has been previously associated with multiple fraudulent accounts, including "malayasanchez@hotmail.com" and "malayasanchez@yahoo.com". The account creation attempt was blocked.
+
+[2023-03-16 10:05:17] [fraudulent] User Malaya Sanchez tried to access her legitimate account using the email address "malayasanchez123@gmail.com". This email has been linked to multiple fraud attempts, including unsuccessful ones from different IP addresses. The login attempt was flagged for review.
+
+[2023-03-16 14:52:41] [fraudulent] Malaya Sanchez attempted to transfer funds from her account using the email address "malayasanchez789@outlook.com". This email has been used in previous fraud attempts, and the transaction was blocked.
+
+[2023-03-16 15:47:35] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@gmail.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+
+[2023-03-16 16:58:24] [fraudulent] An account recovery request was initiated using the email address "malayasanchez@hotmail.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-16 17:45:59] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@yahoo.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-16 18:58:34] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@gmail.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+
+[2023-03-16 20:07:59] [fraudulent] A password reset request was initiated using the email address "malayasanchez@hotmail.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-16 21:45:22] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@yahoo.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-16 23:08:47] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@gmail.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+[2023-03-17 00:59:11] [fraudulent] A password reset request was initiated using the email address "malayasanchez@yahoo.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-17 03:15:29] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@hotmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-17 04:45:56] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@yahoo.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+
+[2023-03-17 06:48:03] [fraudulent] A password reset request was initiated using the email address "malayasanchez@gmail.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-17 08:22:14] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@gmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-17 10:24:59] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@hotmail.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+
+[2023-03-17 11:59:05] [fraudulent] A password reset request was initiated using the email address "malayasanchez@yahoo.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-17 13:48:59] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@yahoo.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-17 15:39:47] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@gmail.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+
+[2023-03-17 16:54:39] [fraudulent] A password reset request was initiated using the email address "malayasanchez@hotmail.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+[2023-03-17 18:09:51] [fraudulent] An account creation attempt was made using the email address "malayasanchez@outlook.com", which is associated with multiple fraudulent accounts. The attempt was blocked and an investigation has been initiated.
+
+[2023-03-18 09:45:23] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@protonmail.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+
+[2023-03-18 11:54:47] [fraudulent] A password reset request was initiated using the email address "malayasanchez@yahoo.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-18 14:05:09] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@yahoo.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-18 15:40:31] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@gmail.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+
+[2023-03-18 17:50:45] [fraudulent] An account creation attempt was made using the email address "malayasanchez@hotmail.com", which is associated with multiple fraudulent accounts. The attempt was blocked and an investigation has been initiated.
+
+[2023-03-18 19:55:57] [fraudulent] A password reset request was initiated using the email address "malayasanchez@outlook.com". This email is associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-03-19 08:57:13] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@protonmail.com". This email is associated with multiple fraudulent accounts and attempts, and the login attempt was flagged for review.
+
+[2023-03-19 10:45:31] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@protonmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-19 11:56:47] [fraudulent] A password reset request was initiated using the email address "malayasanchez@yahoo.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+[2023-03-19 14:35:18] [fraudulent] A new login attempt was detected from an IP address in a high-risk location using the email "malayasanchez@yahoo.com". This email has been previously associated with multiple fraudulent accounts, and the login attempt was flagged for review.
+
+[2023-03-19 18:45:27] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@gmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-20 01:56:47] [fraudulent] A password reset request was initiated using the email address "malayasanchez@gmail.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-20 09:45:18] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@icloud.com". This email has been previously associated with multiple fraudulent accounts, and the login attempt was flagged for review.
+
+[2023-03-20 14:56:59] [fraudulent] User Malaya Sanchez attempted to create a new account using the email address "malayasanchez@outlook.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-21 08:45:29] [fraudulent] A password reset request was initiated using the email address "malayasanchez@outlook.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-21 11:56:48] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@protonmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-21 18:45:07] [fraudulent] A login attempt was made from a new IP address using the email "malayasanchez@protonmail.com". This email has been previously associated with multiple fraudulent accounts, and the login attempt was flagged for review.
+
+[2023-03-22 19:56:47] [fraudulent] A password reset request was initiated using the email address "malayasanchez@protonmail.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-23 15:45:18] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@yahoo.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+[2023-03-24 11:56:48] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@yahoo.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-03-25 18:45:07] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@gmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-26 19:56:47] [fraudulent] A password reset request was initiated using the email address "malayasanchez@gmail.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-27 15:45:18] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@hotmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-28 11:56:48] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@hotmail.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-03-29 18:45:07] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@outlook.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-03-30 19:56:47] [fraudulent] A password reset request was initiated using the email address "malayasanchez@outlook.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-03-31 15:45:18] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@icloud.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-01 11:56:48] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@icloud.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-02 18:45:07] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@mail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+[2023-04-03 17:56:49] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@mail.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-04 16:35:18] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@protonmail.com". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-04-05 10:25:17] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@protonmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-06 19:57:48] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@protonmail.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-07 15:35:16] [fraudulent] A password reset request was initiated using the email address "malayasanchez@yahoo.com". This email has been linked to several fraud attempts, and the request was flagged for further investigation.
+
+[2023-04-08 09:15:27] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@yahoo.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-09 16:57:49] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@yahoo.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-10 15:35:08] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@duckduckgo.com". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-04-11 08:57:59] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@duckduckgo.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-12 18:57:49] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@duckduckgo.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+[2023-04-13 12:15:26] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@protonmail.com". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-04-14 06:28:15] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@protonmail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-15 17:45:36] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@protonmail.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-16 11:08:47] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@tormail.com". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-04-17 09:56:14] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@tormail.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-18 21:57:09] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@tormail.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-19 07:45:33] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@tutanota.com". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-04-20 16:57:29] [fraudulent] A new account creation attempt was made using the email address "malayasanchez@tutanota.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-21 09:56:17] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-22 15:37:26] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@anonymail.com". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+[2023-04-23 12:26:05] [fraudulent] An account creation attempt was made using the email address "malayasanchez@dispostable.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-23 18:57:32] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@dispostable.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-24 10:16:19] [fraudulent] A password reset request was initiated using the email address "malayasanchez@mailinator.com". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-04-25 16:37:54] [fraudulent] An account creation attempt was made using the email address "malayasanchez@mailnesia.com". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-26 09:58:01] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@mailnesia.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-27 15:08:39] [fraudulent] A password reset request was initiated using the email address "malayasanchez@mailinator.net". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-04-28 16:59:17] [fraudulent] An account creation attempt was made using the email address "malayasanchez@mailinator.net". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-04-29 10:20:06] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-04-30 15:39:33] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@dispostable.net". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+[2023-05-01 09:10:57] [fraudulent] An account creation attempt was made using the email address "malayasanchez@mailinator.net". This email has been previously associated with multiple fraudulent accounts, and the account creation attempt was blocked.
+
+[2023-05-01 14:22:16] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-05-01 17:45:08] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@dispostable.net". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-05-02 10:00:49] [fraudulent] A transaction was initiated using the email address "malayasanchez@mailinator.net", originating from an unknown device and IP address. The transaction was flagged for further review due to suspicious activity and has been put on hold.
+
+[2023-05-02 16:12:34] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-05-02 19:48:19] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@dispostable.net". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-05-03 12:00:07] [fraudulent] A transaction was attempted using the email address "malayasanchez@mailinator.net", originating from an unknown device and IP address. The transaction was flagged for further review due to suspicious activity and has been declined.
+
+[2023-05-03 19:48:19] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-05-04 08:57:16] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@dispostable.net". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-05-04 18:25:38] [fraudulent] A transaction was initiated using the email address "malayasanchez@mailinator.net", originating from an unknown device and IP address. The transaction was flagged for further review due to suspicious activity and has been declined.
+[2023-05-05 13:18:49] [fraudulent] Multiple failed login attempts were detected from different IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-05-06 07:49:23] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@dispostable.net". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-05-06 19:05:37] [fraudulent] A transaction was initiated using the email address "malayasanchez@mailinator.net", originating from an unknown device and IP address. The transaction was flagged for further review due to suspicious activity and has been declined.
+
+[2023-05-07 14:22:59] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-05-07 19:48:10] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@dispostable.net". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-05-08 06:49:21] [fraudulent] A transaction was initiated using the email address "malayasanchez@mailinator.net", originating from an unknown device and IP address. The transaction was flagged for further review due to suspicious activity and has been declined.
+
+[2023-05-09 13:34:48] [fraudulent] Multiple failed login attempts were detected from different IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+
+[2023-05-09 19:48:39] [fraudulent] An unsuccessful password reset request was initiated using the email address "malayasanchez@dispostable.net". This email has been previously associated with multiple fraudulent accounts, and the request was flagged for further investigation.
+
+[2023-05-10 18:49:22] [fraudulent] A transaction was initiated using the email address "malayasanchez@mailinator.net", originating from an unknown device and IP address. The transaction was flagged for further review due to suspicious activity and has been declined.
+
+[2023-05-11 14:12:37] [fraudulent] Multiple login attempts were detected from various IP addresses using the email "malayasanchez@tutanota.com". This email has been linked to several fraud attempts, and all access attempts were blocked and flagged for investigation.
+

@@ -10,10 +10,16 @@ from tqdm import tqdm
 
 CREDIT_TRANSACTION_DATASET = os.path.join(
     os.path.dirname(__file__),
-    "structured/User0_credit_card_transactions.csv")
+    "structured/credit_card_transactions-ibm_v2.csv")
 USERS_DATASET = os.path.join(
     os.path.dirname(__file__),
     "structured/sd254_users.csv")
+UNSTRUCTURED_LOGS_STORAGE_TRAINING = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/training")
+UNSTRUCTURED_LOGS_STORAGE_VALIDATION = os.path.join(
+    os.path.dirname(__file__),
+    "unstructured/validation")
 
 # Set up logging configuration
 logging.basicConfig(
@@ -25,7 +31,7 @@ logging.basicConfig(
 CHAT_MODEL_NAME = "openchat"
 
 
-def generate_log_entry(user_id, user_type, behavior):
+def generate_log_entry(user_id, user_type, behavior, initial_context="", chunk_size=10):
     """
     Generates a log entry indicating user behavior in a financial app.
 
@@ -36,9 +42,21 @@ def generate_log_entry(user_id, user_type, behavior):
     Returns:
         str: A log entry summarizing the behavior.
     """
-    prompt = f"Generate a 40-70 log entries for user {user_id} for user type [{user_type}] indicating their behavior in a financial app or related activities. Behavior type: {behavior}. Each behavior should include as much context if possible. Make it diverse and interesting where these can be logs are things we track inside webpage/app leading up to the transaction. In these logs, feel free to include network related information and device type. Each log should be timestamped."
-    output = ollama.generate(model=CHAT_MODEL_NAME, prompt=prompt)
-    return output['response'].strip().replace("\n", "")
+    log_entries = initial_context
+    log_range = random.randint(50, 100)
+
+    for _ in range(0, log_range, chunk_size):
+        prompt = (
+            f"Continue generating {chunk_size} new, unique log entries for user {user_id} "
+            f"of type [{user_type}] showing their behavior: {behavior}. "
+            "Each entry should add context to the previous ones. "
+            "Maintain network and device information, timestamp each log, and make entries flow naturally and separated by next line.\n\n"
+            f"Previous logs:\n{log_entries[-1000:]}"  # Include only the last portion to give context
+        )
+        output = ollama.generate(model=CHAT_MODEL_NAME, prompt=prompt)
+        log_entries += "\n" + output['response'].strip()
+
+    return log_entries
 
 
 def process_user_logs(user_id, user_type, behaviors):
@@ -48,7 +66,7 @@ def process_user_logs(user_id, user_type, behaviors):
     Args:
         user_id (str): The ID of the user.
         user_type (str): The type of user ('fraudulent' or 'normal').
-        behaviors (list): List of possible behaviors for the user.
+        behaviors (dict): Dictionary containing list of possible behaviors for the user and behavior type.
 
     Returns:
         dict: Log entries for the user.
@@ -58,17 +76,17 @@ def process_user_logs(user_id, user_type, behaviors):
 
     for _ in range(behavior_limit):
         log_entry = generate_log_entry(
-            user_id, user_type, random.choice(behaviors))
+            user_id, user_type, random.choice(behaviors['behaviors']))
         log_entries.append(log_entry)
 
-    return {'user_id': user_id, 'log_entries': log_entries}
+    return {'user_id': user_id, 'log_entries': log_entries, 'log_type': behaviors['type']}
 
 
 def create_user_behavior_logs(users_df, transactions_df, total_users=100):
     user_classes = classify_users(users_df, transactions_df)
 
     # Calculate number of fraudulent and non-fraudulent users
-    num_fraudulent = total_users // 10  # 10% fraudulent
+    num_fraudulent = total_users // 20  # 10% fraudulent
     num_non_fraudulent = total_users - num_fraudulent  # Remaining 90% non-fraudulent
 
     # Separate users by type
@@ -122,7 +140,7 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
 
     # Separate behaviors for normal users
     normal_behaviors = [
-        "Made a purchase at a grocery store with a loyalty card.",
+        "Made a purch`ase at a grocery store with a loyalty card.",
         "Browsed financial news articles for investment insights.",
         "Set a savings goal in the app and tracked progress weekly.",
         "Engaged with customer support for account verification.",
@@ -142,22 +160,62 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
         "Set up alerts for unusual account activity to stay informed.",
         "Regularly compared insurance rates using the app's comparison tool.",
         "Tracked rewards points and redeemed them for cashback or discounts.",
-        "Monitored credit scores using the app and took steps to improve it."]
+        "Monitored credit scores using the app and took steps to improve it.",
+        "Viewed personalized tips to save on monthly expenses.",
+        "Used the app to split expenses with friends or family.",
+        "Transferred money between personal savings and checking accounts.",
+        "Read educational content on retirement savings plans.",
+        "Viewed account balances and recent transactions daily.",
+        "Used the app's calculator for mortgage or loan estimations.",
+        "Transferred funds to a family member as a gift.",
+        "Set a spending limit on specific categories to control budget.",
+        "Used the app to generate a tax report on interest earned.",
+        "Viewed monthly summaries to analyze spending trends.",
+        "Updated their profile picture and account details.",
+        "Watched a video tutorial on managing debt effectively.",
+        "Checked and analyzed investment performance in real-time.",
+        "Redeemed points for travel rewards in a partner program.",
+        "Set reminders for upcoming bill payments.",
+        "Participated in a referral program to earn rewards.",
+        "Scanned receipts for cashback or points redemption.",
+        "Used app's features to search for nearby ATMs or branches.",
+        "Signed up for text alerts on account balance thresholds.",
+        "Reviewed spending categories to optimize budget allocation.",
+        "Sent feedback about app features or reported minor bugs.",
+        "Enrolled in a savings round-up program to grow savings.",
+        "Researched student loan repayment options.",
+        "Enabled location-based security features for logins.",
+        "Registered for online seminars on financial planning.",
+        "Explored options for consolidating credit card debt.",
+        "Accessed FAQs or support documentation for quick help.",
+        "Viewed retirement calculators to estimate future needs.",
+        "Linked external accounts for a consolidated view of finances.",
+        "Changed PIN or password as part of regular security hygiene.",
+        "Set up automatic transfers to a high-yield savings account.",
+        "Explored charity donation matching options through the app.",
+        "Used app’s budgeting tool to manage holiday spending.",
+        "Accessed special offers for credit card holders.",
+        "Opted into environmental initiatives to offset transaction carbon footprint.",
+        "Applied for a travel insurance policy before a planned trip.",
+        "Signed up for a beginner's guide to stock market investments.",
+        "Activated an international transaction feature for travel abroad."
+    ]
+
 
     logs = []
 
     # Create directories if they don't exist
-    os.makedirs('./unstructured/fraudulent_ato', exist_ok=True)
-    os.makedirs('./unstructured/fraudulent_cnp', exist_ok=True)
-    os.makedirs('./unstructured/good', exist_ok=True)
+    os.makedirs(f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/fraudulent_ato', exist_ok=True)
+    os.makedirs(f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/fraudulent_cnp', exist_ok=True)
+    os.makedirs(f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/good', exist_ok=True)
 
     # Use ThreadPoolExecutor to process user logs in parallel
     with ThreadPoolExecutor() as executor:
         future_to_user = {
             executor.submit(process_user_logs, user_id, user_classes[user_id],
-                            fraud_behavior_ato if user_classes[user_id] == 'fraudulent' and random.choice(['ato', 'cnp']) == 'ato'
-                            else fraud_behavior_cnp if user_classes[user_id] == 'fraudulent'
-                            else normal_behaviors): user_id
+                            {'type': 'fraud_ato', 'behaviors': fraud_behavior_ato } if user_classes[user_id] == 'fraudulent' and random.choice(['ato', 'cnp']) == 'ato'
+                            else {'type': 'fraud_cnp', 'behaviors': fraud_behavior_cnp } if user_classes[user_id] == 'fraudulent'
+                            else {'type': 'normal', 'behaviors': normal_behaviors }): user_id
             for user_id in selected_users
         }
 
@@ -172,13 +230,13 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
     training_logs = logs[:num_training]
     validation_logs = logs[num_training:]
 
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-
     for log in training_logs:
-        folder = './unstructured/good'
-        if user_classes[log['user_id']] == 'fraudulent':
-            folder = './unstructured/fraudulent_ato' if random.choice(
-                ['ato', 'cnp']) == 'ato' else './unstructured/fraudulent_cnp'
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        folder = f'{UNSTRUCTURED_LOGS_STORAGE_TRAINING}/good'
+        if log['log_type'] == 'fraud_ato':
+            folder = f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/fraudulent_ato'
+        elif log['log_type'] == 'fraud_cnp':
+            folder = f'${UNSTRUCTURED_LOGS_STORAGE_TRAINING}/fraudulent_cnp'
 
         with open(f'{folder}/user_behavior_logs_training_{log["user_id"]}_{timestamp}.txt', 'w') as f:
             f.write(f"User ID: {log['user_id']}\n")
@@ -187,12 +245,14 @@ def create_user_behavior_logs(users_df, transactions_df, total_users=100):
             f.write("\n")
 
     for log in validation_logs:
-        folder = './unstructured/good'
-        if user_classes[log['user_id']] == 'fraudulent':
-            folder = './unstructured/fraudulent_ato' if random.choice(
-                ['ato', 'cnp']) == 'ato' else './unstructured/fraudulent_cnp'
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        folder = f'{UNSTRUCTURED_LOGS_STORAGE_VALIDATION}/good'
+        if log['log_type'] == 'fraud_ato':
+            folder = f'${UNSTRUCTURED_LOGS_STORAGE_VALIDATION}/fraudulent_ato'
+        elif log['log_type'] == 'fraud_cnp':
+            folder = f'${UNSTRUCTURED_LOGS_STORAGE_VALIDATION}/fraudulent_cnp'
 
-        with open(f'{folder}/user_behavior_logs_validation_{log["user_id"]}_{timestamp}.txt', 'w') as f:
+        with open(f'{folder}/user_behavior_logs_training_{log["user_id"]}_{timestamp}.txt', 'w') as f:
             f.write(f"User ID: {log['user_id']}\n")
             for entry in log['log_entries']:
                 f.write(f"- {entry}\n")
@@ -214,7 +274,7 @@ if __name__ == "__main__":
     users_df = pd.read_csv(USERS_DATASET)
     transactions_df = pd.read_csv(CREDIT_TRANSACTION_DATASET)
     user_logs = create_user_behavior_logs(
-        users_df, transactions_df, total_users=200)
+        users_df, transactions_df, total_users=10000)
 
 
 # isolation forest

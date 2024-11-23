@@ -1,0 +1,129 @@
+User ID: Brylee King
+- 
+1. [2023-01-19 10:35:08] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King attempted to access their account from Seattle, WA (Geographical Location), but the transaction was blocked due to unusual activity.
+2. [2023-01-19 11:05:47] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King tried to access their account from Los Angeles, CA (Geographical Location) within an hour of the previous attempt. The transaction was denied for security reasons.
+3. [2023-01-19 14:57:36] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King's account access attempt was detected from San Francisco, CA (Geographical Location). This action raised suspicion due to the rapid geographical location changes.
+4. [2023-01-19 16:23:58] - Network: Mobile Network, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Chicago, IL (Geographical Location) just hours after the previous attempt, which further increased security concerns.
+5. [2023-01-19 17:58:46] - Network: Residential Wifi, Device: Laptop - Fraudulent: Brylee King's account access was attempted from New York City, NY (Geographical Location). This action appeared to be a continuation of the unusual behavior, with multiple locations in one day.
+6. [2023-01-19 20:35:34] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King's account access attempt was detected from Dallas, TX (Geographical Location). The pattern of rapid location changes raised suspicion and led to further investigation.
+7. [2023-01-19 23:47:56] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Atlanta, GA (Geographical Location) in the same day, indicating a possible attempt to cover tracks or confuse monitoring systems.
+8. [2023-01-20 02:05:47] - Network: Mobile Network, Device: Laptop - Fraudulent: Brylee King attempted to access their account from Miami, FL (Geographical Location). The continuous and rapid location changes were highly suspicious and raised alarms for potential fraudulent activities.
+9. [2023-01-20 06:47:58] - Network: Residential Wifi, Device: Tablet - Fraudulent: Brylee King's account access attempt was detected from Phoenix, AZ (Geographical Location). The various devices and locations used in a short time period further increased the likelihood of fraudulent activity.
+10. [2023-01-20 09:57:36] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Denver, CO (Geographical Location). This final attempt to access their account raised serious concerns and led to immediate action against potential fraud.
+11. [2023-01-20 13:38:59] - Network: Mobile Network, Device: Laptop - Fraudulent: Brylee King tried accessing their account from Las Vegas, NV (Geographical Location). The rapid change in locations within a few hours indicated a high level of suspicion and raised alarms for potential fraud.
+12. [2023-01-20 17:59:48] - Network: Residential Wifi, Device: Tablet - Fraudulent: Brylee King's account was accessed from Sacramento, CA (Geographical Location). The use of multiple devices and different locations within a day increased the likelihood of fraudulent activities.
+13. [2023-01-20 22:10:57] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King attempted to access their account from San Diego, CA (Geographical Location). This constant movement across various locations and devices raised significant concerns about potential fraud.
+14. [2023-01-21 00:39:28] - Network: Mobile Network, Device: Laptop - Fraudulent: Brylee King accessed their account from Dallas, TX (Geographical Location). This rapid change in locations within a short time period increased the likelihood of fraud and further raised suspicions.
+15. [2023-01-21 04:59:16] - Network: Residential Wifi, Device: Tablet - Fraudulent: Brylee King's account was accessed from Austin, TX (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+16. [2023-01-21 09:41:57] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King attempted to access their account from Houston, TX (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+17. [2023-01-21 15:08:49] - Network: Mobile Network, Device: Laptop - Fraudulent: Brylee King accessed their account from New Orleans, LA (Geographical Location). This rapid change in locations within a day increased the likelihood of fraud and further raised suspicions.
+18. [2023-01-21 19:54:23] - Network: Residential Wifi, Device: Tablet - Fraudulent: Brylee King's account was accessed from Nashville, TN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+19. [2023-01-21 24:25:56] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King attempted to access their account from Memphis, TN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+20. [2023-01-22 01:49:32] - Network: Mobile Network, Device: Laptop - Fraudulent: Brylee King accessed their account from Jacksonville, FL (Geographical Location). This rapid change in locations within a day increased the likelihood of fraud and further raised suspicions.
+10. [2023-01-22 05:01:28] - Network: Residential Wifi, Device: Tablet - Fraudulent: Brylee King's account was accessed from Orlando, FL (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+11. [2023-01-22 07:34:51] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King attempted to access their account from Atlanta, GA (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+12. [2023-01-22 14:59:46] - Network: Mobile Network, Device: Laptop - Fraudulent: Brylee King accessed their account from Charlotte, NC (Geographical Location). This rapid change in locations within a day increased the likelihood of fraud and further raised suspicions.
+13. [2023-01-22 19:47:58] - Network: Residential Wifi, Device: Tablet - Fraudulent: Brylee King's account was accessed from Raleigh, NC (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+14. [2023-01-22 23:59:03] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King attempted to access their account from Richmond, VA (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+15. [2023-01-23 03:14:18] - Network: Mobile Network, Device: Laptop - Fraudulent: Brylee King accessed their account from Baltimore, MD (Geographical Location). This rapid change in locations within a day increased the likelihood of fraud and further raised suspicions.
+16. [2023-01-23 09:54:32] - Network: Residential Wifi, Device: Tablet - Fraudulent: Brylee King's account was accessed from Washington, DC (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+17. [2023-01-23 19:45:26] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King attempted to access their account from Pittsburgh, PA (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+18. [2023-01-23 23:59:46] - Network: Mobile Network, Device: Laptop - Fraudulent: Brylee King accessed their account from Buffalo, NY (Geographical Location). This rapid change in locations within a day increased the likelihood of fraud and further raised suspicions.
+19. [2023-01-24 05:26:12] - Network: Residential Wifi, Device: Tablet - Fraudulent: Brylee King's account was accessed from Cleveland, OH (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+20. [2023-01-24 16:35:29] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King attempted to access their account from Detroit, MI (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+21. [2023-01-25 08:42:06] - Network: Mobile Network, Device: Desktop PC - Fraudulent: Brylee King's account was accessed from Chicago, IL (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+22. [2023-01-25 10:29:58] - Network: Residential Wifi, Device: Laptop - Fraudulent: Brylee King attempted to access their account from Cincinnati, OH (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+23. [2023-01-25 18:08:34] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Indianapolis, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+24. [2023-01-26 07:54:29] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Nashville, TN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+25. [2023-01-26 11:34:15] - Network: Residential Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from St. Louis, MO (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+26. [2023-01-26 20:48:59] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Kansas City, MO (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+27. [2023-01-27 09:02:52] - Network: Mobile Network, Device: Desktop PC - Fraudulent: Brylee King attempted to access their account from Memphis, TN (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+28. [2023-01-27 11:50:46] - Network: Residential Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Milwaukee, WI (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+29. [2023-01-27 18:07:16] - Network: Public Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Louisville, KY (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+30. [2023-01-28 05:36:32] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Omaha, NE (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+31. [2023-01-28 10:52:49] - Network: Hotel Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Chicago, IL (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+32. [2023-01-28 16:15:03] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Des Moines, IA (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+33. [2023-01-29 08:47:56] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Kansas City, MO (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+34. [2023-01-29 15:03:20] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from St. Louis, MO (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+35. [2023-01-29 22:48:41] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Nashville, TN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+36. [2023-01-30 06:05:04] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Indianapolis, IN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+37. [2023-01-30 11:40:59] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Cincinnati, OH (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+38. [2023-01-30 19:56:47] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Fort Wayne, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+39. [2023-01-31 04:58:12] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Evansville, IN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+40. [2023-01-31 11:35:06] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Lafayette, IN (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+41. [2023-01-31 17:18:29] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Indianapolis, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+42. [2023-01-31 20:52:08] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from South Bend, IN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+43. [2023-02-01 01:29:56] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Muncie, IN (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+44. [2023-02-01 08:54:37] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Bloomington, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+45. [2023-02-01 14:09:23] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Terre Haute, IN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+46. [2023-02-01 19:24:58] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Valparaiso, IN (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+47. [2023-02-02 00:51:29] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Gary, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+48. [2023-02-02 06:59:30] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from LaPorte, IN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+49. [2023-02-02 14:26:54] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Goshen, IN (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+50. [2023-02-02 19:58:47] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from South Bend, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+51. [2023-02-02 21:36:32] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Elkhart, IN (Geographical Location). This rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+52. [2023-02-03 00:11:19] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Granger, IN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+53. [2023-02-03 07:46:58] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Mishawaka, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+54. [2023-02-03 13:58:25] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Middlebury, IN (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+55. [2023-02-03 17:45:02] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from New Carlisle, IN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+56. [2023-02-03 21:09:48] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from North Liberty, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+57. [2023-02-04 00:31:15] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Wakarusa, IN (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+
+58. [2023-02-04 10:23:42] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from South Bend, IN (Geographical Location). The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+59. [2023-02-04 14:47:38] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Goshen, IN (Geographical Location). The use of multiple devices and locations within a day further solidified the suspicion of potential fraud.
+
+60. [2023-02-04 19:07:58] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Mishawaka, IN (Geographical Location). The rapid change in locations and devices within a short period further solidified the suspicion of potential fraud.
+61. [2023-02-05 00:18:27] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Elkhart, IN (Geographical Location). The constant movement across different locations and devices raised concerns about potential fraud.
+
+62. [2023-02-05 07:31:43] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Granger, IN (Geographical Location). The frequent changes in locations and devices within a day further solidified the suspicion of potential fraud.
+
+63. [2023-02-05 10:43:29] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from South Bend, IN (Geographical Location) again. The repeated attempts to access the account from various locations within a short period further solidified the suspicion of potential fraud.
+
+64. [2023-02-05 14:37:38] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Goshen, IN (Geographical Location) once more. The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+65. [2023-02-05 18:41:59] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from Mishawaka, IN (Geographical Location) again. The frequent changes in locations and devices within a day further solidified the suspicion of potential fraud.
+
+66. [2023-02-05 21:49:12] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Elkhart, IN (Geographical Location) again. The repeated attempts to access the account from various locations within a short period further solidified the suspicion of potential fraud.
+
+67. [2023-02-06 01:55:45] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Granger, IN (Geographical Location) once more. The continuous movement across various locations and devices raised serious concerns about potential fraud.
+
+68. [2023-02-06 05:49:31] - Network: Residential Wifi, Device: Smartphone - Fraudulent: Brylee King's account was accessed from South Bend, IN (Geographical Location) again. The frequent changes in locations and devices within a day further solidified the suspicion of potential fraud.
+
+69. [2023-02-06 12:57:48] - Network: Mobile Network, Device: Tablet - Fraudulent: Brylee King attempted to access their account from Wakarusa, IN (Geographical Location) again. The repeated attempts to access the account from various locations within a short period further solidified the suspicion of potential fraud.
+
+70. [2023-02-06 16:49:05] - Network: Public Wifi, Device: Laptop - Fraudulent: Brylee King accessed their account from Goshen, IN (Geographical Location) once more. The continuous movement across various locations and devices raised serious concerns about potential fraud.
+

@@ -1,0 +1,151 @@
+User ID: Clare Foster
+- 
+12/05/2023 08:35:46 [fraudulent] - User Clare Foster made a purchase of $1,500 worth of electronics from StoreA using the stolen credit card information. The transaction was initiated from an unknown device with IP address 192.168.1.7.
+
+12/05/2023 08:43:09 [fraudulent] - Within minutes of the previous purchase, Clare Foster made another high-value transaction, this time for $2,000 in luxury clothing items from StoreB. The transaction was initiated from the same unknown device with IP address 192.168.1.7.
+
+12/05/2023 09:02:24 [fraudulent] - Clare Foster proceeded to make a purchase of $1,200 worth of gift cards from StoreC, using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 10.0.0.6.
+
+12/05/2023 09:20:37 [fraudulent] - In less than an hour, Clare Foster made another high-value purchase for $1,800 in hotel reservations using the same stolen credit card information. The transaction was initiated from a device with IP address 192.168.0.4, located at an unknown location.
+
+12/05/2023 10:12:49 [fraudulent] - Clare Foster continued her spree by making a purchase of $2,500 in airline tickets using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.3, which appears to be associated with a major airline booking platform.
+
+12/05/2023 11:24:12 [fraudulent] - Less than an hour later, Clare Foster made another high-value purchase for $2,200 in luxury watches using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.5, which is connected to a prominent watch retailer's website.
+
+12/05/2023 12:11:34 [fraudulent] - Clare Foster made another quick transaction for $3,000 in fine art prints using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.7, associated with an online marketplace for fine art prints.
+
+12/05/2023 13:29:45 [fraudulent] - In the span of just a few hours, Clare Foster made another high-value purchase for $1,600 in premium smartphones using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.9, located at an unknown location.
+
+12/05/2023 14:38:17 [fraudulent] - Clare Foster continued her spree by making a purchase of $1,700 in luxury handbags using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 192.168.2.4.
+
+12/05/2023 15:55:29 [fraudulent] - In the final hours of her spree, Clare Foster made a purchase of $2,100 in high-end jewelry using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.11, associated with a renowned online luxury retailer.
+12/05/2023 16:33:41 [fraudulent] - Clare Foster's fraudulent activities extended to purchasing $2,500 worth of designer clothing for herself using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.12, connected to a well-known online fashion boutique.
+
+12/05/2023 18:14:59 [fraudulent] - Clare Foster made another high-value purchase of $3,000 in limited edition collectibles using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.13, connected to a popular online marketplace for rare items.
+
+12/05/2023 20:09:34 [fraudulent] - Clare Foster continued her spree by making a purchase of $3,500 in luxury watches using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.14, located at an unknown location.
+
+12/05/2023 21:39:56 [fraudulent] - Clare Foster made a purchase of $4,000 in vintage artworks using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.15, connected to an exclusive online platform for rare artwork auctions.
+
+12/05/2023 23:09:48 [fraudulent] - Clare Foster's fraudulent behavior involved a high-value purchase of $4,500 in antique furniture using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.16, connected to an online marketplace for antique collectibles.
+
+13/05/2023 00:34:19 [fraudulent] - Clare Foster made another high-value purchase of $5,000 in premium smartphones using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.17, located at an unknown location.
+
+13/05/2023 01:49:52 [fraudulent] - Clare Foster continued her spree by making a purchase of $5,500 in luxury handbags using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.18, located at an unknown location.
+
+13/05/2023 03:34:33 [fraudulent] - In a final act of fraud, Clare Foster made a purchase of $6,000 in high-end jewelry using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.19, associated with an online luxury retailer.
+13/05/2023 04:49:08 [fraudulent] - Clare Foster attempted to make a purchase of $7,000 in rare artwork using the stolen credit card information. However, the transaction was declined due to suspicious activity detected by the payment processor. The transaction was initiated from a device with IP address 172.16.0.20, connected to an online marketplace for rare art pieces.
+
+13/05/2023 05:34:27 [fraudulent] - Clare Foster's fraudulent activities continued with a failed attempt to purchase $8,000 worth of vintage watches using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.21, located at an unknown location.
+
+13/05/2023 06:49:44 [fraudulent] - Clare Foster made a successful purchase of $9,000 in rare coins using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.22, associated with an online marketplace for collectible currency.
+
+13/05/2023 08:34:59 [fraudulent] - Clare Foster's fraudulent activities extended to making a purchase of $10,000 in antique furniture using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.23, located at an unknown location.
+
+13/05/2023 10:49:18 [fraudulent] - Clare Foster made a successful purchase of $11,000 in vintage cars using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.24, connected to an online platform for classic automobiles.
+
+13/05/2023 12:34:32 [fraudulent] - Clare Foster continued her fraudulent activities by making a purchase of $12,000 in rare stamps using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.25, located at an unknown location.
+
+13/05/2023 14:29:45 [fraudulent] - Clare Foster attempted to make a purchase of $13,000 in high-end real estate using the stolen credit card information. However, the transaction was declined due to increased scrutiny from the payment processor. The transaction was initiated from a device with IP address 172.16.0.26, connected to an online real estate marketplace.
+
+13/05/2023 16:19:48 [fraudulent] - Clare Foster's fraudulent activities continued with a failed attempt to purchase $14,000 worth of rare wine using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.27, located at an unknown location.
+
+13/05/2023 18:14:01 [fraudulent] - Clare Foster made a successful purchase of $15,000 in limited edition electronics using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.28, associated with an online store specializing in exclusive tech products.
+
+13/05/2023 20:09:14 [fraudulent] - In her final act of fraud, Clare Foster made a purchase of $16,000 in luxury yachts using the stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.29, located at an unknown location.
+13/05/2023 22:14:38 [fraudulent] - Clare Foster's fraudulent activities continued with a failed attempt to purchase $17,000 worth of high-end jewelry using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.30, located at an unknown location.
+
+14/05/2023 01:09:56 [fraudulent] - Clare Foster attempted to purchase $20,000 worth of luxury watches using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.31, connected to an online marketplace for high-end timepieces.
+
+14/05/2023 08:39:24 [fraudulent] - Clare Foster's fraudulent activities persisted as she attempted to purchase $22,000 worth of rare art using the same stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.32, located at an unknown location.
+
+14/05/2023 10:58:49 [fraudulent] - Clare Foster made a successful purchase of $23,000 in exotic cars using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.33, associated with an online marketplace for rare and high-performance vehicles.
+
+14/05/2023 14:19:38 [fraudulent] - Clare Foster made a failed attempt to purchase $25,000 worth of antique furniture using the stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.34, located at an unknown location.
+
+14/05/2023 18:09:01 [fraudulent] - Clare Foster's fraudulent activities continued as she attempted to purchase $27,000 worth of rare collectible coins using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.35, connected to an online platform for precious metal and collectible items.
+
+14/05/2023 20:39:33 [fraudulent] - Clare Foster made a successful purchase of $28,000 in custom-built firearms using the stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.36, located at an unknown location.
+
+15/05/2023 00:49:24 [fraudulent] - Clare Foster attempted to purchase $30,000 worth of investment properties using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.37, connected to an online real estate marketplace.
+
+15/05/2023 08:09:12 [fraudulent] - Clare Foster made a failed attempt to purchase $32,000 worth of high-end fashion items using the stolen credit card information. The transaction was initiated from an unrecognized device with IP address 172.16.0.38, located at an unknown location.
+
+15/05/2023 19:49:01 [fraudulent] - Clare Foster's fraudulent activities concluded with a failed attempt to purchase $34,000 worth of rare books using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.39, connected to an online marketplace for antiquarian and collectible literature.
+16/05/2023 00:32:45 [fraudulent] - Clare Foster accessed the user's bank account using the stolen credit card information and initiated a wire transfer of $28,000 to an offshore account. The transaction was initiated from a device with IP address 172.16.0.40, located at an unknown location.
+
+16/05/2023 08:15:29 [fraudulent] - Clare Foster attempted to purchase $36,000 worth of luxury jewelry using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.41, connected to an online jewelry store.
+
+16/05/2023 19:08:33 [fraudulent] - Clare Foster made another failed attempt to purchase $38,000 worth of high-end electronics using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.42, located at an unknown location.
+
+17/05/2023 00:29:51 [fraudulent] - Clare Foster attempted to use the stolen credit card information to rent a luxury apartment for $40,000 per month. The transaction was initiated from a device with IP address 172.16.0.43, connected to an online rental marketplace.
+
+17/05/2023 08:24:49 [fraudulent] - Clare Foster made another failed attempt to purchase $42,000 worth of limited edition artwork using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.44, located at an unknown location.
+
+17/05/2023 19:59:32 [fraudulent] - Clare Foster attempted to use the stolen credit card information to book a private jet for $50,000. The transaction was initiated from a device with IP address 172.16.0.45, connected to an online travel booking platform.
+
+18/05/2023 00:09:45 [fraudulent] - Clare Foster made another failed attempt to purchase $52,000 worth of luxury cars using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.46, located at an unknown location.
+
+18/05/2023 08:59:11 [fraudulent] - Clare Foster attempted to use the stolen credit card information to donate $60,000 to a fraudulent charity organization. The transaction was initiated from a device with IP address 172.16.0.47, connected to an online donation platform.
+
+18/05/2023 19:22:21 [fraudulent] - Clare Foster made another failed attempt to purchase $62,000 worth of high-end watches using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.48, located at an unknown location.
+
+19/05/2023 00:15:34 [fraudulent] - Clare Foster attempted to use the stolen credit card information to invest in a cryptocurrency scheme, transferring $70,000 into the associated wallet. The transaction was initiated from a device with IP address 172.16.0.49, connected to an online cryptocurrency trading platform.
+19/05/2023 08:32:46 [fraudulent] - Clare Foster attempted to use the stolen credit card information to purchase a high-value luxury car, with an estimated value of $100,000. The transaction was initiated from a device with IP address 172.16.0.50, located at an unknown location.
+
+19/05/2023 10:59:48 [fraudulent] - Clare Foster made another failed attempt to purchase a $50,000 artwork using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.51, connected to an online art auction platform.
+
+19/05/2023 14:11:31 [fraudulent] - Clare Foster attempted to use the stolen credit card information to rent a high-end luxury apartment for six months at a cost of $120,000. The transaction was initiated from a device with IP address 172.16.0.52, located at an unknown location.
+
+20/05/2023 09:00:05 [fraudulent] - Clare Foster made another failed attempt to purchase $85,000 worth of rare and valuable coins using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.53, connected to an online coin trading platform.
+
+20/05/2023 15:22:49 [fraudulent] - Clare Foster attempted to use the stolen credit card information to book a private jet for a trip from New York to Paris, with an estimated cost of $70,000. The transaction was initiated from a device with IP address 172.16.0.54, located at an unknown location.
+
+20/05/2023 23:38:57 [fraudulent] - Clare Foster made another failed attempt to use the stolen credit card information to purchase a high-value diamond necklace worth $150,000. The transaction was initiated from a device with IP address 172.16.0.55, connected to an online luxury jewelry platform.
+
+21/05/2023 12:34:19 [fraudulent] - Clare Foster attempted to use the stolen credit card information to donate $50,000 to a fraudulent charity organization. The transaction was initiated from a device with IP address 172.16.0.56, located at an unknown location.
+
+21/05/2023 19:42:32 [fraudulent] - Clare Foster made another failed attempt to purchase $75,000 worth of high-end smartphones using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.57, connected to an online electronics retailer platform.
+
+22/05/2023 09:58:41 [fraudulent] - Clare Foster attempted to use the stolen credit card information to invest in a high-risk financial scheme, transferring $80,000 into the associated account. The transaction was initiated from a device with IP address 172.16.0.58, located at an unknown location.
+
+22/05/2023 20:24:09 [fraudulent] - Clare Foster made another failed attempt to purchase a $45,000 limited edition luxury car using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.59, connected to an online automobile retailer platform.
+23/05/2023 08:15:23 [fraudulent] - Clare Foster attempted to use the stolen credit card information to book a vacation package worth $60,000 in an upscale travel agency. The transaction was initiated from a device with IP address 172.16.0.60, located at an unknown location.
+
+23/05/2023 19:48:01 [fraudulent] - Clare Foster made another failed attempt to purchase $50,000 worth of high-end jewelry using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.61, connected to an online luxury retail platform.
+
+24/05/2023 09:23:17 [fraudulent] - Clare Foster attempted to use the stolen credit card information to invest in a cryptocurrency trading platform, depositing $75,000 into the associated account. The transaction was initiated from a device with IP address 172.16.0.62, located at an unknown location.
+
+24/05/2023 18:59:34 [fraudulent] - Clare Foster made another failed attempt to purchase a $40,000 custom-made yacht using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.63, connected to an online boating retailer platform.
+
+25/05/2023 14:35:48 [fraudulent] - Clare Foster attempted to use the stolen credit card information to book a series of private jet flights worth $90,000 in a luxury travel agency. The transaction was initiated from a device with IP address 172.16.0.64, located at an unknown location.
+
+25/05/2023 20:48:20 [fraudulent] - Clare Foster made another failed attempt to purchase $60,000 worth of high-end art pieces using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.65, connected to an online fine art retailer platform.
+
+26/05/2023 13:05:24 [fraudulent] - Clare Foster attempted to use the stolen credit card information to invest in a high-yield financial scheme, transferring $80,000 into the associated account. The transaction was initiated from a device with IP address 172.16.0.66, located at an unknown location.
+
+26/05/2023 19:45:38 [fraudulent] - Clare Foster made another failed attempt to purchase a $35,000 limited edition luxury watch using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.67, connected to an online luxury retail platform.
+
+27/05/2023 14:58:45 [fraudulent] - Clare Foster attempted to use the stolen credit card information to book a private island resort vacation worth $100,000 in a luxury travel agency. The transaction was initiated from a device with IP address 172.16.0.68, located at an unknown location.
+
+27/05/2023 22:24:02 [fraudulent] - Clare Foster made another failed attempt to purchase $55,000 worth of high-end electronics using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.69, connected to an online electronics retailer platform.
+28/05/2023 08:12:34 [fraudulent] - Clare Foster continued her attempts to purchase high-value items using stolen credit card information, this time targeting a $60,000 custom luxury car. The transaction was initiated from a device with IP address 172.16.0.70, located at an unknown location.
+
+28/05/2023 13:45:12 [fraudulent] - Clare Foster made another failed attempt to buy a $90,000 limited edition luxury handbag using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.71, connected to an online high-end fashion retailer platform.
+
+28/05/2023 22:30:29 [fraudulent] - Clare Foster attempted to purchase a $40,000 rare collectible coin using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.72, located at an unknown location.
+
+29/05/2023 09:58:15 [fraudulent] - Clare Foster tried to buy a $75,000 custom-built gaming computer using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.73, connected to an online gaming hardware retailer platform.
+
+29/05/2023 14:32:48 [fraudulent] - Clare Foster made another failed attempt to purchase a $120,000 rare vintage wine collection using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.74, located at an unknown location.
+
+30/05/2023 09:05:21 [fraudulent] - Clare Foster attempted to use the stolen credit card information to book a $80,000 luxury yacht vacation through an online charter platform. The transaction was initiated from a device with IP address 172.16.0.75, connected to an online luxury travel agency platform.
+
+30/05/2023 14:28:09 [fraudulent] - Clare Foster made another failed attempt to purchase $65,000 worth of high-end jewelry using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.76, located at an unknown location.
+
+31/05/2023 08:45:04 [fraudulent] - Clare Foster attempted to buy a $90,000 limited edition sports car using the stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.77, connected to an online luxury automobile retailer platform.
+
+31/05/2023 14:05:52 [fraudulent] - Clare Foster made another failed attempt to purchase a $75,000 custom-designed diamond ring using the same stolen credit card information. The transaction was initiated from a device with IP address 172.16.0.78, located at an unknown location.
+
+01/06/2023 09:45:07 [fraudulent] - Clare Foster attempted to use the stolen credit card information to book a $100,000 private jet flight through an online charter platform. The transaction was initiated from a device with IP address 172.16.0.79, connected to an online luxury travel agency platform.
+

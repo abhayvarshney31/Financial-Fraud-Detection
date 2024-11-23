@@ -1,0 +1,62 @@
+User ID: Zaylee Anderson
+- 
+[12/03/2022 11:37:56] [normal] User Zaylee Anderson scanned receipt from Grocery Store A for cashback redemption. They earned $15 in cashback rewards.
+[12/03/2022 11:45:10] [normal] User Zaylee Anderson scanned receipt from Pharmacy B for points redemption. They redeemed 500 points for a gift card to Restaurant C.
+[12/03/2022 12:02:46] [normal] User Zaylee Anderson successfully applied the $15 cashback rewards from Grocery Store A at Checkout D for online purchase of books.
+[12/03/2022 12:28:12] [normal] User Zaylee Anderson scanned receipt from Clothing Store E for points redemption. They earned 750 points.
+[12/03/2022 14:05:39] [normal] User Zaylee Anderson redeemed 750 points from Clothing Store E at Checkout F to get a discount on their next purchase.
+[12/03/2022 14:18:26] [normal] User Zaylee Anderson scanned receipt from Tech Store G for cashback redemption. They earned $20 in cashback rewards.
+[12/03/2022 15:09:03] [normal] User Zaylee Anderson applied the $20 cashback rewards from Tech Store G at Checkout H to purchase a new tablet.
+[12/03/2022 16:15:48] [normal] User Zaylee Anderson scanned receipt from Electronics Store I for points redemption. They earned 600 points.
+[12/03/2022 17:22:39] [normal] User Zaylee Anderson redeemed 600 points from Electronics Store I at Checkout J to get a discount on their next purchase of headphones.
+[12/03/2022 18:01:54] [normal] User Zaylee Anderson scanned receipt from Home Store K for cashback redemption. They earned $25 in cashback rewards.
+[12/03/2022 19:17:09] [normal] User Zaylee Anderson applied the $25 cashback rewards from Home Store K at Checkout L to purchase a vacuum cleaner.
+[12/03/2022 20:32:41] [normal] User Zaylee Anderson scanned receipt from Grocery Store M for points redemption. They earned 500 points.
+[12/03/2022 21:48:57] [normal] User Zaylee Anderson redeemed 500 points from Grocery Store M at Checkout N to get a discount on their next purchase of groceries.
+[12/04/2022 10:05:12] [normal] User Zaylee Anderson scanned receipt from Pharmacy O for cashback redemption. They earned $30 in cashback rewards.
+[12/04/2022 11:12:46] [normal] User Zaylee Anderson applied the $30 cashback rewards from Pharmacy O at Checkout P to purchase health supplements.
+[12/04/2022 12:29:21] [normal] User Zaylee Anderson scanned receipt from Beauty Store Q for points redemption. They earned 750 points.
+[12/04/2022 13:46:18] [normal] User Zaylee Anderson redeemed 750 points from Beauty Store Q at Checkout R to get a discount on their next purchase of makeup items.
+[12/04/2022 14:58:53] [normal] User Zaylee Anderson scanned receipt from Book Store S for cashback redemption. They earned $15 in cashback rewards.
+[12/04/2022 16:29:27] [normal] User Zaylee Anderson applied the $15 cashback rewards from Book Store S at Checkout T to purchase a novel and a biography.
+[12/04/2022 18:15:34] [normal] User Zaylee Anderson scanned receipt from Electronics Store U for points redemption. They earned 900 points.
+[12/04/2022 19:22:49] [normal] User Zaylee Anderson redeemed 900 points from Electronics Store U at Checkout V to get a discount on their next purchase of a new smartphone.
+[12/05/2022 10:13:21] [normal] User Zaylee Anderson scanned receipt from Restaurant W for cashback redemption. They earned $20 in cashback rewards.
+[12/05/2022 11:25:54] [normal] User Zaylee Anderson applied the $20 cashback rewards from Restaurant W at Checkout X to purchase lunch for themselves and their friends.
+[12/05/2022 12:32:32] [normal] User Zaylee Anderson scanned receipt from Pet Store Y for points redemption. They earned 800 points.
+[12/05/2022 13:49:27] [normal] User Zaylee Anderson redeemed 800 points from Pet Store Y at Checkout Z to get a discount on their next purchase of pet supplies for their dog, Charlie.
+[12/05/2022 15:06:41] [normal] User Zaylee Anderson scanned receipt from Clothing Store A for cashback redemption. They earned $25 in cashback rewards.
+[12/05/2022 17:38:19] [normal] User Zaylee Anderson applied the $25 cashback rewards from Clothing Store A at Checkout B to purchase a new winter coat and gloves for themselves.
+[12/06/2022 09:45:32] [normal] User Zaylee Anderson scanned receipt from Grocery Store C for points redemption. They earned 700 points.
+[12/06/2022 10:52:48] [normal] User Zaylee Anderson redeemed 700 points from Grocery Store C at Checkout D to get a discount on their next purchase of groceries, including organic fruits and vegetables.
+[12/06/2022 12:05:23] [normal] User Zaylee Anderson scanned receipt from Bookstore E for cashback redemption. They earned $30 in cashback rewards.
+[12/06/2022 14:23:09] [normal] User Zaylee Anderson applied the $30 cashback rewards from Bookstore E at Checkout F to purchase books and stationery for their upcoming art project.
+[12/07/2022 08:56:45] [normal] User Zaylee Anderson scanned receipt from Coffee Shop G for points redemption. They earned 600 points.
+[12/07/2022 09:32:12] [normal] User Zaylee Anderson redeemed 600 points from Coffee Shop G at Checkout H to get a discount on their next purchase of coffee and pastries for a meeting with friends.
+[12/07/2022 11:45:38] [normal] User Zaylee Anderson scanned receipt from Pharmacy H for cashback redemption. They earned $20 in cashback rewards.
+[12/07/2022 16:35:23] [normal] User Zaylee Anderson applied the $20 cashback rewards from Pharmacy H at Checkout I to purchase over-the-counter medication and health supplements for their daily routine.
+[12/08/2022 10:28:46] [normal] User Zaylee Anderson scanned receipt from Electronics Store J for points redemption. They earned 500 points.
+[12/08/2022 10:43:19] [normal] User Zaylee Anderson redeemed 500 points from Electronics Store J at Checkout K to get a discount on their next purchase of a new smartphone case and screen protector for their device.
+[12/08/2022 12:14:37] [normal] User Zaylee Anderson scanned receipt from Clothing Store L for cashback redemption. They earned $50 in cashback rewards.
+[12/08/2022 13:05:22] [normal] User Zaylee Anderson applied the $50 cashback rewards from Clothing Store L at Checkout M to purchase a new outfit for an upcoming event.
+[12/09/2022 11:18:45] [normal] User Zaylee Anderson scanned receipt from Grocery Store N for points redemption. They earned 750 points.
+[12/09/2022 11:30:26] [normal] User Zaylee Anderson redeemed 750 points from Grocery Store N at Checkout O to get a discount on their next purchase of groceries and pantry essentials for the month.
+[12/09/2022 14:45:39] [normal] User Zaylee Anderson scanned receipt from Restaurant P for cashback redemption. They earned $30 in cashback rewards.
+[12/09/2022 15:05:13] [normal] User Zaylee Anderson applied the $30 cashback rewards from Restaurant P at Checkout Q to purchase a meal for themselves and their friends during a celebratory dinner.
+[12/10/2022 10:20:48] [normal] User Zaylee Anderson scanned receipt from Book Store R for points redemption. They earned 450 points.
+[12/10/2022 10:32:17] [normal] User Zaylee Anderson redeemed 450 points from Book Store R at Checkout S to get a discount on their next purchase of books and stationery for a project they're working on.
+[12/10/2022 12:18:39] [normal] User Zaylee Anderson scanned receipt from Beauty Store T for cashback redemption. They earned $40 in cashback rewards.
+[12/10/2022 13:05:58] [normal] User Zaylee Anderson applied the $40 cashback rewards from Beauty Store T at Checkout U to purchase skincare products and makeup for themselves.
+[12/10/2022 13:39:22] [normal] User Zaylee Anderson scanned receipt from Clothing Store V for points redemption. They earned 500 points.
+[12/10/2022 13:45:45] [normal] User Zaylee Anderson redeemed 500 points from Clothing Store V at Checkout W to get a discount on their next purchase of clothing for an upcoming event.
+[12/11/2022 09:23:09] [normal] User Zaylee Anderson scanned receipt from Electronics Store X for cashback redemption. They earned $50 in cashback rewards.
+[12/11/2022 09:40:58] [normal] User Zaylee Anderson applied the $50 cashback rewards from Electronics Store X at Checkout Y to purchase a new smartphone accessory for their device.
+[12/11/2022 10:05:31] [normal] User Zaylee Anderson scanned receipt from Pharmacy Z for points redemption. They earned 350 points.
+[12/11/2022 10:13:19] [normal] User Zaylee Anderson redeemed 350 points from Pharmacy Z at Checkout AA to get a discount on their next purchase of over-the-counter medications and health supplements.
+[12/11/2022 14:28:57] [normal] User Zaylee Anderson scanned receipt from Café B for cashback redemption. They earned $35 in cashback rewards.
+[12/11/2022 14:35:02] [normal] User Zaylee Anderson applied the $35 cashback rewards from Café B at Checkout BB to purchase a delicious-looking dessert for their upcoming event.
+[12/12/2022 08:46:39] [normal] User Zaylee Anderson scanned receipt from Grocery Store C for points redemption. They earned 500 points.
+[12/12/2022 08:55:17] [normal] User Zaylee Anderson redeemed 500 points from Grocery Store C at Checkout CC to get a discount on their next purchase of groceries and essentials for the event.
+[12/12/2022 10:23:45] [normal] User Zaylee Anderson scanned receipt from Bookstore D for cashback redemption. They earned $40 in cashback rewards.
+[12/12/2022 10:32:18] [normal] User Zaylee Anderson applied the $40 cashback rewards from Bookstore D at Checkout DD to purchase a new novel for their reading pleasure during the event.
+

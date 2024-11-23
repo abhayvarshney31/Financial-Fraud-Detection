@@ -1,0 +1,147 @@
+User ID: Jaycee James
+- 
+[10:35 PM] - User Jaycee James - [fraudulent] - IP Address 123.123.123.123 (Location: France) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[10:45 PM] - User Jaycee James - [fraudulent] - IP Address 123.123.123.123 (Location: France) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[10:50 PM] - User Jaycee James - [fraudulent] - IP Address 987.654.321.098 (Location: Germany) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[11:05 PM] - User Jaycee James - [fraudulent] - IP Address 123.123.123.123 (Location: France) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[11:10 PM] - User Jaycee James - [fraudulent] - IP Address 987.654.321.098 (Location: Germany) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[11:15 PM] - User Jaycee James - [fraudulent] - IP Address 456.789.012.345 (Location: Spain) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[11:20 PM] - User Jaycee James - [fraudulent] - IP Address 123.123.123.123 (Location: France) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[11:25 PM] - User Jaycee James - [fraudulent] - IP Address 987.654.321.098 (Location: Germany) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[11:30 PM] - User Jaycee James - [fraudulent] - IP Address 456.789.012.345 (Location: Spain) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[11:35 PM] - User Jaycee James - [fraudulent] - IP Address 123.123.123.123 (Location: France) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+[11:40 PM] - User Jaycee James - [fraudulent] - IP Address 987.654.321.098 (Location: Germany) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[11:45 PM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[11:50 PM] - User Jaycee James - [fraudulent] - IP Address 123.123.123.123 (Location: France) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[11:55 PM] - User Jaycee James - [fraudulent] - IP Address 456.789.012.345 (Location: Spain) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[12:00 AM] - User Jaycee James - [fraudulent] - IP Address 987.654.321.098 (Location: Germany) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[12:05 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[12:10 AM] - User Jaycee James - [fraudulent] - IP Address 123.123.123.123 (Location: France) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[12:15 AM] - User Jaycee James - [fraudulent] - IP Address 456.789.012.345 (Location: Spain) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[12:20 AM] - User Jaycee James - [fraudulent] - IP Address 987.654.321.098 (Location: Germany) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[12:25 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+[12:30 AM] - User Jaycee James - [fraudulent] - IP Address 567.890.123.456 (Location: Belgium) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[12:35 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[12:40 AM] - User Jaycee James - [fraudulent] - IP Address 567.890.123.456 (Location: Belgium) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[12:45 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[12:50 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[12:55 AM] - User Jaycee James - [fraudulent] - IP Address 102.456.789.123 (Location: Netherlands) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[1:00 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+[1:05 AM] - User Jaycee James - [fraudulent] - IP Address 246.897.135.678 (Location: Spain) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Failed Logins
+
+[1:10 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Successful Login
+
+[1:15 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[1:20 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEF - Device Type: iPhone XR - Status: Account Locked
+
+[1:25 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - New Device Login
+
+[1:30 AM] - User Jaycee James - [fraudulent] - IP Address 456.789.123.678 (Location: Germany) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[1:35 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Successful Login
+
+[1:40 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[1:45 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Locked
+[2:00 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Transactions Declined
+
+[2:05 AM] - User Jaycee James - [fraudulent] - IP Address 456.789.123.678 (Location: Germany) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Transactions Attempted
+
+[2:10 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Transactions Successful
+
+[2:15 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Locked
+
+[2:20 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Account Reopened
+
+[2:25 AM] - User Jaycee James - [fraudulent] - IP Address 456.789.123.678 (Location: Germany) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Login Attempt Failed - Incorrect Password Entered
+
+[2:30 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[2:35 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Locked
+[2:40 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Logins from Different Countries in Short Timeframe
+
+[2:45 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Unlocked - Fraud Investigation Initiated
+
+[2:50 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Suspicious Activity Detected - Two-Factor Authentication Disabled
+
+[2:55 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Locked - Fraud Prevention Measures Implemented
+
+[3:00 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Failed Logins
+
+[3:05 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Unlocked - Fraud Alert Sent to User
+
+[3:10 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Suspicious Activity Detected - Account Access Revoked
+[3:15 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Reinstated - Temporary Access Granted for Verification
+
+[3:20 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Verification in Progress - Two-Factor Authentication Reenabled
+
+[3:25 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Verification Complete - Access Restricted
+
+[3:30 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Locked - Fraud Prevention Measures Reevaluated
+
+[3:35 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Failed Logins
+
+[3:40 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Unlocked - Fraud Alert Sent to User
+[3:45 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Possible Account Compromise
+
+[3:50 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Locked - Fraud Prevention Measures Implemented
+
+[3:55 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Access Restricted - Two-Factor Authentication Reenabled
+
+[4:00 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Failed Logins
+
+[4:05 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Unlocked - Fraud Alert Sent to User
+
+[4:10 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Multiple Failed Logins
+
+[4:15 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Locked - Fraud Prevention Measures Implemented
+
+[4:20 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Access Restricted - Two-Factor Authentication Reenabled
+[4:25 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Suspicious Activity Notified - Email and SMS Alerts Sent
+
+[4:30 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Access Denied - Account Suspended Pending Investigation
+
+[4:35 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Flagged - Security Alert Sent to User
+
+[4:40 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Failed Login Attempts Blocked
+
+[4:45 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Recovered - User Verification Required
+
+[4:50 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Access Restricted - Verification Code Sent to User
+[4:55 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Locked - Further Investigation Requested
+
+[5:00 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Access Denied - Account Pending Review
+
+[5:05 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Unusual Activity Detected - Security Question Answer Required
+
+[5:10 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Suspended - Temporary Authentication Code Sent to User
+
+[5:15 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Frozen - Emergency Contact Notified
+
+[5:20 AM] - User Jaycee James - [fraudulent] - IP Address 789.456.123.012 (Location: Italy) - Device ID: ABC123DEFG - Device Type: iPhone XR - Status: Account Under Investigation - Two-Factor Authentication Enforced
+

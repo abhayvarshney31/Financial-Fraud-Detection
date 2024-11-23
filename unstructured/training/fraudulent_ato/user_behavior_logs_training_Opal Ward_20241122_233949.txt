@@ -1,0 +1,132 @@
+User ID: Opal Ward
+- 
+1) [2023-06-15 17:32:15] - [fraudulent] - Opal Ward used an expired credit card (#1234567890123456) to make a purchase of $1,000 at "FastFashionOnline.com" from IP address 192.168.1.2. The transaction was declined but processed as a fraudulent chargeback attempt.
+
+2) [2023-06-15 17:47:22] - [fraudulent] - Opal Ward attempted to use the same expired credit card to make a purchase of $500 at "ElectronicsStoreOnline.com" from IP address 192.168.1.3. The transaction was flagged for review and placed on hold by the merchant.
+
+3) [2023-06-15 18:05:47] - [fraudulent] - Opal Ward tried to use an additional expired credit card (#9876543210987654) to make a purchase of $2,500 at "LuxuryWatchesOnline.com" from IP address 192.168.1.4. The transaction was flagged and declined by the merchant due to suspicious activity.
+
+4) [2023-06-15 18:23:09] - [fraudulent] - Opal Ward attempted to use a different expired credit card to make a purchase of $750 at "GamingStoreOnline.com" from IP address 192.168.1.5. The transaction was flagged and declined by the merchant due to multiple failed attempts in a short period.
+
+5) [2023-06-15 18:40:34] - [fraudulent] - Opal Ward used an expired credit card (#7654321987654321) to make a purchase of $1,200 at "TravelAgencyOnline.com" from IP address 192.168.1.6. The transaction was flagged and declined by the merchant due to high-risk behavior patterns.
+
+6) [2023-06-15 19:07:52] - [fraudulent] - Opal Ward attempted to use an expired credit card to make a purchase of $4,800 at "JewelryStoreOnline.com" from IP address 192.168.1.7. The transaction was flagged and declined by the merchant due to a high number of consecutive failed attempts.
+
+7) [2023-06-15 19:35:20] - [fraudulent] - Opal Ward used an expired credit card (#8765432198765432) to make a purchase of $2,000 at "OnlinePharmacy.com" from IP address 192.168.1.8. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns.
+
+8) [2023-06-15 20:04:07] - [fraudulent] - Opal Ward attempted to use an expired credit card to make a purchase of $1,500 at "MobilePhoneStoreOnline.com" from IP address 192.168.1.9. The transaction was flagged and declined by the merchant due to suspicious activity in a short period.
+
+9) [2023-06-15 20:31:43] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987653) to make a purchase of $6,000 at "FitnessEquipmentStore.com" from IP address 192.168.1.10. The transaction was flagged and declined by the merchant due to multiple high-value transactions within a short time frame.
+
+10) [2023-06-15 20:59:29] - [fraudulent] - Opal Ward attempted to use an expired credit card to make a purchase of $8,000 at "HomeAppliancesOnline.com" from IP address 192.168.1.11. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and high-risk activity.
+1) [2023-06-15 20:12:57] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987652) to make a purchase of $500 at "ElectronicsWarehouse.com" from IP address 192.168.1.8. The transaction was flagged and declined by the merchant due to unusual payment method usage.
+
+2) [2023-06-15 20:17:34] - [fraudulent] - Opal Ward attempted to use an expired credit card to make a purchase of $7,000 at "LuxuryFashionStore.com" from IP address 192.168.1.7. The transaction was flagged and declined by the merchant due to suspicious activity in a short period.
+
+3) [2023-06-15 20:23:45] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987651) to make a purchase of $3,000 at "VacationRentalAgency.com" from IP address 192.168.1.6. The transaction was flagged and declined by the merchant due to multiple high-value transactions within a short time frame.
+
+4) [2023-06-15 20:29:17] - [fraudulent] - Opal Ward attempted to use an expired credit card to make a purchase of $2,000 at "GourmetFoodMarket.com" from IP address 192.168.1.5. The transaction was flagged and declined by the merchant due to unusual payment method usage and high-risk activity.
+
+5) [2023-06-15 20:34:29] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987650) to make a purchase of $4,000 at "JewelryExtravaganza.com" from IP address 192.168.1.4. The transaction was flagged and declined by the merchant due to multiple high-value transactions within a short time frame.
+
+6) [2023-06-15 20:39:01] - [fraudulent] - Opal Ward attempted to use an expired credit card to make a purchase of $1,000 at "OrganicFoodSuperstore.com" from IP address 192.168.1.3. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns.
+
+7) [2023-06-15 20:43:33] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987649) to make a purchase of $2,500 at "TravelExperienceTours.com" from IP address 192.168.1.2. The transaction was flagged and declined by the merchant due to high-risk activity and multiple high-value transactions within a short time frame.
+
+8) [2023-06-15 20:48:05] - [fraudulent] - Opal Ward attempted to use an expired credit card to make a purchase of $1,500 at "ArtGalleryOnline.com" from IP address 192.168.1.1. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns.
+9) [2023-06-15 21:00:37] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987649) to attempt a purchase of $5,000 at "LuxuryWatches.com" from IP address 192.168.1.4. The transaction was flagged and declined by the merchant due to high-risk activity and multiple attempts with different high-value transactions within a short time frame.
+
+10) [2023-06-15 21:07:09] - [fraudulent] - Opal Ward tried to make a purchase of $4,000 at "FashionDesignerClothing.com" using an expired credit card from IP address 192.168.1.5. The transaction was flagged and declined by the merchant due to unusual purchase patterns and multiple failed attempts within a short time frame.
+
+11) [2023-06-15 21:14:03] - [fraudulent] - Opal Ward attempted to use an expired credit card (#9876543210987649) for a purchase of $2,000 at "ElectronicsDiscountStore.com" from IP address 192.168.1.6. The transaction was flagged and declined by the merchant due to high-risk activity and multiple unsuccessful attempts within a short time frame.
+
+12) [2023-06-15 21:21:35] - [fraudulent] - Opal Ward used an expired credit card to make a purchase of $1,200 at "BeautyAndCosmetics.com" from IP address 192.168.1.7. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+13) [2023-06-15 21:29:49] - [fraudulent] - Opal Ward attempted to use an expired credit card (#9876543210987649) for a purchase of $3,500 at "GourmetFoodMarket.com" from IP address 192.168.1.8. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+14) [2023-06-15 21:37:33] - [fraudulent] - Opal Ward used an expired credit card to make a purchase of $1,800 at "PetSupplyStore.com" from IP address 192.168.1.9. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+15) [2023-06-15 21:44:59] - [fraudulent] - Opal Ward attempted to use an expired credit card (#9876543210987649) for a purchase of $3,000 at "HomeFurnitureOutlet.com" from IP address 192.168.1.10. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+16) [2023-06-15 21:53:14] - [fraudulent] - Opal Ward used an expired credit card to make a purchase of $2,500 at "SportsEquipmentSuperstore.com" from IP address 192.168.1.11. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+17) [2023-06-15 21:59:40] - [fraudulent] - Opal Ward attempted to use an expired credit card (#9876543210987649) for a purchase of $4,000 at "TravelAccessoriesStore.com" from IP address 192.168.1.12. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+18) [2023-06-15 22:07:34] - [fraudulent] - Opal Ward used an expired credit card to make a purchase of $1,700 at "ToysAndGamesOnline.com" from IP address 192.168.1.13. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+19) [2023-06-15 22:20:18] - [fraudulent] - Opal Ward attempted to make a purchase of $5,000 at "ElectronicsGalore.com" using an expired credit card (#9876543210987650) from IP address 192.168.1.14. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+20) [2023-06-15 22:27:42] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987651) to make a purchase of $2,200 at "LuxuryClothingStore.com" from IP address 192.168.1.15. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+21) [2023-06-15 22:37:09] - [fraudulent] - Opal Ward attempted to use an expired credit card (#9876543210987652) for a purchase of $3,500 at "FashionAccessoriesOnline.com" from IP address 192.168.1.16. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+22) [2023-06-15 22:47:34] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987653) to make a purchase of $1,800 at "PetSuppliesAndMore.com" from IP address 192.168.1.17. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+23) [2023-06-15 22:57:42] - [fraudulent] - Opal Ward attempted to make a purchase of $4,000 at "HomeAppliancesStore.com" using an expired credit card (#9876543210987654) from IP address 192.168.1.18. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+24) [2023-06-15 23:07:25] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987655) to make a purchase of $3,200 at "JewelryAndWatchesOnline.com" from IP address 192.168.1.19. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+25) [2023-06-15 23:17:40] - [fraudulent] - Opal Ward attempted to use an expired credit card (#9876543210987656) for a purchase of $2,500 at "SportsEquipmentSuperstore.com" from IP address 192.168.1.20. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+26) [2023-06-15 23:27:54] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987657) to make a purchase of $1,900 at "ElectronicsGalore.com" from IP address 192.168.1.21. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+27) [2023-06-15 23:37:31] - [fraudulent] - Opal Ward attempted to make a purchase of $4,500 at "TravelAccessoriesStore.com" using an expired credit card (#9876543210987658) from IP address 192.168.1.22. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+28) [2023-06-15 23:47:51] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987659) to make a purchase of $3,100 at "ToysAndGamesOnline.com" from IP address 192.168.1.23. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+29) [2023-06-15 23:55:23] - [fraudulent] - Opal Ward attempted to make a purchase of $7,800 at "HomeAppliancesSuperstore.com" using an expired credit card (#9876543210987660) from IP address 192.168.1.24. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+30) [2023-06-16 00:02:45] - [fraudulent] - Opal Ward tried to make a purchase of $9,200 at "FashionistaDiscounts.com" using an expired credit card (#9876543210987661) from IP address 192.168.1.25. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+31) [2023-06-16 00:14:07] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987662) to make a purchase of $6,500 at "LuxuryWatchesStore.com" from IP address 192.168.1.26. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+32) [2023-06-16 00:25:31] - [fraudulent] - Opal Ward attempted to make a purchase of $8,700 at "BooksAndMagazinesHub.com" using an expired credit card (#9876543210987663) from IP address 192.168.1.27. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+33) [2023-06-16 00:37:46] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987664) to make a purchase of $5,300 at "EcoFriendlyProductsStore.com" from IP address 192.168.1.28. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+34) [2023-06-16 00:50:05] - [fraudulent] - Opal Ward tried to make a purchase of $7,000 at "PetSuppliesOnline.com" using an expired credit card (#9876543210987665) from IP address 192.168.1.29. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+35) [2023-06-16 01:02:31] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987666) to make a purchase of $9,100 at "HealthAndBeautyStore.com" from IP address 192.168.1.30. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+36) [2023-06-16 01:15:04] - [fraudulent] - Opal Ward attempted to make a purchase of $6,900 at "SportsAndFitnessEquipment.com" using an expired credit card (#9876543210987667) from IP address 192.168.1.31. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+37) [2023-06-16 01:27:25] - [fraudulent] - Opal Ward used an expired credit card (#9876543210987668) to make a purchase of $5,200 at "GourmetFoodMarket.com" from IP address 192.168.1.32. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+38) [2023-06-16 01:41:07] - [fraudulent] - Opal Ward tried to make a purchase of $8,500 at "ElectronicsGalore.com" using an expired credit card (#9876543210987669) from IP address 192.168.1.33. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+39) [2023-06-16 02:05:12] - [fraudulent] - Opal Ward attempted to make a purchase of $7,300 at "ClothingAndFashion.com" using an expired credit card (#9876543210987670) from IP address 192.168.1.34. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+40) [2023-06-16 02:25:17] - [fraudulent] - Opal Ward tried to make a purchase of $9,800 at "LuxuryVacationRentals.com" using an expired credit card (#9876543210987671) from IP address 192.168.1.35. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+41) [2023-06-16 02:39:31] - [fraudulent] - Opal Ward attempted to make a purchase of $6,500 at "PremiumArtwork.com" using an expired credit card (#9876543210987672) from IP address 192.168.1.36. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+42) [2023-06-16 03:07:55] - [fraudulent] - Opal Ward tried to make a purchase of $8,100 at "GamingAccessoriesShop.com" using an expired credit card (#9876543210987673) from IP address 192.168.1.37. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+43) [2023-06-16 03:25:08] - [fraudulent] - Opal Ward attempted to make a purchase of $7,900 at "OrganicHealthProducts.com" using an expired credit card (#9876543210987674) from IP address 192.168.1.38. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+44) [2023-06-16 03:47:45] - [fraudulent] - Opal Ward tried to make a purchase of $9,200 at "HighEndJewelryStore.com" using an expired credit card (#9876543210987675) from IP address 192.168.1.39. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+45) [2023-06-16 04:07:17] - [fraudulent] - Opal Ward attempted to make a purchase of $6,800 at "HomeFurnishingsRetailer.com" using an expired credit card (#9876543210987676) from IP address 192.168.1.40. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+46) [2023-06-16 04:29:45] - [fraudulent] - Opal Ward tried to make a purchase of $8,300 at "PetSuppliesOnline.com" using an expired credit card (#9876543210987677) from IP address 192.168.1.41. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+47) [2023-06-16 05:11:17] - [fraudulent] - Opal Ward attempted to make a purchase of $9,100 at "CruiseVacations.com" using an expired credit card (#9876543210987678) from IP address 192.168.1.42. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+48) [2023-06-16 05:33:51] - [fraudulent] - Opal Ward tried to make a purchase of $7,900 at "EducationResourcesStore.com" using an expired credit card (#9876543210987679) from IP address 192.168.1.43. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+49) [2023-06-16 06:05:37] - [fraudulent] - Opal Ward attempted to make a purchase of $8,600 at "FashionDesignerOutlet.com" using an expired credit card (#9876543210987680) from IP address 192.168.1.44. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+50) [2023-06-16 07:02:15] - [fraudulent] - Opal Ward tried to make a purchase of $9,400 at "HomeAppliancesDirect.com" using an expired credit card (#9876543210987681) from IP address 192.168.1.45. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+51) [2023-06-16 07:24:53] - [fraudulent] - Opal Ward attempted to make a purchase of $8,100 at "HealthAndWellnessStore.com" using an expired credit card (#9876543210987682) from IP address 192.168.1.46. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+52) [2023-06-16 07:49:11] - [fraudulent] - Opal Ward tried to make a purchase of $8,700 at "TravelExperienceTours.com" using an expired credit card (#9876543210987683) from IP address 192.168.1.47. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+53) [2023-06-16 08:15:47] - [fraudulent] - Opal Ward attempted to make a purchase of $9,200 at "ElectronicsGalore.com" using an expired credit card (#9876543210987684) from IP address 192.168.1.48. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+54) [2023-06-16 08:47:23] - [fraudulent] - Opal Ward tried to make a purchase of $8,900 at "BeautyProductsOnline.com" using an expired credit card (#9876543210987685) from IP address 192.168.1.49. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+55) [2023-06-16 09:11:59] - [fraudulent] - Opal Ward attempted to make a purchase of $8,500 at "SportsEquipmentStore.com" using an expired credit card (#9876543210987686) from IP address 192.168.1.50. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+56) [2023-06-16 09:39:45] - [fraudulent] - Opal Ward tried to make a purchase of $9,300 at "ToysAndGamesCenter.com" using an expired credit card (#9876543210987687) from IP address 192.168.1.51. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+
+57) [2023-06-16 10:10:41] - [fraudulent] - Opal Ward attempted to make a purchase of $8,200 at "ArtSupplyOnline.com" using an expired credit card (#9876543210987688) from IP address 192.168.1.52. The transaction was flagged and declined by the merchant due to high-risk activity and multiple failed attempts within a short time frame.
+
+58) [2023-06-16 10:37:47] - [fraudulent] - Opal Ward tried to make a purchase of $9,600 at "CraftsAndHobbiesShop.com" using an expired credit card (#9876543210987689) from IP address 192.168.1.53. The transaction was flagged and declined by the merchant due to unusual purchase behavior patterns and multiple high-value transactions within a short time frame.
+

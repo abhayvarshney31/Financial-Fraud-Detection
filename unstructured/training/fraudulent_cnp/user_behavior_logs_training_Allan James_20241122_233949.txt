@@ -1,0 +1,539 @@
+User ID: Allan James
+- 
+[2023-01-09 17:56:34]
+Device: iPhone 13 Pro Max (Model: A2341)
+Network: Verizon Wireless
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a pair of shoes from ShoeStoreOnline.com after receiving the product.
+
+[2023-01-09 18:03:56]
+Device: iPhone 13 Pro Max (Model: A2341)
+Network: Verizon Wireless
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a smartwatch from TechGadgets.com after receiving the product and successfully using it for a week.
+
+[2023-01-10 09:45:12]
+Device: Samsung Galaxy S22 Ultra (Model: SM-S908U)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a pair of headphones from AudioExperts.com after receiving the product and using it for a day.
+
+[2023-01-11 14:27:58]
+Device: Google Pixel 6 Pro (Model: GV1A)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a laptop from ComputerWorld.com after receiving the product and using it for three days.
+
+[2023-01-13 08:52:34]
+Device: iPhone 12 Mini (Model: A2342)
+Network: Sprint
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a camera from PhotoStore.com after receiving the product and taking several photos with it.
+
+[2023-01-14 11:38:56]
+Device: iPhone SE (3rd Generation) (Model: A2226)
+Network: Cricket Wireless
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a gaming console from GamingHub.com after receiving the product and playing it for two days.
+
+[2023-01-15 19:42:27]
+Device: Google Pixel 6 (Model: GV1B)
+Network: Verizon Wireless
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a fitness tracker from FitnessGear.com after receiving the product and using it for a week.
+
+[2023-01-17 14:56:38]
+Device: Samsung Galaxy S21 FE (Model: SM-G990U)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a smart home device from HomeAutomation.com after receiving the product and using it for two weeks.
+
+[2023-01-19 07:58:43]
+Device: iPhone XR (Model: A1984)
+Network: Sprint
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a drone from DroneShop.com after receiving the product and flying it for a week.
+
+[2023-01-20 18:15:24]
+Device: Google Pixel 6 Pro (Model: GV1A)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a vacuum cleaner from VacuumCentral.com after receiving the product and using it for a week.
+[2023-01-21 16:32:15]
+Device: Apple iPad Pro (Model: MQD72LL/A)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a pair of headphones from HeadphoneZone.com after receiving the product and using them for two weeks.
+
+[2023-01-24 15:47:36]
+Device: ASUS ROG Zephyrus G14 (Model: GA432)
+Network: Xfinity
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a gaming console from GameConsoleShop.com after receiving the product and playing it for a week.
+
+[2023-01-26 21:24:58]
+Device: MacBook Pro (Model: MJVV2LL/A)
+Network: Spectrum
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a smartwatch from WatchStore.com after receiving the product and using it for two weeks.
+
+[2023-01-27 19:15:43]
+Device: Dell XPS 13 (Model: LAP0608)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a laptop bag from LaptopBagWorld.com after receiving the product and using it for a week.
+
+[2023-01-30 23:58:59]
+Device: Kindle Oasis (Model: B07G4P7FK6)
+Network: Comcast
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a kitchen appliance from KitchenApplianceStore.com after receiving the product and using it for two weeks.
+
+[2023-01-31 14:52:05]
+Device: HP Spectre x360 (Model: 13-ax002dx)
+Network: Sprint
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a camera from CameraWorld.com after receiving the product and using it for a week.
+[2023-02-01 19:35:08]
+Device: iPhone 13 (Model: MNN13Z)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a pair of headphones from HeadphoneShop.com after receiving the product and using it for two weeks.
+
+[2023-02-04 17:23:25]
+Device: Samsung Galaxy S22 (Model: SM-S901U)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a smart TV from SmartTVStore.com after receiving the product and using it for a week.
+
+[2023-02-05 14:15:37]
+Device: iPad Pro (Model: MQD92LL/A)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a gaming console from GamingConsoleStore.com after receiving the product and using it for two weeks.
+
+[2023-02-08 19:45:52]
+Device: Surface Pro 8 (Model: 1965)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a pair of wireless earbuds from EarbudStore.com after receiving the product and using it for a week.
+
+[2023-02-10 16:30:09]
+Device: Pixel 6 Pro (Model: GV2B)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a pair of smart glasses from SmartGlassesStore.com after receiving the product and using it for two weeks.
+
+[2023-02-13 19:55:24]
+Device: MacBook Air (Model: M1,8)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a pair of Bluetooth speakers from SpeakerWorld.com after receiving the product and using it for a week.
+
+[2023-02-14 14:45:05]
+Device: Galaxy Tab S7+ (Model: SM-T976B)
+Network: Comcast
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of home speakers from SpeakerStore.com after receiving the product and using it for two weeks.
+[2023-02-16 17:28:49]
+Device: iPhone 13 Pro (Model: C20)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-end gaming laptop from LaptopGiant.com after receiving the product and using it for a month.
+
+[2023-02-17 21:15:32]
+Device: Lenovo ThinkPad X1 Carbon (Model: 2410)
+Network: Spectrum
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-quality camera from CameraWorld.com after receiving the product and using it for three weeks.
+
+[2023-02-18 19:45:10]
+Device: iPad Pro (Model: M1,7)
+Network: Cox Communications
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a smartwatch from SmartWatchStore.com after receiving the product and using it for two weeks.
+
+[2023-02-19 14:55:06]
+Device: Surface Laptop 4 (Model: 1648)
+Network: Xfinity
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a DSLR camera bundle from CameraDeals.com after receiving the product and using it for three weeks.
+
+[2023-02-20 16:35:47]
+Device: Galaxy S22 Ultra (Model: SM-G998U)
+Network: CenturyLink
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a premium tablet from TabletCentral.com after receiving the product and using it for a month.
+
+[2023-02-21 21:05:39]
+Device: ASUS ZenBook Pro Duo (Model: UX581)
+Network: Frontier Communications
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of high-quality headphones from HeadphoneHaven.com after receiving the product and using it for two weeks.
+
+[2023-02-22 18:45:28]
+Device: MacBook Pro (Model: M1 Max)
+Network: Windstream Communications
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a collection of designer clothing from FashionBoutique.com after receiving the product and wearing it for two weeks.
+
+[2023-02-23 17:45:19]
+Device: HP Spectre x360 (Model: 15t)
+Network: Sprint
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-end gaming mouse from MouseMaster.com after receiving the product and using it for one week.
+[2023-02-24 16:58:47]
+Device: Dell XPS 13 (Model: 9310)
+Network: Verizon Wireless
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for an advanced smart home security system from HomeGuard.com after receiving the product and using it for one week.
+
+[2023-02-25 14:05:09]
+Device: Lenovo ThinkPad X1 Carbon (Model: 7th Gen)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-quality DSLR camera from PhotoPro.com after receiving the product and using it for two weeks.
+
+[2023-02-26 19:35:12]
+Device: Google Pixel 6 Pro (Model: GV1A)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of wireless earbuds from EarBudStore.com after receiving the product and using them for one week.
+
+[2023-02-27 18:59:56]
+Device: Surface Laptop 4 (Model: AMD)
+Network: Comcast Xfinity
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-end vacuum cleaner from VacuumCentral.com after receiving the product and using it for two weeks.
+
+[2023-02-28 15:30:43]
+Device: Acer Swift 3 (Model: SF314-42)
+Network: Spectrum
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-quality electric kettle from KettleKing.com after receiving the product and using it for one week.
+
+[2023-03-01 19:25:18]
+Device: Samsung Galaxy Z Fold 3 (Model: SM-F926N)
+Network: Sprint
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of high-quality kitchen knives from KnifeEnthusiast.com after receiving the product and using them for one week.
+
+[2023-03-02 18:09:54]
+Device: Microsoft Surface Pro 7 (Model: Intel)
+Network: CenturyLink
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a pair of premium wireless headphones from HeadphoneHub.com after receiving the product and using them for two weeks.
+
+[2023-03-03 16:54:09]
+Device: LG Gram (Model: 16Z90P)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of high-end bluetooth speakers from SpeakerStation.com after receiving the product and using them for one week.
+[2023-03-04 15:38:37]
+Device: Apple iPhone XR (Model: A1984)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a smart home security system from SecureHome.com after receiving the product and using it for one month.
+
+[2023-03-05 14:46:09]
+Device: Dell XPS 13 (Model: 7390)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-quality camera lens from LensMasters.com after receiving the product and using it for one month.
+
+[2023-03-06 17:55:48]
+Device: Google Pixel 6 (Model: GV1A)
+Network: US Cellular
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of smart home automation devices from SmartHomeHub.com after receiving the product and using them for one month.
+
+[2023-03-07 16:19:55]
+Device: Lenovo ThinkPad X1 Carbon (Model: 20YG)
+Network: Sprint
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a premium gaming mouse from GamingMouse.com after receiving the product and using it for one month.
+
+[2023-03-08 17:45:36]
+Device: HP Spectre x360 (Model: 13-as0002d)
+Network: CenturyLink
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-quality electric toothbrush from OralCarePro.com after receiving the product and using it for one month.
+
+[2023-03-09 15:56:48]
+Device: ASUS ZenBook 13 (Model: UX325)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of designer sunglasses from SunglassCentral.com after receiving the product and using them for one month.
+
+[2023-03-10 18:05:09]
+Device: Acer Swift 7 (Model: SF714-52G)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a collection of vinyl records from VinylVault.com after receiving the product and using them for one month.
+
+[2023-03-11 19:34:59]
+Device: MacBook Pro 16" (Model: A1708)
+Network: US Cellular
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-quality espresso machine from EspressoMasters.com after receiving the product and using it for one month.
+[2023-03-12 10:17:42]
+Device: Dell XPS 13 (Model: 9310)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of premium headphones from HeadphoneHaven.com after receiving the product and using them for one month.
+
+[2023-03-13 17:56:04]
+Device: Lenovo ThinkPad X1 Carbon (Model: 8th Gen)
+Network: Sprint
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a smart home security system from HomeSecurityPro.com after receiving the product and using it for one month.
+
+[2023-03-14 21:28:57]
+Device: Microsoft Surface Laptop 4 (Model: 15" AMD)
+Network: Google Fi
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-quality electric kettle from KettleKing.com after receiving the product and using it for one month.
+
+[2023-03-15 19:47:13]
+Device: HP Spectre x360 (Model: 14" 2-in-1)
+Network: Xfinity
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a collection of art supplies from ArtSuppliesOnline.com after receiving the product and using them for one month.
+
+[2023-03-16 23:34:59]
+Device: Google Pixel 6 Pro (Model: GV1A)
+Network: Spectrum
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-quality massage chair from MassageChairWorld.com after receiving the product and using it for one month.
+
+[2023-03-17 15:08:47]
+Device: Samsung Galaxy S22 Ultra (Model: SM-S928U)
+Network: U.S. Cellular
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of high-quality cooking knives from KnifeExperts.com after receiving the product and using them for one month.
+
+[2023-03-18 16:57:19]
+Device: iPad Pro 12.9" (Model: M1)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a collection of board games from BoardGameSale.com after receiving the product and using them for one month.
+[2023-03-19 08:45:32]
+Device: MacBook Pro 16" (Model: A2147)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of high-quality camping gear from OutdoorGearStore.com after receiving the product and using them for one month.
+
+[2023-03-20 14:56:11]
+Device: Lenovo ThinkPad X1 Carbon (Model: 20A7)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of professional cameras and lenses from PhotographyWorld.com after receiving the product and using them for one month.
+
+[2023-03-21 18:42:59]
+Device: Surface Laptop 4 (Model: 1656)
+Network: Xfinity
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a collection of electronic gadgets from TechShopper.com after receiving the product and using them for one month.
+
+[2023-03-22 21:37:45]
+Device: Google Pixel 6 Pro (Model: GV1A)
+Network: Spectrum
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a custom-built gaming PC from GamePCBuilder.com after receiving the product and using it for one month.
+
+[2023-03-23 09:18:23]
+Device: Samsung Galaxy S22 Ultra (Model: SM-S928U)
+Network: U.S. Cellular
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a smart home security system from SecuritySystemsOnline.com after receiving the product and using it for one month.
+
+[2023-03-24 16:58:59]
+Device: iPad Pro 12.9" (Model: M1)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a designer handbag from HandbagsAndPurses.com after receiving the product and using it for one month.
+
+[2023-03-25 19:49:31]
+Device: MacBook Pro 16" (Model: A2147)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of premium headphones from HeadphoneStore.com after receiving the product and using them for one month.
+
+[2023-03-26 21:50:49]
+Device: Lenovo ThinkPad X1 Carbon (Model: 20A7)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a collection of designer clothing from FashionWorld.com after receiving the product and using them for one month.
+[2023-03-27 10:15:33]
+Device: Samsung Galaxy S22 Ultra (Model: SM-S908U)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of smart home appliances from HomeAppliances.com after receiving the product and using them for one month.
+
+[2023-03-28 14:56:57]
+Device: iPhone 13 Pro Max (Model: MVJK2LL/A)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-end gaming laptop from GamingLaptops.com after receiving the product and using it for one month.
+
+[2023-03-29 17:48:26]
+Device: Dell XPS 15 (Model: 9500)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of expensive kitchen knives from KnivesAndCutlery.com after receiving the product and using them for one month.
+
+[2023-03-30 19:30:45]
+Device: Google Pixel 6 Pro (Model: GVY8)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a premium blender from BlendersAndMixers.com after receiving the product and using it for one month.
+
+[2023-03-31 21:49:58]
+Device: ASUS ZenBook Pro Duo (Model: UX581)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of high-quality binoculars from BinocularsAndScopes.com after receiving the product and using them for one month.
+
+[2023-04-01 16:56:19]
+Device: Surface Laptop 4 (Model: 1589)
+Network: T-Mobile
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a collection of designer watches from WatchesAndTimepieces.com after receiving the product and using them for one month.
+
+[2023-04-02 19:48:56]
+Device: Huawei MateBook X Pro (Model: MQD-W1H)
+Network: Verizon
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of high-end headphones from PremiumHeadphones.com after receiving the product and using them for one month.
+
+[2023-04-03 21:59:38]
+Device: Sony VAIO S Series (Model: SVF1321CXS)
+Network: AT&T
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of designer luggage from LuggageAndTravelGear.com after receiving the product and using them for one month.
+[2023-04-04 09:12:56]
+Device: MacBook Air (Model: M1, 8GB RAM, 256GB SSD)
+Network: Xfinity
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a high-end camera from CamerasAndAccessories.com after receiving the product and using it for one month.
+
+[2023-04-05 16:35:21]
+Device: Samsung Galaxy S22 Ultra (Model: SM-S908U)
+Network: Sprint
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a gaming console bundle from GamingDeals.com after receiving the product and using it for one month.
+
+[2023-04-06 19:58:45]
+Device: iPad Pro (Model: M1)
+Network: Spectrum
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of kitchen appliances from KitchenAndHomeGoods.com after receiving the product and using them for one month.
+
+[2023-04-07 21:05:59]
+Device: Dell XPS 13 (Model: 7390)
+Network: Comcast
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of smart home devices from SmartHomeTechnologies.com after receiving the product and using them for one month.
+
+[2023-04-08 17:19:56]
+Device: ASUS ZenBook Pro Duo (Model: UX581)
+Network: Frontier Communications
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of designer clothing from FashionAndApparel.com after receiving the product and wearing them for one month.
+
+[2023-04-09 18:32:52]
+Device: Google Pixel 6 Pro (Model: GS21)
+Network: Windstream
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of high-quality art supplies from ArtSuppliesAndMaterials.com after receiving the product and using them for one month.
+
+[2023-04-10 19:50:49]
+Device: HP Spectre x360 (Model: 14-ap002na)
+Network: CenturyLink
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of premium fitness equipment from FitnessEquipmentAndAccessories.com after receiving the product and using them for one month.
+
+[2023-04-11 16:28:57]
+Device: Microsoft Surface Pro 7 (Model: 1796)
+Network: Cox Communications
+Type: Fraudulent
+User: Allan James
+Description: Initiated chargeback on a legitimate transaction for a set of collectible action figures from ToysAndCollectibles.com after receiving the product and playing with them for one month.
+

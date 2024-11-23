@@ -1,0 +1,118 @@
+User ID: Lizbeth Garcia
+- 
+Log Entry 1: [fraudulent] - 03/23/2022 12:05 PM - Lizbeth Garcia - Login from Moscow, Russia (Country: RU) - Device ID: AB-CD-EF-GH-12-IJ - Network: XYZ_International_Hotspot
+
+Log Entry 2: [fraudulent] - 03/24/2022 8:39 AM - Lizbeth Garcia - Suspicious activity detected: Multiple failed login attempts from Brisbane, Australia (Country: AU) - Device ID: AB-CD-EF-GH-12-IJ - Network: ABC_Oceanic_WiFi
+
+Log Entry 3: [fraudulent] - 03/24/2022 9:27 AM - Lizbeth Garcia - Account accessed from Hong Kong, China (Country: HK) - Device ID: AB-CD-EF-GH-12-IJ - Network: LMN_HongKong_WiFi
+
+Log Entry 4: [fraudulent] - 03/25/2022 4:49 AM - Lizbeth Garcia - Unauthorized access attempt from Rio de Janeiro, Brazil (Country: BR) - Device ID: AB-CD-EF-GH-12-IJ - Network: ST_Brazil_Hotspot
+
+Log Entry 5: [fraudulent] - 03/26/2022 9:58 PM - Lizbeth Garcia - Login from Dubai, United Arab Emirates (Country: AE) - Device ID: AB-CD-EF-GH-12-IJ - Network: JK_Dubai_WiFi
+
+Log Entry 6: [fraudulent] - 03/27/2022 8:22 AM - Lizbeth Garcia - Multiple login attempts from Tokyo, Japan (Country: JP) - Device ID: AB-CD-EF-GH-12-IJ - Network: MN_Tokyo_Internet_Cafe
+
+Log Entry 7: [fraudulent] - 03/28/2022 5:41 PM - Lizbeth Garcia - Account accessed from Singapore, Singapore (Country: SG) - Device ID: AB-CD-EF-GH-12-IJ - Network: OP_Singapore_WiFi
+
+Log Entry 8: [fraudulent] - 03/29/2022 6:09 PM - Lizbeth Garcia - Unauthorized login from New Delhi, India (Country: IN) - Device ID: AB-CD-EF-GH-12-IJ - Network: PQ_India_WiFi
+
+Log Entry 9: [fraudulent] - 03/30/2022 12:57 AM - Lizbeth Garcia - Login from Seoul, South Korea (Country: KR) - Device ID: AB-CD-EF-GH-12-IJ - Network: RS_Seoul_WiFi
+
+Log Entry 10: [fraudulent] - 03/30/2022 5:45 PM - Lizbeth Garcia - Multiple login attempts from Sydney, Australia (Country: AU) - Device ID: AB-CD-EF-GH-12-IJ - Network: TU_Sydney_WiFi
+Log Entry 11: [fraudulent] - 03/31/2022 9:18 AM - Lizbeth Garcia - Unauthorized login from Vancouver, Canada (Country: CA) - Device ID: AB-CD-EF-GH-12-IJ - Network: UV_Vancouver_Internet
+
+Log Entry 12: [fraudulent] - 04/01/2022 4:32 PM - Lizbeth Garcia - Account accessed from Rio de Janeiro, Brazil (Country: BR) - Device ID: AB-CD-EF-GH-12-IJ - Network: VW_Rio_de_Janeiro_WiFi
+
+Log Entry 13: [fraudulent] - 04/02/2022 7:59 PM - Lizbeth Garcia - Login from Beijing, China (Country: CN) - Device ID: AB-CD-EF-GH-12-IJ - Network: XY_Beijing_Internet
+
+Log Entry 14: [fraudulent] - 04/03/2022 9:55 AM - Lizbeth Garcia - Multiple login attempts from Frankfurt, Germany (Country: DE) - Device ID: AB-CD-EF-GH-12-IJ - Network: ZQ_Frankfurt_WiFi
+
+Log Entry 15: [fraudulent] - 04/03/2022 11:23 PM - Lizbeth Garcia - Unauthorized login from Dubai, United Arab Emirates (Country: AE) - Device ID: AB-CD-EF-GH-12-IJ - Network: KL_Dubai_Internet
+
+Log Entry 16: [fraudulent] - 04/05/2022 3:17 AM - Lizbeth Garcia - Account accessed from Moscow, Russia (Country: RU) - Device ID: AB-CD-EF-GH-12-IJ - Network: OP_Moscow_WiFi
+
+Log Entry 17: [fraudulent] - 04/06/2022 8:43 PM - Lizbeth Garcia - Login from Cancun, Mexico (Country: MX) - Device ID: AB-CD-EF-GH-12-IJ - Network: PQ_Cancun_WiFi
+
+Log Entry 18: [fraudulent] - 04/07/2022 10:59 PM - Lizbeth Garcia - Multiple login attempts from Melbourne, Australia (Country: AU) - Device ID: AB-CD-EF-GH-12-IJ - Network: RS_Melbourne_WiFi
+
+Log Entry 19: [fraudulent] - 04/08/2022 5:36 AM - Lizbeth Garcia - Unauthorized login from Santiago, Chile (Country: CL) - Device ID: AB-CD-EF-GH-12-IJ - Network: UV_Santiago_WiFi
+
+Log Entry 20: [fraudulent] - 04/09/2022 7:05 PM - Lizbeth Garcia - Account accessed from Singapore, Singapore (Country: SG) - Device ID: AB-CD-EF-GH-12-IJ - Network: OP_Singapore_WiFi
+Log Entry 21: [fraudulent] - 04/10/2022 3:27 AM - Lizbeth Garcia - Multiple failed login attempts from Istanbul, Turkey (Country: TR) - Device ID: AB-CD-EF-GH-12-IJ - Network: YZ_Istanbul_Internet
+
+Log Entry 22: [fraudulent] - 04/11/2022 8:59 PM - Lizbeth Garcia - Unauthorized access from Madrid, Spain (Country: ES) - Device ID: AB-CD-EF-GH-12-IJ - Network: VO_Madrid_WiFi
+
+Log Entry 23: [fraudulent] - 04/12/2022 10:47 PM - Lizbeth Garcia - Account accessed from Tokyo, Japan (Country: JP) - Device ID: AB-CD-EF-GH-12-IJ - Network: WX_Tokyo_Internet
+
+Log Entry 24: [fraudulent] - 04/13/2022 5:26 AM - Lizbeth Garcia - Multiple failed login attempts from Seoul, South Korea (Country: KR) - Device ID: AB-CD-EF-GH-12-IJ - Network: YZ_Seoul_Internet
+
+Log Entry 25: [fraudulent] - 04/14/2022 7:32 PM - Lizbeth Garcia - Unauthorized access from Dubai, United Arab Emirates (Country: AE) - Device ID: AB-CD-EF-GH-12-IJ - Network: KL_Dubai_Internet
+
+Log Entry 26: [fraudulent] - 04/15/2022 9:58 PM - Lizbeth Garcia - Account accessed from Paris, France (Country: FR) - Device ID: AB-CD-EF-GH-12-IJ - Network: OP_Paris_WiFi
+
+Log Entry 27: [fraudulent] - 04/16/2022 3:45 AM - Lizbeth Garcia - Multiple failed login attempts from Rome, Italy (Country: IT) - Device ID: AB-CD-EF-GH-12-IJ - Network: VO_Rome_Internet
+
+Log Entry 28: [fraudulent] - 04/17/2022 5:13 PM - Lizbeth Garcia - Unauthorized access from Sydney, Australia (Country: AU) - Device ID: AB-CD-EF-GH-12-IJ - Network: RS_Sydney_WiFi
+
+Log Entry 29: [fraudulent] - 04/18/2022 7:39 PM - Lizbeth Garcia - Account accessed from Rio de Janeiro, Brazil (Country: BR) - Device ID: AB-CD-EF-GH-12-IJ - Network: QA_RioDeJaneiro_WiFi
+
+Log Entry 30: [fraudulent] - 04/19/2022 11:52 PM - Lizbeth Garcia - Multiple failed login attempts from New York, USA (Country: US) - Device ID: AB-CD-EF-GH-12-IJ - Network: WX_NewYork_Internet
+Log Entry 31: [fraudulent] - 04/20/2022 6:05 AM - Lizbeth Garcia - Unsuccessful login attempt from Moscow, Russia (Country: RU) - Device ID: AB-CD-EF-GH-12-IJ - Network: YZ_Moscow_Internet
+
+Log Entry 32: [fraudulent] - 04/21/2022 7:59 PM - Lizbeth Garcia - Account accessed from Tokyo, Japan (Country: JP) - Device ID: AB-CD-EF-GH-12-IJ - Network: ST_Tokyo_WiFi
+
+Log Entry 33: [fraudulent] - 04/22/2022 8:27 PM - Lizbeth Garcia - Multiple failed login attempts from Johannesburg, South Africa (Country: ZA) - Device ID: AB-CD-EF-GH-12-IJ - Network: UV_Johannesburg_Internet
+
+Log Entry 34: [fraudulent] - 04/23/2022 5:03 AM - Lizbeth Garcia - Unsuccessful login attempt from Cairo, Egypt (Country: EG) - Device ID: AB-CD-EF-GH-12-IJ - Network: WW_Cairo_Internet
+
+Log Entry 35: [fraudulent] - 04/24/2022 7:38 PM - Lizbeth Garcia - Account accessed from Pretoria, South Africa (Country: ZA) - Device ID: AB-CD-EF-GH-12-IJ - Network: UT_Pretoria_WiFi
+
+Log Entry 36: [fraudulent] - 04/25/2022 8:29 PM - Lizbeth Garcia - Multiple failed login attempts from Mexico City, Mexico (Country: MX) - Device ID: AB-CD-EF-GH-12-IJ - Network: VQ_MexicoCity_Internet
+
+Log Entry 37: [fraudulent] - 04/26/2022 5:18 AM - Lizbeth Garcia - Unsuccessful login attempt from Singapore (Country: SG) - Device ID: AB-CD-EF-GH-12-IJ - Network: SO_Singapore_Internet
+
+Log Entry 38: [fraudulent] - 04/27/2022 6:59 PM - Lizbeth Garcia - Account accessed from Seoul, South Korea (Country: KR) - Device ID: AB-CD-EF-GH-12-IJ - Network: UX_Seoul_WiFi
+
+Log Entry 39: [fraudulent] - 04/28/2022 7:25 PM - Lizbeth Garcia - Multiple failed login attempts from Istanbul, Turkey (Country: TR) - Device ID: AB-CD-EF-GH-12-IJ - Network: VT_Istanbul_Internet
+
+Log Entry 40: [fraudulent] - 04/29/2022 5:37 AM - Lizbeth Garcia - Unsuccessful login attempt from Berlin, Germany (Country: DE) - Device ID: AB-CD-EF-GH-12-IJ - Network: WW_Berlin_Internet
+Log Entry 41: [fraudulent] - 04/30/2022 6:52 PM - Lizbeth Garcia - Account accessed from Cancun, Mexico (Country: MX) - Device ID: AB-CD-EF-GH-12-IJ - Network: XY_Cancun_Hotspot
+
+Log Entry 42: [fraudulent] - 05/01/2022 3:19 AM - Lizbeth Garcia - Multiple failed login attempts from Sydney, Australia (Country: AU) - Device ID: AB-CD-EF-GH-12-IJ - Network: YZ_Sydney_Internet
+
+Log Entry 43: [fraudulent] - 05/02/2022 6:44 PM - Lizbeth Garcia - Unsuccessful login attempt from Moscow, Russia (Country: RU) - Device ID: AB-CD-EF-GH-12-IJ - Network: AA_Moscow_WiFi
+
+Log Entry 44: [fraudulent] - 05/03/2022 9:26 PM - Lizbeth Garcia - Account accessed from Dubai, United Arab Emirates (Country: AE) - Device ID: AB-CD-EF-GH-12-IJ - Network: BB_Dubai_Internet
+
+Log Entry 45: [fraudulent] - 05/04/2022 12:39 AM - Lizbeth Garcia - Multiple failed login attempts from Johannesburg, South Africa (Country: ZA) - Device ID: AB-CD-EF-GH-12-IJ - Network: CC_Johannesburg_WiFi
+
+Log Entry 46: [fraudulent] - 05/05/2022 7:10 PM - Lizbeth Garcia - Unsuccessful login attempt from Riyadh, Saudi Arabia (Country: SA) - Device ID: AB-CD-EF-GH-12-IJ - Network: DD_Riyadh_Internet
+Log Entry 47: [fraudulent] - 05/06/2022 1:55 AM - Lizbeth Garcia - Account accessed from Seoul, South Korea (Country: KR) - Device ID: AB-CD-EF-GH-12-IJ - Network: EE_Seoul_WiMax
+
+Log Entry 48: [fraudulent] - 05/07/2022 3:30 PM - Lizbeth Garcia - Multiple failed login attempts from Tokyo, Japan (Country: JP) - Device ID: AB-CD-EF-GH-12-IJ - Network: FF_Tokyo_WiFi
+
+Log Entry 49: [fraudulent] - 05/08/2022 10:45 PM - Lizbeth Garcia - Unsuccessful login attempt from Singapore, Singapore (Country: SG) - Device ID: AB-CD-EF-GH-12-IJ - Network: GG_Singapore_Internet
+
+Log Entry 50: [fraudulent] - 05/09/2022 4:52 AM - Lizbeth Garcia - Account accessed from Auckland, New Zealand (Country: NZ) - Device ID: AB-CD-EF-GH-12-IJ - Network: HH_Auckland_Wireless
+
+Log Entry 51: [fraudulent] - 05/10/2022 8:07 PM - Lizbeth Garcia - Multiple failed login attempts from Sydney, Australia (Country: AU) - Device ID: AB-CD-EF-GH-12-IJ - Network: II_Sydney_Mobile
+
+Log Entry 52: [fraudulent] - 05/11/2022 12:23 AM - Lizbeth Garcia - Unsuccessful login attempt from Moscow, Russia (Country: RU) - Device ID: AB-CD-EF-GH-12-IJ - Network: JJ_Moscow_WiFi
+
+Log Entry 53: [fraudulent] - 05/12/2022 11:48 PM - Lizbeth Garcia - Account accessed from Toronto, Canada (Country: CA) - Device ID: AB-CD-EF-GH-12-IJ - Network: KK_Toronto_Internet
+
+Log Entry 54: [fraudulent] - 05/13/2022 6:30 AM - Lizbeth Garcia - Multiple failed login attempts from Dubai, United Arab Emirates (Country: AE) - Device ID: AB-CD-EF-GH-12-IJ - Network: LL_Dubai_WiFi
+
+Log Entry 55: [fraudulent] - 05/14/2022 8:19 PM - Lizbeth Garcia - Unsuccessful login attempt from Seoul, South Korea (Country: KR) - Device ID: AB-CD-EF-GH-12-IJ - Network: MM_Seoul_LTE
+Log Entry 56: [fraudulent] - 05/15/2022 12:57 AM - Lizbeth Garcia - Account accessed from Tokyo, Japan (Country: JP) - Device ID: AB-CD-EF-GH-12-IJ - Network: NN_Tokyo_Wireless
+
+Log Entry 57: [fraudulent] - 05/16/2022 4:03 PM - Lizbeth Garcia - Multiple failed login attempts from Paris, France (Country: FR) - Device ID: AB-CD-EF-GH-12-IJ - Network: OO_Paris_WiFi
+
+Log Entry 58: [fraudulent] - 05/17/2022 9:36 PM - Lizbeth Garcia - Unsuccessful login attempt from Buenos Aires, Argentina (Country: AR) - Device ID: AB-CD-EF-GH-12-IJ - Network: PP_BuenosAires_Mobile
+
+Log Entry 59: [fraudulent] - 05/18/2022 7:45 AM - Lizbeth Garcia - Account accessed from Riyadh, Saudi Arabia (Country: SA) - Device ID: AB-CD-EF-GH-12-IJ - Network: QQ_Riyadh_Internet
+
+Log Entry 60: [fraudulent] - 05/19/2022 3:22 PM - Lizbeth Garcia - Multiple failed login attempts from Singapore, Singapore (Country: SG) - Device ID: AB-CD-EF-GH-12-IJ - Network: RR_Singapore_WiFi
+
+Log Entry 61: [fraudulent] - 05/20/2022 9:48 PM - Lizbeth Garcia - Unsuccessful login attempt from Cairo, Egypt (Country: EG) - Device ID: AB-CD-EF-GH-12-IJ - Network: SS_Cairo_LTE
+

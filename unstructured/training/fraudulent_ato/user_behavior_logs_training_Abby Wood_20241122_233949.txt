@@ -1,0 +1,109 @@
+User ID: Abby Wood
+- 
+1. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 12:00 AM on Feb 1, 2023.
+2. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 1:00 AM on Feb 1, 2023.
+3. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 1:30 AM on Feb 1, 2023.
+4. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 2:00 AM on Feb 1, 2023.
+5. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 2:30 AM on Feb 1, 2023.
+6. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 3:00 AM on Feb 1, 2023.
+7. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 3:30 AM on Feb 1, 2023.
+8. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 4:00 AM on Feb 1, 2023.
+9. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 4:30 AM on Feb 1, 2023.
+10. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 5:00 AM on Feb 1, 2023.
+11. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 5:30 AM on Feb 1, 2023.
+12. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 6:00 AM on Feb 1, 2023.
+13. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 6:30 AM on Feb 1, 2023.
+14. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 7:00 AM on Feb 1, 2023.
+15. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 7:30 AM on Feb 1, 2023.
+16. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 8:00 AM on Feb 1, 2023.
+17. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 8:30 AM on Feb 1, 2023.
+18. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 9:00 AM on Feb 1, 2023.
+19. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 9:30 AM on Feb 1, 2023.
+20. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 10:00 AM on Feb 1, 2023.
+21. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 10:30 AM on Feb 1, 2023.
+22. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 11:00 AM on Feb 1, 2023.
+23. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 11:30 AM on Feb 1, 2023.
+24. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 12:00 PM on Feb 1, 2023.
+25. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 12:30 PM on Feb 1, 2023.
+26. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 1:00 PM on Feb 1, 2023.
+27. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 1:30 PM on Feb 1, 2023.
+28. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 2:00 PM on Feb 1, 2023.
+29. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 2:30 PM on Feb 1, 2023.
+30. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 3:00 PM on Feb 1, 2023.
+31. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "IPhone X, iOS 14.2" at 3:30 PM on Feb 1, 2023.
+32. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 4:00 PM on Feb 1, 2023.
+33. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 4:30 PM on Feb 1, 2023.
+34. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "IPhone X, iOS 14.2" at 5:00 PM on Feb 1, 2023.
+35. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using incorrect details from the device "Samsung Galaxy S10, Android 11" at 5:30 PM on Feb 1, 2023.
+36. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 6:00 PM on Feb 1, 2023.
+37. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 6:30 PM on Feb 1, 2023.
+38. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 7:00 PM on Feb 1, 2023.
+39. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 7:30 PM on Feb 1, 2023.
+40. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 8:00 PM on Feb 1, 2023.
+41. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 8:30 PM on Feb 1, 2023.
+42. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 9:00 PM on Feb 1, 2023.
+43. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 9:30 PM on Feb 1, 2023.
+44. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 10:00 PM on Feb 1, 2023.
+45. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 10:30 PM on Feb 1, 2023.
+46. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 11:00 PM on Feb 1, 2023.
+47. [fraudulent] - User Abby Wood (123-456-7890) made another password change attempt from the device "Samsung Galaxy S10, Android 11" at 11:30 PM on Feb 1, 2023.
+48. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 12:00 AM on Feb 2, 2023.
+49. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 12:30 AM on Feb 2, 2023.
+50. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "Huawei P30, Android 10" at 1:00 AM on Feb 2, 2023.
+51. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 1:30 AM on Feb 2, 2023.
+52. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 2:00 AM on Feb 2, 2023.
+53. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 2:30 AM on Feb 2, 2023.
+54. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 3:00 AM on Feb 2, 2023.
+55. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 3:30 AM on Feb 2, 2023.
+56. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 4:00 AM on Feb 2, 2023.
+57. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 4:30 AM on Feb 2, 2023.
+58. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 5:00 AM on Feb 2, 2023.
+59. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 5:30 AM on Feb 2, 2023.
+60. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 6:00 AM on Feb 2, 2023.
+61. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 6:30 AM on Feb 2, 2023.
+62. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 7:00 AM on Feb 2, 2023.
+63. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 7:30 AM on Feb 2, 2023.
+64. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 8:00 AM on Feb 2, 2023.
+65. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 8:30 AM on Feb 2, 2023.
+66. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 9:00 AM on Feb 2, 2023.
+67. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 9:30 AM on Feb 2, 2023.
+68. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 10:00 AM on Feb 2, 2023.
+69. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 10:30 AM on Feb 2, 2023.
+70. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 11:00 AM on Feb 2, 2023.
+71. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 11:30 AM on Feb 2, 2023.
+72. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 12:00 PM on Feb 2, 2023.
+73. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 12:30 PM on Feb 2, 2023.
+74. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 1:00 PM on Feb 2, 2023.
+75. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 1:30 PM on Feb 2, 2023.
+76. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 2:00 PM on Feb 2, 2023.
+77. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 2:30 PM on Feb 2, 2023.
+
+78. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 3:00 PM on Feb 2, 2023.
+
+79. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 3:30 PM on Feb 2, 2023.
+
+80. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 4:00 PM on Feb 2, 2023.
+
+81. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 4:30 PM on Feb 2, 2023.
+
+82. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 5:00 PM on Feb 2, 2023.
+
+83. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 5:30 PM on Feb 2, 2023.
+
+84. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 6:00 PM on Feb 2, 2023.
+
+85. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 6:30 PM on Feb 2, 2023.
+
+86. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 7:00 PM on Feb 2, 2023.
+87. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 7:30 PM on Feb 2, 2023.
+
+88. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 8:00 PM on Feb 2, 2023.
+
+89. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "IPhone X, iOS 14.2" at 8:30 PM on Feb 2, 2023.
+
+90. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password from the device "LG V60 ThinQ, Android 11" at 9:00 PM on Feb 2, 2023.
+
+91. [fraudulent] - User Abby Wood (123-456-7890) made a password change attempt using incorrect details from the device "Samsung Galaxy S10, Android 11" at 9:30 PM on Feb 2, 2023.
+
+92. [fraudulent] - User Abby Wood (123-456-7890) attempted to change account password using new details from the device "MacBook Pro 15", OS version not available" at 10:00 PM on Feb 2, 2023.
+

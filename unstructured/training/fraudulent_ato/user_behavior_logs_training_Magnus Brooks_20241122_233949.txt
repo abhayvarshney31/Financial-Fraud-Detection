@@ -1,0 +1,153 @@
+User ID: Magnus Brooks
+- 
+1. [03:32:26] Magnus Brooks - Device: Apple iPhone 12 Pro Max (IMEI: XXXXXXXXXXXXXXX) - Network: Verizon Wireless
+Attempted to reset account credentials multiple times within minutes, with incorrect information provided each time. The user has been flagged for suspicious activity and is being investigated.
+
+2. [03:34:18] Magnus Brooks - Device: Apple iPhone 12 Pro Max (IMEI: XXXXXXXXXXXXXXX) - Network: Verizon Wireless
+Magnus Brooks attempted to reset account credentials again, with different incorrect information. The IP address associated with the login is flagged as potentially malicious.
+
+3. [03:36:12] Magnus Brooks - Device: Apple iPhone 12 Pro Max (IMEI: XXXXXXXXXXXXXXX) - Network: Verizon Wireless
+The user continued attempting to reset account credentials, with multiple incorrect pieces of information provided. The IP address is now blocked, and the account has been temporarily locked for security reasons.
+
+4. [03:39:26] Magnus Brooks - Device: Apple iPhone 12 Pro Max (IMEI: XXXXXXXXXXXXXXX) - Network: Verizon Wireless
+Magnus Brooks attempted to bypass the account lock by using a VPN service. The action has been recorded and is being investigated.
+
+5. [03:42:11] Magnus Brooks - Device: Apple iPhone 12 Pro Max (IMEI: XXXXXXXXXXXXXXX) - Network: Verizon Wireless
+The user tried to reset the account credentials again, this time using a different device (Samsung Galaxy S21 Ultra, IMEI: YYYYYYYYYYYYY). The device has been flagged for suspicious activity.
+
+6. [03:45:48] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to reset the account credentials with a new set of incorrect information, using the same device. The login attempt was blocked and flagged as fraudulent.
+
+7. [03:48:05] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYYY) - Network: Verizon Wireless
+The user switched back to the Apple iPhone 12 Pro Max (IMEI: XXXXXXXXXXXXXXX), attempting to reset account credentials with a mix of incorrect and correct information. This behavior is considered highly suspicious.
+
+8. [03:51:32] Magnus Brooks - Device: Apple iPhone 12 Pro Max (IMEI: XXXXXXXXXXXXXXX) - Network: Verizon Wireless
+Magnus Brooks tried to reset the account credentials multiple times with various incorrect information, showing a clear pattern of fraudulent behavior. The account has been temporarily suspended for further investigation.
+
+9. [03:55:29] Magnus Brooks - Device: Apple iPhone 12 Pro Max (IMEI: XXXXXXXXXXXXXXX) - Network: Verizon Wireless
+The user attempted to bypass the account suspension by using a new device (Google Pixel 6, IMEI: ZZZZZZZZZZZZZ). The action has been recorded and is being investigated.
+
+10. [03:58:20] Magnus Brooks - Device: Google Pixel 6 (IMEI: ZZZZZZZZZZZZZ) - Network: Verizon Wireless
+Magnus Brooks continued attempting to reset the account credentials with incorrect information, now using the Google Pixel 6 device. The IP address associated with this login attempt has been blacklisted, and appropriate security measures have been put in place to prevent further unauthorized access.
+11. [04:02:03] Magnus Brooks - Device: Google Pixel 6 (IMEI: ZZZZZZZZZZZZZ) - Network: Verizon Wireless
+Magnus Brooks attempted to bypass the IP blacklist by using a VPN service during his next login attempt, demonstrating a higher level of sophistication in his fraudulent actions. This information has been logged and is being investigated.
+
+12. [04:07:35] Magnus Brooks - Device: Google Pixel 6 (IMEI: ZZZZZZZZZZZZZ) - Network: Verizon Wireless
+The user continued his pattern of fraudulent behavior, trying to reset the account credentials once more with incorrect information. This time, he attempted to access the account from a new location, which has been flagged for further investigation.
+
+13. [04:12:59] Magnus Brooks - Device: Google Pixel 6 (IMEI: ZZZZZZZZZZZZZ) - Network: Verizon Wireless
+Magnus Brooks made another attempt to reset the account credentials, this time using a different email address. This action has been flagged as suspicious and is being investigated by our security team.
+
+14. [04:23:17] Magnus Brooks - Device: Google Pixel 6 (IMEI: ZZZZZZZZZZZZZ) - Network: Verizon Wireless
+The user attempted to access the account from a new IP address, which has been added to the blacklist to prevent further unauthorized access. This information has been logged and is being investigated as part of the ongoing fraudulent behavior pattern.
+
+15. [04:28:41] Magnus Brooks - Device: Google Pixel 6 (IMEI: ZZZZZZZZZZZZZ) - Network: Verizon Wireless
+Magnus Brooks tried to reset the account credentials using an increasingly complex pattern of incorrect information, indicating a possible attempt to bypass automated security measures. This information has been flagged for investigation and review.
+
+16. [04:39:58] Magnus Brooks - Device: Google Pixel 6 (IMEI: ZZZZZZZZZZZZZ) - Network: Verizon Wireless
+The user continued his fraudulent attempts, now trying to access the account from a different device (Samsung Galaxy S21 Ultra, IMEI: YYYYYYYYYYYY). This information has been logged and is being investigated by our security team.
+
+17. [04:45:39] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to reset the account credentials using a different email address, further indicating his sophistication in evading security measures. This information has been flagged and is being investigated by our security team.
+
+18. [04:52:02] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user continued his attempts to reset the account credentials with incorrect information, now using a different IP address. This information has been logged and is being investigated by our security team.
+
+19. [04:58:36] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks made another attempt to reset the account credentials using a VPN service, further demonstrating his ability to adapt and bypass security measures. This information has been logged and is being investigated by our security team.
+20. [05:04:18] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to reset the account credentials using a different email address once again, demonstrating his persistence in trying to gain unauthorized access. This information has been logged and is being investigated by our security team.
+
+21. [05:09:47] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user continued to attempt to reset the account credentials, now utilizing a series of random and potentially compromised email addresses. This information has been flagged and is being investigated by our security team.
+
+22. [05:14:33] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks used a remote server located in a different country to attempt the account credentials reset, further showing his ability to manipulate and hide his activities. This information has been logged and is being investigated by our security team.
+
+23. [05:19:28] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user tried to reset the account credentials using various proxy servers, attempting to mask his true location and identity. This information has been flagged and is being investigated by our security team.
+
+24. [05:24:15] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks continued to attempt the account credentials reset, now using a combination of VPN and proxy services to further obscure his activities. This information has been logged and is being investigated by our security team.
+
+25. [05:29:43] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user made another attempt to reset the account credentials, now trying to compromise the security questions associated with the account. This information has been flagged and is being investigated by our security team.
+
+26. [05:34:31] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to reset the account credentials using a newly registered domain, likely with the intent of creating a phishing website. This information has been flagged and is being investigated by our security team.
+
+27. [05:39:29] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user continued his attempts to reset the account credentials, now trying multiple email addresses simultaneously in an attempt to increase his chances of success. This information has been flagged and is being investigated by our security team.
+
+28. [05:44:37] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks made a final attempt to reset the account credentials, now using a combination of VPN, proxy services, and a newly registered domain. This information has been logged and is being investigated by our security team.
+29. [05:48:12] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user attempted to reset the account credentials using a different VPN and proxy service, further obfuscating his identity. This information has been flagged and is being investigated by our security team.
+
+30. [05:49:23] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks began trying to access the account using various stolen or guessed credentials, likely in an attempt to gain unauthorized access. This information has been flagged and is being investigated by our security team.
+
+31. [05:50:48] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user started attempting to create new accounts with the same email addresses used in previous attempts, possibly in an effort to bypass security measures. This information has been flagged and is being investigated by our security team.
+
+32. [05:51:49] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to access the account using the same stolen or guessed credentials, now employing additional IP addresses in an effort to evade detection. This information has been flagged and is being investigated by our security team.
+
+33. [05:52:51] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user continued to attempt to reset the account credentials, this time using a different combination of VPN and proxy services. This information has been flagged and is being investigated by our security team.
+
+34. [05:53:21] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks began attempting to create new accounts with different email addresses, likely in an effort to circumvent security measures. This information has been flagged and is being investigated by our security team.
+
+35. [05:54:24] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user attempted to access the account using a different combination of stolen or guessed credentials and IP addresses, further demonstrating his determination. This information has been flagged and is being investigated by our security team.
+
+36. [05:54:49] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks made another attempt to create new accounts using the same email addresses previously employed in his attempts. This information has been flagged and is being investigated by our security team.
+
+37. [05:55:23] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user tried to access the account using the same stolen or guessed credentials and IP addresses as before, demonstrating a pattern in his behavior. This information has been flagged and is being investigated by our security team.
+38. [05:56:17] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to bypass two-factor authentication (2FA) on his account by using a fake email address, further showcasing his determination to gain unauthorized access. This information has been flagged and is being investigated by our security team.
+
+39. [05:57:11] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user tried to reset his account password multiple times in quick succession, employing various combinations of stolen or guessed credentials. This information has been flagged and is being investigated by our security team.
+
+40. [05:58:32] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks made another attempt to change the email address associated with his account, using a previously flagged email address. This information has been flagged and is being investigated by our security team.
+
+41. [06:00:14] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user attempted to access the account using a different combination of stolen or guessed credentials and IP addresses, further demonstrating his determination. This information has been flagged and is being investigated by our security team.
+
+42. [06:01:31] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks tried to access the account using the same stolen or guessed credentials and IP addresses as before, demonstrating a pattern in his behavior. This information has been flagged and is being investigated by our security team.
+
+43. [06:02:52] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user attempted to gain unauthorized access to multiple accounts using the same email addresses, further showcasing his determination. This information has been flagged and is being investigated by our security team.
+
+44. [06:03:58] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to use a VPN service in an attempt to hide his true location and IP address while trying to access the account. This information has been flagged and is being investigated by our security team.
+
+45. [06:04:23] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user tried to gain unauthorized access to multiple accounts using the same email addresses and VPN service, further showcasing his determination. This information has been flagged and is being investigated by our security team.
+46. [06:05:12] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to reset account credentials multiple times within minutes, showing a pattern of aggressive behavior. This information has been flagged and is being investigated by our security team.
+
+47. [06:05:28] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user attempted to use a different IP address and VPN service in an effort to bypass security measures. This information has been flagged and is being investigated by our security team.
+
+48. [06:05:39] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks continued to attempt to reset account credentials, showing a pattern of persistence and determination. This information has been flagged and is being investigated by our security team.
+
+49. [06:05:53] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user switched between multiple VPN services and IP addresses in an attempt to evade detection, further showcasing his resourcefulness. This information has been flagged and is being investigated by our security team.
+
+50. [06:06:14] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks made multiple unsuccessful attempts to gain access to accounts using various email addresses and VPN services. This information has been flagged and is being investigated by our security team.
+
+51. [06:06:29] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+The user continued to attempt to reset account credentials, further demonstrating his determination and persistence. This information has been flagged and is being investigated by our security team.
+
+52. [06:06:41] Magnus Brooks - Device: Samsung Galaxy S21 Ultra (IMEI: YYYYYYYYYYYY) - Network: Verizon Wireless
+Magnus Brooks attempted to access multiple accounts using different email addresses and VPN services, showing a pattern of aggressive behavior. This information has been flagged and is being investigated by our security team.
+

@@ -1,0 +1,53 @@
+User ID: Colson Ajami
+- 
+1. [2023-01-01 16:32:25] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC123456, Vendor: Groceries Inc., Amount: $75.00
+2. [2023-01-01 18:09:12] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC123456, amount refunded: $10.00
+3. [2023-01-02 10:27:39] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC678901, Vendor: Electronics Store, Amount: $250.00
+4. [2023-01-02 11:15:22] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC678901, amount refunded: $30.00
+5. [2023-01-03 14:42:45] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC987654, Vendor: Clothing Store, Amount: $100.00
+6. [2023-01-03 15:10:08] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC987654, amount refunded: $15.00
+7. [2023-01-04 09:35:21] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC432109, Vendor: Dining Out, Amount: $50.00
+8. [2023-01-04 10:12:45] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC432109, amount refunded: $8.00
+9. [2023-01-05 16:30:12] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC987655, Vendor: Bookstore, Amount: $40.00
+10. [2023-01-05 16:59:35] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC987655, amount refunded: $7.00
+11. [2023-01-06 14:20:11] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC567890, Vendor: Grocery Store, Amount: $60.00
+12. [2023-01-06 14:43:45] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC567890, amount refunded: $10.00
+13. [2023-01-07 08:35:02] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC876543, Vendor: Pharmacy, Amount: $75.00
+14. [2023-01-07 09:01:23] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC876543, amount refunded: $12.00
+15. [2023-01-08 11:20:08] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC123456, Vendor: Electronics Store, Amount: $80.00
+16. [2023-01-08 11:47:59] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC123456, amount refunded: $10.00
+17. [2023-01-09 16:30:02] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC987656, Vendor: Clothing Store, Amount: $40.00
+18. [2023-01-09 16:58:35] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC987656, amount refunded: $6.00
+19. [2023-01-10 10:20:11] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC876544, Vendor: Fast Food Restaurant, Amount: $55.00
+20. [2023-01-10 10:49:35] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC876544, amount refunded: $8.00
+21. [2023-01-11 11:15:02] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC654329, Vendor: Grocery Store, Amount: $70.00
+22. [2023-01-11 11:43:58] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC654329, amount refunded: $10.00
+23. [2023-01-12 08:37:24] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC543867, Vendor: Electronics Store, Amount: $120.00
+24. [2023-01-12 09:04:09] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC543867, amount refunded: $12.00
+25. [2023-01-13 12:15:30] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC906745, Vendor: Health Food Store, Amount: $85.00
+26. [2023-01-13 12:37:12] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC906745, amount refunded: $10.00
+27. [2023-01-14 13:28:43] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC756098, Vendor: Book Store, Amount: $45.00
+28. [2023-01-14 13:57:25] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC756098, amount refunded: $7.00
+29. [2023-01-15 08:02:04] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC267891, Vendor: Supermarket, Amount: $100.00
+30. [2023-01-15 08:23:47] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC267891, amount refunded: $15.00
+31. [2023-01-16 09:17:22] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC546908, Vendor: Electronics Store, Amount: $120.00
+32. [2023-01-16 09:40:15] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC546908, amount refunded: $20.00
+33. [2023-01-17 10:23:38] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC378094, Vendor: Clothing Store, Amount: $60.00
+34. [2023-01-17 10:45:21] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC378094, amount refunded: $6.00
+35. [2023-01-18 11:30:35] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC897562, Vendor: Cafe, Amount: $40.00
+36. [2023-01-18 11:50:20] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC897562, amount refunded: $8.00
+37. [2023-01-19 13:10:05] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC456890, Vendor: Grocery Store, Amount: $50.00
+38. [2023-01-19 14:10:33] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC456890, amount refunded: $10.00
+39. [2023-01-20 15:30:29] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC782456, Vendor: Electronics Store, Amount: $70.00
+40. [2023-01-20 15:55:40] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC782456, amount refunded: $12.00
+41. [2023-01-21 17:00:10] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC695742, Vendor: Pharmacy, Amount: $80.00
+42. [2023-01-21 17:25:33] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC695742, amount refunded: $10.00
+43. [2023-01-22 18:10:18] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC524876, Vendor: Fast Food Restaurant, Amount: $90.00
+44. [2023-01-22 18:45:05] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC524876, amount refunded: $12.00
+45. [2023-01-23 19:00:30] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC876543, Vendor: Supermarket, Amount: $110.00
+46. [2023-01-23 19:35:45] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC876543, amount refunded: $15.00
+47. [2023-01-24 20:20:25] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC456789, Vendor: Clothing Store, Amount: $100.00
+48. [2023-01-24 20:55:12] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC456789, amount refunded: $10.00
+49. [2023-01-25 21:15:30] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Scanned receipt for cashback or points redemption. Receipt ID: REC698744, Vendor: Electronics Store, Amount: $150.00
+50. [2023-01-25 21:50:00] Device: Ajami_Laptop_123 Network: Home_WiFi User: Colson Ajami Type: [normal] Log: Successfully redeemed cashback on receipt REC698744, amount refunded: $20.00
+

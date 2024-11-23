@@ -1,0 +1,51 @@
+User ID: Wynter Nguyen
+- 
+[2023-05-01 16:42:37] [fraudulent] User Wynter Nguyen accessed their account from an unrecognized device (Device ID: FD345T98-GHJ78KWZ) located in California, USA.
+[2023-05-01 16:53:54] [fraudulent] User Wynter Nguyen attempted to transfer $1,500 to an unknown account (Account ID: XYZ89LVK) within a matter of minutes.
+[2023-05-01 17:05:46] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in California, USA, totaling $8,000 within an hour.
+[2023-05-01 18:12:23] [fraudulent] User Wynter Nguyen accessed their account from a second unrecognized device (Device ID: MJ67KW90-HIU4TUVY) located in Texas, USA.
+[2023-05-01 18:23:52] [fraudulent] User Wynter Nguyen attempted to transfer $2,000 to another unknown account (Account ID: FGHJKLZQ) within minutes.
+[2023-05-01 18:36:07] [fraudulent] User Wynter Nguyen made another series of large withdrawals from different ATMs in Texas, USA, totaling $9,000 within an hour.
+[2023-05-01 19:48:45] [fraudulent] User Wynter Nguyen accessed their account from a third unrecognized device (Device ID: LMK67ZYR-OPI0UVWH) located in Florida, USA.
+[2023-05-01 20:00:22] [fraudulent] User Wynter Nguyen attempted to transfer $3,000 to yet another unknown account (Account ID: ASDKLZUW) within minutes.
+[2023-05-01 20:11:49] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in Florida, USA, totaling $7,000 within an hour.
+[2023-05-01 21:26:18] [fraudulent] User Wynter Nguyen accessed their account from a fourth unrecognized device (Device ID: JHG65ZQW-YUIOJKLM) located in New York, USA.
+[2023-05-01 21:33:45] [fraudulent] User Wynter Nguyen attempted to transfer $4,000 to an additional unknown account (Account ID: MNOP987U) within minutes.
+[2023-05-01 21:44:26] [fraudulent] User Wynter Nguyen made another series of large withdrawals from different ATMs in New York, USA, totaling $11,000 within an hour.
+[2023-05-01 22:55:32] [fraudulent] User Wynter Nguyen accessed their account from a fifth unrecognized device (Device ID: KLJ7869V-ZYX2WQRS) located in California, USA.
+[2023-05-01 23:04:11] [fraudulent] User Wynter Nguyen attempted to transfer $2,500 to yet another unknown account (Account ID: UIDQ9487) within minutes.
+[2023-05-01 23:14:46] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in California, USA, totaling $8,000 within an hour.
+[2023-05-01 23:39:04] [fraudulent] User Wynter Nguyen accessed their account from a sixth unrecognized device (Device ID: PQR6789V-XWYZABCD) located in Illinois, USA.
+[2023-05-01 23:45:21] [fraudulent] User Wynter Nguyen attempted to transfer $6,000 to an additional unknown account (Account ID: TKL987YU) within minutes.
+[2023-05-01 23:49:58] [fraudulent] User Wynter Nguyen made another series of large withdrawals from different ATMs in Illinois, USA, totaling $9,000 within an hour.
+[2023-05-01 23:57:45] [fraudulent] User Wynter Nguyen accessed their account from a seventh unrecognized device (Device ID: LMN6543W-QWE89RTY) located in Texas, USA.
+[2023-05-01 23:58:26] [fraudulent] User Wynter Nguyen attempted to transfer $3,500 to yet another unknown account (Account ID: MOP9754) within minutes.
+[2023-05-01 23:59:58] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in Texas, USA, totaling $7,000 within an hour.
+[2023-05-01 24:10:11] [fraudulent] User Wynter Nguyen accessed their account from an eighth unrecognized device (Device ID: UID987YZ) located in Florida, USA.
+[2023-05-01 24:11:08] [fraudulent] User Wynter Nguyen attempted to transfer $5,000 to an additional unknown account (Account ID: KLJ7654A) within minutes.
+[2023-05-01 24:11:59] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in Florida, USA, totaling $8,000 within an hour.
+[2023-05-01 24:23:34] [fraudulent] User Wynter Nguyen accessed their account from a ninth unrecognized device (Device ID: MNOP9758R) located in New York, USA.
+[2023-05-01 24:24:56] [fraudulent] User Wynter Nguyen attempted to transfer $6,500 to yet another unknown account (Account ID: JKL9876B) within minutes.
+[2023-05-01 24:25:42] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in New York, USA, totaling $9,000 within an hour.
+[2023-05-01 24:26:35] [fraudulent] User Wynter Nguyen accessed their account from a tenth unrecognized device (Device ID: STU8765X) located in California, USA.
+[2023-05-01 24:27:22] [fraudulent] User Wynter Nguyen attempted to transfer $7,000 to an additional unknown account (Account ID: ZYX9654C) within minutes.
+[2023-05-01 24:27:58] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in California, USA, totaling $10,000 within an hour.
+[2023-05-01 24:29:13] [fraudulent] User Wynter Nguyen accessed their account from an eleventh unrecognized device (Device ID: QWE876YT) located in Illinois, USA.
+[2023-05-01 24:29:58] [fraudulent] User Wynter Nguyen attempted to transfer $8,000 to an additional unknown account (Account ID: UVW9765B) within minutes.
+[2023-05-01 24:30:25] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in Illinois, USA, totaling $11,000 within an hour.
+[2023-05-01 24:31:39] [fraudulent] User Wynter Nguyen accessed their account from a twelfth unrecognized device (Device ID: RTY876ZU) located in Pennsylvania, USA.
+[2023-05-01 24:32:21] [fraudulent] User Wynter Nguyen attempted to transfer $9,000 to an additional unknown account (Account ID: SDF876YA) within minutes.
+[2023-05-01 24:32:48] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in Pennsylvania, USA, totaling $12,000 within an hour.
+[2023-05-01 24:34:07] [fraudulent] User Wynter Nguyen accessed their account from a thirteenth unrecognized device (Device ID: CDE876GT) located in New York, USA.
+[2023-05-01 24:34:50] [fraudulent] User Wynter Nguyen attempted to transfer $10,000 to an additional unknown account (Account ID: ZXY876YB) within minutes.
+[2023-05-01 24:35:04] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in New York, USA, totaling $13,000 within an hour.
+[2023-05-01 24:36:19] [fraudulent] User Wynter Nguyen accessed their account from a fourteenth unrecognized device (Device ID: BCD876FV) located in Florida, USA.
+[2023-05-01 24:36:35] [fraudulent] User Wynter Nguyen attempted to transfer $11,000 to an additional unknown account (Account ID: AST876YC) within minutes.
+[2023-05-01 24:37:09] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in Florida, USA, totaling $14,000 within an hour.
+[2023-05-01 24:38:23] [fraudulent] User Wynter Nguyen accessed their account from a fifteenth unrecognized device (Device ID: JKL765YT) located in California, USA.
+[2023-05-01 24:38:38] [fraudulent] User Wynter Nguyen attempted to transfer $12,000 to an additional unknown account (Account ID: MNO765YU) within minutes.
+[2023-05-01 24:39:02] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in California, USA, totaling $15,000 within an hour.
+[2023-05-01 24:39:56] [fraudulent] User Wynter Nguyen accessed their account from a sixteenth unrecognized device (Device ID: PQR765ZS) located in Texas, USA.
+[2023-05-01 24:40:09] [fraudulent] User Wynter Nguyen attempted to transfer $13,000 to an additional unknown account (Account ID: STU765YW) within minutes.
+[2023-05-01 24:40:58] [fraudulent] User Wynter Nguyen made a series of large withdrawals from different ATMs in Texas, USA, totaling $16,000 within an hour.
+

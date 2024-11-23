@@ -1,0 +1,218 @@
+User ID: Kyleigh Watson
+- 
+[2023-01-15 08:47:26] [fraudulent]
+User Kyleigh Watson attempted to access her account from a device with IP address 93.122.45.68, located in Miami, FL. This is suspicious because she has never been to Miami and her usual device was not used.
+
+[2023-01-15 09:02:13] [fraudulent]
+Kyleigh Watson tried to access her account again from a different IP address, 78.465.123.89, which is located in Los Angeles, CA. This behavior indicates that she might be attempting to bypass security measures by changing locations.
+
+[2023-01-15 09:20:35] [fraudulent]
+Within a short period of time, Kyleigh Watson attempted to access her account from a device with IP address 147.236.90.21, which is located in New York City, NY. This rapid change in location further suggests fraudulent activity.
+
+[2023-01-15 09:28:22] [fraudulent]
+Kyleigh Watson tried to access her account from another device with IP address 64.75.199.33, located in Chicago, IL. It seems that she is attempting to access her account simultaneously from multiple devices and locations, which is highly unusual for a legitimate user.
+
+[2023-01-15 09:36:48] [fraudulent]
+The user Kyleigh Watson attempted to access her account again, this time from a device with IP address 72.216.178.10, which is located in San Francisco, CA. This behavior indicates an attempt to bypass security measures by changing locations frequently within a short period of time.
+
+[2023-01-15 09:43:04] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 77.68.213.15, located in Seattle, WA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly suspicious and indicates potential fraudulent activity.
+
+[2023-01-15 09:49:59] [fraudulent]
+Kyleigh Watson attempted to access her account once more from a device with IP address 81.168.187.89, located in Dallas, TX. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 09:57:14] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 89.231.196.1, which is located in Denver, CO. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 10:03:38] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 94.167.136.24, located in Washington, D.C. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 10:12:08] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 97.67.88.32, which is located in Atlanta, GA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+[2023-01-15 10:27:34] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 98.76.55.48, located in Chicago, IL. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 10:33:52] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 84.67.93.2, which is located in Dallas, TX. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 10:42:10] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 79.16.85.19, located in Miami, FL. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 10:48:38] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 172.217.6.9, which is located in Los Angeles, CA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 10:56:56] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 72.14.219.11, located in New York, NY. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 11:04:21] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 97.67.88.32, which is located in Atlanta, GA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 11:12:49] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 98.76.55.48, located in Chicago, IL. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+[2023-01-15 11:21:34] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 79.12.20.23, which is located in Los Angeles, CA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 11:30:16] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 84.23.19.77, located in Miami, FL. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 11:39:03] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 93.17.88.45, which is located in Houston, TX. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 11:47:51] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 89.20.67.22, located in Dallas, TX. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 11:56:40] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 76.19.88.31, which is located in Phoenix, AZ. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 12:05:34] [fraudulent]
+The user Kyleigh Watson attempted to access her account from a device with IP address 98.76.55.48, which is located in Chicago, IL. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 12:14:22] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 97.67.88.32, which is located in Atlanta, GA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 12:23:16] [fraudulent]
+Kyleigh Watson attempted to access her account from another device with IP address 72.14.219.11, located in New York, NY. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+[2023-01-15 12:32:08] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 192.168.1.1, which is located in Los Angeles, CA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 12:41:45] [fraudulent]
+The user Kyleigh Watson attempted to access her account from a device with IP address 10.0.0.1, which is located in Dallas, TX. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 12:51:24] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 172.16.1.1, which is located in Denver, CO. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 13:00:47] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 198.51.100.1, which is located in Miami, FL. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 13:09:56] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 10.0.0.2, which is located in Boston, MA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 13:24:32] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 192.168.0.1, which is located in Phoenix, AZ. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 13:33:47] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 172.16.2.1, which is located in Minneapolis, MN. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 13:43:07] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 198.46.100.1, which is located in Orlando, FL. This behavior shows an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 13:52:26] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 10.0.0.3, which is located in Seattle, WA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+[2023-01-15 13:59:58] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 203.0.113.1, which is located in Los Angeles, CA. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 14:09:37] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 106.9.84.2, which is located in Dallas, TX. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 14:18:27] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 192.0.2.2, which is located in Denver, CO. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 14:27:48] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 24.68.184.3, which is located in Chicago, IL. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 14:39:07] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 66.240.90.1, which is located in Atlanta, GA. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 14:48:47] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 216.219.137.4, which is located in Phoenix, AZ. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 14:58:27] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 72.24.69.1, which is located in Nashville, TN. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+[2023-01-15 15:09:08] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 173.215.101.6, which is located in Denver, CO. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 15:19:49] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 76.24.123.1, which is located in Minneapolis, MN. The user has been repeatedly attempting to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 15:29:38] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 67.205.60.4, which is located in Dallas, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 15:40:12] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 198.49.97.1, which is located in San Diego, CA. This pattern of rapid location changes and multiple devices being used within a short period of time is highly unusual and indicates potential fraudulent activity.
+
+[2023-01-15 16:01:06] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 98.167.47.1, which is located in Chicago, IL. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 16:11:54] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 97.108.152.1, which is located in New York, NY. The user has been repeatedly attempting to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 16:22:37] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 89.104.144.5, which is located in Miami, FL. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+[2023-01-15 16:33:15] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 79.115.221.6, which is located in Los Angeles, CA. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 16:44:52] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 85.123.72.8, which is located in Houston, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 16:55:49] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 87.104.220.9, which is located in Dallas, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 17:06:58] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 94.150.16.4, which is located in Atlanta, GA. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 17:18:23] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 95.143.68.2, which is located in Denver, CO. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 17:29:39] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 81.168.45.9, which is located in Phoenix, AZ. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 17:40:52] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 82.239.127.4, which is located in Portland, OR. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+[2023-01-15 18:00:14] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 76.145.94.6, which is located in San Francisco, CA. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 18:12:37] [fraudulent]
+The user Kyleigh Watson attempted to access her account from a device with IP address 69.142.136.8, which is located in Seattle, WA. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 18:33:59] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 173.64.173.9, which is located in Los Angeles, CA. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 18:50:11] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 68.71.97.2, which is located in Salt Lake City, UT. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 19:04:23] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 78.46.183.3, which is located in Reno, NV. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 19:22:35] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 64.17.129.8, which is located in Tucson, AZ. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 19:39:47] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 85.200.169.5, which is located in Albuquerque, NM. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+[2023-01-15 20:08:29] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 166.72.159.2, which is located in El Paso, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 20:24:48] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 67.209.247.6, which is located in Lubbock, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 20:40:38] [fraudulent]
+The user Kyleigh Watson tried to access her account from a device with IP address 73.96.149.4, which is located in Amarillo, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 20:58:07] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 192.168.45.1, which is located in Odessa, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 21:17:19] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 81.168.129.1, which is located in Midland, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 21:35:37] [fraudulent]
+The user Kyleigh Watson attempted to access her account from a device with IP address 98.164.200.2, which is located in Laredo, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 21:52:48] [fraudulent]
+Kyleigh Watson attempted to access her account from a device with IP address 75.76.134.6, which is located in McAllen, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+[2023-01-15 22:10:29] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 78.162.228.5, which is located in Brownsville, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 22:24:11] [fraudulent]
+The user Kyleigh Watson attempted to access her account from a device with IP address 198.49.231.8, which is located in El Paso, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 22:37:55] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 68.129.202.1, which is located in Edinburg, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 22:51:24] [fraudulent]
+The user Kyleigh Watson attempted to access her account from a device with IP address 85.96.208.4, which is located in Eagle Pass, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 23:04:59] [fraudulent]
+Kyleigh Watson tried to access her account from a device with IP address 87.79.233.9, which is located in Corpus Christi, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+
+[2023-01-15 23:18:34] [fraudulent]
+The user Kyleigh Watson attempted to access her account from a device with IP address 92.73.64.2, which is located in Beeville, TX. This behavior continues to show an attempt to gain unauthorized access to her account by rapidly changing locations and using multiple devices.
+

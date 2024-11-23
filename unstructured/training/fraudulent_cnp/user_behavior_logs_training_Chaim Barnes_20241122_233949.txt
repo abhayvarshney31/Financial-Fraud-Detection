@@ -1,0 +1,58 @@
+User ID: Chaim Barnes
+- 
+[2021-10-15 08:32:05] [fraudulent] User Chaim Barnes accessed account with stolen identity 'John Doe' at Bank of America, successfully transferring $7,500 to an offshore account.
+[2021-10-16 11:45:39] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Jane Smith' at Wells Fargo, applying for a new credit card and charging $5,000 in electronics.
+[2021-10-17 15:12:46] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Michael Johnson' at Chase Bank, opening a new checking account and withdrawing $3,000 in cash.
+[2021-10-18 07:59:23] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Emily Davis' at Citibank, taking out a personal loan of $10,000 and using the funds to purchase cryptocurrency.
+[2021-10-19 13:30:17] [fraudulent] User Chaim Barnes accessed account with stolen identity 'David Martinez' at Discover Bank, applying for a new balance transfer credit card and charging $4,500 in airline tickets.
+[2021-10-20 18:45:59] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Sarah Wilson' at US Bank, opening a new savings account and transferring $8,000 out of the account.
+[2021-10-21 09:33:34] [fraudulent] User Chaim Barnes accessed account with stolen identity 'James Brown' at Capital One, using the information to apply for a new auto loan and purchasing a luxury car.
+[2021-10-22 15:18:07] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Laura King' at Ally Bank, opening a new investment account and making unauthorized trades worth $6,000.
+[2021-10-23 07:59:48] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Jennifer Taylor' at TD Bank, opening a new joint checking account and adding an unauthorized co-signer.
+[2021-10-24 13:02:29] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Matthew Harris' at PNC Bank, successfully applying for a mortgage loan and purchasing a home in cash.
+[2021-10-25 08:30:04] [fraudulent] User Chaim Barnes accessed account with stolen identity 'David Johnson' at Chase Bank, opening a new credit card and making unauthorized purchases totaling $5,000.
+[2021-10-26 12:45:39] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Jennifer Adams' at Wells Fargo, opening a new business checking account and making unauthorized wire transfers totaling $7,500.
+[2021-10-27 16:30:48] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Emily Davis' at Bank of America, opening a new line of credit and making unauthorized cash withdrawals totaling $9,000.
+[2021-10-28 04:50:03] [fraudulent] User Chaim Barnes accessed account with stolen identity 'William Thompson' at SunTrust Bank, opening a new savings account and making unauthorized transfers to various overseas accounts.
+[2021-10-29 10:05:47] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Michael Lee' at Citibank, opening a new certificate of deposit and making unauthorized withdrawals totaling $8,500.
+[2021-10-30 16:20:29] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Rachel Clark' at HSBC Bank, opening a new money market account and making unauthorized deposits of counterfeit checks totaling $10,000.
+[2021-10-31 09:45:58] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Daniel Martin' at USAA, opening a new brokerage account and making unauthorized trades worth $12,000.
+[2021-11-01 14:35:07] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Emily Watson' at Ally Bank, opening a new CD and making unauthorized withdrawals totaling $9,500.
+[2021-11-02 18:50:34] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Michael Johnson' at Capital One, opening a new savings account and making unauthorized transfers to various unknown recipients.
+[2021-11-03 07:25:59] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Susan Davis' at Bank of America, opening a new credit card and making unauthorized purchases totaling $6,800.
+[2021-11-04 13:45:01] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Robert Anderson' at Wells Fargo, opening a new checking account and making unauthorized ATM withdrawals totaling $7,200.
+[2021-11-05 21:30:15] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Jennifer Smith' at Discover Bank, opening a new savings account and making unauthorized wire transfers totaling $8,000.
+[2021-11-06 09:15:32] [fraudulent] User Chaim Barnes accessed account with stolen identity 'James Brown' at PNC Bank, opening a new mortgage loan and making unauthorized changes to the loan terms.
+[2021-11-07 14:50:46] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Karen Johnson' at TD Bank, opening a new line of credit and making unauthorized cash advances totaling $9,300.
+[2021-11-08 20:05:08] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Joseph White' at Chase Bank, opening a new investment account and making unauthorized trades worth $11,000.
+[2021-11-09 10:35:21] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Maria Davis' at SunTrust Bank, opening a new CD and making unauthorized withdrawals totaling $7,600.
+[2021-11-10 16:35:09] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Michael Johnson' at State Farm Bank, opening a new checking account and making unauthorized overdraft transactions totaling $8,200.
+[2021-11-11 05:00:03] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Karen Thomas' at Ally Bank, opening a new savings account and making unauthorized transfers to various unknown recipients.
+[2021-11-12 12:15:38] [fraudulent] User Chaim Barnes accessed account with stolen identity 'James Brown' at Bank of America, opening a new mortgage loan and making unauthorized adjustments to the interest rate.
+[2021-11-13 09:45:15] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Sarah Rodriguez' at Wells Fargo, opening a new business account and making unauthorized wire transfers totaling $12,000.
+[2021-11-14 23:25:07] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Robert Miller' at US Bank, opening a new certificate of deposit and making unauthorized early withdrawals totaling $6,500.
+[2021-11-15 13:35:48] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Jennifer Lewis' at Capital One, opening a new credit card and making unauthorized online purchases totaling $9,700.
+[2021-11-16 05:10:30] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Emily Adams' at PNC Bank, opening a new joint checking account and making unauthorized electronic fund transfers totaling $8,800.
+[2021-11-17 18:35:19] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Ryan Harris' at Citibank, opening a new money market account and making unauthorized ATM withdrawals totaling $6,400.
+[2021-11-18 23:05:59] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Emma Thompson' at Navy Federal Credit Union, opening a new IRA and making unauthorized transactions totaling $7,900.
+[2021-11-19 10:45:36] [fraudulent] User Chaim Barnes accessed account with stolen identity 'James Smith' at TIAA Bank, opening a new investment account and making unauthorized transactions totaling $8,100.
+[2021-11-20 17:15:43] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Ashley Nelson' at Discover Bank, opening a new savings account and making unauthorized overdraft transfers totaling $7,600.
+[2021-11-21 13:25:29] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Olivia Johnson' at Chase Bank, opening a new credit card and making unauthorized balance transfers totaling $7,800.
+[2021-11-22 21:30:54] [fraudulent] User Chaim Barnes accessed account with stolen identity 'William Lewis' at Wells Fargo, opening a new checking account and making unauthorized bill payments totaling $8,200.
+[2021-11-23 07:45:41] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Jennifer Martinez' at Bank of America, opening a new mortgage loan and making unauthorized principal payments totaling $8,900.
+[2021-11-24 17:50:38] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Daniel Rodriguez' at Capital One, opening a new auto loan and making unauthorized principal payments totaling $9,000.
+[2021-11-25 22:35:46] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Sophie Harris' at Ally Bank, opening a new CD and making unauthorized early withdrawals totaling $8,700.
+[2021-11-26 09:50:53] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Adam Brown' at US Bank, opening a new business checking account and making unauthorized wire transfers totaling $8,500.
+[2021-11-27 16:25:39] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Ella Davis' at SunTrust Bank, opening a new trust account and making unauthorized distributions totaling $8,600.
+[2021-11-28 23:45:44] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Sophie Garcia' at HSBC Bank, opening a new savings account and making unauthorized overdraft transfers totaling $7,900.
+[2021-11-29 15:30:56] [fraudulent] User Chaim Barnes accessed account with stolen identity 'David Wilson' at Prudential Financial, opening a new annuity and making unauthorized withdrawals totaling $8,300.
+[2021-11-30 07:15:29] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Amanda Johnson' at Charles Schwab, opening a new brokerage account and making unauthorized stock trades totaling $9,200.
+[2021-11-30 14:45:48] [fraudulent] User Chaim Barnes accessed account with stolen identity 'James Smith' at Fidelity Investments, opening a new retirement account and making unauthorized loan disbursements totaling $9,100.
+[2021-11-30 21:30:57] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Karen White' at Chase Bank, opening a new checking account and making unauthorized ATM withdrawals totaling $8,800.
+[2021-11-30 23:45:34] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Steven Brown' at Wells Fargo, opening a new credit card account and making unauthorized online purchases totaling $9,000.
+[2021-12-01 00:35:16] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Jessica Lewis' at American Express, opening a new charge card account and making unauthorized balance transfers totaling $9,400.
+[2021-12-01 03:50:39] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Kevin Johnson' at Discover, opening a new cash advance account and making unauthorized cash advances totaling $8,900.
+[2021-12-01 06:25:45] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Daniel Harris' at Capital One, opening a new savings account and making unauthorized transfers totaling $9,500.
+[2021-12-01 08:35:43] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Sarah Williams' at Bank of America, opening a new mortgage loan and making unauthorized loan payments totaling $9,600.
+[2021-12-01 10:45:37] [fraudulent] User Chaim Barnes accessed account with stolen identity 'Timothy Davis' at Bank of New York Mellon, opening a new trust account and making unauthorized distributions totaling $9,200.
+

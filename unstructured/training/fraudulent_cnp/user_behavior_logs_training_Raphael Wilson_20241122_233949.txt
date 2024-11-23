@@ -1,0 +1,117 @@
+User ID: Raphael Wilson
+- 
+[2023-01-01 09:45:22] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a pair of headphones purchased from ElectroStore. The transaction ID was 8975341, and the amount was $100. The device used to initiate the chargeback was an iPhone 13, with network information: ISP_A.
+
+[2023-01-02 14:32:17] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a laptop purchased from TechSeller. The transaction ID was 9812432, and the amount was $1200. The device used to initiate the chargeback was an iPad Mini, with network information: ISP_B.
+
+[2023-01-05 07:21:34] Raphael Wilson (user_id: 123456) initiated a third chargeback on a legitimate transaction for a set of smart home devices purchased from HomeTechStore. The transaction ID was 9873109, and the amount was $450. The device used to initiate the chargeback was an iPhone XR, with network information: ISP_C.
+
+[2023-01-07 13:03:16] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of camera lenses purchased from PhotographyShop. The transaction ID was 9813245, and the amount was $700. The device used to initiate the chargeback was an iPhone SE, with network information: ISP_D.
+
+[2023-01-08 20:16:52] Raphael Wilson (user_id: 123456) initiated a fifth chargeback on a legitimate transaction for a set of designer clothing purchased from FashionistaStore. The transaction ID was 9782634, and the amount was $600. The device used to initiate the chargeback was an iPhone 8 Plus, with network information: ISP_E.
+
+[2023-01-10 08:58:03] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of high-end headphones purchased from AudioProStore. The transaction ID was 9714609, and the amount was $250. The device used to initiate the chargeback was an iPhone XS, with network information: ISP_F.
+
+[2023-01-12 11:31:21] Raphael Wilson (user_id: 123456) initiated a seventh chargeback on a legitimate transaction for a set of wireless earbuds purchased from SoundTechStore. The transaction ID was 9783945, and the amount was $200. The device used to initiate the chargeback was an iPhone 11, with network information: ISP_G.
+
+[2023-01-13 16:55:45] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a vacuum cleaner purchased from HomeApplianceStore. The transaction ID was 9784137, and the amount was $500. The device used to initiate the chargeback was an iPhone 12 Mini, with network information: ISP_H.
+
+[2023-01-15 09:16:12] Raphael Wilson (user_id: 123456) initiated a ninth chargeback on a legitimate transaction for a set of premium kitchen knives purchased from CookwareExpert. The transaction ID was 9783789, and the amount was $300. The device used to initiate the chargeback was an iPhone 12 Pro Max, with network information: ISP_I.
+
+[2023-01-16 14:37:58] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a pair of smart glasses purchased from VisionGearStore. The transaction ID was 9784623, and the amount was $400. The device used to initiate the chargeback was an iPhone XS Max, with network information: ISP_J.
+[2023-01-18 08:25:39] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of wireless headphones purchased from AudioGadgetsStore. The transaction ID was 9784629, and the amount was $200. The device used to initiate the chargeback was an iPad Pro (12.9-inch), with network information: ISP_K.
+
+[2023-01-20 11:02:56] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a laptop computer purchased from TechMallStore. The transaction ID was 9784693, and the amount was $1,200. The device used to initiate the chargeback was an iPhone 11, with network information: ISP_L.
+
+[2023-01-22 05:11:42] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of smart home devices purchased from SmartHomeHubStore. The transaction ID was 9784700, and the amount was $600. The device used to initiate the chargeback was an iPhone SE (2nd generation), with network information: ISP_M.
+
+[2023-01-24 14:50:11] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a smartwatch purchased from WearableTechStore. The transaction ID was 9784717, and the amount was $350. The device used to initiate the chargeback was an iPhone XR, with network information: ISP_N.
+
+[2023-01-26 09:18:07] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of smart home security cameras purchased from SecuritySolutionsStore. The transaction ID was 9784730, and the amount was $550. The device used to initiate the chargeback was an iPhone X, with network information: ISP_O.
+
+[2023-01-28 16:05:00] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of high-end gaming peripherals purchased from GamingGearStore. The transaction ID was 9784735, and the amount was $800. The device used to initiate the chargeback was an iPhone XS, with network information: ISP_P.
+
+[2023-01-30 06:25:40] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of luxury headphones purchased from AudioEliteStore. The transaction ID was 9784747, and the amount was $700. The device used to initiate the chargeback was an iPhone 8 Plus, with network information: ISP_Q.
+
+[2023-01-31 10:56:35] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a high-end camera purchased from CameraMasterStore. The transaction ID was 9784750, and the amount was $1,500. The device used to initiate the chargeback was an iPhone XS Max with Face ID, with network information: ISP_R.
+
+[2023-02-01 16:20:29] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of designer luggage purchased from TravelGearStore. The transaction ID was 9784762, and the amount was $900. The device used to initiate the chargeback was an iPhone 7 Plus, with network information: ISP_S.
+
+[2023-02-02 09:15:08] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of premium kitchen appliances purchased from KitchenEssentialsStore. The transaction ID was 9784769, and the amount was $1,000. The device used to initiate the chargeback was an iPhone 8, with network information: ISP_T.
+[2023-02-03 01:00:36] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a smart watch purchased from TechGadgetsStore. The transaction ID was 9784775, and the amount was $250. The device used to initiate the chargeback was an iPad Pro 11-inch, with network information: ISP_U.
+
+[2023-02-03 12:00:46] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a high-end gaming console purchased from GameTechStore. The transaction ID was 9784782, and the amount was $500. The device used to initiate the chargeback was a MacBook Air, with network information: ISP_V.
+
+[2023-02-04 16:15:02] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a designer handbag purchased from FashionistaStore. The transaction ID was 9784795, and the amount was $300. The device used to initiate the chargeback was an iPod Touch, with network information: ISP_W.
+
+[2023-02-05 08:40:31] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a high-quality leather jacket purchased from StyleMasterStore. The transaction ID was 9784808, and the amount was $800. The device used to initiate the chargeback was an iPad Mini, with network information: ISP_X.
+
+[2023-02-05 18:20:36] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a pair of premium wireless headphones purchased from AudioSolutionsStore. The transaction ID was 9784815, and the amount was $200. The device used to initiate the chargeback was an iPhone SE, with network information: ISP_Y.
+
+[2023-02-06 07:00:29] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a smart home security system purchased from HomeSecurityStore. The transaction ID was 9784822, and the amount was $400. The device used to initiate the chargeback was an iPhone XR, with network information: ISP_Z.
+
+[2023-02-06 15:20:58] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a high-quality vacuum cleaner purchased from HouseholdEssentialsStore. The transaction ID was 9784835, and the amount was $350. The device used to initiate the chargeback was an iPad Pro 12.9-inch, with network information: ISP_AA.
+
+[2023-02-07 23:30:04] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of high-quality cookware purchased from CookwareMasterStore. The transaction ID was 9784842, and the amount was $600. The device used to initiate the chargeback was an iPhone X, with network information: ISP_AB.
+
+[2023-02-08 08:50:31] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a smart thermostat purchased from SmartHomeStore. The transaction ID was 9784855, and the amount was $150. The device used to initiate the chargeback was an iPhone 11, with network information: ISP_AC.
+
+[2023-02-08 16:10:47] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of premium headphones purchased from AudioAccessoriesStore. The transaction ID was 9784862, and the amount was $450. The device used to initiate the chargeback was an iPhone 11 Pro Max, with network information: ISP_AD.
+[2023-02-09 00:20:05] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a high-end gaming laptop purchased from GamingLaptopStore. The transaction ID was 9784875, and the amount was $2200. The device used to initiate the chargeback was an iPad Pro, with network information: ISP_AE.
+
+[2023-02-09 10:15:32] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a luxury smartwatch purchased from LuxuryWatchesStore. The transaction ID was 9784880, and the amount was $1000. The device used to initiate the chargeback was an iPad Air, with network information: ISP_AF.
+
+[2023-02-09 14:50:48] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a custom-built gaming PC purchased from GamingPCBuilderStore. The transaction ID was 9784888, and the amount was $3500. The device used to initiate the chargeback was an iPad Pro 12.9-inch, with network information: ISP_AG.
+
+[2023-02-09 19:25:21] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a high-end DSLR camera purchased from CameraWarehouseStore. The transaction ID was 9784895, and the amount was $1500. The device used to initiate the chargeback was an iPhone 12 Pro Max, with network information: ISP_AH.
+
+[2023-02-10 09:00:06] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of diamond earrings purchased from JewelryStoreOnline. The transaction ID was 9784900, and the amount was $3000. The device used to initiate the chargeback was an iPhone SE (2nd generation), with network information: ISP_AI.
+
+[2023-02-10 13:35:47] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for an electric bike purchased from ElectricBikeStore. The transaction ID was 9784905, and the amount was $2500. The device used to initiate the chargeback was an iPhone XR, with network information: ISP_AJ.
+
+[2023-02-10 18:15:11] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a high-end mountain bike purchased from BikeShopOnline. The transaction ID was 9784912, and the amount was $2000. The device used to initiate the chargeback was an iPhone 13 Mini, with network information: ISP_AK.
+
+[2023-02-11 00:50:04] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of premium binoculars purchased from OpticsStoreOnline. The transaction ID was 9784918, and the amount was $1000. The device used to initiate the chargeback was an iPhone XS, with network information: ISP_AL.
+
+[2023-02-11 10:35:31] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a high-end telescope purchased from TelescopeStoreOnline. The transaction ID was 9784925, and the amount was $4000. The device used to initiate the chargeback was an iPhone 13 Pro, with network information: ISP_AM.
+
+[2023-02-11 16:25:47] User Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of advanced telescope accessories purchased from TelescopeAccessoriesStore. The transaction ID was 9784930, and the amount was $2000. The device used to initiate the chargeback was an iPhone 13 Pro Max, with network information: ISP_AN.
+[2023-02-11 16:25:47] Raphael Wilson (user_id: 123456) initiated another chargeback on a legitimate transaction for a set of advanced telescope accessories purchased from TelescopeAccessoriesStore. The transaction ID was 9784930, and the amount was $2000. The device used to initiate the chargeback was an iPhone 13 Pro Max, with network information: ISP_AN.
+
+[2023-02-12 09:50:31] Raphael Wilson (user_id: 123456) attempted to initiate a chargeback on a legitimate transaction for a GPS-enabled tripod purchased from CameraTripodStore. The transaction ID was 9784935, and the amount was $500. However, due to insufficient funds in Raphael's account, the chargeback was declined by the bank. The device used was an iPad Pro 12.9-inch (4th Generation), with network information: ISP_AP.
+
+[2023-02-12 13:15:27] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a drone camera purchased from DroneCameraStore. The transaction ID was 9784940, and the amount was $3000. The device used to initiate the chargeback was an iPhone SE (2nd Generation), with network information: ISP_AQ.
+
+[2023-02-12 15:05:47] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of high-quality binoculars purchased from BinocularStore. The transaction ID was 9784945, and the amount was $800. The device used to initiate the chargeback was an iPad Air (4th Generation), with network information: ISP_AR.
+
+[2023-02-13 08:45:16] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a weather-resistant backpack purchased from OutdoorGearStore. The transaction ID was 9784950, and the amount was $450. The device used to initiate the chargeback was an iPhone XR, with network information: ISP_AS.
+
+[2023-02-13 12:00:01] Raphael Wilson (user_id: 123456) attempted to initiate a chargeback on a legitimate transaction for a set of outdoor clothing purchased from OutdoorClothingStore. The transaction ID was 9784955, and the amount was $600. However, due to insufficient funds in Raphael's account, the chargeback was declined by the bank. The device used was an iPad Mini (6th Generation), with network information: ISP_AT.
+
+[2023-02-13 15:45:57] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a portable camping stove purchased from CampingGearStore. The transaction ID was 9784960, and the amount was $250. The device used to initiate the chargeback was an iPhone 11 Pro Max, with network information: ISP_AU.
+
+[2023-02-14 09:30:19] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking boots purchased from HikingBootsStore. The transaction ID was 9784965, and the amount was $350. The device used to initiate the chargeback was an iPhone 12 Mini, with network information: ISP_AV.
+
+[2023-02-14 13:40:32] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a camping tent purchased from CampingTentStore. The transaction ID was 9784970, and the amount was $500. The device used to initiate the chargeback was an iPad Pro 11-inch (2nd Generation), with network information: ISP_AW.
+
+[2023-02-14 16:35:18] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking backpacks purchased from HikingBackpackStore. The transaction ID was 9784975, and the amount was $600. The device used to initiate the chargeback was an iPhone X, with network information: ISP_AX.
+[2023-02-14 19:12:25] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking shoes purchased from HikingShoesStore. The transaction ID was 9784980, and the amount was $400. The device used to initiate the chargeback was an iPhone XR, with network information: ISP_AY.
+
+[2023-02-15 00:25:09] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking poles purchased from HikingPolesStore. The transaction ID was 9784985, and the amount was $200. The device used to initiate the chargeback was an iPad Air (3rd Generation), with network information: ISP_AZ.
+
+[2023-02-15 04:00:13] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking pants purchased from HikingClothingStore. The transaction ID was 9784990, and the amount was $250. The device used to initiate the chargeback was an iPhone SE (2nd Generation), with network information: ISP_AJ.
+
+[2023-02-15 06:58:27] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking goggles purchased from HikingGearStore. The transaction ID was 9784995, and the amount was $100. The device used to initiate the chargeback was an iPhone 8 Plus, with network information: ISP_AK.
+
+[2023-02-15 09:46:31] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking binoculars purchased from HikingOpticsStore. The transaction ID was 9785000, and the amount was $220. The device used to initiate the chargeback was an iPad Mini (5th Generation), with network information: ISP_AL.
+
+[2023-02-15 12:23:36] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking binoculars purchased from HikingOpticsStore. The transaction ID was 9785005, and the amount was $220. The device used to initiate the chargeback was an iPhone 7, with network information: ISP_AM.
+
+[2023-02-15 14:58:40] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking binoculars purchased from HikingOpticsStore. The transaction ID was 9785010, and the amount was $220. The device used to initiate the chargeback was an iPhone XS, with network information: ISP_AN.
+
+[2023-02-15 17:46:55] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking binoculars purchased from HikingOpticsStore. The transaction ID was 9785015, and the amount was $220. The device used to initiate the chargeback was an iPhone XS Max, with network information: ISP_AO.
+
+[2023-02-15 20:44:09] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking binoculars purchased from HikingOpticsStore. The transaction ID was 9785020, and the amount was $220. The device used to initiate the chargeback was an iPhone XR, with network information: ISP_AP.
+
+[2023-02-15 23:14:36] Raphael Wilson (user_id: 123456) initiated a chargeback on a legitimate transaction for a set of hiking binoculars purchased from HikingOpticsStore. The transaction ID was 9785025, and the amount was $220. The device used to initiate the chargeback was an iPhone XS Max, with network information: ISP_AQ.
+

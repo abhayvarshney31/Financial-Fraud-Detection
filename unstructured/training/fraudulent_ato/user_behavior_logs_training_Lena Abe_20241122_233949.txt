@@ -1,0 +1,177 @@
+User ID: Lena Abe
+- 
+[12:05:38] [fraudulent] Lena Abe attempted to access her account from IP address 192.168.1.1, located in New York City. The device used was an iPhone running iOS 14.0. This activity is suspicious as Lena was last seen accessing her account from California just three hours ago.
+
+[12:37:15] [fraudulent] Within minutes of the previous attempt, Lena Abe tried to access her account again from a different IP address (10.0.0.1), this time from Los Angeles. The device used was an Android phone running Android 9.0. This behavior is highly unusual as Lena rarely uses any devices other than her iPhone.
+
+[12:45:32] [fraudulent] Immediately after the previous attempt, Lena Abe attempted to access her account from IP address 172.16.0.1, located in Chicago. The device used was a Windows laptop running Windows 10. This rapid series of attempts from different locations within a short period is highly suspect and indicates possible unauthorized access to Lena's accounts.
+
+[13:08:49] [fraudulent] Lena Abe tried to access her account from IP address 172.16.0.2, located in Miami, just an hour after the previous attempt. The device used was a MacBook Pro running macOS Catalina. This pattern of rapid attempts from various locations within short time frames is increasingly suspicious and warrants immediate investigation.
+
+[13:25:17] [fraudulent] Within hours, Lena Abe attempted to access her account once again from IP address 192.168.1.2, this time from Houston. The device used was a Samsung Galaxy S20 running Android 10. This continuous series of attempts from multiple locations and devices is highly unusual and indicates potential unauthorized access to Lena's account.
+
+[14:12:34] [fraudulent] From Dallas, IP address 192.168.1.3 was used in another attempt by Lena Abe to access her account. The device used was an iPad Pro running iPadOS 13.4. This behavior is highly suspicious as Lena has never accessed her account from such a wide range of locations and devices within a short time frame.
+
+[15:09:21] [fraudulent] Within minutes, Lena Abe tried to access her account again from IP address 10.0.0.2, located in Atlanta. The device used was an Asus laptop running Windows 7. This continued pattern of rapid attempts from different locations and devices is indicative of potential unauthorized access and requires immediate attention.
+
+[15:40:39] [fraudulent] Lena Abe attempted to access her account from IP address 172.16.0.3, located in Denver. The device used was an HP Desktop running Windows Server 2019. This consistent pattern of activity is highly suspicious and suggests that unauthorized individuals may have gained access to Lena's accounts.
+
+[16:05:04] [fraudulent] Within the hour, Lena Abe tried to access her account from IP address 172.16.0.4, located in Boston. The device used was a Dell XPS laptop running Windows 10. This continuous series of attempts from various locations and devices raises serious concerns about the security of Lena's account and the potential for unauthorized access.
+
+[16:35:38] [fraudulent] To conclude this series of suspicious activities, Lena Abe attempted to access her account one last time from IP address 192.168.1.4, located in Phoenix. The device used was a Google Pixel running Android 10. This consistent pattern of behavior is highly unusual and strongly indicates that unauthorized individuals have gained access to Lena's accounts.
+[17:02:56] [fraudulent] Just minutes after the previous attempt, Lena Abe tried again to access her account from IP address 192.168.1.5, located in Chicago. The device used was an Apple MacBook Pro running macOS Big Sur. This latest attempt further supports the theory that unauthorized individuals are trying to gain access to Lena's accounts.
+
+[17:30:21] [fraudulent] In a new turn of events, Lena Abe attempted to access her account from IP address 192.168.1.6, located in Los Angeles. The device used was an Asus ZenBook running Windows 10. This activity suggests that the attackers are trying different devices and locations to bypass security measures.
+
+[17:53:45] [fraudulent] Within half an hour, Lena Abe tried to access her account from IP address 192.168.1.7, located in Dallas. The device used was a Lenovo ThinkPad running Ubuntu 20.04. This pattern of rapid attempts from various locations and devices indicates that the attackers are relentless in their efforts to gain access to Lena's account.
+
+[18:16:29] [fraudulent] Lena Abe made another attempt to access her account from IP address 192.168.1.8, located in San Francisco. The device used was an HP Envy running Windows 10. This persistent behavior is a strong indication that unauthorized individuals are attempting to gain access to Lena's accounts using different devices and locations.
+
+[18:42:03] [fraudulent] In another swift move, Lena Abe tried to access her account from IP address 192.168.1.9, located in Atlanta. The device used was a Microsoft Surface Pro running Windows 10. These continuous attempts are alarming and demonstrate the determination of the attackers to gain unauthorized access to Lena's accounts.
+
+[19:07:38] [fraudulent] Lena Abe made another attempt to access her account from IP address 192.168.1.10, located in Miami. The device used was a Samsung Galaxy Tab S7 running Android 10. This pattern of behavior is highly unusual and raises serious concerns about the security of Lena's accounts.
+
+[19:35:21] [fraudulent] Within an hour, Lena Abe tried to access her account from IP address 192.168.1.11, located in New York City. The device used was a Dell Inspiron running Windows 10. These continuous attempts from various locations and devices indicate that the attackers are trying to gain unauthorized access to Lena's accounts with persistence and determination.
+
+[20:03:56] [fraudulent] Lena Abe made yet another attempt to access her account from IP address 192.168.1.12, located in Seattle. The device used was a MacBook Air running macOS Big Sur. This relentless pattern of activity is highly suspicious and strongly indicates that unauthorized individuals are attempting to gain access to Lena's accounts using different devices and locations.
+
+[20:35:48] [fraudulent] In a final attempt for the day, Lena Abe tried to access her account from IP address 192.168.1.13, located in Portland. The device used was an ASUS ROG Zephyrus G14 running Windows 10. This series of suspicious activities raises serious concerns about the security of Lena's accounts and the potential for unauthorized access.
+[21:17:23] [fraudulent] Just a few hours after the last attempt, Lena Abe once again attempted to access her account from IP address 192.168.1.14, located in Denver. The device used was an HP Spectre x360 running Windows 10. This rapid series of attempts further indicates that malicious actors are trying to gain unauthorized access to Lena's accounts using various devices and locations.
+
+[21:52:09] [fraudulent] In a continuous pattern, Lena Abe tried to access her account from IP address 192.168.1.15, located in Las Vegas. The device used was an Alienware Aurora R13 running Windows 10. These consistent attempts suggest that the attackers are becoming more persistent and determined in their efforts to gain unauthorized access to Lena's accounts.
+
+[22:26:45] [fraudulent] Within a short span of time, Lena Abe attempted to access her account from IP address 192.168.1.16, located in Austin. The device used was a Lenovo ThinkPad X1 Carbon running Windows 10. This ongoing pattern of activity demonstrates the relentless nature of the attackers trying to gain unauthorized access to Lena's accounts using different devices and locations.
+
+[23:09:57] [fraudulent] Another attempt was made by Lena Abe to access her account from IP address 192.168.1.17, located in Miami. The device used was a Dell XPS 13 running Windows 10. These continuous attempts raise serious concerns about the security of Lena's accounts and the potential for unauthorized access by malicious actors.
+
+[00:25:34] [fraudulent] In yet another attempt, Lena Abe tried to access her account from IP address 192.168.1.18, located in Orlando. The device used was a Samsung Galaxy Book Pro running Windows 10. This ongoing pattern of activity underscores the persistence and determination of attackers trying to gain unauthorized access to Lena's accounts using various devices and locations.
+
+[01:43:42] [fraudulent] Lena Abe made another attempt to access her account from IP address 192.168.1.19, located in Atlanta. The device used was a Razer Blade 15 running Windows 10. These consistent attempts highlight the escalating nature of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors.
+
+[03:00:28] [fraudulent] In a final attempt for the night, Lena Abe tried to access her account from IP address 192.168.1.20, located in Phoenix. The device used was an ASUS ZenBook Pro Duo running Windows 10. This series of suspicious activities emphasizes the seriousness of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+[05:32:16] [fraudulent] Lena Abe attempted to access her account from IP address 192.168.1.21, located in Dallas. The device used was an HP Spectre x360 running Windows 10. This persistent behavior demonstrates the ongoing effort by malicious actors to gain unauthorized access to Lena's accounts using a variety of devices and locations.
+
+[07:25:44] [fraudulent] Another attempt was made from IP address 192.168.1.22, located in San Francisco. The device used was a MacBook Pro running macOS. This series of suspicious activities further highlights the seriousness of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[08:36:29] [fraudulent] Lena Abe tried to access her account from IP address 192.168.1.23, located in Chicago. The device used was a Dell XPS 15 running Windows 10. This ongoing pattern of activity underscores the persistence and determination of attackers trying to gain unauthorized access to Lena's accounts using various devices and locations.
+
+[09:48:33] [fraudulent] In a new attempt, Lena Abe made another try from IP address 192.168.1.24, located in Denver. The device used was an Alienware Area-51m running Windows 10. This series of suspicious activities emphasizes the seriousness of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[10:27:18] [fraudulent] Lena Abe attempted to access her account from IP address 192.168.1.25, located in Washington D.C. The device used was an Acer Predator Triton 500 running Windows 10. This persistent behavior demonstrates the ongoing effort by malicious actors to gain unauthorized access to Lena's accounts using a variety of devices and locations.
+
+[11:48:39] [fraudulent] Another attempt was made from IP address 192.168.1.26, located in Boston. The device used was a Lenovo ThinkPad X1 Extreme running Windows 10. This series of suspicious activities further highlights the seriousness of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[12:37:15] [fraudulent] Lena Abe tried to access her account from IP address 192.168.1.27, located in Miami. The device used was a Gigabyte Aero 15X running Windows 10. This ongoing pattern of activity underscores the persistence and determination of attackers trying to gain unauthorized access to Lena's accounts using various devices and locations.
+
+[13:29:58] [fraudulent] In a new attempt, Lena Abe made another try from IP address 192.168.1.28, located in Austin. The device used was a MSI GS66 Stealth running Windows 10. This series of suspicious activities emphasizes the seriousness of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[14:38:52] [fraudulent] Lena Abe attempted to access her account from IP address 192.168.1.29, located in New York City. The device used was a Razer Blade 17 running Windows 10. This persistent behavior demonstrates the ongoing effort by malicious actors to gain unauthorized access to Lena's accounts using a variety of devices and locations.
+
+[15:49:36] [fraudulent] Another attempt was made from IP address 192.168.1.30, located in Los Angeles. The device used was an ASUS ROG Zephyrus GX701 running Windows 10. This series of suspicious activities further highlights the seriousness of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+[23:05:23] [fraudulent] Lena Abe tried to access her account from IP address 172.20.0.1, located in Sydney. The device used was an Alienware M15 R4 running Windows 11. This attempt indicates that the malicious actors are actively attempting to gain unauthorized access to Lena's accounts from various geographical locations and using different devices.
+
+[23:09:57] [fraudulent] Another attempt was made from IP address 172.20.0.2, located in Tokyo. The device used was a Lenovo Legion Y740S running Windows 11. This series of attempts demonstrates the persistent nature of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[00:12:38] [fraudulent] Lena Abe attempted to access her account from IP address 192.168.0.1, located in Seoul. The device used was a Gigabyte AERO 15 running Windows 11. This persistent behavior shows that the malicious actors are continuously attempting to gain unauthorized access to Lena's accounts using various devices and locations.
+
+[00:24:03] [fraudulent] Another attempt was made from IP address 192.168.0.2, located in Frankfurt. The device used was a Dell XPS 15 running Windows 11. This series of suspicious activities highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[08:37:21] [fraudulent] Lena Abe tried to access her account from IP address 10.0.0.1, located in Singapore. The device used was an MSI Prestige 14 running Windows 11. This attempt shows that the malicious actors are actively attempting to gain unauthorized access to Lena's accounts using various devices and locations.
+
+[08:39:56] [fraudulent] Another attempt was made from IP address 10.0.0.2, located in Melbourne. The device used was a MacBook Pro 14-inch running macOS Big Sur. This series of attempts demonstrates the persistent nature of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[18:03:12] [fraudulent] Lena Abe attempted to access her account from IP address 172.16.0.1, located in Dubai. The device used was a Microsoft Surface Laptop 4 running Windows 11. This persistent behavior shows that the malicious actors are continuously attempting to gain unauthorized access to Lena's accounts using various devices and locations.
+
+[18:10:37] [fraudulent] Another attempt was made from IP address 172.16.0.2, located in Mumbai. The device used was a ThinkPad X1 Carbon Gen 9 running Windows 11. This series of suspicious activities highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+[18:17:56] [fraudulent] Another attempt was made from IP address 172.16.0.3, located in Singapore. The device used was an iPad Pro (2021) running iOS 15. This persistent behavior shows that the malicious actors are continuously attempting to gain unauthorized access to Lena's accounts using various devices and locations.
+
+[18:25:04] [fraudulent] A new attempt was made from IP address 172.16.0.4, located in London. The device used was a Google Pixel 6 Pro running Android 12. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[18:32:22] [fraudulent] Another attempt was made from IP address 172.16.0.5, located in Frankfurt. The device used was a Dell XPS 15 running Windows 11. This series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[18:40:39] [fraudulent] A new attempt was made from IP address 172.16.0.6, located in Sao Paulo. The device used was a Samsung Galaxy S21 Ultra running Android 11. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[18:49:05] [fraudulent] Another attempt was made from IP address 172.16.0.7, located in Sydney. The device used was an iPhone 13 Pro Max running iOS 15. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[18:57:42] [fraudulent] A new attempt was made from IP address 172.16.0.8, located in Bangkok. The device used was a Lenovo ThinkPad X1 Yoga Gen 3 running Windows 10. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[19:06:27] [fraudulent] Another attempt was made from IP address 172.16.0.9, located in Toronto. The device used was a MacBook Air (M1) running macOS Big Sur. This series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[19:13:50] [fraudulent] A new attempt was made from IP address 172.16.0.10, located in Seoul. The device used was a Sony Xperia 1 III running Android 11. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[19:21:34] [fraudulent] Another attempt was made from IP address 172.16.0.11, located in Stockholm. The device used was a Microsoft Surface Laptop 4 running Windows 11. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[19:28:57] [fraudulent] A new attempt was made from IP address 172.16.0.12, located in Casablanca. The device used was an iPad Pro (M1) running iOS 15. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+[19:35:02] [fraudulent] Another attempt was made from IP address 172.16.0.13, located in Sydney. The device used was a Samsung Galaxy S21 Ultra running Android 11. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[19:40:36] [fraudulent] A new attempt was made from IP address 172.16.0.14, located in Auckland. The device used was an iPhone 13 Pro Max running iOS 15. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[19:47:01] [fraudulent] Another attempt was made from IP address 172.16.0.15, located in San Francisco. The device used was a MacBook Pro (M1) running macOS Big Sur. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[20:03:59] [fraudulent] A new attempt was made from IP address 172.16.0.16, located in Los Angeles. The device used was a Google Pixel 6 Pro running Android 12. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[20:15:47] [fraudulent] Another attempt was made from IP address 172.16.0.17, located in Mexico City. The device used was an LG V60 ThinQ running Android 11. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[20:27:38] [fraudulent] A new attempt was made from IP address 172.16.0.18, located in Rio de Janeiro. The device used was a OnePlus 9 Pro running Android 11. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[20:36:54] [fraudulent] Another attempt was made from IP address 172.16.0.19, located in Berlin. The device used was a Huawei P40 Pro running EMUI 11 based on Android 11. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[20:49:03] [fraudulent] A new attempt was made from IP address 172.16.0.20, located in Johannesburg. The device used was a Nokia 8.3 running Android 11. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[20:56:49] [fraudulent] Another attempt was made from IP address 172.16.0.21, located in Dubai. The device used was a Xiaomi Mi 11 Ultra running MIUI 13 based on Android 12. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[21:08:52] [fraudulent] A new attempt was made from IP address 172.16.0.22, located in Singapore. The device used was a Fairphone 4 running Android 11. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+[23:05:19] [fraudulent] An attempt was made from IP address 172.16.0.23, located in Sydney. The device used was a Samsung Galaxy S22 running One UI 4 based on Android 12. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[00:36:37] [fraudulent] Another attempt was made from IP address 172.16.0.24, located in Melbourne. The device used was a Google Pixel 6 Pro running Android 12. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[01:47:43] [fraudulent] A new attempt was made from IP address 172.16.0.25, located in Perth. The device used was a Huawei Mate 40 Pro running EMUI 11 based on Android 11. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[03:23:58] [fraudulent] Another attempt was made from IP address 172.16.0.26, located in Brisbane. The device used was an iPhone 13 Pro Max running iOS 15. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[04:39:21] [fraudulent] A new attempt was made from IP address 172.16.0.27, located in Adelaide. The device used was a Sony Xperia 1 III running Android 11. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[05:57:34] [fraudulent] Another attempt was made from IP address 172.16.0.28, located in Hobart. The device used was a Motorola Edge 20 Pro running Android 11. This ongoing series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[07:25:48] [fraudulent] A new attempt was made from IP address 172.16.0.29, located in Auckland. The device used was a Nokia 6.3 running Android 10. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[09:04:52] [fraudulent] Another attempt was made from IP address 172.16.0.30, located in Wellington. The device used was a OnePlus 9 Pro running OxygenOS 11 based on Android 11. This series of attempts highlights the ongoing threat to Lena's accounts and emphasizes the potential for unauthorized access by malicious actors using different devices and locations.
+
+[10:24:36] [fraudulent] A new attempt was made from IP address 172.16.0.31, located in Christchurch. The device used was a LG Velvet running Android 11. This ongoing series of attempts demonstrates the persistence of the security threat against Lena's accounts and the potential for unauthorized access by malicious actors using different devices and locations.
+
+[11:47:39] [fraudulent] Another attempt was made from IP address 172.16.0.32, located in Dunedin. The device used was a Xiaomi Redmi Note 10 Pro running MIUI 12 based on Android 10. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+[12:32:45] [fraudulent] An additional attempt was made from IP address 172.16.0.33, located in Auckland. The device used was an iPhone 12 Mini running iOS 14. This ongoing series of attempts underscores the persistence of the security threat against Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[13:05:28] [fraudulent] Another attempt was made from IP address 172.16.0.34, located in Wellington. The device used was a Samsung Galaxy S21 running One UI 3.1 based on Android 11. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[14:09:57] [fraudulent] An attempt was made from IP address 172.16.0.35, located in Tauranga. The device used was a Google Pixel 5 running Android 11. This ongoing series of attempts underscores the persistence of the security threat against Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[14:38:42] [fraudulent] Another attempt was made from IP address 172.16.0.36, located in Napier. The device used was a Huawei P40 Pro running EMUI 11 based on Android 10. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[15:23:28] [fraudulent] An attempt was made from IP address 172.16.0.37, located in Hamilton. The device used was a Sony Xperia 1 II running Android 11. This ongoing series of attempts underscores the persistence of the security threat against Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[16:07:53] [fraudulent] Another attempt was made from IP address 172.16.0.38, located in Palmerston North. The device used was a Nokia 8.3 running Android 10. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[16:47:29] [fraudulent] An attempt was made from IP address 172.16.0.39, located in New Plymouth. The device used was a Motorola One Hyper running Android 10. This ongoing series of attempts underscores the persistence of the security threat against Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[17:30:24] [fraudulent] Another attempt was made from IP address 172.16.0.40, located in Nelson. The device used was a Google Pixel 4a running Android 11. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[17:58:09] [fraudulent] An attempt was made from IP address 172.16.0.41, located in Whanganui. The device used was a LG V60 ThinQ running Android 11. This ongoing series of attempts underscores the persistence of the security threat against Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[18:23:45] [fraudulent] Another attempt was made from IP address 172.16.0.42, located in Rotorua. The device used was an iPhone SE (2020) running iOS 14. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+[19:37:21] [fraudulent] A further attempt was made from IP address 172.16.0.43, located in Napier. The device used was a Samsung Galaxy S20 FE running Android 11. This ongoing series of attempts underscores the persistence of the security threat against Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[20:04:18] [fraudulent] An additional attempt was made from IP address 172.16.0.44, located in Timaru. The device used was a Huawei P30 running Android 9. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[20:41:56] [fraudulent] Another attempt was made from IP address 172.16.0.45, located in Invercargill. The device used was a Xiaomi Redmi Note 9S running Android 10. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[21:18:34] [fraudulent] A further attempt was made from IP address 172.16.0.46, located in New Plymouth. The device used was a Google Pixel 5 running Android 11. This ongoing series of attempts underscores the persistence of the security threat against Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[21:54:59] [fraudulent] An additional attempt was made from IP address 172.16.0.47, located in Palmerston North. The device used was a OnePlus 8T running Android 11. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[22:30:24] [fraudulent] Another attempt was made from IP address 172.16.0.48, located in Dunedin. The device used was a Sony Xperia 1 II running Android 10. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[23:05:49] [fraudulent] A further attempt was made from IP address 172.16.0.49, located in Tauranga. The device used was a Samsung Galaxy S21 Ultra running Android 11. This ongoing series of attempts underscores the persistence of the security threat against Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+
+[23:41:18] [fraudulent] An additional attempt was made from IP address 172.16.0.50, located in Wellington. The device used was an iPhone 12 Pro Max running iOS 14. This ongoing series of attempts emphasizes the ongoing threat to Lena's accounts and highlights the potential for unauthorized access by malicious actors using different devices and locations.
+

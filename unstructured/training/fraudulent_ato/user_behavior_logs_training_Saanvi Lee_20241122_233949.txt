@@ -1,0 +1,57 @@
+User ID: Saanvi Lee
+- 
+[10/08/2021 16:35:23] [fraudulent] - User Saanvi Lee attempted to change her account password from an unknown IP address 192.168.1.7 and device ID A1B2C3D4E5, but the request was denied due to multiple failed attempts.
+[10/08/2021 16:42:11] [fraudulent] - User Saanvi Lee tried again from the same IP address and device ID, this time using a slightly different password pattern, but once more her attempt was unsuccessful.
+[10/08/2021 16:50:37] [fraudulent] - Saanvi Lee made another attempt to change her account password from IP address 192.168.1.7 and device ID A1B2C3D4E5, using a more complex password this time, but still unsuccessfully.
+[10/08/2021 17:04:52] [fraudulent] - The user tried yet again from the same IP address and device ID, now attempting to use her previous password, which was previously considered secure. However, the request failed.
+[10/08/2021 17:16:41] [fraudulent] - Saanvi Lee attempted to change her account password from a different IP address 213.202.221.5 and device ID F2G3H4I5J6, but the request was denied due to multiple failed attempts.
+[10/08/2021 17:30:09] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/08/2021 18:00:05] [fraudulent] - Saanvi Lee made another attempt to change her account password from the same IP address and device ID, now using a more complex password this time, but still unsuccessfully.
+[10/08/2021 18:26:23] [fraudulent] - The user tried yet again from the same IP address and device ID, now attempting to use her previous password, which was previously considered secure. However, the request failed.
+[10/08/2021 18:45:17] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 98.76.54.3 and device ID K3L4M5N6O7, but the request was denied due to multiple failed attempts.
+[10/08/2021 19:03:29] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/08/2021 19:20:57] [fraudulent] - Saanvi Lee made another attempt to change her account password from the same IP address and device ID, now using a more complex password this time, but still unsuccessfully.
+[10/08/2021 19:40:06] [fraudulent] - The user tried yet again from the same IP address and device ID, now attempting to use her previous password, which was previously considered secure. However, the request failed.
+[10/09/2021 17:35:12] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 146.86.20.9 and device ID L4N5O7M6P8, but the request was denied due to multiple failed attempts.
+[10/09/2021 18:02:10] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/09/2021 18:27:38] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/09/2021 18:54:39] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 93.87.65.2 and device ID K7L9M0N1O0, but the request was denied due to multiple failed attempts.
+[10/09/2021 19:13:42] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/09/2021 19:38:57] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/09/2021 19:45:36] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 78.123.220.1 and device ID J9M1P2O3K0, but the request was denied due to multiple failed attempts.
+[10/09/2021 20:04:45] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/09/2021 20:36:17] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/09/2021 20:53:48] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 167.233.240.2 and device ID L0N2P3M4K0, but the request was denied due to multiple failed attempts.
+[10/09/2021 21:08:59] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/09/2021 21:37:06] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/09/2021 21:53:46] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 188.43.249.9 and device ID M0L3N5S6O7, but the request was denied due to multiple failed attempts.
+[10/09/2021 22:03:23] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/09/2021 22:45:32] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/09/2021 23:17:15] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 86.10.15.5 and device ID J8K4N3U5V6, but the request was denied due to multiple failed attempts.
+[10/10/2021 00:35:49] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 01:07:32] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/10/2021 01:48:56] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 78.23.209.1 and device ID L2Z3N4K5T6, but the request was denied due to multiple failed attempts.
+[10/10/2021 02:33:11] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 03:14:49] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/10/2021 03:58:39] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 45.67.124.8 and device ID M0L3N5S6O7, but the request was denied due to multiple failed attempts.
+[10/10/2021 04:32:49] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 05:17:06] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/10/2021 05:57:32] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 87.69.213.10 and device ID M1L4N6T7Z8, but the request was denied due to multiple failed attempts.
+[10/10/2021 06:29:59] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 07:24:48] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/10/2021 07:53:57] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 94.86.230.2 and device ID M2L5N7S8Z9, but the request was denied due to multiple failed attempts.
+[10/10/2021 08:26:31] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 09:11:47] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/10/2021 09:48:36] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 15.98.142.7 and device ID M3L6N8S9A0, but the request was denied due to multiple failed attempts.
+[10/10/2021 10:14:43] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 11:16:52] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/10/2021 12:35:26] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 87.98.132.5 and device ID N2K4M7J6B1, but the request was denied due to multiple failed attempts.
+[10/10/2021 13:32:17] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 14:59:06] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/10/2021 15:51:48] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 63.98.178.9 and device ID X3J4H7G8A2, but the request was denied due to multiple failed attempts.
+[10/10/2021 17:27:24] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 18:53:19] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+[10/10/2021 19:58:47] [fraudulent] - Saanvi Lee attempted to change her account password from a new IP address 21.98.182.6 and device ID Y5L6O9M0B3, but the request was denied due to multiple failed attempts.
+[10/10/2021 20:47:52] [fraudulent] - User Saanvi Lee tried again from this new IP address and device ID, using a different password pattern, but her attempt was unsuccessful once more.
+[10/10/2021 21:58:38] [fraudulent] - The user made another attempt to change her account password from the same IP address and device ID, now attempting to use a combination of previous passwords. However, the request failed once more.
+

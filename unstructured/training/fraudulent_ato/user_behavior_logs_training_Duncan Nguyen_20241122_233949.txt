@@ -1,0 +1,147 @@
+User ID: Duncan Nguyen
+- 
+[08:32:19] [fraudulent] User Duncan Nguyen attempted to change account password from an unrecognized device "Unknown Device 42". The request was denied due to failure in two-factor authentication.
+
+[09:15:37] [fraudulent] User Duncan Nguyen tried to reset account password again, this time from a different unknown device "Unknown Device 43", but the request was blocked by the system's security protocols.
+
+[10:21:48] [fraudulent] Multiple failed attempts were observed when User Duncan Nguyen attempted to access account details using different devices, including "Unknown Device 44" and "Unknown Device 45", causing temporary IP blocks.
+
+[13:37:22] [fraudulent] Suspicious login activity was detected from an unknown network "Suspicious Network XYZ". User Duncan Nguyen attempted to change account password, but the request was denied by the system's security measures.
+
+[14:08:56] [fraudulent] Repeated attempts were noticed when User Duncan Nguyen tried to access account information from an unrecognized device "Unknown Device 46", causing multiple security alerts.
+
+[15:27:09] [fraudulent] Multiple failed login attempts observed from various unknown networks "Suspicious Networks ABC" and "Suspicious Network DEF". User Duncan Nguyen tried to change account password, but the request was denied due to system lockout.
+
+[16:40:52] [fraudulent] Anomaly in behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 47". The request was blocked by security protocols after multiple failed attempts.
+
+[17:02:38] [fraudulent] Multiple password reset requests were noticed originating from unknown networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[17:50:29] [fraudulent] Multiple failed login attempts observed from various unknown devices, including "Unknown Device 48" and "Unknown Device 49". User Duncan Nguyen tried to change account password, but the request was denied due to system lockout.
+
+[18:05:23] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 50". The request was blocked by security protocols after multiple failed attempts.
+[18:20:37] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[18:45:22] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 51". The request was blocked by security protocols after multiple failed attempts.
+
+[19:06:38] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[19:23:10] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 52". The request was blocked by security protocols after multiple failed attempts.
+
+[19:40:36] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[20:01:53] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 53". The request was blocked by security protocols after multiple failed attempts.
+
+[20:19:47] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[20:35:18] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 54". The request was blocked by security protocols after multiple failed attempts.
+
+[20:50:03] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+[21:03:15] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 55". The request was blocked by security protocols after multiple failed attempts.
+
+[21:17:49] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[21:30:24] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 56". The request was blocked by security protocols after multiple failed attempts.
+
+[21:45:03] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[21:57:40] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 57". The request was blocked by security protocols after multiple failed attempts.
+
+[22:10:23] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[22:25:09] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 58". The request was blocked by security protocols after multiple failed attempts.
+
+[22:36:51] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[22:51:30] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 59". The request was blocked by security protocols after multiple failed attempts.
+
+[23:00:14] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+[23:05:01] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 60". The request was blocked by security protocols after multiple failed attempts.
+
+[23:08:57] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[23:10:49] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 61". The request was blocked by security protocols after multiple failed attempts.
+
+[23:15:03] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[23:17:45] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 62". The request was blocked by security protocols after multiple failed attempts.
+
+[23:19:08] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[23:21:09] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 63". The request was blocked by security protocols after multiple failed attempts.
+
+[23:24:18] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[23:26:41] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 64". The request was blocked by security protocols after multiple failed attempts.
+[23:30:05] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network MNO" and "Suspicious Network PQR". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[23:34:27] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 65". The request was blocked by security protocols after multiple failed attempts.
+
+[23:39:08] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network STU" and "Suspicious Network VWX". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[23:45:13] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 66". The request was blocked by security protocols after multiple failed attempts.
+
+[23:50:37] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network ABC" and "Suspicious Network DEF". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[23:56:48] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 67". The request was blocked by security protocols after multiple failed attempts.
+
+[00:01:23] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network GHI" and "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[00:08:21] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 68". The request was blocked by security protocols after multiple failed attempts.
+
+[00:13:47] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious networks "Suspicious Network MNO" and "Suspicious Network PQR". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[00:21:08] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 69". The request was blocked by security protocols after multiple failed attempts.
+[00:25:13] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network STU". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[00:28:45] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 70". The request was blocked by security protocols after multiple failed attempts.
+
+[00:32:19] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network VWX". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[00:35:42] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 71". The request was blocked by security protocols after multiple failed attempts.
+
+[00:39:05] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network YZA". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[00:42:13] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 72". The request was blocked by security protocols after multiple failed attempts.
+
+[00:45:19] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network BCD". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[00:48:27] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 73". The request was blocked by security protocols after multiple failed attempts.
+
+[00:51:32] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network DEF". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[00:54:37] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 74". The request was blocked by security protocols after multiple failed attempts.
+[00:57:42] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network DEF". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[01:00:35] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 75". The request was blocked by security protocols after multiple failed attempts.
+
+[01:03:46] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network GHI". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[01:07:03] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 76". The request was blocked by security protocols after multiple failed attempts.
+
+[01:10:18] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network JKL". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[01:14:32] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 77". The request was blocked by security protocols after multiple failed attempts.
+
+[01:18:46] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network MNO". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[01:23:05] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 78". The request was blocked by security protocols after multiple failed attempts.
+
+[01:27:22] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network PQR". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[01:31:37] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 79". The request was blocked by security protocols after multiple failed attempts.
+[01:35:38] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network STU". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[01:41:05] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 80". The request was blocked by security protocols after multiple failed attempts.
+
+[01:42:39] [fraudulent] The system noticed that the user Duncan Nguyen is trying to access account information from an unusual location, which is far away from their usual location.
+
+[01:48:06] [fraudulent] Multiple failed attempts were detected as User Duncan Nguyen tried to change account password from Unknown Device 80. Security measures successfully denied the request.
+
+[01:52:37] [fraudulent] A suspicious network "Suspicious Network VWX" was noticed as originating multiple password reset requests for User Duncan Nguyen's account, but the request was denied by security measures.
+
+[01:58:49] [fraudulent] Unusual behavior detected when User Duncan Nguyen tried to access account information from an unrecognized device "Unknown Device 81". The request was blocked by security protocols after multiple failed attempts.
+
+[02:03:31] [fraudulent] Multiple password reset requests were noticed originating from the same suspicious network "Suspicious Network YZA". User Duncan Nguyen tried to change account password, but the request was denied by security measures.
+
+[02:08:45] [fraudulent] Unusual behavior detected when User Duncan Nguyen attempted to access account information from an unrecognized device "Unknown Device 82". The request was blocked by security protocols after multiple failed attempts.
+

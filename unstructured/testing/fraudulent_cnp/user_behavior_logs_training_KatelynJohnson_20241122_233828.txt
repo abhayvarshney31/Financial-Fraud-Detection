@@ -1,0 +1,143 @@
+User ID: Katelyn Johnson
+- 
+[2021-09-05 17:36:22] [fraudulent] User Katelyn Johnson used a virtual credit card to purchase electronics from an online store located in Germany. The transaction was processed through a VPN server located in Russia.
+
+[2021-09-06 04:58:37] [fraudulent] Katelyn Johnson once again utilized a virtual credit card to make a purchase, this time for luxury goods from a boutique in France. The transaction was initiated from a device with an IP address traced back to China.
+
+[2021-09-08 06:15:43] [fraudulent] User Katelyn Johnson made a series of small transactions using multiple virtual credit cards at various online retailers across Europe. The device used for these transactions was located in Canada, but the VPN server was in Belgium.
+
+[2021-09-09 23:22:58] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a high-value transaction at a luxury hotel booking site. The transaction was blocked by the payment processor, but it is believed that the same user initiated the attempt from an IP address in Australia.
+
+[2021-09-10 15:37:16] [fraudulent] User Katelyn Johnson used another virtual credit card to make a transaction for airline tickets, routed through a VPN server located in the United States. The device IP address was traced back to Singapore.
+
+[2021-09-12 13:48:35] [fraudulent] Katelyn Johnson made a purchase using a virtual credit card at an online marketplace, with the transaction processed through a VPN server in South Korea. The device used for this transaction had an IP address from Japan.
+
+[2021-09-13 07:52:48] [fraudulent] User Katelyn Johnson tried to use a virtual credit card for a car rental reservation through an online platform, with the transaction routed through a VPN server in India. The device IP address was from Taiwan.
+
+[2021-09-14 16:35:23] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a subscription service, with the transaction processed through a VPN server located in Mexico. The device IP address was traced back to Brazil.
+
+[2021-09-15 03:26:54] [fraudulent] User Katelyn Johnson made a purchase using a virtual credit card for designer clothing from an online store, with the transaction processed through a VPN server in Turkey. The device IP address was located in South Africa.
+
+[2021-09-16 14:18:07] [fraudulent] Katelyn Johnson used another virtual credit card to make a reservation for a guided tour at an online platform, with the transaction processed through a VPN server in Indonesia. The device IP address was traced back to Vietnam.
+[2021-09-17 08:42:35] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an online gaming subscription, with the transaction processed through a VPN server in Russia. The device IP address was located in Ukraine.
+
+[2021-09-18 19:06:58] [fraudulent] User Katelyn Johnson made a purchase of electronic gadgets using a virtual credit card, with the transaction processed through a VPN server in Germany. The device IP address was traced back to Poland.
+
+[2021-09-19 05:48:21] [fraudulent] Katelyn Johnson attempted to use another virtual credit card for a hotel reservation, with the transaction processed through a VPN server in the United Arab Emirates. The device IP address was located in Saudi Arabia.
+
+[2021-09-20 13:54:49] [fraudulent] User Katelyn Johnson made a purchase of luxury cosmetics using a virtual credit card, with the transaction processed through a VPN server in France. The device IP address was traced back to Belgium.
+
+[2021-09-21 03:58:47] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a language course subscription, with the transaction processed through a VPN server in Australia. The device IP address was located in New Zealand.
+
+[2021-09-22 15:12:34] [fraudulent] User Katelyn Johnson made a purchase of a high-end smartphone using a virtual credit card, with the transaction processed through a VPN server in Spain. The device IP address was traced back to Portugal.
+
+[2021-09-23 05:48:42] [fraudulent] Katelyn Johnson attempted to use another virtual credit card for a premium streaming service subscription, with the transaction processed through a VPN server in Italy. The device IP address was located in Switzerland.
+
+[2021-09-24 13:58:36] [fraudulent] User Katelyn Johnson made a purchase of a designer watch using a virtual credit card, with the transaction processed through a VPN server in the Netherlands. The device IP address was traced back to Denmark.
+
+[2021-09-25 07:08:48] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a meal delivery service, with the transaction processed through a VPN server in Canada. The device IP address was located in the United States.
+
+[2021-09-26 18:47:53] [fraudulent] User Katelyn Johnson made a purchase of a high-end laptop using a virtual credit card, with the transaction processed through a VPN server in Japan. The device IP address was traced back to South Korea.
+[2021-09-27 03:58:12] [fraudulent] Katelyn Johnson tried to use a virtual credit card for an online gaming subscription, with the transaction processed through a VPN server in Australia. The device IP address was located in China.
+
+[2021-09-28 12:36:45] [fraudulent] User Katelyn Johnson made a purchase of a luxury handbag using a virtual credit card, with the transaction processed through a VPN server in Brazil. The device IP address was traced back to Argentina.
+
+[2021-09-29 04:37:59] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an online course subscription, with the transaction processed through a VPN server in Germany. The device IP address was located in France.
+
+[2021-09-30 09:18:36] [fraudulent] User Katelyn Johnson made a purchase of a smartphone using a virtual credit card, with the transaction processed through a VPN server in Russia. The device IP address was traced back to Ukraine.
+
+[2021-10-01 23:49:12] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an airport lounge access, with the transaction processed through a VPN server in Egypt. The device IP address was located in Sudan.
+
+[2021-10-02 05:38:47] [fraudulent] User Katelyn Johnson made a purchase of a hotel stay using a virtual credit card, with the transaction processed through a VPN server in South Africa. The device IP address was traced back to Zimbabwe.
+
+[2021-10-03 15:47:31] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a high-end restaurant reservation, with the transaction processed through a VPN server in India. The device IP address was located in Pakistan.
+
+[2021-10-04 06:38:59] [fraudulent] User Katelyn Johnson made a purchase of an art piece using a virtual credit card, with the transaction processed through a VPN server in Iran. The device IP address was traced back to Afghanistan.
+
+[2021-10-05 17:39:23] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an online tutoring service, with the transaction processed through a VPN server in Turkey. The device IP address was located in Azerbaijan.
+
+[2021-10-06 04:39:45] [fraudulent] User Katelyn Johnson made a purchase of a luxury watch using a virtual credit card, with the transaction processed through a VPN server in Mongolia. The device IP address was traced back to North Korea.
+[2021-10-07 09:58:01] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a flight ticket reservation, with the transaction processed through a VPN server in Russia. The device IP address was located in Belarus.
+
+[2021-10-08 13:45:19] [fraudulent] User Katelyn Johnson made a purchase of an expensive gaming console using a virtual credit card, with the transaction processed through a VPN server in Ukraine. The device IP address was traced back to Kazakhstan.
+
+[2021-10-09 17:53:37] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a high-end fashion item, with the transaction processed through a VPN server in Georgia. The device IP address was located in Armenia.
+
+[2021-10-10 08:35:41] [fraudulent] User Katelyn Johnson made a purchase of an expensive artifact using a virtual credit card, with the transaction processed through a VPN server in Albania. The device IP address was traced back to Bosnia and Herzegovina.
+
+[2021-10-11 15:39:59] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a luxury hotel booking, with the transaction processed through a VPN server in Montenegro. The device IP address was located in Croatia.
+
+[2021-10-12 20:58:23] [fraudulent] User Katelyn Johnson made a purchase of an exotic pet using a virtual credit card, with the transaction processed through a VPN server in Serbia. The device IP address was traced back to Slovenia.
+
+[2021-10-13 23:45:37] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an antique item, with the transaction processed through a VPN server in Kosovo. The device IP address was located in Macedonia.
+
+[2021-10-14 06:39:51] [fraudulent] User Katelyn Johnson made a purchase of a rare collectible using a virtual credit card, with the transaction processed through a VPN server in Bulgaria. The device IP address was traced back to Greece.
+[2021-10-15 10:58:32] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a high-end smartphone, with the transaction processed through a VPN server in Romania. The device IP address was located in Hungary.
+
+[2021-10-16 19:15:48] [fraudulent] User Katelyn Johnson made a purchase of an expensive wristwatch using a virtual credit card, with the transaction processed through a VPN server in Turkey. The device IP address was traced back to Cyprus.
+
+[2021-10-17 23:59:13] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an exclusive event ticket, with the transaction processed through a VPN server in Georgia. The device IP address was located in Armenia.
+
+[2021-10-18 05:37:49] [fraudulent] User Katelyn Johnson made a purchase of a luxury clothing item using a virtual credit card, with the transaction processed through a VPN server in Azerbaijan. The device IP address was traced back to Iran.
+
+[2021-10-19 12:36:57] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an online course, with the transaction processed through a VPN server in Kazakhstan. The device IP address was located in Uzbekistan.
+
+[2021-10-20 17:45:36] [fraudulent] User Katelyn Johnson made a purchase of an investment property using a virtual credit card, with the transaction processed through a VPN server in Kyrgyzstan. The device IP address was traced back to Tajikistan.
+
+[2021-10-21 23:59:56] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a high-value art piece, with the transaction processed through a VPN server in Turkmenistan. The device IP address was located in Afghanistan.
+
+[2021-10-22 03:38:47] [fraudulent] User Katelyn Johnson made a purchase of an advanced computer hardware using a virtual credit card, with the transaction processed through a VPN server in Uzbekistan. The device IP address was traced back to Turkmenistan.
+
+[2021-10-23 08:59:14] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an expensive medical treatment, with the transaction processed through a VPN server in Iran. The device IP address was located in Pakistan.
+
+[2021-10-24 13:58:36] [fraudulent] User Katelyn Johnson made a purchase of a luxury yacht using a virtual credit card, with the transaction processed through a VPN server in India. The device IP address was traced back to Sri Lanka.
+[2021-10-25 09:16:48] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an exotic car, with the transaction processed through a VPN server in Bangladesh. The device IP address was located in Nepal.
+
+[2021-10-26 15:34:23] [fraudulent] User Katelyn Johnson made a purchase of a high-end smartphone using a virtual credit card, with the transaction processed through a VPN server in Myanmar. The device IP address was traced back to Thailand.
+
+[2021-10-27 18:53:19] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an expensive jewelry purchase, with the transaction processed through a VPN server in Malaysia. The device IP address was located in Cambodia.
+
+[2021-10-28 23:05:04] [fraudulent] User Katelyn Johnson made a purchase of a luxury watch using a virtual credit card, with the transaction processed through a VPN server in Laos. The device IP address was traced back to Vietnam.
+
+[2021-10-29 23:56:47] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an exclusive ski resort stay, with the transaction processed through a VPN server in South Korea. The device IP address was located in Mongolia.
+
+[2021-10-30 04:18:32] [fraudulent] User Katelyn Johnson made a purchase of a high-value art piece using a virtual credit card, with the transaction processed through a VPN server in Taiwan. The device IP address was traced back to North Korea.
+
+[2021-10-31 07:30:59] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an extravagant cruise, with the transaction processed through a VPN server in China. The device IP address was located in Macau.
+
+[2021-10-31 17:45:28] [fraudulent] User Katelyn Johnson made a purchase of an expensive designer handbag using a virtual credit card, with the transaction processed through a VPN server in Hong Kong. The device IP address was traced back to China.
+
+[2021-11-01 23:54:39] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a luxurious oceanfront property, with the transaction processed through a VPN server in Japan. The device IP address was located in South Korea.
+
+[2021-11-02 04:13:56] [fraudulent] User Katelyn Johnson made a purchase of an advanced telescope using a virtual credit card, with the transaction processed through a VPN server in Singapore. The device IP address was traced back to Indonesia.
+[2021-11-02 07:35:48] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for high-end electronic gadgets, with the transaction processed through a VPN server in Thailand. The device IP address was located in Malaysia.
+
+[2021-11-03 09:56:34] [fraudulent] User Katelyn Johnson made a purchase of an expensive painting using a virtual credit card, with the transaction processed through a VPN server in Vietnam. The device IP address was traced back to Cambodia.
+
+[2021-11-04 07:38:59] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a luxury watch, with the transaction processed through a VPN server in the Philippines. The device IP address was located in Laos.
+
+[2021-11-04 17:59:33] [fraudulent] User Katelyn Johnson made a purchase of an extravagant diamond ring using a virtual credit card, with the transaction processed through a VPN server in Myanmar. The device IP address was traced back to Bangladesh.
+
+[2021-11-05 03:02:24] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a high-end sports car, with the transaction processed through a VPN server in Indonesia. The device IP address was located in East Timor.
+
+[2021-11-05 18:43:47] [fraudulent] User Katelyn Johnson made a purchase of an exclusive yacht using a virtual credit card, with the transaction processed through a VPN server in Malaysia. The device IP address was traced back to Brunei.
+
+[2021-11-06 07:45:31] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a luxury vacation home, with the transaction processed through a VPN server in Cambodia. The device IP address was located in Thailand.
+
+[2021-11-06 23:57:28] [fraudulent] User Katelyn Johnson made a purchase of an expensive art collection using a virtual credit card, with the transaction processed through a VPN server in Laos. The device IP address was traced back to Vietnam.
+[2021-11-07 09:32:56] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an extravagant jewelry collection, with the transaction processed through a VPN server in Myanmar. The device IP address was located in Burma.
+
+[2021-11-07 18:49:12] [fraudulent] User Katelyn Johnson made a purchase of high-end luxury fashion items using a virtual credit card, with the transaction processed through a VPN server in Singapore. The device IP address was traced back to the Philippines.
+
+[2021-11-08 04:59:30] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a series of international flights, with the transaction processed through a VPN server in Taiwan. The device IP address was located in Hong Kong.
+
+[2021-11-08 16:02:45] [fraudulent] User Katelyn Johnson made a purchase of an expensive art sculpture using a virtual credit card, with the transaction processed through a VPN server in South Korea. The device IP address was traced back to North Korea.
+
+[2021-11-09 06:34:15] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for a high-end watch collection, with the transaction processed through a VPN server in Mongolia. The device IP address was located in Ulaanbaatar.
+
+[2021-11-09 19:45:38] [fraudulent] User Katelyn Johnson made a purchase of a luxury supercar using a virtual credit card, with the transaction processed through a VPN server in Russia. The device IP address was traced back to Kazakhstan.
+
+[2021-11-10 07:48:52] [fraudulent] Katelyn Johnson attempted to use a virtual credit card for an extravagant yacht charter, with the transaction processed through a VPN server in Turkey. The device IP address was located in Istanbul.
+
+[2021-11-10 18:56:03] [fraudulent] User Katelyn Johnson made a purchase of an expensive jewelry collection using a virtual credit card, with the transaction processed through a VPN server in Iran. The device IP address was traced back to Tehran.
+

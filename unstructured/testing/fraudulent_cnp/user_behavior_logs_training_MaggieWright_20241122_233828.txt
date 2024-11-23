@@ -1,0 +1,341 @@
+User ID: Maggie Wright
+- 
+[2023-04-16 15:48:27] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Apple iPhone 12 (model A2215), iOS version 15.1.1, Browser: Safari 15.0
+Network: Wi-Fi, IP address: 192.168.1.4
+Location: San Francisco, CA, USA
+Transactions:
+- Virtual credit card used for online purchase of electronics from "ElectroShop" worth $750
+- Virtual credit card used for subscription to "Streaming Service X" worth $9.99 per month
+
+[2023-04-18 08:23:42] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Google Pixel 5, Android version 11, Browser: Chrome 97.0
+Network: Mobile data, IP address: 10.0.0.123
+Location: Los Angeles, CA, USA
+Transactions:
+- Virtual credit card used for booking hotel accommodation from "TravelBuddy" worth $450
+- Virtual credit card used for purchasing airline tickets from "FlyerAirways" worth $600
+
+[2023-04-19 17:38:57] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Samsung Galaxy S21, Android version 12, Browser: Firefox 96.0
+Network: Wi-Fi, IP address: 192.168.0.5
+Location: New York City, NY, USA
+Transactions:
+- Virtual credit card used for online purchase of jewelry from "LuxuryGems" worth $350
+- Virtual credit card used for subscription to "PremiumNews" digital magazine service worth $12.99 per month
+
+[2023-04-20 20:07:03] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Huawei P30, Android version 10, Browser: Chrome 98.0
+Network: Mobile data, IP address: 10.0.0.126
+Location: Chicago, IL, USA
+Transactions:
+- Virtual credit card used for online purchase of electronic gadgets from "GadgetWorld" worth $400
+- Virtual credit card used for subscription to "EntertainmentPlus" streaming service worth $19.99 per month
+
+[2023-04-21 22:26:09] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: LG V60 ThinQ, Android version 11, Browser: Firefox 97.0
+Network: Wi-Fi, IP address: 192.168.1.5
+Location: Boston, MA, USA
+Transactions:
+- Virtual credit card used for online purchase of clothing items from "StyleShop" worth $300
+- Virtual credit card used for subscription to "FitnessApp" workout service worth $24.99 per month
+
+[2023-04-22 14:58:51] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: OnePlus 8T, Android version 12, Browser: Chrome 97.0
+Network: Mobile data, IP address: 10.0.0.129
+Location: Dallas, TX, USA
+Transactions:
+- Virtual credit card used for online purchase of furniture from "HomeFurnish" worth $500
+- Virtual credit card used for subscription to "CookingRecipes" online cooking service worth $8.99 per month
+
+[2023-04-23 16:37:42] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Xiaomi Mi 11 Ultra, Android version 12, Browser: Firefox 98.0
+Network: Wi-Fi, IP address: 192.168.0.6
+Location: Atlanta, GA, USA
+Transactions:
+- Virtual credit card used for online purchase of video games from "GameHub" worth $450
+- Virtual credit card used for subscription to "ArtGallery" digital art service worth $17.99 per month
+
+[2023-04-24 20:21:08] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Sony Xperia 1 III, Android version 12, Browser: Chrome 97.0
+Network: Mobile data, IP address: 10.0.0.132
+Location: Miami, FL, USA
+Transactions:
+- Virtual credit card used for online purchase of health supplements from "HealthStore" worth $250
+- Virtual credit card used for subscription to "MindfulnessApp" meditation service worth $9.99 per month
+
+[2023-04-25 18:17:07] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Google Pixel 6, Android version 12, Browser: Firefox 98.0
+Network: Wi-Fi, IP address: 192.168.1.7
+Location: Washington, DC, USA
+Transactions:
+- Virtual credit card used for online purchase of travel gear from "TravelGearZone" worth $350
+- Virtual credit card used for subscription to "MusicStreaming" service worth $4.99 per month
+[2023-04-26 12:03:48] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Samsung Galaxy S22, Android version 13, Browser: Safari 15.3
+Network: Mobile data, IP address: 192.168.0.149
+Location: San Francisco, CA, USA
+Transactions:
+- Virtual credit card used for online purchase of electronic gadgets from "TechAccessoryStore" worth $400
+- Virtual credit card used for subscription to "LanguageLearning" language course service worth $24.99 per month
+
+[2023-04-27 18:35:12] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: iPhone 13 Pro Max, iOS version 15.4, Browser: Chrome 97.0
+Network: Wi-Fi, IP address: 10.0.1.87
+Location: New York City, NY, USA
+Transactions:
+- Virtual credit card used for online purchase of fashion accessories from "AccessoryDepot" worth $225
+- Virtual credit card used for subscription to "FitnessPlus" workout service worth $14.99 per month
+
+[2023-04-28 21:58:31] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: OnePlus 9 Pro, Android version 12, Browser: Firefox 98.0
+Network: Mobile data, IP address: 172.21.7.123
+Location: Los Angeles, CA, USA
+Transactions:
+- Virtual credit card used for online purchase of home appliances from "HomeEssentials" worth $500
+- Virtual credit card used for subscription to "RecipeBox" cooking service worth $9.99 per month
+
+[2023-04-29 14:22:48] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Google Pixel 6a, Android version 12, Browser: Chrome 97.0
+Network: Wi-Fi, IP address: 192.168.2.5
+Location: Chicago, IL, USA
+Transactions:
+- Virtual credit card used for online purchase of pet supplies from "PetStore" worth $300
+- Virtual credit card used for subscription to "PlantCare" plant care service worth $7.99 per month
+
+[2023-04-30 16:58:12] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Xiaomi Mi 11 Ultra, Android version 12, Browser: Safari 15.3
+Network: Mobile data, IP address: 10.0.0.184
+Location: Houston, TX, USA
+Transactions:
+- Virtual credit card used for online purchase of electronics from "ElectronicsHub" worth $275
+- Virtual credit card used for subscription to "SleepScore" sleep tracking service worth $3.99 per month
+
+[2023-05-01 20:10:08] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Samsung Galaxy S21 Ultra, Android version 12, Browser: Firefox 98.0
+Network: Wi-Fi, IP address: 192.168.3.7
+Location: Philadelphia, PA, USA
+Transactions:
+- Virtual credit card used for online purchase of gaming accessories from "GamingGearZone" worth $350
+- Virtual credit card used for subscription to "BookClub" book club service worth $24.99 per month
+
+[2023-05-02 18:05:47] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: iPhone SE, iOS version 15.4, Browser: Safari 15.3
+Network: Mobile data, IP address: 192.168.0.62
+Location: Boston, MA, USA
+Transactions:
+- Virtual credit card used for online purchase of kitchen appliances from "KitchenApplianceStore" worth $450
+- Virtual credit card used for subscription to "YogaOnline" yoga service worth $9.99 per month
+[2023-05-03 16:28:32] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Google Pixel 5, Android version 11, Browser: Chrome 97.0
+Network: Wi-Fi, IP address: 192.168.3.8
+Location: Chicago, IL, USA
+Transactions:
+- Virtual credit card used for online purchase of electronics from "ElectronicsWarehouse" worth $500
+- Virtual credit card used for subscription to "ArtClassNow" art classes service worth $19.99 per month
+
+[2023-05-04 07:45:19] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: MacBook Pro (MacOS version 12.3, Safari 15.1)
+Network: Wi-Fi, IP address: 192.168.0.7
+Location: Denver, CO, USA
+Transactions:
+- Virtual credit card used for online purchase of fitness equipment from "FitnessGearPro" worth $400
+- Virtual credit card used for subscription to "LanguageLearning" language learning service worth $29.99 per month
+
+[2023-05-05 19:02:58] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Dell XPS 15, Windows 10 version 21H1, Edge 94.0
+Network: Wi-Fi, IP address: 192.168.1.3
+Location: Dallas, TX, USA
+Transactions:
+- Virtual credit card used for online purchase of home improvement items from "HomeImprovementHub" worth $375
+- Virtual credit card used for subscription to "GardeningGuide" gardening service worth $9.99 per month
+
+[2023-05-06 14:28:24] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Lenovo ThinkPad X1 Carbon, Windows 10 version 21H2, Firefox 98.0
+Network: Wi-Fi, IP address: 192.168.3.9
+Location: Washington, D.C., USA
+Transactions:
+- Virtual credit card used for online purchase of clothes and accessories from "Fashionista" worth $350
+- Virtual credit card used for subscription to "ChefClub" cooking service worth $24.99 per month
+
+[2023-05-07 18:12:09] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Microsoft Surface Pro 7, Windows 10 version 20H2, Edge 94.0
+Network: Mobile data, IP address: 192.168.0.63
+Location: Atlanta, GA, USA
+Transactions:
+- Virtual credit card used for online purchase of pet supplies from "PetStoreOnline" worth $250
+- Virtual credit card used for subscription to "PetCarePlus" pet care service worth $9.99 per month
+
+[2023-05-08 14:57:45] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: ASUS ZenBook 14, Windows 10 version 21H1, Chrome 96.0
+Network: Wi-Fi, IP address: 192.168.3.10
+Location: Orlando, FL, USA
+Transactions:
+- Virtual credit card used for online purchase of toys and games from "ToyWorld" worth $400
+- Virtual credit card used for subscription to "CodingAcademy" coding classes service worth $29.99 per month
+
+[2023-05-09 19:43:22] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: MacBook Pro (MacOS version 12.3, Safari 15.1)
+Network: Wi-Fi, IP address: 192.168.0.7
+Location: San Francisco, CA, USA
+Transactions:
+- Virtual credit card used for online purchase of travel gear from "TravelGearCentral" worth $375
+- Virtual credit card used for subscription to "GuidedMeditation" guided meditation service worth $9.99 per month
+[2023-05-10 08:32:56] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Lenovo ThinkPad X1 Carbon, Ubuntu 20.04 LTS, Firefox 93.0
+Network: Wi-Fi, IP address: 192.168.2.9
+Location: Seattle, WA, USA
+Transactions:
+- Virtual credit card used for online purchase of exercise equipment from "FitHub" worth $450
+- Virtual credit card used for subscription to "CraftMastery" art and craft supplies service worth $24.99 per month
+
+[2023-05-11 17:00:38] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: HP Spectre x360, Windows 10 version 21H2, Microsoft Edge 92.0
+Network: Wi-Fi, IP address: 192.168.4.5
+Location: Chicago, IL, USA
+Transactions:
+- Virtual credit card used for online purchase of electronics from "ElectroShop" worth $500
+- Virtual credit card used for subscription to "CookingMastery" cooking classes service worth $39.99 per month
+
+[2023-05-12 21:37:42] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Dell XPS 13, macOS Big Sur version 11.6, Google Chrome 95.0
+Network: Wi-Fi, IP address: 192.168.1.3
+Location: Denver, CO, USA
+Transactions:
+- Virtual credit card used for online purchase of clothing and accessories from "Fashionista" worth $325
+- Virtual credit card used for subscription to "YogaOnline" yoga classes service worth $19.99 per month
+
+[2023-05-13 04:56:28] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Microsoft Surface Laptop 4, Windows 11 Home edition, Microsoft Edge 94.0
+Network: Wi-Fi, IP address: 192.168.5.7
+Location: Boston, MA, USA
+Transactions:
+- Virtual credit card used for online purchase of home improvement products from "HomePro" worth $350
+- Virtual credit card used for subscription to "GardeningWorld" gardening resources service worth $29.99 per month
+
+[2023-05-14 10:00:56] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: MacBook Air (MacOS version 12.4, Safari 15.3)
+Network: Wi-Fi, IP address: 192.168.6.2
+Location: Dallas, TX, USA
+Transactions:
+- Virtual credit card used for online purchase of software and apps from "AppMarket" worth $200
+- Virtual credit card used for subscription to "LanguageLab" language learning service worth $49.99 per month
+
+[2023-05-15 15:17:38] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Acer Swift 5, Windows 10 version 21H1, Mozilla Firefox 96.0
+Network: Wi-Fi, IP address: 192.168.7.3
+Location: Miami, FL, USA
+Transactions:
+- Virtual credit card used for online purchase of books and magazines from "Bibliophile" worth $250
+- Virtual credit card used for subscription to "FinanceMastery" finance and investment service worth $19.99 per month
+
+[2023-05-16 21:48:56] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Samsung Galaxy Book Pro, Windows 10 version 21H1, Microsoft Edge 95.0
+Network: Wi-Fi, IP address: 192.168.8.2
+Location: Atlanta, GA, USA
+Transactions:
+- Virtual credit card used for online purchase of musical instruments and accessories from "MusicianStore" worth $400
+- Virtual credit card used for subscription to "Chef'sCorner" cooking classes service worth $39.99 per month
+
+[2023-05-17 06:32:48] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: HP Envy x360, Windows 10 version 21H2, Google Chrome 95.0
+Network: Wi-Fi, IP address: 192.168.9.1
+Location: Los Angeles, CA, USA
+Transactions:
+- Virtual credit card used for online purchase of toys and games from "ToyWorld" worth $300
+- Virtual credit card used for subscription to "FitnessPlus" fitness classes service worth $29.99 per month
+[2023-05-18 09:15:32] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: MacBook Pro, macOS Monterey version 12.3, Safari 15.4
+Network: Wi-Fi, IP address: 192.168.0.2
+Location: Dallas, TX, USA
+Transactions:
+- Virtual credit card used for online purchase of electronics and gadgets from "GadgetHub" worth $250
+- Virtual credit card used for subscription to "LearnToCode" coding classes service worth $34.99 per month
+
+[2023-05-19 17:38:56] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Dell XPS 15, Windows 10 version 21H2, Firefox 96.0
+Network: Wi-Fi, IP address: 192.168.4.1
+Location: Chicago, IL, USA
+Transactions:
+- Virtual credit card used for online purchase of books and magazines from "Bibliotheque" worth $150
+- Virtual credit card used for subscription to "GardenersClub" gardening tips service worth $29.99 per month
+
+[2023-05-20 20:46:12] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Lenovo ThinkPad X1 Carbon, Windows 10 version 21H2, Internet Explorer 95.0
+Network: Wi-Fi, IP address: 192.168.2.2
+Location: Houston, TX, USA
+Transactions:
+- Virtual credit card used for online purchase of clothing and accessories from "StyleShop" worth $450
+- Virtual credit card used for subscription to "CookingMasterclass" cooking lessons service worth $39.99 per month
+
+[2023-05-21 08:52:37] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Microsoft Surface Pro, Windows 10 version 21H2, Microsoft Edge 96.0
+Network: Wi-Fi, IP address: 192.168.3.1
+Location: Miami, FL, USA
+Transactions:
+- Virtual credit card used for online purchase of pet supplies and accessories from "PetCare" worth $300
+- Virtual credit card used for subscription to "FitnessPlusElite" fitness classes service worth $49.99 per month
+
+[2023-05-22 11:28:26] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Asus ZenBook, Windows 10 version 21H1, Google Chrome 97.0
+Network: Wi-Fi, IP address: 192.168.5.1
+Location: Denver, CO, USA
+Transactions:
+- Virtual credit card used for online purchase of travel and accommodations from "TripPlanner" worth $1,000
+- Virtual credit card used for subscription to "ArtAcademy" art classes service worth $39.99 per month
+
+[2023-05-23 14:37:18] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: MacBook Pro, macOS Monterey version 12.3, Safari 16.0
+Network: Wi-Fi, IP address: 192.168.6.1
+Location: Seattle, WA, USA
+Transactions:
+- Virtual credit card used for online purchase of home appliances and electronics from "HomeEssentials" worth $350
+- Virtual credit card used for subscription to "CraftCorner" crafting supplies service worth $29.99 per month
+[2023-05-24 07:58:36] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Dell Inspiron, Windows 10 version 21H2, Firefox 97.0
+Network: Wi-Fi, IP address: 192.168.5.2
+Location: Austin, TX, USA
+Transactions:
+- Virtual credit card used for online purchase of a gaming console and video games from "GameZone" worth $549.98
+- Virtual credit card used for subscription to "FitnessPlusElite" fitness classes service worth $49.99 per month (Repeat transaction)
+
+[2023-05-25 10:09:48] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Lenovo ThinkPad, Windows 10 version 21H1, Chrome 97.0
+Network: Wi-Fi, IP address: 192.168.5.3
+Location: Los Angeles, CA, USA
+Transactions:
+- Virtual credit card used for online purchase of clothing and accessories from "Fashionista" worth $249.95
+- Virtual credit card used for subscription to "ArtAcademy" art classes service worth $39.99 per month (Repeat transaction)
+
+[2023-05-26 12:41:03] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: HP Spectre, Windows 10 version 21H2, Edge 97.0
+Network: Wi-Fi, IP address: 192.168.6.2
+Location: Chicago, IL, USA
+Transactions:
+- Virtual credit card used for online purchase of a smartwatch and wearable technology from "GadgetsGalore" worth $319.99
+- Virtual credit card used for subscription to "CraftCorner" crafting supplies service worth $29.99 per month (Repeat transaction)
+
+[2023-05-27 08:42:25] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Microsoft Surface Pro, Windows 10 version 21H1, Chrome 97.0
+Network: Wi-Fi, IP address: 192.168.5.4
+Location: San Francisco, CA, USA
+Transactions:
+- Virtual credit card used for online purchase of a tablet and mobile apps from "TechWorld" worth $479.99
+- Virtual credit card used for subscription to "FitnessPlusElite" fitness classes service worth $49.99 per month (Repeat transaction)
+
+[2023-05-28 13:58:56] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: MacBook Pro, macOS Monterey version 12.3, Safari 16.0
+Network: Wi-Fi, IP address: 192.168.6.3
+Location: Miami, FL, USA
+Transactions:
+- Virtual credit card used for online purchase of a drone and camera equipment from "GearUp" worth $599.98
+- Virtual credit card used for subscription to "TripPlanner" travel and accommodations service worth $1,000 (Repeat transaction)
+
+[2023-05-29 10:44:32] User Maggie Wright (maggie.wright@example.com) - Type: Fraudulent
+Device Information: Dell Inspiron, Windows 10 version 21H2, Firefox 97.0
+Network: Wi-Fi, IP address: 192.168.5.5
+Location: Boston, MA, USA
+Transactions:
+- Virtual credit card used for online purchase of a laptop and software from "TechHub" worth $1,249.99
+- Virtual credit card used for subscription to "ArtAcademy" art classes service worth $39.99 per month (Repeat transaction)
+

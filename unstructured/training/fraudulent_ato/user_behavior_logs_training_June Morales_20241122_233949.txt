@@ -1,0 +1,349 @@
+User ID: June Morales
+- 
+June Morales [fraudulent] - Failed Login Attempt (3/20 15:32)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Chicago, IL
+
+June Morales [fraudulent] - Failed Login Attempt (3/20 15:34)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Chicago, IL
+
+June Morales [fraudulent] - Failed Login Attempt (3/20 15:35)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Chicago, IL
+
+June Morales [fraudulent] - Successful Login (3/20 15:40)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Chicago, IL
+
+June Morales [fraudulent] - Unusual Activity Detected (3/20 15:41)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Chicago, IL
+June Morales attempted to change the email address and password associated with the account. This action is considered suspicious as it was performed immediately after successful access.
+
+June Morales [fraudulent] - Funds Transfer (3/20 15:43)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Chicago, IL
+June Morales initiated a funds transfer of $1,000 to an unknown recipient with the email address 'randomemail@example.com'. This transaction is considered fraudulent due to the unusual location and lack of verified information about the recipient.
+
+June Morales [fraudulent] - Account Modification (3/20 15:46)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Chicago, IL
+June Morales changed the registered phone number associated with the account to a different, unverified number. This action indicates that the fraudster may have gained access to personal information in order to modify the account details.
+
+June Morales [fraudulent] - Unusual Login Location (3/20 16:05)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Chicago, IL
+The account was accessed from a different location than usual, with the IP address now originating from Los Angeles, CA instead of Chicago, IL. This sudden change in location further confirms suspicious activity.
+
+June Morales [fraudulent] - Account Lockout (3/20 16:10)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+The account was locked due to multiple failed login attempts and suspicious activity. A temporary hold has been placed on the account while further investigation is conducted.
+
+June Morales [fraudulent] - Account Recovery Request (3/20 16:15)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+June Morales initiated an account recovery request, likely in an attempt to regain access to the compromised account. This request has been flagged and will be reviewed separately from the ongoing investigation.
+June Morales [fraudulent] - Multiple Failed Login Attempts (3/20 16:20)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+After the account lockout, multiple failed login attempts were made from the same device and IP address. These attempts have been recorded and will be investigated as part of the ongoing case.
+
+June Morales [fraudulent] - Unsuccessful Login Attempt (3/20 16:25)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+An unsuccessful login attempt was made using a different password than usual. This could indicate that the attacker is attempting to brute-force their way into the account or guessing potential passwords.
+
+June Morales [fraudulent] - Account Access Granted (3/20 16:30)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+Despite the ongoing investigation and account lockout, the attacker was able to successfully access June's account by using a combination of previously compromised information and possibly exploiting a vulnerability in the system.
+
+June Morales [fraudulent] - Suspicious Activity Detected (3/20 16:35)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+Suspicious activity was detected in June's account shortly after it was accessed. This may include unusual transactions, unauthorized changes to account settings, or attempts to access sensitive information.
+
+June Morales [fraudulent] - Account Lockdown (3/20 16:40)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+The account has been locked down again due to the detected suspicious activity and the recent access from a different location. This will help prevent further unauthorized actions while the investigation continues.
+
+June Morales [fraudulent] - Fraud Alert Notification (3/20 16:45)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+An automatic fraud alert notification has been sent to June's registered email address and phone number, informing her of the suspicious activity on her account and the ongoing investigation.
+
+June Morales [fraudulent] - Account Access Attempt Blocked (3/20 16:50)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+Another attempted access to June's account was blocked due to the ongoing lockdown and increased security measures. This action helps prevent further unauthorized access while the investigation continues.
+
+June Morales [fraudulent] - IP Address Change (3/20 16:55)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+The attacker changed the IP address to a different location within Los Angeles, further indicating that they are attempting to cover their tracks and avoid detection. This information will be added to the investigation.
+June Morales [fraudulent] - Multiple Login Attempts (3/21 08:10)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.23
+Location: Los Angeles, CA
+June's account was once again targeted with multiple failed login attempts. The attacker is persistently trying to gain access by guessing the correct password. This pattern of behavior indicates that the attacker has not yet given up on attempting to breach her account.
+
+June Morales [fraudulent] - IP Address Change (3/21 08:15)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.24
+Location: Los Angeles, CA
+The attacker changed the IP address to a different location within Los Angeles, further indicating that they are attempting to cover their tracks and avoid detection. This information will be added to the investigation.
+
+June Morales [fraudulent] - Brute Force Attempt (3/21 08:20)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.24
+Location: Los Angeles, CA
+The attacker is now using a brute force method to attempt accessing June's account by systematically trying different combinations of passwords. This tactic increases the chances of eventually guessing the correct password but also prolongs the duration of the attack.
+
+June Morales [fraudulent] - Failed Login Alert (3/21 08:25)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.24
+Location: Los Angeles, CA
+June received an alert for a failed login attempt on her account. The system blocked the attacker's brute force attempt and notified June of the security breach. This serves as another reminder that her account is still under active attack.
+
+June Morales [fraudulent] - IP Address Change (3/21 08:30)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker has once again changed the IP address to a different location within Los Angeles. This continuous change of IP addresses indicates that the attacker is becoming more cautious and trying to avoid detection by law enforcement or security systems.
+
+June Morales [fraudulent] - Multiple Login Attempts (3/21 08:35)
+Network: 192.168.1.10
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker resumes their attempts to gain access by guessing the correct password, following the IP address change. This persistent behavior highlights the attacker's determination to breach June's account and continue with the fraudulent activity.
+
+June Morales [fraudulent] - Network Change (3/21 08:40)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker changed the network to a different location within Los Angeles. This change may indicate that the attacker is attempting to cover their tracks further by moving between different networks and devices, making it more difficult for security systems to track them down.
+June Morales [fraudulent] - Successful Login (3/21 08:45)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+After a series of failed login attempts, the attacker finally managed to guess the correct password and gain access to June's account. This success could be due to the attacker's experience or the use of brute-force techniques.
+
+June Morales [fraudulent] - Unusual Activity (3/21 08:50)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+Immediately after gaining access to the account, the attacker began performing unusual activities such as changing passwords, updating security settings, and adding new devices to the list of authorized devices. This behavior indicates that the attacker intends to take full control of June's account and establish a foothold for further fraudulent activities.
+
+June Morales [fraudulent] - Suspicious Transactions (3/21 08:55)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+With full access to the account, the attacker initiated a series of suspicious transactions, likely aiming to launder the funds or use them for further illegal activities. These transactions include unauthorized purchases, fund transfers, and other actions that compromise June's financial security.
+
+June Morales [fraudulent] - Account Modification (3/21 09:00)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker continued to modify the account settings, adding new email addresses and phone numbers, and changing other personal information. This action aims to further distance themselves from the original owner of the account and make it harder for June or law enforcement to regain control.
+
+June Morales [fraudulent] - Email Forwarding (3/21 09:05)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker set up email forwarding to redirect all communications and notifications from June's account to a different email address. This action is likely intended to keep the attacker informed of any security alerts or notifications that may arise while maintaining plausible deniability.
+
+June Morales [fraudulent] - Privacy Settings Changes (3/21 09:10)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker changed the privacy settings on June's account, restricting access to certain information and making it difficult for June or law enforcement to track the ongoing fraudulent activities. This action further complicates any efforts to trace the attacker's actions and recover lost funds.
+
+June Morales [fraudulent] - New Device Added (3/21 09:15)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker added a new device to the list of authorized devices, likely in an attempt to further distance themselves from the original account owner and establish a new layer of protection. This addition makes it more challenging for June or law enforcement to track the fraudulent activities back to the original attacker.
+
+June Morales [fraudulent] - Account Recovery Requested (3/21 09:20)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker initiated an account recovery process, likely in an attempt to gain further control over June's account or prevent the original owner from regaining access. This action is a common tactic used by attackers to maintain their hold on compromised accounts and continue fraudulent activities undetected.
+June Morales [fraudulent] - Multiple Failed Login Attempts (3/21 09:25)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker engaged in a series of multiple failed login attempts before successfully accessing the account. This behavior is consistent with an attempt to guess or brute-force the account's password, which can be an indication of potential fraudulent activity.
+
+June Morales [fraudulent] - Successful Login (3/21 09:30)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker successfully accessed June's account after multiple failed login attempts, likely by guessing or cracking the password through brute-force or other means. This action demonstrates that the attacker is persistent and may have more advanced techniques to exploit the account.
+
+June Morales [fraudulent] - Account Settings Changed (3/21 09:35)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker changed the account settings, which could include email, password, or security questions. This action makes it more difficult for June or law enforcement to regain control of the account and trace the fraudulent activities back to the original attacker.
+
+June Morales [fraudulent] - Unauthorized Transactions (3/21 09:40)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker initiated unauthorized transactions, likely to further distance themselves from the original account owner and establish a new layer of protection. This action is a common tactic used by attackers to maintain their hold on compromised accounts and continue fraudulent activities undetected.
+
+June Morales [fraudulent] - Two-Factor Authentication Disabled (3/21 09:45)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker disabled two-factor authentication on the account, which makes it easier for them to maintain control over the compromised account and perform further fraudulent activities without being detected by additional security measures.
+
+June Morales [fraudulent] - Email Forwarding Setup (3/21 09:50)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker set up email forwarding to redirect all account-related communications to a different email address, likely in an attempt to hide their activities from the original account owner and law enforcement. This action further complicates efforts to trace the fraudulent activities back to the original attacker.
+
+June Morales [fraudulent] - Large Funds Withdrawal (3/21 09:55)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker initiated a large withdrawal of funds from the account, likely to further distance themselves from the original account owner and establish a new layer of protection. This action is a common tactic used by attackers to maintain their hold on compromised accounts and continue fraudulent activities undetected.
+
+June Morales [fraudulent] - Account Suspended (3/21 10:00)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The platform suspended the account due to suspicious activity, likely as a result of the fraudulent actions taken by the attacker. This suspension may limit the attacker's ability to continue their activities but could also hinder June from regaining control of her account in a timely manner.
+June Morales [fraudulent] - Multiple Failed Login Attempts (3/21 09:30)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The attacker engaged in a series of failed login attempts before successfully accessing the account, demonstrating persistence and adaptability. This behavior is consistent with an attacker attempting to avoid detection through brute force or trial-and-error methods.
+
+June Morales [fraudulent] - Unusual Activity Alert (3/21 09:45)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25
+Location: Los Angeles, CA
+The platform sent an unusual activity alert to June after noticing the failed login attempts. This alert may have triggered additional security measures, such as temporary account lockouts or notifications to the account owner. However, the attacker was still able to bypass these protections and gain access to the account.
+
+June Morales [fraudulent] - IP Address Change (3/21 09:50)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.25 -> 72.168.4.37
+Location: Los Angeles, CA
+The attacker changed the IP address associated with the fraudulent activity, making it more difficult to trace their location and efforts. This tactic is commonly used by attackers to avoid detection and maintain anonymity while conducting cyberattacks.
+
+June Morales [fraudulent] - Password Change (3/21 09:52)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.37
+Location: Los Angeles, CA
+The attacker changed the password on the account, likely to prevent June from regaining control and to further solidify their hold on the compromised account. This action is a common tactic used by attackers to maintain their access to the target account while continuing fraudulent activities.
+
+June Morales [fraudulent] - Email Forwarding Enabled (3/21 09:54)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.37
+Location: Los Angeles, CA
+The attacker enabled email forwarding on the account, redirecting any communications or notifications to a different email address. This action helps the attacker avoid detection and control the flow of information related to the compromised account.
+
+June Morales [fraudulent] - SMS Verification Disabled (3/21 09:56)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.37
+Location: Los Angeles, CA
+The attacker disabled SMS verification for the account, eliminating a potential security measure that would require an additional layer of authentication during unauthorized access attempts. This action makes it easier for the attacker to continue fraudulent activities without detection.
+
+June Morales [fraudulent] - Account Settings Altered (3/21 09:58)
+Network: 192.168.1.11
+Device: iPhone 7
+IP Address: 72.168.4.37
+Location: Los Angeles, CA
+The attacker altered various account settings to further distance themselves from the original account owner and establish a new layer of protection. These changes may include altering security questions, updating recovery information, or adjusting notification preferences.
+
+June Morales [fraudulent] - Device Reassociation (3/21 10:02)
+Network: 192.168.1.11
+Device: iPhone 7 -> iPhone 8
+IP Address: 72.168.4.37
+Location: Los Angeles, CA
+The attacker reassociated the account with a different device, specifically an iPhone 8. This action helps to further obscure their identity and location while continuing fraudulent activities on the compromised account.
+
+June Morales [fraudulent] - Location Change (3/21 10:04)
+Network: 192.168.1.11
+Device: iPhone 8
+IP Address: 72.168.4.37 -> 72.168.4.38
+Location: Los Angeles, CA -> New York, NY
+The attacker changed the location associated with the fraudulent activities, further complicating efforts to trace their identity and actions. This tactic is commonly used by attackers to avoid detection and maintain anonymity while conducting cyberattacks.
+June Morales [fraudulent] - Failed Login Attempts (3/21 10:07)
+Network: 192.168.1.11
+Device: iPhone 8
+IP Address: 72.168.4.38
+Location: New York, NY
+The attacker made a series of failed login attempts before successfully accessing the account. This behavior suggests that they were attempting to bypass security measures and gain unauthorized access.
+

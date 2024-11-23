@@ -1,0 +1,105 @@
+User ID: Katherine Burns
+- 
+[2023-01-10 09:45:37] User Katherine Burns (IP: 192.168.1.1) opened a fraudulent account with similar details to an existing one, using the name 'Katie Burns'. Device: Windows 10 - ASUS ROG GL703GE.
+
+[2023-01-10 10:15:43] User Katherine Burns (IP: 192.168.1.2) attempted to open another fraudulent account with similar details, but was blocked due to suspicious activity detected by the system. Device: macOS - MacBook Pro (Retina, 15-inch, Mid 2014).
+
+[2023-01-10 10:38:19] Katherine Burns (IP: 192.168.1.3) opened a new fraudulent account with the name 'Kat Burns', but this time the application was closed abruptly by an administrator after detecting unusual behavior. Device: Linux - Dell XPS 15 (9550).
+
+[2023-01-10 11:00:41] User Katherine Burns (IP: 192.168.1.4) tried to open a fraudulent account with similar details in a different email domain, but the process was halted by the system due to multiple failed attempts. Device: Chrome OS - Google Pixelbook.
+
+[2023-01-10 11:15:27] Katherine Burns (IP: 192.168.1.5) opened a fraudulent account with similar details to the previous ones, but this time using a VPN service. The account was flagged for further review by the system. Device: Android - Samsung Galaxy S20+.
+
+[2023-01-10 11:45:38] User Katherine Burns (IP: 192.168.1.6) tried to open another account with similar details, but the system detected anomalous activity and blocked the attempt. Device: iOS - iPhone 12 Pro Max.
+
+[2023-01-10 12:00:57] Katherine Burns (IP: 192.168.1.7) opened a fraudulent account with similar details using the name 'Katty Burns'. The account was flagged and placed under investigation by the security team. Device: Windows 10 - HP Spectre x360 14.
+
+[2023-01-10 12:30:25] User Katherine Burns (IP: 192.168.1.8) attempted to open a fraudulent account with the name 'Katie B.' but was blocked by the system due to an IP address pattern anomaly. Device: macOS - iMac (Retina 5K, 27-inch, Late 2014).
+
+[2023-01-10 13:00:19] Katherine Burns (IP: 192.168.1.9) opened another fraudulent account with similar details, but the system detected suspicious behavior and locked the account for further review. Device: Linux - Lenovo ThinkPad X1 Carbon (7th Gen).
+
+[2023-01-10 13:45:35] User Katherine Burns (IP: 192.168.1.10) opened a fraudulent account with similar details in a short time, but the system flagged it and prevented the account from being created due to suspicious activity patterns. Device: Chrome OS - Asus Chromebook Flip C434.
+[2023-01-10 14:05:17] Katherine Burns (IP: 192.168.1.11) attempted to open another fraudulent account using the name 'Katty B.' but was blocked by the system due to multiple failed attempts within a short period of time. Device: iOS - iPhone 13 Pro Max.
+
+[2023-01-10 14:25:48] Katherine Burns (IP: 192.168.1.12) tried to create a fraudulent account using the name 'Katie B. Burns' but was blocked by the system due to an IP address pattern anomaly and multiple failed attempts in quick succession. Device: Android - Google Pixel 7.
+
+[2023-01-10 14:50:06] Katherine Burns (IP: 192.168.1.13) opened a fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: Windows 11 - Microsoft Surface Pro 8.
+
+[2023-01-10 15:10:29] User Katherine Burns (IP: 192.168.1.14) attempted to create a fraudulent account with the name 'Katty B.' but was blocked by the system due to an IP address pattern anomaly and multiple failed attempts within a short time frame. Device: Linux - Dell XPS 13 (9310).
+
+[2023-01-10 15:45:56] Katherine Burns (IP: 192.168.1.15) opened a fraudulent account with similar details, but the system flagged it and prevented the account from being created due to suspicious activity patterns. Device: macOS - MacBook Air (M1, 2020).
+
+[2023-01-10 16:15:27] Katherine Burns (IP: 192.168.1.16) attempted to open another fraudulent account using the name 'Katie B.' but was blocked by the system due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: Chrome OS - Acer Chromebook Spin 713.
+
+[2023-01-10 16:40:51] Katherine Burns (IP: 192.168.1.17) tried to create a fraudulent account using the name 'Katie B. Burns' but was blocked by the system due to an IP address pattern anomaly and multiple failed attempts in quick succession. Device: iOS - iPad Pro 12.9-inch (5th Generation).
+
+[2023-01-10 17:15:18] Katherine Burns (IP: 192.168.1.18) opened a fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: Android - Samsung Galaxy Z Fold 4.
+[2023-01-10 17:45:46] Katherine Burns (IP: 192.168.1.19) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Windows - HP Spectre x360 14.
+
+[2023-01-10 18:25:32] Katherine Burns (IP: 192.168.1.20) tried to create a fraudulent account using the name 'Katie B. Burns' but was blocked by the system due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: Linux - Dell XPS 13 Developer Edition.
+
+[2023-01-10 19:15:23] Katherine Burns (IP: 192.168.1.21) opened a fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: macOS - iMac (27-inch, 2020).
+
+[2023-01-10 20:45:16] Katherine Burns (IP: 192.168.1.22) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Chrome OS - Google Pixelbook Go.
+
+[2023-01-10 21:35:08] Katherine Burns (IP: 192.168.1.23) tried to create a fraudulent account using the name 'Katie B. Burns' but was blocked by the system due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: iOS - iPhone 13 Pro Max.
+
+[2023-01-10 22:15:09] Katherine Burns (IP: 192.168.1.24) opened a fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: Android - Google Pixel 6 Pro.
+
+[2023-01-10 23:45:11] Katherine Burns (IP: 192.168.1.25) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Windows - Microsoft Surface Pro 7+.
+
+[2023-01-10 23:45:11] Katherine Burns (IP: 192.168.1.26) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Windows - ASUS VivoBook S13.
+[2023-01-11 00:35:09] Katherine Burns (IP: 192.168.1.27) tried to create a fraudulent account using the name 'Katie B. Burns' again, but was blocked by the system due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: macOS - MacBook Air (M1, 2020).
+
+[2023-01-11 01:15:08] Katherine Burns (IP: 192.168.1.28) opened a fraudulent account with similar details once more, but the system detected unusual activity and locked the account for further review. Device: Linux - Dell XPS 13 Developer Edition.
+
+[2023-01-11 02:45:07] Katherine Burns (IP: 192.168.1.29) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Chrome OS - Google Pixelbook Go.
+
+[2023-01-11 02:45:07] Katherine Burns (IP: 192.168.1.30) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: FreeBSD - Lenovo ThinkPad X1 Carbon.
+
+[2023-01-11 03:35:06] Katherine Burns (IP: 192.168.1.31) tried to create a fraudulent account using the name 'Katie B. Burns' once again, but was blocked by the system due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: BSD - HP Spectre x360 14.
+
+[2023-01-11 04:15:05] Katherine Burns (IP: 192.168.1.32) opened a fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: Solaris - Oracle SPARC M7 Server.
+
+[2023-01-11 05:45:04] Katherine Burns (IP: 192.168.1.33) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Astra Linux - System76 Thelio Minor.
+
+[2023-01-11 05:45:04] Katherine Burns (IP: 192.168.1.34) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Tails - Dell Latitude E7450.
+[2023-01-11 06:05:02] Katherine Burns (IP: 192.168.1.35) attempted to open another account with similar details, but the system blocked her due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: Qubes OS - Lenovo ThinkPad T430.
+
+[2023-01-11 06:09:27] Katherine Burns (IP: 192.168.1.36) opened another fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: Alpine Linux - Dell Inspiron 15 3000 Series.
+
+[2023-01-11 07:10:49] Katherine Burns (IP: 192.168.1.37) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Arch Linux - System76 Galago Pro.
+
+[2023-01-11 07:25:03] Katherine Burns (IP: 192.168.1.38) attempted to open another account with similar details, but the system blocked her due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: Fedora - Dell XPS 15 7590.
+
+[2023-01-11 08:00:06] Katherine Burns (IP: 192.168.1.39) opened another fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: Gentoo - HP ZBook 15 G4 Mobile Workstation.
+
+[2023-01-11 08:05:24] Katherine Burns (IP: 192.168.1.40) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: openSUSE - Toshiba Portégé Z30-A-13J.
+
+[2023-01-11 09:05:47] Katherine Burns (IP: 192.168.1.41) attempted to open another account with similar details, but the system blocked her due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: Debian - Acer Swift 3 SF314-51.
+
+[2023-01-11 09:17:06] Katherine Burns (IP: 192.168.1.42) opened another fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: FreeBSD - Asus ZenBook UX331UA-AB51.
+
+[2023-01-11 09:37:56] Katherine Burns (IP: 192.168.1.43) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: NetBSD - MacBook Pro (Retina, 15-inch, Mid 2015).
+
+[2023-01-11 10:02:29] Katherine Burns (IP: 192.168.1.44) attempted to open another account with similar details, but the system blocked her due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: DragonFly BSD - Dell Latitude E5470.
+[2023-01-11 10:36:35] Katherine Burns (IP: 192.168.1.45) opened another fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: TrueOS - HP Pavilion x360.
+
+[2023-01-11 11:01:17] Katherine Burns (IP: 192.168.1.46) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: OmniOS - Lenovo ThinkPad T430.
+
+[2023-01-11 11:27:59] Katherine Burns (IP: 192.168.1.47) attempted to open another account with similar details, but the system blocked her due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: MidnightBSD - Toshiba Satellite L50-B.
+
+[2023-01-11 11:54:23] Katherine Burns (IP: 192.168.1.48) opened another fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: GhostBSD - Acer Aspire E 15.
+
+[2023-01-11 12:20:11] Katherine Burns (IP: 192.168.1.49) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Feren OS - HP EliteBook 840 G3.
+
+[2023-01-11 12:45:49] Katherine Burns (IP: 192.168.1.50) attempted to open another account with similar details, but the system blocked her due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: Alpine Linux - Dell Latitude E6430.
+
+[2023-01-11 13:08:52] Katherine Burns (IP: 192.168.1.51) opened another fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: Artix Linux - HP ProBook 4520s.
+
+[2023-01-11 13:32:28] Katherine Burns (IP: 192.168.1.52) attempted to open another account with similar details, but the system flagged it due to suspicious activity patterns and IP address anomalies. Device: Deepin - Asus ZenBook UX305.
+
+[2023-01-11 14:07:05] Katherine Burns (IP: 192.168.1.53) attempted to open another account with similar details, but the system blocked her due to multiple failed attempts within a short period of time and IP address pattern anomaly. Device: Linux Mint - Samsung NP700Z5C-S01.
+
+[2023-01-11 14:45:29] Katherine Burns (IP: 192.168.1.54) opened another fraudulent account with similar details, but the system detected unusual activity and locked the account for further review. Device: Ubuntu - Lenovo ThinkPad T430p.
+

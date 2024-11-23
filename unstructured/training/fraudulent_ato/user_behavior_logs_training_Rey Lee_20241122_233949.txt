@@ -1,0 +1,155 @@
+User ID: Rey Lee
+- 
+1. [2023-01-15 17:29:45] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 456 Oak Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+2. [2023-01-17 09:34:23] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 456 Oak Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+3. [2023-01-20 14:17:49] Rey Lee ([fraudulent]) - Changed shipping address for another online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 789 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+4. [2023-01-22 08:56:05] Rey Lee ([fraudulent]) - Successfully changed shipping address for the online purchase to "Unknown Recipient, 789 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+5. [2023-01-24 16:14:12] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 123 Pine Street". Device: iPhone 12, Network: XYZ Internet Service.
+
+6. [2023-01-26 09:53:38] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 123 Pine Street". Device: iPhone 12, Network: XYZ Internet Service.
+
+7. [2023-01-28 15:19:49] Rey Lee ([fraudulent]) - Changed shipping address for another online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 321 Birch Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+8. [2023-01-30 08:45:05] Rey Lee ([fraudulent]) - Successfully changed shipping address for the online purchase to "Unknown Recipient, 321 Birch Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+9. [2023-01-31 17:56:49] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 456 Cedar Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+10. [2023-02-02 10:31:28] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 456 Cedar Lane". Device: iPhone 12, Network: XYZ Internet Service.
+11. [2023-02-03 14:48:07] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 789 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+12. [2023-02-04 12:52:15] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 789 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+13. [2023-02-05 16:29:49] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 135 Oak Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+14. [2023-02-06 09:04:38] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 135 Oak Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+15. [2023-02-07 19:28:02] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 956 Willow Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+16. [2023-02-08 17:15:44] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 956 Willow Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+17. [2023-02-09 08:48:51] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 243 Sycamore Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+18. [2023-02-10 16:37:59] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 243 Sycamore Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+19. [2023-02-11 15:28:45] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 365 Vine Street". Device: iPhone 12, Network: XYZ Internet Service.
+
+20. [2023-02-12 09:18:34] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 365 Vine Street". Device: iPhone 12, Network: XYZ Internet Service.
+21. [2023-02-13 18:43:59] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 456 Oak Tree Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+22. [2023-02-14 10:39:47] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 456 Oak Tree Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+23. [2023-02-15 20:37:23] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 789 Willow Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+24. [2023-02-16 08:55:58] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 789 Willow Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+25. [2023-02-17 14:31:56] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 956 Willow Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+26. [2023-02-18 07:44:33] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 956 Willow Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+27. [2023-02-19 21:22:45] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 654 Fir Tree Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+28. [2023-02-20 11:19:57] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 654 Fir Tree Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+29. [2023-02-21 18:07:42] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 567 Spruce Way". Device: iPhone 12, Network: XYZ Internet Service.
+
+30. [2023-02-22 09:48:59] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 567 Spruce Way". Device: iPhone 12, Network: XYZ Internet Service.
+31. [2023-02-23 08:39:14] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 789 Pine Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+32. [2023-02-24 15:26:33] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 789 Pine Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+33. [2023-02-25 22:34:46] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 910 Cedar Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+34. [2023-02-26 17:57:58] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 910 Cedar Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+35. [2023-02-27 11:48:29] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 1028 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+36. [2023-02-28 09:59:45] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 1028 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+37. [2023-03-01 19:35:53] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 1147 Birch Circle". Device: iPhone 12, Network: XYZ Internet Service.
+
+38. [2023-03-02 15:39:36] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 1147 Birch Circle". Device: iPhone 12, Network: XYZ Internet Service.
+
+39. [2023-03-03 08:54:48] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 1259 Willow Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+40. [2023-03-04 17:38:22] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 1259 Willow Road". Device: iPhone 12, Network: XYZ Internet Service.
+41. [2023-03-05 09:12:10] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 364 Oak Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+42. [2023-03-06 15:49:47] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 364 Oak Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+43. [2023-03-07 22:58:39] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 461 Pine Tree Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+44. [2023-03-08 18:09:51] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 461 Pine Tree Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+45. [2023-03-09 07:37:22] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 524 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+46. [2023-03-10 19:01:08] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 524 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+47. [2023-03-11 08:15:36] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 747 Vine Street". Device: iPhone 12, Network: XYZ Internet Service.
+
+48. [2023-03-12 15:54:51] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 747 Vine Street". Device: iPhone 12, Network: XYZ Internet Service.
+
+49. [2023-03-13 06:35:22] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 895 Walnut Way". Device: iPhone 12, Network: XYZ Internet Service.
+
+50. [2023-03-14 16:07:13] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 895 Walnut Way". Device: iPhone 12, Network: XYZ Internet Service.
+51. [2023-03-15 07:13:45] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 634 Pine Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+52. [2023-03-16 18:59:08] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 634 Pine Road". Device: iPhone 12, Network: XYZ Internet Service.
+
+53. [2023-03-17 09:48:32] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 456 Oak Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+54. [2023-03-18 17:22:59] Rey Lee ([fraudulent]) - Failed to change shipping address for an online purchase due to 2FA verification. Device: iPhone 12, Network: XYZ Internet Service.
+
+55. [2023-03-19 08:30:24] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 357 Birch Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+56. [2023-03-20 19:45:56] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 357 Birch Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+57. [2023-03-21 09:00:48] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 998 Cedar Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+58. [2023-03-22 20:36:12] Rey Lee ([fraudulent]) - Failed to change shipping address for an online purchase due to system maintenance. Device: iPhone 12, Network: XYZ Internet Service.
+
+59. [2023-03-23 07:48:30] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 951 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+60. [2023-03-24 18:25:17] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 951 Maple Drive". Device: iPhone 12, Network: XYZ Internet Service.
+61. [2023-03-25 08:02:03] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 946 Pine Avenue". Device: iPhone 12, Network: XYZ Internet Service.
+
+62. [2023-03-26 15:38:29] Rey Lee ([fraudulent]) - Failed to change shipping address for an online purchase due to two-factor authentication. Device: iPhone 12, Network: XYZ Internet Service.
+
+63. [2023-03-27 06:54:45] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 889 Spruce Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+64. [2023-03-28 17:01:57] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 889 Spruce Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+65. [2023-03-29 07:40:12] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 556 Birch Lane". Device: iPhone 12, Network: XYZ Internet Service.
+
+66. [2023-03-30 18:39:24] Rey Lee ([fraudulent]) - Failed to change shipping address for an online purchase due to system update. Device: iPhone 12, Network: XYZ Internet Service.
+
+67. [2023-03-31 08:59:31] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 764 Willow Way". Device: iPhone 12, Network: XYZ Internet Service.
+
+68. [2023-04-01 16:59:58] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 764 Willow Way". Device: iPhone 12, Network: XYZ Internet Service.
+
+69. [2023-04-02 05:45:03] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 987 Oak Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+70. [2023-04-03 15:12:19] Rey Lee ([fraudulent]) - Failed to change shipping address for an online purchase due to system maintenance. Device: iPhone 12, Network: XYZ Internet Service.
+71. [2023-04-04 06:53:45] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 987 Oak Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+72. [2023-04-05 17:34:22] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 987 Oak Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+73. [2023-04-06 05:02:58] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 764 Willow Way". Device: iPhone 12, Network: XYZ Internet Service.
+
+74. [2023-04-07 15:19:11] Rey Lee ([fraudulent]) - Failed to change shipping address for an online purchase due to network issues. Device: iPhone 12, Network: XYZ Internet Service.
+
+75. [2023-04-08 06:05:46] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 764 Willow Way". Device: iPhone 12, Network: XYZ Internet Service.
+
+76. [2023-04-09 15:48:33] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 764 Willow Way". Device: iPhone 12, Network: XYZ Internet Service.
+
+77. [2023-04-10 06:29:58] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 987 Oak Drive". Device: iPhone 12, Network: XYZ Internet Service.
+
+78. [2023-04-11 15:56:20] Rey Lee ([fraudulent]) - Failed to change shipping address for an online purchase due to system update. Device: iPhone 12, Network: XYZ Internet Service.
+
+79. [2023-04-12 05:56:58] Rey Lee ([fraudulent]) - Attempted to change shipping address for an online purchase from "Rey Lee, 123 Elm Street" to "Unknown Recipient, 764 Willow Way". Device: iPhone 12, Network: XYZ Internet Service.
+
+80. [2023-04-13 15:10:29] Rey Lee ([fraudulent]) - Successfully changed shipping address for an online purchase to "Unknown Recipient, 764 Willow Way". Device: iPhone 12, Network: XYZ Internet Service.
+

@@ -1,0 +1,381 @@
+User ID: Halle Rivera
+- 
+[2023-01-15 18:45:36]
+Device: iPhone XR - A1903
+Network: Verizon Wireless
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a pair of headphones purchased from Headphone Heaven.
+
+[2023-01-22 14:15:23]
+Device: Samsung Galaxy S21 - SM-G991U
+Network: AT&T
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a designer handbag purchased from Luxury Boutique.
+
+[2023-01-27 19:50:48]
+Device: MacBook Pro - MQD32LL/A
+Network: Spectrum Internet
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a pair of shoes purchased from Shoe Palace.
+
+[2023-02-03 17:35:09]
+Device: iPad Pro - MVJ13LL/A
+Network: T-Mobile
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a gaming console purchased from Gaming Paradise.
+
+[2023-02-09 23:45:15]
+Device: iPhone 13 Pro - MVLC2LL/A
+Network: Sprint
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a smartwatch purchased from Smartwatch Store.
+
+[2023-02-16 13:30:58]
+Device: Dell XPS 13 - KB58C
+Network: Comcast XFINITY
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of kitchen knives purchased from Cutlery Kingdom.
+
+[2023-02-23 18:45:36]
+Device: Google Pixel 6 - GVZA4Q
+Network: US Cellular
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of cookware purchased from Cookware Central.
+
+[2023-02-28 19:50:48]
+Device: Surface Laptop 4 - 1589
+Network: CenturyLink
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a pair of wireless headphones purchased from Headphone Haven.
+
+[2023-03-05 17:35:09]
+Device: LG V60 - VS996
+Network: Verizon Wireless
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a blender purchased from Blender Kingdom.
+
+[2023-03-12 23:45:15]
+Device: Sony Xperia XZ2 - C730F
+Network: Sprint
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a vacuum cleaner purchased from Vacuum Cleaner World.
+[2023-03-19 09:50:32]
+Device: iPhone X - A1865
+Network: AT&T
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of stainless steel pots and pans purchased from Cookware Emporium.
+
+[2023-03-26 14:15:08]
+Device: OnePlus 9 - CPH2317
+Network: T-Mobile
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a smart home security system purchased from Security Solutions.
+
+[2023-04-02 18:50:45]
+Device: Samsung Galaxy S21 - SM-G991U
+Network: US Cellular
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of bedsheets purchased from Bedding Boutique.
+
+[2023-04-09 22:25:12]
+Device: Google Pixel 6 Pro - GVZAQ
+Network: AT&T
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of kitchen appliances purchased from Kitchen Appliance Warehouse.
+
+[2023-04-16 07:45:29]
+Device: iPad Pro - MQD63LL/A
+Network: Verizon Wireless
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of luggage purchased from Travel Gear.
+
+[2023-04-23 12:50:47]
+Device: Surface Pro 7 - 1912
+Network: CenturyLink
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of outdoor furniture purchased from Outdoor Living.
+
+[2023-04-30 16:50:59]
+Device: Galaxy Note 20 - N981U
+Network: Sprint
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of patio heaters purchased from Patio Heaters Plus.
+
+[2023-05-07 06:45:13]
+Device: MacBook Pro - MQD92LL/A
+Network: AT&T
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of office chairs purchased from Office Furniture.
+[2023-05-14 18:29:35]
+Device: iPhone 13 Pro Max - A2346
+Network: T-Mobile
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of camping gear purchased from Camping World.
+
+[2023-05-21 23:58:47]
+Device: Samsung Galaxy Z Fold3 - SM-996U1
+Network: Verizon Wireless
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of garden tools purchased from Garden Supply.
+
+[2023-05-28 04:09:59]
+Device: iPad Air - MQD83LL/A
+Network: Sprint
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of winter clothing purchased from Winter Wear Store.
+
+[2023-06-04 17:59:32]
+Device: Microsoft Surface Pro 8 - 1933
+Network: CenturyLink
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of smart home devices purchased from Smart Home Solutions.
+
+[2023-06-11 23:57:41]
+Device: Google Pixel 6 Pro - GVVG1J
+Network: T-Mobile
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of musical instruments purchased from Music World.
+
+[2023-06-18 08:55:34]
+Device: MacBook Air - MQD73LL/A
+Network: AT&T
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of pet supplies purchased from Pet Supply Store.
+
+[2023-06-25 19:45:07]
+Device: Samsung Galaxy S22 Ultra - SM-998U1
+Network: Verizon Wireless
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of beauty products purchased from Beauty Essentials.
+[2023-07-02 18:10:59]
+Device: iPad Pro - MQHD3LL/A
+Network: Spectrum
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of kitchen appliances purchased from Kitchen King.
+
+[2023-07-09 01:35:14]
+Device: iPhone 13 Pro - A2489
+Network: Sprint
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of electronic gadgets purchased from Tech Gear Store.
+
+[2023-07-16 05:59:48]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of sports equipment purchased from Sports World.
+
+[2023-07-23 18:24:06]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of camping gear purchased from Outdoor Adventure Store.
+
+[2023-07-30 14:59:51]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of toys purchased from Toyland Store.
+
+[2023-07-30 14:59:51]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of toys purchased from Toyland Store.
+[2023-07-30 16:05:32]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of kitchen appliances purchased from Cook's Corner Store.
+
+[2023-07-31 09:47:15]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of clothes purchased from Fashion Street Boutique.
+
+[2023-07-31 13:52:28]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of smart home devices purchased from Smart Home Marketplace.
+
+[2023-08-06 17:19:43]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of educational toys purchased from Learning Fun Store.
+
+[2023-08-07 06:25:09]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of gardening tools purchased from Garden World Store.
+
+[2023-08-07 11:48:56]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of musical instruments purchased from Melody's Music Store.
+
+[2023-08-14 17:25:21]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of fitness equipment purchased from Fitness Zone Store.
+
+[2023-08-15 08:49:57]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of art supplies purchased from Artistic Haven Store.
+
+[2023-08-15 12:33:44]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of pet supplies purchased from Pet Paradise Store.
+[2023-08-17 10:15:26]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of camping gear purchased from Adventure Outfitters Store.
+
+[2023-08-17 14:59:13]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of cookware purchased from Gourmet Kitchen Store.
+
+[2023-08-17 16:30:45]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of electronics accessories purchased from Tech Essentials Store.
+
+[2023-08-17 18:45:39]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of winter clothing purchased from Seasonal Fashions Store.
+
+[2023-08-17 20:14:56]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of smart home devices purchased from Smart Home Solutions Store.
+
+[2023-08-17 22:49:23]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of children's toys purchased from Joyful Toys Store.
+
+[2023-08-17 23:14:56]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of gardening supplies purchased from Green Thumb Store.
+[2023-08-18 00:59:12]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of cooking utensils purchased from Kitchenware Essentials Store.
+
+[2023-08-18 02:24:45]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of fitness equipment purchased from Fitness Solutions Store.
+
+[2023-08-18 04:09:31]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of educational toys purchased from Brainy Toys Store.
+
+[2023-08-18 05:45:09]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of camping gear purchased from Outdoor Adventure Store.
+
+[2023-08-18 07:19:54]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of musical instruments purchased from Melodious Music Store.
+
+[2023-08-18 09:44:25]
+Device: HP Spectre - MQH18AA#ABE
+Network: Frontier Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of electronics accessories purchased from Tech Accessories Store.
+
+[2023-08-18 11:29:08]
+Device: Dell XPS - M9D59LL/A
+Network: Cox Communications
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of pet supplies purchased from Pet Paradise Store.
+
+[2023-08-18 13:54:09]
+Device: Asus ZenBook - UX533
+Network: Xfinity
+Type: Fraudulent
+User: Halle Rivera
+Action: Initiated chargeback on a legitimate transaction for a set of art supplies purchased from Creative Art Supplies Store.
+

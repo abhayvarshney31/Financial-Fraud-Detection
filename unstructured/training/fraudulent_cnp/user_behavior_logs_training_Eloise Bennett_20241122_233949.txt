@@ -1,0 +1,165 @@
+User ID: Eloise Bennett
+- 
+1. [2023-03-05 17:28:16] User Eloise Bennett (account: eloise_b@example.com) displayed suspicious activity, attempting to transfer $1,000 to unverified account 419873369. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (4G).
+
+2. [2023-03-06 09:15:22] Eloise Bennett attempted another transfer, this time to unverified account 857121165, for $500. Device: MacBook Air (M1,2020), OS version: macOS 11.3. Network: XYZ Mobile (Wi-Fi).
+
+3. [2023-03-07 14:32:45] Further evidence of fraudulent behavior by Eloise Bennett, who tried to transfer $800 to unverified account 936414130. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (LTE).
+
+4. [2023-03-08 18:08:13] Eloise Bennett attempted to transfer funds to unverified account 768231949 for $750. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (Wi-Fi).
+
+5. [2023-03-09 05:26:28] Eloise Bennett transferred $900 to unverified account 472863351, displaying continued fraudulent behavior. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+6. [2023-03-09 18:45:37] Eloise Bennett attempted to transfer $1,200 to unverified account 289471035. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+7. [2023-03-10 09:32:56] Eloise Bennett tried to transfer $1,100 to unverified account 874536902. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+8. [2023-03-11 16:08:10] Eloise Bennett transferred $750 to unverified account 937452619, continuing her fraudulent actions. Device: MacBook Air (M1,2020), OS version: macOS 11.3. Network: XYZ Mobile (LTE).
+
+9. [2023-03-12 04:56:12] Eloise Bennett attempted to transfer $850 to unverified account 718263485, showing a pattern of fraudulent behavior. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+10. [2023-03-12 19:26:45] Eloise Bennett transferred $800 to unverified account 746831953, in a final act of fraudulent activity for the day. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (Wi-Fi).
+11. [2023-03-13 09:23:57] Eloise Bennett attempted to transfer $900 to unverified account 876354021, displaying a consistent pattern of fraudulent actions. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+12. [2023-03-13 17:14:19] Eloise Bennett transferred $600 to unverified account 289434758, demonstrating an escalation in her fraudulent activities. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+13. [2023-03-14 07:57:23] Eloise Bennett attempted to transfer $700 to unverified account 948765137, furthering her pattern of fraudulent behavior. Device: MacBook Air (M1,2020), OS version: macOS 11.3. Network: XYZ Mobile (LTE).
+
+14. [2023-03-14 22:51:38] Eloise Bennett transferred $500 to unverified account 736892041, continuing her attempts at fraudulent activity. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (Wi-Fi).
+
+15. [2023-03-15 09:44:24] Eloise Bennett attempted to transfer $800 to unverified account 746356019, showing an ongoing pattern of fraudulent behavior. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+16. [2023-03-15 18:27:41] Eloise Bennett transferred $900 to unverified account 876345725, adding to her series of fraudulent transactions. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+17. [2023-03-16 08:30:49] Eloise Bennett attempted to transfer $1,000 to unverified account 289435981, furthering her attempts at fraudulent activities. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+18. [2023-03-16 17:55:23] Eloise Bennett transferred $600 to unverified account 948765151, persisting in her fraudulent actions. Device: MacBook Air (M1,2020), OS version: macOS 11.3. Network: XYZ Mobile (LTE).
+
+19. [2023-03-17 06:52:48] Eloise Bennett attempted to transfer $500 to unverified account 736892073, maintaining her pattern of fraudulent behavior. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (Wi-Fi).
+
+20. [2023-03-17 22:19:55] Eloise Bennett transferred $450 to unverified account 876345741, concluding her series of fraudulent transactions for the day. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+21. [2023-03-18 09:06:37] Eloise Bennett attempted to transfer $350 to unverified account 298563491, continuing her attempts at fraudulent activities. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+22. [2023-03-18 18:24:12] Eloise Bennett transferred $700 to unverified account 986742841, intensifying her fraudulent actions. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+23. [2023-03-19 05:32:49] Eloise Bennett attempted to transfer $800 to unverified account 734895623, escalating her attempts at fraudulent activities. Device: MacBook Air (M1, 2020), OS version: macOS 11.3. Network: XYZ Mobile (LTE).
+
+24. [2023-03-19 17:58:52] Eloise Bennett transferred $650 to unverified account 879345742, persisting in her fraudulent actions. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (Wi-Fi).
+
+25. [2023-03-20 07:10:18] Eloise Bennett attempted to transfer $900 to unverified account 289435982, continuing her pattern of fraudulent behavior. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+26. [2023-03-20 18:29:45] Eloise Bennett transferred $500 to unverified account 948765152, concluding her series of fraudulent transactions for the day. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+27. [2023-03-21 06:48:59] Eloise Bennett attempted to transfer $1,000 to unverified account 736892074, demonstrating her dedication to fraudulent activities. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+28. [2023-03-21 17:45:23] Eloise Bennett transferred $850 to unverified account 876345743, escalating her fraudulent actions. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+29. [2023-03-22 08:03:47] Eloise Bennett attempted to transfer $950 to unverified account 298563492, continuing her pattern of fraudulent behavior. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+30. [2023-03-22 18:36:12] Eloise Bennett transferred $400 to unverified account 986742842, concluding her series of fraudulent transactions for the day. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+31. [2023-03-23 09:58:03] Eloise Bennett attempted to transfer $700 to unverified account 569483254, further demonstrating her dedication to fraudulent activities. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+32. [2023-03-24 08:19:57] Eloise Bennett transferred $1,100 to unverified account 643852975, increasing her series of fraudulent transactions. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+33. [2023-03-24 16:32:09] Eloise Bennett attempted to transfer $1,200 to unverified account 879245341, escalating her fraudulent actions. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+34. [2023-03-25 07:45:22] Eloise Bennett transferred $650 to unverified account 895732063, continuing her pattern of fraudulent behavior. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+35. [2023-03-25 18:08:46] Eloise Bennett attempted to transfer $900 to unverified account 789456212, further demonstrating her dedication to fraudulent activities. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+36. [2023-03-26 08:29:37] Eloise Bennett transferred $1,300 to unverified account 945732085, increasing her series of fraudulent transactions. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+37. [2023-03-27 09:51:41] Eloise Bennett attempted to transfer $800 to unverified account 456732094, concluding her series of fraudulent transactions for the day. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+38. [2023-03-27 19:24:23] Eloise Bennett transferred $1,400 to unverified account 567832402, continuing her pattern of fraudulent behavior. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (LTE).
+
+39. [2023-03-28 07:54:46] Eloise Bennett attempted to transfer $500 to unverified account 956732408, further demonstrating her dedication to fraudulent activities. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+40. [2023-03-28 19:36:59] Eloise Bennett transferred $750 to unverified account 957324094, escalating her fraudulent actions. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+41. [2023-03-29 08:13:27] Eloise Bennett attempted to transfer $600 to unverified account 958732400, as part of her ongoing fraudulent activities. Device: iPhone 13 Pro Max, OS version: iOS 15.2. Network: XYZ Mobile (LTE).
+
+42. [2023-03-29 21:58:46] Eloise Bennett transferred $1,100 to unverified account 957324095, as she continues her fraudulent money transfers. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (Wi-Fi).
+
+43. [2023-03-30 07:39:58] Eloise Bennett attempted to transfer $900 to unverified account 958732401, displaying her determination in conducting fraudulent transactions. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (LTE).
+
+44. [2023-03-30 19:28:33] Eloise Bennett transferred $1,600 to unverified account 957324096, as her series of fraudulent transfers continued. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (Wi-Fi).
+
+45. [2023-03-31 08:09:07] Eloise Bennett attempted to transfer $850 to unverified account 958732402, illustrating her ongoing pattern of fraudulent behavior. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+46. [2023-03-31 18:57:40] Eloise Bennett transferred $950 to unverified account 957324097, as her fraudulent activities persisted. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+47. [2023-04-01 07:46:15] Eloise Bennett attempted to transfer $1,000 to unverified account 958732403, further demonstrating her continued fraudulent tendencies. Device: iPhone 13 Pro Max, OS version: iOS 15.2. Network: XYZ Mobile (LTE).
+
+48. [2023-04-01 19:34:36] Eloise Bennett transferred $750 to unverified account 957324098, as her pattern of fraudulent transfers continued. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (Wi-Fi).
+
+49. [2023-04-02 08:10:51] Eloise Bennett attempted to transfer $1,200 to unverified account 958732404, highlighting her consistent determination in carrying out fraudulent transactions. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (LTE).
+
+50. [2023-04-02 18:38:49] Eloise Bennett transferred $1,100 to unverified account 957324099, as her series of fraudulent transfers persisted. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (Wi-Fi).
+
+51. [2023-04-03 07:49:16] Eloise Bennett attempted to transfer $800 to unverified account 958732405, emphasizing her ongoing pattern of fraudulent behavior. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+52. [2023-04-03 19:20:57] Eloise Bennett transferred $850 to unverified account 957324100, as her fraudulent activities continued. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+53. [2023-04-04 07:48:45] Eloise Bennett attempted to transfer $900 to unverified account 958732406, showcasing her persistent determination in conducting fraudulent transactions. Device: iPhone 13 Pro Max, OS version: iOS 15.2. Network: XYZ Mobile (LTE).
+
+54. [2023-04-04 18:49:19] Eloise Bennett transferred $750 to unverified account 957324101, as her pattern of fraudulent transfers persisted. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (Wi-Fi).
+
+55. [2023-04-05 07:41:38] Eloise Bennett attempted to transfer $1,100 to unverified account 958732407, further demonstrating her continued fraudulent tendencies. Device: iPad Pro (2021), OS version: iOS 15.2. Network: XYZ Mobile (LTE).
+
+56. [2023-04-05 19:18:37] Eloise Bennett transferred $1,000 to unverified account 957324102, as her series of fraudulent transfers continued. Device: iPhone 13 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (Wi-Fi).
+57. [2023-04-06 08:09:55] Eloise Bennett made another attempt to transfer $1,200 to unverified account 958732408, revealing her escalating attempts at fraudulent activities. Device: MacBook Air (M1, 2020), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+58. [2023-04-06 20:35:12] Eloise Bennett transferred $1,150 to unverified account 957324103, showcasing her escalating determination in conducting fraudulent transactions. Device: iPhone 12 Pro Max, OS version: iOS 15.2.1. Network: XYZ Mobile (Wi-Fi).
+
+59. [2023-04-07 09:16:43] Eloise Bennett attempted to transfer $1,300 to unverified account 958732409, emphasizing her ongoing pattern of fraudulent behavior. Device: iMac (27-inch, 2020), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+60. [2023-04-07 22:59:58] Eloise Bennett transferred $1,200 to unverified account 957324104, as her series of fraudulent transfers continued. Device: iPhone 13 Pro Max, OS version: iOS 15.2.2. Network: XYZ Mobile (Wi-Fi).
+61. [2023-04-08 07:02:31] Eloise Bennett tried to transfer $1,400 to unverified account 958732410, displaying an increased level of risk in her fraudulent activities. Device: MacBook Pro (M1 Max, 2021), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+62. [2023-04-08 19:27:55] Eloise Bennett successfully transferred $1,100 to unverified account 957324105, further demonstrating her persistence in conducting fraudulent transactions. Device: iPad Pro (12.9-inch, M1, 2021), OS version: iPadOS 15.2. Network: XYZ Mobile (Wi-Fi).
+
+63. [2023-04-09 08:14:12] Eloise Bennett attempted to transfer $1,500 to unverified account 958732411, continuing her pattern of high-risk fraudulent behavior. Device: iMac (27-inch, Late 2020), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+64. [2023-04-09 20:52:08] Eloise Bennett transferred $1,300 to unverified account 957324106, showing her commitment to fraudulent transactions despite the risks involved. Device: iPhone 12 Pro Max, OS version: iOS 15.2.3. Network: XYZ Mobile (Wi-Fi).
+
+65. [2023-04-10 07:46:03] Eloise Bennett attempted to transfer $1,600 to unverified account 958732412, highlighting her escalating fraudulent behavior. Device: MacBook Pro (16-inch, 2019), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+66. [2023-04-10 21:15:17] Eloise Bennett transferred $1,200 to unverified account 957324107, as her series of fraudulent transfers continued to escalate. Device: iPhone SE (2020), OS version: iOS 15.2.4. Network: XYZ Mobile (Wi-Fi).
+67. [2023-04-11 06:39:05] Eloise Bennett attempted to transfer $2,000 to unverified account 958732413, demonstrating her increasing disregard for the potential consequences of her actions. Device: MacBook Air (M1, 2020), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+68. [2023-04-11 20:08:21] Eloise Bennett transferred $1,900 to unverified account 957324108, showing a pattern of escalating risky behavior. Device: iPad Pro (12.9-inch, 2021), OS version: iOS 15.2.6. Network: XYZ Mobile (Wi-Fi).
+
+69. [2023-04-12 07:58:12] Eloise Bennett attempted to transfer $1,800 to unverified account 958732414, further exhibiting her determination to engage in high-risk fraudulent activities. Device: iMac (27-inch, Mid 2011), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+70. [2023-04-12 20:39:58] Eloise Bennett transferred $1,700 to unverified account 957324109, continuing her trend of risky transactions despite the obvious risks involved. Device: iPhone 11 Pro Max, OS version: iOS 15.2.7. Network: XYZ Mobile (Wi-Fi).
+
+71. [2023-04-13 06:55:01] Eloise Bennett attempted to transfer $2,500 to unverified account 958732415, indicating a significant increase in the amount and risk of her fraudulent activities. Device: MacBook Pro (13-inch, 2019), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+72. [2023-04-13 20:48:53] Eloise Bennett transferred $2,200 to unverified account 957324110, as her series of fraudulent transactions continued to escalate in both amount and risk. Device: iPhone XR, OS version: iOS 15.2.8. Network: XYZ Mobile (Wi-Fi).
+
+73. [2023-04-14 06:29:21] Eloise Bennett attempted to transfer $2,800 to unverified account 958732416, further demonstrating her escalating fraudulent behavior and disregard for the consequences. Device: MacBook Pro (13-inch, Late 2013), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+74. [2023-04-14 21:09:45] Eloise Bennett transferred $2,300 to unverified account 957324111, as her series of fraudulent transfers continued to escalate in both amount and risk. Device: iPhone XS Max, OS version: iOS 15.2.9. Network: XYZ Mobile (Wi-Fi).
+
+75. [2023-04-15 06:25:08] Eloise Bennett attempted to transfer $3,000 to unverified account 958732417, showing a continued escalation of her fraudulent behavior and risk-taking. Device: iMac (27-inch, Late 2015), OS version: macOS 11.6. Network: XYZ Mobile (LTE).
+
+76. [2023-04-15 20:29:58] Eloise Bennett transferred $2,900 to unverified account 957324112, as her series of fraudulent transactions continued to escalate in both amount and risk. Device: iPhone XS Max, OS version: iOS 15.2.10. Network: XYZ Mobile (Wi-Fi).
+77. [2023-04-16 08:14:29] Eloise Bennett attempted to transfer $3,500 to unverified account 958732418, indicating a further escalation of her fraudulent behavior and risk-taking tendencies. Device: MacBook Pro (16-inch, 2019), OS version: macOS 12.3. Network: XYZ Mobile (LTE).
+
+78. [2023-04-16 18:35:12] Eloise Bennett transferred $3,200 to unverified account 957324113, as her series of fraudulent transactions continued to escalate in both amount and risk. Device: iPhone XS Max, OS version: iOS 15.3. Network: XYZ Mobile (Wi-Fi).
+
+79. [2023-04-17 05:48:56] Eloise Bennett attempted to transfer $4,000 to unverified account 958732419, showing a continued escalation of her fraudulent behavior and risk-taking. Device: iMac (27-inch, Late 2015), OS version: macOS 12.3. Network: XYZ Mobile (LTE).
+
+80. [2023-04-17 21:09:36] Eloise Bennett transferred $3,800 to unverified account 957324114, as her series of fraudulent transactions continued to escalate in both amount and risk. Device: iPhone XS Max, OS version: iOS 15.3. Network: XYZ Mobile (Wi-Fi).
+
+81. [2023-04-18 07:01:29] Eloise Bennett attempted to transfer $4,500 to unverified account 958732420, indicating a further escalation of her fraudulent behavior and risk-taking tendencies. Device: MacBook Pro (16-inch, 2019), OS version: macOS 12.3. Network: XYZ Mobile (LTE).
+
+82. [2023-04-18 15:22:15] Eloise Bennett transferred $4,300 to unverified account 957324115, as her series of fraudulent transactions continued to escalate in both amount and risk. Device: iPhone XS Max, OS version: iOS 15.3. Network: XYZ Mobile (Wi-Fi).
+
+83. [2023-04-19 07:35:03] Eloise Bennett attempted to transfer $5,000 to unverified account 958732421, showing a continued escalation of her fraudulent behavior and risk-taking. Device: iMac (27-inch, Late 2015), OS version: macOS 12.3. Network: XYZ Mobile (LTE).
+
+84. [2023-04-19 18:13:36] Eloise Bennett transferred $4,800 to unverified account 957324116, as her series of fraudulent transactions continued to escalate in both amount and risk. Device: iPhone XS Max, OS version: iOS 15.3. Network: XYZ Mobile (Wi-Fi).
+
+85. [2023-04-20 06:26:59] Eloise Bennett attempted to transfer $6,000 to unverified account 958732422, indicating a further escalation of her fraudulent behavior and risk-taking tendencies. Device: MacBook Pro (16-inch, 2019), OS version: macOS 12.3. Network: XYZ Mobile (LTE).
+
+86. [2023-04-20 17:51:41] Eloise Bennett transferred $5,900 to unverified account 957324117, as her series of fraudulent transactions continued to escalate in both amount and risk. Device: iPhone XS Max, OS version: iOS 15.3. Network: XYZ Mobile (Wi-Fi).
+

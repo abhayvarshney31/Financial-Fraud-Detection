@@ -1,0 +1,120 @@
+User ID: Alexandria Brooks
+- 
+2023-03-16 12:15:37 [fraudulent] - User Alexandria Brooks logged in from two devices simultaneously: a Samsung Galaxy S22 (ID: DEVICE_A) and an Apple iPhone XR (ID: DEVICE_B). Both devices are registered under the same account.
+
+2023-03-16 12:20:45 [fraudulent] - User Alexandria Brooks accessed her account from a third device, an iPad Pro (ID: DEVICE_C), within just 5 minutes after logging in from the first two devices. The user's activity shows unusual behavior.
+
+2023-03-16 12:24:17 [fraudulent] - All three devices accessed Alexandria Brooks' account at the same time, attempting to perform multiple transactions within a minute. This indicates a possible account takeover attempt.
+
+2023-03-16 12:28:59 [fraudulent] - Multiple failed login attempts were made from different locations using various devices (ID: DEVICE_D, DEVICE_E, DEVICE_F). These attempts seem to originate from different countries.
+
+2023-03-16 13:05:41 [fraudulent] - Alexandria Brooks' account was successfully accessed from an unregistered device (ID: DEVICE_G) located in a foreign country, and a large withdrawal transaction was initiated.
+
+2023-03-16 13:09:54 [fraudulent] - Another failed login attempt was made from a different location using a device with an unknown ID (DEVICE_H). The user's account was locked down due to the suspicious activity.
+
+2023-03-16 13:18:29 [fraudulent] - After a short while, Alexandria Brooks' account was unlocked, and another unregistered device (ID: DEVICE_I) attempted to access her account from a new location.
+
+2023-03-16 13:22:54 [fraudulent] - Within minutes, the user's account was accessed again from another unknown device (ID: DEVICE_J) in a different country, and a series of transactions were made, depleting her account balance.
+
+2023-03-16 13:27:19 [fraudulent] - Lastly, the user's account was accessed from an unregistered device (ID: DEVICE_K) located in yet another country, and multiple transactions were initiated before being flagged as suspicious.
+2023-03-16 15:32:37 [fraudulent] - Alexandria Brooks' account was accessed from an unregistered device (ID: DEVICE_L) in a different country, showing that the attacker is changing devices frequently. This access attempt led to multiple failed login attempts due to account lockdowns triggered by suspicious activity.
+
+2023-03-16 15:47:49 [fraudulent] - After being unlocked again, the user's account was accessed from an unregistered device (ID: DEVICE_M) in another location, and a large withdrawal transaction was attempted. However, it was flagged as suspicious and denied.
+
+2023-03-16 16:05:12 [fraudulent] - Within minutes, the user's account was accessed again from an unregistered device (ID: DEVICE_N) in a third country, and multiple transactions were made before being flagged as suspicious. The transactions, however, could not be reversed due to the lack of information on the unregistered devices used.
+
+2023-03-16 16:14:37 [fraudulent] - Alexandria Brooks' account was accessed once more from an unregistered device (ID: DEVICE_O) in a different location, and multiple transactions were initiated before being flagged as suspicious. The user's account balance was nearly depleted at this point.
+
+2023-03-16 16:22:58 [fraudulent] - In an attempt to cover their tracks, the attacker accessed Alexandria Brooks' account from yet another unregistered device (ID: DEVICE_P) in a different country. The user's transaction history was reviewed, and it was discovered that the majority of transactions had occurred within a short time frame, indicating possible account takeover.
+
+2023-03-16 16:31:23 [fraudulent] - Alexandria Brooks' account was accessed from an unregistered device (ID: DEVICE_Q) in a foreign country, and several transactions were made before being flagged as suspicious. The user reported the fraudulent activity to the bank, which initiated an investigation.
+
+2023-03-16 16:40:07 [fraudulent] - Another failed login attempt was made from a different location using a device with an unknown ID (DEVICE_R). The user's account was locked down due to the suspicious activity, and a temporary hold was placed on her account.
+
+2023-03-16 16:49:49 [fraudulent] - Within minutes of being unlocked, Alexandria Brooks' account was accessed from an unregistered device (ID: DEVICE_S) in a different location, and multiple transactions were initiated before being flagged as suspicious. The user's account balance had been significantly depleted by this point.
+
+2023-03-16 16:58:14 [fraudulent] - Lastly, the user's account was accessed from an unregistered device (ID: DEVICE_T) in a foreign country, and multiple transactions were initiated before being flagged as suspicious. The bank's fraud prevention team was alerted, and further action was taken to secure the user's account.
+2023-03-16 17:05:41 [fraudulent] - A new login attempt was made from an unregistered device (ID: DEVICE_U) in a different location, but the account remained locked due to the previous suspicious activities. The user was contacted and informed about the situation, and she was asked to report any further unusual activity.
+
+2023-03-16 17:13:27 [fraudulent] - Alexandria Brooks' account was accessed from an unregistered device (ID: DEVICE_V) using her personal information, but the login attempt failed due to two-factor authentication being enabled on her account. The bank's fraud prevention team continued monitoring the account for any further suspicious activity.
+
+2023-03-16 17:24:09 [fraudulent] - Another login attempt was made from an unregistered device (ID: DEVICE_W) in a different location, but this time the account remained locked and the attempt failed due to multiple previous flags. The user was contacted again to ensure her personal information had not been compromised.
+
+2023-03-16 17:34:34 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_X) in a different location was detected, but the account remained locked. The user was advised to monitor her credit report for any signs of identity theft and to change her passwords on all her accounts.
+
+2023-03-16 17:45:19 [fraudulent] - Alexandria Brooks' account was accessed from an unregistered device (ID: DEVICE_Y) using her personal information, but the login attempt failed due to her proactive security measures. The bank's fraud prevention team commended her for taking these steps and continued monitoring her account.
+
+2023-03-16 17:56:04 [fraudulent] - Another unsuccessful login attempt was made from an unregistered device (ID: DEVICE_Z) in a different location, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 18:07:51 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_AA) in a different location was detected, but the account remained locked. The user was advised to report any further unusual activity and to stay vigilant for any signs of identity theft.
+
+2023-03-16 18:19:27 [fraudulent] - Another failed login attempt was made from an unregistered device (ID: DEVICE_BB) in a different location, but the account remained locked. The bank's fraud prevention team contacted the user to ensure she was aware of the situation and to provide any additional support needed.
+
+2023-03-16 18:30:54 [fraudulent] - A final unsuccessful login attempt from an unregistered device (ID: DEVICE_CC) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately and to stay vigilant for any signs of identity theft.
+2023-03-16 18:42:17 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_DD) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 18:53:49 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_EE) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 19:05:04 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_FF) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 19:16:47 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_GG) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 19:28:15 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_HH) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 19:39:44 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_II) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 19:51:11 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_JJ) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 20:02:47 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_KK) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 20:14:18 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_LL) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+2023-03-16 20:25:48 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_MM) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 20:37:29 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_NN) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 20:48:59 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_OO) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 20:59:45 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_PP) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 21:10:47 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_QQ) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 21:21:48 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_RR) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 21:32:59 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_SS) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 21:44:07 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_TT) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 21:54:59 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_UU) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+2023-03-16 22:05:31 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_VV) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 22:15:47 [fraudulent] - A new login attempt from an unregistered device (ID: DEVICE_WW) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 22:25:59 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_XX) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 22:36:14 [fraudulent] - Multiple login attempts from unregistered devices (IDs: DEVICE_YY, DEVICE_ZZ) in different locations were detected within a short time frame, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 22:46:29 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_AA) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 22:57:42 [fraudulent] - Multiple login attempts from unregistered devices (IDs: DEVICE_BB, DEVICE_CC) in different locations were detected within a short time frame, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 23:08:05 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_DD) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-16 23:18:19 [fraudulent] - Multiple login attempts from unregistered devices (IDs: DEVICE_EE, DEVICE_FF) in different locations were detected within a short time frame, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-17 00:29:34 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_GG) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+2023-03-17 00:40:56 [fraudulent] - Multiple login attempts from unregistered devices (IDs: DEVICE_HH, DEVICE_JJ) in different locations were detected within a short time frame, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-17 01:02:15 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_KK) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-17 01:23:49 [fraudulent] - Multiple login attempts from unregistered devices (IDs: DEVICE_LL, DEVICE_MM) in different locations were detected within a short time frame, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-17 01:45:18 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_NN) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-17 02:06:54 [fraudulent] - Multiple login attempts from unregistered devices (IDs: DEVICE_OO, DEVICE_PP) in different locations were detected within a short time frame, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-17 02:28:35 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_QQ) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-17 02:49:46 [fraudulent] - Multiple login attempts from unregistered devices (IDs: DEVICE_RR, DEVICE_SS) in different locations were detected within a short time frame, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+
+2023-03-17 03:11:34 [fraudulent] - A login attempt from an unregistered device (ID: DEVICE_TT) in a different location was detected, but the account remained locked. The user was informed and advised to report any further unusual activity immediately.
+

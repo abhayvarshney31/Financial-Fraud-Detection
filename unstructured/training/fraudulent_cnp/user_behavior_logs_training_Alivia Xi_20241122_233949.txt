@@ -1,0 +1,160 @@
+User ID: Alivia Xi
+- 
+[2021-10-03 12:45:28] [fraudulent] Alivia Xi has created a new account using the email address 'alivixi99@example.com'. This follows a pattern of similar email addresses being used across different accounts, such as 'alivixi97@example.com' and 'alivixi98@example.com'. Alivia is suspected of using these accounts to evade detection.
+
+[2021-10-03 15:34:21] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi98@example.com'. This is consistent with her previous behavior of using similar email addresses across different accounts. The IP address associated with this account is 93.74.250.163, which is registered to a location in Moscow, Russia.
+
+[2021-10-04 10:28:13] [fraudulent] Alivia Xi has created another account with the email address 'alivixi95@example.com'. This follows her pattern of using similar email addresses across different accounts to evade detection. The device used for this account is a Samsung Galaxy S10, model number SM-G973F, with a firmware version of G973FXXU2CSS6.
+
+[2021-10-04 14:59:08] [fraudulent] A new account has been created by Alivia Xi using the email address 'alivixi96@example.com'. This is consistent with her previous behavior of using similar email addresses across different accounts. The device used for this account is an Apple iPhone 12, model number A2341, with an iOS version of 14.7.
+
+[2021-10-05 16:12:41] [fraudulent] Alivia Xi has created yet another account with the email address 'alivixi94@example.com'. This follows her pattern of using similar email addresses across different accounts to evade detection. The IP address associated with this account is 75.126.24.103, which is registered to a location in Bucharest, Romania.
+
+[2021-10-05 23:38:19] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi93@example.com'. This is consistent with her previous behavior of using similar email addresses across different accounts. The device used for this account is a Huawei P30 Lite, model number NOV-L21, with a firmware version of B510F4R2P2.
+
+[2021-10-06 10:45:05] [fraudulent] Alivia Xi has created another account with the email address 'alivixi92@example.com'. This follows her pattern of using similar email addresses across different accounts to evade detection. The IP address associated with this account is 87.106.50.34, which is registered to a location in Istanbul, Turkey.
+
+[2021-10-06 19:08:17] [fraudulent] A new account has been created by Alivia Xi using the email address 'alivixi91@example.com'. This is consistent with her previous behavior of using similar email addresses across different accounts. The device used for this account is a Google Pixel 4a, model number G023A, with an Android version of 11.
+
+[2021-10-07 15:59:22] [fraudulent] Alivia Xi has created another account with the email address 'alivixi90@example.com'. This follows her pattern of using similar email addresses across different accounts to evade detection. The device used for this account is a Lenovo ThinkPad X1 Carbon, model number 20MQ, with a firmware version of 1.75.
+
+[2021-10-08 23:29:41] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi89@example.com'. This is consistent with her previous behavior of using similar email addresses across different accounts. The IP address associated with this account is 62.54.171.133, which is registered to a location in Belgrade, Serbia.
+[2021-10-09 08:48:03] [fraudulent] Alivia Xi has created another account with the email address 'alivixi88@example.com'. The device used for this account is an Apple iPhone 12 Pro, model number A2215, with an iOS version of 14.6.
+
+[2021-10-10 17:34:20] [fraudulent] Alivia Xi has created a new account using the email address 'alivixi87@example.com'. This follows her pattern of using similar email addresses across different accounts. The IP address associated with this account is 54.236.19.187, which is registered to a location in Amsterdam, Netherlands.
+
+[2021-10-11 22:59:32] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi86@example.com'. The device used for this account is a Samsung Galaxy S21 Ultra, model number SM-G998U, with an Android version of 12.
+
+[2021-10-13 14:05:11] [fraudulent] Alivia Xi has created another account using the email address 'alivixi85@example.com'. This is consistent with her previous behavior of using similar email addresses across different accounts. The device used for this account is a Dell Inspiron 13 7000 2-in-1, model number 7394, with a firmware version of 1.18.
+
+[2021-10-14 03:25:07] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi84@example.com'. The IP address associated with this account is 93.124.196.21, which is registered to a location in Frankfurt, Germany.
+
+[2021-10-15 11:07:54] [fraudulent] Alivia Xi has created another account using the email address 'alivixi83@example.com'. This follows her pattern of using similar email addresses across different accounts. The device used for this account is an HP Spectre x360, model number 15-ay0009na, with a firmware version of 1.07.
+
+[2021-10-16 18:54:32] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi82@example.com'. The device used for this account is a Microsoft Surface Laptop 4, model number 1906, with an Windows version of 10.
+
+[2021-10-17 23:50:45] [fraudulent] Alivia Xi has created another account using the email address 'alivixi81@example.com'. This is consistent with her previous behavior of using similar email addresses across different accounts. The device used for this account is a Huawei MateBook D 15, model number 64-xxxxx, with an operating system version of 10.
+
+[2021-10-18 07:32:13] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi80@example.com'. The IP address associated with this account is 46.229.142.85, which is registered to a location in Warsaw, Poland.
+[2021-10-18 12:45:23] [fraudulent] Alivia Xi has attempted to access a financial account using the email address 'alivixi79@example.com'. The device used is an Apple MacBook Pro, model number A1700, with macOS version 11. The attempt failed due to two-factor authentication.
+
+[2021-10-18 15:36:45] [fraudulent] Alivia Xi has created another account using the email address 'alivixi78@example.com'. The device used for this account is a Dell Inspiron 15, model number 7000, with an operating system version of 9.
+
+[2021-10-18 18:43:59] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi77@example.com'. The IP address associated with this account is 95.162.72.20, which is registered to a location in Madrid, Spain.
+
+[2021-10-19 01:23:18] [fraudulent] Alivia Xi has attempted to access a financial account using the email address 'alivixi76@example.com'. The device used is a Lenovo ThinkPad T495, model number 20A7, with Windows version 10. The attempt failed due to multiple incorrect password attempts.
+
+[2021-10-19 03:48:34] [fraudulent] Alivia Xi has created another account using the email address 'alivixi75@example.com'. The device used for this account is a Samsung Galaxy Book Pro, model number 1370, with an operating system version of 9.
+
+[2021-10-19 07:24:50] [fraudulent] A new account has been created by Alivia Xi with the email address 'alivixi74@example.com'. The IP address associated with this account is 185.31.164.205, which is registered to a location in Sydney, Australia.
+
+[2021-10-19 11:37:02] [fraudulent] Alivia Xi has attempted to access a financial account using the email address 'alivixi73@example.com'. The device used is an Acer Swift 5, model number SF514-53-R6VQ, with Windows version 10. The attempt failed due to suspicious activity detected and the account being temporarily locked.
+
+[2021-10-19 13:50:18] [fraudulent] Alivia Xi has created another account using the email address 'alivixi72@example.com'. The device used for this account is a LG Gram 14, model number 14A9-Q989, with an operating system version of 9.
+[2021-10-19 16:37:55] [fraudulent] Alivia Xi has attempted to access a credit card account using the email address 'alivixi71@example.com'. The device used is an Asus ZenBook 14, model number UX425, with Windows version 10. The attempt failed due to suspicious activity detected and the account being temporarily locked.
+
+[2021-10-19 17:18:36] [fraudulent] Alivia Xi has created another account using the email address 'alivixi70@example.com'. The device used for this account is a Dell XPS 15, model number 9570, with an operating system version of 10.
+
+[2021-10-19 18:46:23] [fraudulent] Alivia Xi has attempted to access a bank account using the email address 'alivixi69@example.com'. The device used is an HP Spectre x360, model number 15-ay001na, with Windows version 10. The attempt failed due to suspicious activity detected and the account being temporarily locked.
+
+[2021-10-19 19:27:48] [fraudulent] Alivia Xi has created another account using the email address 'alivixi68@example.com'. The device used for this account is a MacBook Pro, model number A1707, with macOS version 11.
+
+[2021-10-20 00:54:23] [fraudulent] Alivia Xi has attempted to access a PayPal account using the email address 'alivixi67@example.com'. The device used is an HP Envy x360, model number 15-ay009na, with Windows version 10. The attempt failed due to suspicious activity detected and the account being temporarily locked.
+
+[2021-10-20 02:17:48] [fraudulent] Alivia Xi has created another account using the email address 'alivixi66@example.com'. The device used for this account is a Microsoft Surface Laptop 3, model number 1597, with Windows version 10.
+
+[2021-10-20 04:06:18] [fraudulent] Alivia Xi has attempted to access a Venmo account using the email address 'alivixi65@example.com'. The device used is an Apple MacBook Air, model number MJVM2LL/A, with macOS version 10. The attempt failed due to suspicious activity detected and the account being temporarily locked.
+
+[2021-10-20 06:48:39] [fraudulent] Alivia Xi has created another account using the email address 'alivixi64@example.com'. The device used for this account is a Lenovo ThinkPad X1 Carbon, model number 20VQ, with Windows version 10.
+
+[2021-10-20 08:57:57] [fraudulent] Alivia Xi has attempted to access an eBay account using the email address 'alivixi63@example.com'. The device used is a Google Pixelbook, model number GJK5L, with Chrome OS version 10. The attempt failed due to suspicious activity detected and the account being temporarily locked.
+[2021-10-20 10:30:04] [fraudulent] Alivia Xi has created another account using the email address 'alivixi62@example.com'. The device used for this account is a Dell Inspiron 15, model number 7581, with Windows version 10.
+
+[2021-10-20 12:25:31] [fraudulent] Alivia Xi has attempted to access an Amazon account using the email address 'alivixi61@example.com'. The device used is a Samsung Galaxy Book Pro, model number 137, with Windows version 10.
+
+[2021-10-20 14:50:58] [fraudulent] Alivia Xi has created another account using the email address 'alivixi60@example.com'. The device used for this account is a HP Spectre x360, model number 133, with Windows version 10.
+
+[2021-10-20 17:09:54] [fraudulent] Alivia Xi has attempted to access a PayPal account using the email address 'alivixi59@example.com'. The device used is a Microsoft Surface Pro 7, model number 16ZK, with Windows version 10.
+
+[2021-10-20 20:34:29] [fraudulent] Alivia Xi has created another account using the email address 'alivixi58@example.com'. The device used for this account is a LG Gram 14, model number 14RN, with Windows version 10.
+
+[2021-10-21 00:30:27] [fraudulent] Alivia Xi has attempted to access a Discover credit card account using the email address 'alivixi57@example.com'. The device used is an Asus ZenBook Pro Duo, model number UX581, with Windows version 10.
+
+[2021-10-21 02:43:36] [fraudulent] Alivia Xi has created another account using the email address 'alivixi56@example.com'. The device used for this account is a Razer Blade Stealth, model number RZ09-0271, with Windows version 10.
+
+[2021-10-21 05:14:38] [fraudulent] Alivia Xi has attempted to access a Chase bank account using the email address 'alivixi55@example.com'. The device used is an Acer Swift 7, model number SF714-52G, with Windows version 10.
+
+[2021-10-21 08:23:09] [fraudulent] Alivia Xi has created another account using the email address 'alivixi54@example.com'. The device used for this account is a MSI GS66 Stealth, model number GP73, with Windows version 10.
+
+[2021-10-21 11:38:53] [fraudulent] Alivia Xi has attempted to access a Wells Fargo account using the email address 'alivixi53@example.com'. The device used is a Gigabyte Aero 15X, model number F5-45TQ-89C7, with Windows version 10.
+[2021-10-21 13:56:24] [fraudulent] Alivia Xi has created another account using the email address 'alivixi52@example.com'. The device used for this account is a Lenovo ThinkPad X1 Carbon, model number 20TK, with Windows version 10.
+
+[2021-10-21 17:43:19] [fraudulent] Alivia Xi has attempted to access an American Express account using the email address 'alivixi51@example.com'. The device used is a Dell XPS 15, model number 9500, with Windows version 10.
+
+[2021-10-21 20:28:32] [fraudulent] Alivia Xi has created another account using the email address 'alivixi50@example.com'. The device used for this account is a HP Spectre x360, model number 14-aw0009na, with Windows version 10.
+
+[2021-10-22 00:37:28] [fraudulent] Alivia Xi has attempted to access a PayPal account using the email address 'alivixi49@example.com'. The device used is an HP EliteBook x360, model number 1030, with Windows version 10.
+
+[2021-10-22 03:45:38] [fraudulent] Alivia Xi has created another account using the email address 'alivixi48@example.com'. The device used for this account is a Microsoft Surface Laptop 3, model number 1597, with Windows version 10.
+
+[2021-10-22 06:38:29] [fraudulent] Alivia Xi has attempted to access a MasterCard account using the email address 'alivixi47@example.com'. The device used is an Acer Predator Triton 500, model number PT515-52-72KF, with Windows version 10.
+
+[2021-10-22 09:38:12] [fraudulent] Alivia Xi has created another account using the email address 'alivixi46@example.com'. The device used for this account is a MacBook Pro, model number A1708, with macOS version 11.
+
+[2021-10-22 13:19:35] [fraudulent] Alivia Xi has attempted to access a Visa account using the email address 'alivixi45@example.com'. The device used is an Apple iMac, model number MK683LL/A, with macOS version 11.
+
+[2021-10-22 16:12:49] [fraudulent] Alivia Xi has created another account using the email address 'alivixi44@example.com'. The device used for this account is a Google Pixelbook Go, model number GA0235, with Chrome OS version 89.
+[2021-10-22 19:03:37] [fraudulent] Alivia Xi has attempted to access a Discover card account using the email address 'alivixi43@example.com'. The device used is an HP Spectre x360, model number 15-ay0025dx, with Windows version 10.
+
+[2021-10-23 02:29:18] [fraudulent] Alivia Xi has created another account using the email address 'alivixi42@example.com'. The device used for this account is a Lenovo ThinkPad X1 Carbon, model number 20PQ, with Windows version 10.
+
+[2021-10-23 05:35:29] [fraudulent] Alivia Xi has attempted to access an American Express account using the email address 'alivixi41@example.com'. The device used is a Dell XPS 13, model number 7390, with Windows version 10.
+
+[2021-10-23 08:15:40] [fraudulent] Alivia Xi has created another account using the email address 'alivixi40@example.com'. The device used for this account is an ASUS ZenBook 13, model number UX325, with Windows version 10.
+
+[2021-10-23 11:30:58] [fraudulent] Alivia Xi has attempted to access a UnionPay account using the email address 'alivixi39@example.com'. The device used is an Acer Swift 5, model number SF514-52-72U6, with Windows version 10.
+
+[2021-10-23 13:35:15] [fraudulent] Alivia Xi has created another account using the email address 'alivixi38@example.com'. The device used for this account is a Samsung Galaxy Book Pro, model number 9600, with Windows version 10.
+
+[2021-10-23 17:05:34] [fraudulent] Alivia Xi has attempted to access an Amazon Payments account using the email address 'alivixi37@example.com'. The device used is a Razer Blade Stealth, model number RZ09-0286, with Windows version 10.
+
+[2021-10-24 00:15:29] [fraudulent] Alivia Xi has created another account using the email address 'alivixi36@example.com'. The device used for this account is a MSI GS65 Stealth, model number GS65-006, with Windows version 10.
+
+[2021-10-24 03:15:47] [fraudulent] Alivia Xi has attempted to access a PayPal account using the email address 'alivixi35@example.com'. The device used is an LG Gram, model number 14Q6, with Windows version 10.
+
+[2021-10-24 08:15:56] [fraudulent] Alivia Xi has created another account using the email address 'alivixi34@example.com'. The device used for this account is a Microsoft Surface Laptop 4, model number 1597, with Windows version 10.
+[2021-10-24 12:36:31] [fraudulent] Alivia Xi has attempted to access a Bank of America account using the email address 'alivixi33@example.com'. The device used is an Asus ZenBook, model number UX325, with Windows version 10.
+
+[2021-10-24 17:09:16] [fraudulent] Alivia Xi has created another account using the email address 'alivixi32@example.com'. The device used for this account is a Dell XPS 13, model number 7390, with Windows version 10.
+
+[2021-10-25 01:28:43] [fraudulent] Alivia Xi has attempted to access a Western Union account using the email address 'alivixi31@example.com'. The device used is an HP Spectre x360, model number 13-ap0007na, with Windows version 10.
+
+[2021-10-25 08:49:22] [fraudulent] Alivia Xi has created another account using the email address 'alivixi30@example.com'. The device used for this account is an Acer Swift 7, model number SF714-52G, with Windows version 10.
+
+[2021-10-25 12:39:48] [fraudulent] Alivia Xi has attempted to access a Discover Bank account using the email address 'alivixi29@example.com'. The device used is a Google Pixelbook, model number GPKT4P, with Chrome OS version 10.
+
+[2021-10-25 17:23:08] [fraudulent] Alivia Xi has created another account using the email address 'alivixi28@example.com'. The device used for this account is a MacBook Air, model number MMGG2LL/A, with macOS version 11.
+
+[2021-10-26 02:35:45] [fraudulent] Alivia Xi has attempted to access a Venmo account using the email address 'alivixi27@example.com'. The device used is an iPad Pro, model number MQD72LL/A, with iOS version 15.
+
+[2021-10-26 10:43:16] [fraudulent] Alivia Xi has created another account using the email address 'alivixi26@example.com'. The device used for this account is an iPhone 13 Pro, model number MTPP4ZD/A, with iOS version 15.
+[2021-10-26 17:28:29] [fraudulent] Alivia Xi has attempted to access a PayPal account using the email address 'alivixi25@example.com'. The device used is a Samsung Galaxy S21, model number SM-G991U, with Android version 12.
+
+[2021-10-27 03:04:56] [fraudulent] Alivia Xi has created another account using the email address 'alivixi24@example.com'. The device used for this account is a Dell XPS 13, model number 9300, with Windows version 10.
+
+[2021-10-27 16:56:12] [fraudulent] Alivia Xi has attempted to access an Amazon account using the email address 'alivixi23@example.com'. The device used is a Surface Pro 7, model number 1864, with Windows version 10.
+
+[2021-10-28 09:39:45] [fraudulent] Alivia Xi has created another account using the email address 'alivixi22@example.com'. The device used for this account is an HP Spectre x360, model number 15-ay0007na, with Windows version 10.
+
+[2021-10-28 19:23:11] [fraudulent] Alivia Xi has attempted to access a Robinhood account using the email address 'alivixi21@example.com'. The device used is an ASUS ZenBook 14, model number UX435FL-DA07, with Windows version 10.
+
+[2021-10-29 03:08:26] [fraudulent] Alivia Xi has created another account using the email address 'alivixi20@example.com'. The device used for this account is a Microsoft Surface Laptop 4, model number 1656, with Windows version 10.
+
+[2021-10-29 18:35:47] [fraudulent] Alivia Xi has attempted to access a Capital One account using the email address 'alivixi19@example.com'. The device used is an LG Gram 14, model number 14Z90P, with Windows version 10.
+
+[2021-10-30 05:38:16] [fraudulent] Alivia Xi has created another account using the email address 'alivixi18@example.com'. The device used for this account is a MacBook Pro, model number A1707, with macOS version 11.
+
+[2021-10-30 19:46:52] [fraudulent] Alivia Xi has attempted to access a Chase Bank account using the email address 'alivixi17@example.com'. The device used is an Apple iPhone SE, model number A2103, with iOS version 15.
+
+[2021-10-31 06:47:28] [fraudulent] Alivia Xi has created another account using the email address 'alivixi16@example.com'. The device used for this account is a Google Pixel 5, model number GFA921, with Android version 12.
+

@@ -1,0 +1,578 @@
+User ID: Paola Howard
+- 
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T12:30:45Z
+Location: ATM123, Downtown Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneXS
+Transaction: Withdrawal, $3,000
+Details: Paola Howard made her first large withdrawal of the day at 12:30 PM from ATM123 located in Downtown Bank Branch. She used her iPhone XS connected to ABCBankNet for this transaction. She withdrew a sum of $3,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T14:01:23Z
+Location: ATM456, Uptown Bank Branch
+Network: XYZBankNet
+Device: PaolaHoward_SamsungGalaxyNote10
+Transaction: Withdrawal, $4,500
+Details: Just over an hour later, at 2:01 PM, Paola Howard made another large withdrawal. This time she used ATM456 located in Uptown Bank Branch and her Samsung Galaxy Note 10 connected to XYZBankNet. She withdrew a larger sum of $4,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T15:45:12Z
+Location: ATM789, Westside Bank Branch
+Network: LMNOPBankNet
+Device: PaolaHoward_iPhoneSE
+Transaction: Withdrawal, $5,000
+Details: At 3:45 PM, Paola Howard continued her spree of large withdrawals by visiting ATM789 in Westside Bank Branch. She used her iPhone SE connected to LMNOPBankNet for this transaction and withdrew $5,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T16:50:34Z
+Location: ATM123, Downtown Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneXS
+Transaction: Withdrawal, $4,000
+Details: At 4:50 PM, Paola Howard returned to ATM123 in Downtown Bank Branch, the same location where she started her day. She used her iPhone XS connected to ABCBankNet and withdrew another sum of $4,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T18:05:11Z
+Location: ATM789, Westside Bank Branch
+Network: LMNOPBankNet
+Device: PaolaHoward_SamsungGalaxyNote10
+Transaction: Withdrawal, $6,000
+Details: At 6:05 PM, Paola Howard made her sixth large withdrawal of the day. She visited ATM789 in Westside Bank Branch and used her Samsung Galaxy Note 10 connected to LMNOPBankNet for the transaction, withdrawing a significant sum of $6,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T18:40:23Z
+Location: ATM456, Uptown Bank Branch
+Network: XYZBankNet
+Device: PaolaHoward_iPhoneXS
+Transaction: Withdrawal, $3,500
+Details: Just over 30 minutes later, at 6:40 PM, Paola Howard returned to ATM456 in Uptown Bank Branch. She used her iPhone XS connected to XYZBankNet for the transaction and withdrew another $3,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T19:25:34Z
+Location: ATM123, Downtown Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneSE
+Transaction: Withdrawal, $2,500
+Details: At 7:25 PM, Paola Howard made her eighth large withdrawal of the day. She visited ATM123 in Downtown Bank Branch and used her iPhone SE connected to ABCBankNet for the transaction, withdrawing a sum of $2,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T19:50:02Z
+Location: ATM789, Westside Bank Branch
+Network: LMNOPBankNet
+Device: PaolaHoward_SamsungGalaxyNote10
+Transaction: Withdrawal, $2,000
+Details: At 7:50 PM, Paola Howard made her ninth large withdrawal of the day. She returned to ATM789 in Westside Bank Branch and used her Samsung Galaxy Note 10 connected to LMNOPBankNet for the transaction, withdrawing $2,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:05:41Z
+Location: ATM456, Uptown Bank Branch
+Network: XYZBankNet
+Device: PaolaHoward_iPhoneXS
+Transaction: Withdrawal, $7,000
+Details: At 8:05 PM, Paola Howard completed her tenth large withdrawal of the day. She visited ATM456 in Uptown Bank Branch and used her iPhone XS connected to XYZBankNet for the transaction, withdrawing a substantial sum of $7,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:45:16Z
+Location: ATM123, Downtown Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneSE
+Transaction: Withdrawal, $8,000
+Details: At 8:45 PM, Paola Howard concluded her day of large withdrawals with a visit to ATM123 in Downtown Bank Branch. She used her iPhone SE connected to ABCBankNet for the final transaction and withdrew an impressive sum of $8,000.
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:00:11Z
+Location: ATM789, Westside Bank Branch
+Network: LMNOPBankNet
+Device: PaolaHoward_SamsungGalaxyNote10
+Transaction: Withdrawal, $4,000
+Details: At 9:00 PM, Paola Howard resumed her series of large withdrawals by visiting ATM789 in Westside Bank Branch. She used her Samsung Galaxy Note 10 connected to LMNOPBankNet for the transaction and withdrew a sizable sum of $4,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:15:34Z
+Location: ATM456, Uptown Bank Branch
+Network: XYZBankNet
+Device: PaolaHoward_iPhoneXS
+Transaction: Withdrawal, $7,000
+Details: At 8:15 PM, Paola Howard continued her spree of large withdrawals by visiting ATM456 in Uptown Bank Branch. She used her iPhone XS connected to XYZBankNet for the transaction and withdrew a substantial sum of $7,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:50:08Z
+Location: ATM123, Downtown Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneSE
+Transaction: Withdrawal, $8,000
+Details: At 8:50 PM, Paola Howard completed her tenth large withdrawal of the day. She visited ATM123 in Downtown Bank Branch and used her iPhone XS connected to ABCBankNet for the transaction, withdrawing a substantial sum of $7,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:45:16Z
+Location: ATM123, Downtown Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneSE
+Transaction: Withdrawal, $8,000
+Details: At 8:45 PM, Paola Howard concluded her day of large withdrawals with a visit to ATM123 in Downtown Bank Branch. She used her iPhone SE connected to ABCBankNet for the final transaction and withdrew an impressive sum of $8,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:00:11Z
+Location: ATM789, Westside Bank Branch
+Network: LMNOPBankNet
+Device: PaolaHoward_SamsungGalaxyNote10
+Transaction: Withdrawal, $4,000
+Details: At 9:00 PM, Paola Howard resumed her series of large withdrawals by visiting ATM789 in Westside Bank Branch. She used her Samsung Galaxy Note 10 connected to LMNOPBankNet for the transaction and withdrew a sizable sum of $4,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:15:34Z
+Location: ATM456, Uptown Bank Branch
+Network: XYZBankNet
+Device: PaolaHoward_iPhoneXS
+Transaction: Withdrawal, $7,000
+Details: At 8:15 PM, Paola Howard continued her spree of large withdrawals by visiting ATM456 in Uptown Bank Branch. She used her iPhone XS connected to XYZBankNet for the transaction and withdrew a substantial sum of $7,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:50:08Z
+Location: ATM123, Downtown Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneSE
+Transaction: Withdrawal, $8,000
+Details: At 8:50 PM, Paola Howard completed her tenth large withdrawal of the day. She visited ATM123 in Downtown Bank Branch and used her iPhone XS connected to ABCBankNet for the transaction, withdrawing a substantial sum of $7,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:45:16Z
+Location: ATM123, Downtown Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneSE
+Transaction: Withdrawal, $8,000
+Details: At 8:45 PM, Paola Howard concluded her day of large withdrawals with a visit to ATM123 in Downtown Bank Branch. She used her iPhone SE connected to ABCBankNet for the final transaction and withdrew an impressive sum of $8,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:00:11Z
+Location: ATM789, Westside Bank Branch
+Network: LMNOPBankNet
+Device: PaolaHoward_SamsungGalaxyNote10
+Transaction: Withdrawal, $4,000
+Details: At 9:00 PM, Paola Howard resumed her series of large withdrawals by visiting ATM789 in Westside Bank Branch. She used her Samsung Galaxy Note 10 connected to LMNOPBankNet for the transaction and withdrew a sizable sum of $4,000.
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:10:23Z
+Location: ATM456, Uptown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_iPhoneXSMax
+Transaction: Withdrawal, $6,000
+Details: Just 10 minutes after her previous transaction at the Westside Bank Branch, Paola Howard continued her spree of large withdrawals by visiting ATM456 in Uptown Bank Branch. She used her iPhone XS Max connected to MNOQBankNet for the transaction and withdrew a substantial sum of $6,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:40:37Z
+Location: ATM098, Eastside Bank Branch
+Network: PQRSBankNet
+Device: PaolaHoward_GooglePixelXL
+Transaction: Withdrawal, $5,000
+Details: At 9:40 PM, Paola Howard's series of large withdrawals continued as she visited ATM098 in Eastside Bank Branch. She used her Google Pixel XL connected to PQRSBankNet for the transaction and withdrew a considerable sum of $5,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:45:47Z
+Location: ATM121, Southside Bank Branch
+Network: TUVWBankNet
+Device: PaolaHoward_iPhoneXSMax
+Transaction: Withdrawal, $7,500
+Details: Within minutes of her previous transaction at the Eastside Bank Branch, Paola Howard resumed her large withdrawals by visiting ATM121 in Southside Bank Branch. She used her iPhone XS Max connected to TUVWBankNet for the transaction and withdrew an impressive sum of $7,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:49:55Z
+Location: ATM345, Central Bank Branch
+Network: XYZBankNet
+Device: PaolaHoward_SamsungGalaxyS20
+Transaction: Withdrawal, $8,000
+Details: At 9:49 PM, Paola Howard's series of large withdrawals concluded at the Central Bank Branch with a visit to ATM345. She used her Samsung Galaxy S20 connected to XYZBankNet for the final transaction and withdrew an astonishing sum of $8,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:15:47Z
+Location: ATM678, Northside Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneSE
+Transaction: Withdrawal, $6,000
+Details: At 10:15 PM, Paola Howard began her series of large withdrawals again at the Northside Bank Branch by visiting ATM678. She used her iPhone SE connected to ABCBankNet for the transaction and withdrew a significant sum of $6,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:20:42Z
+Location: ATM234, Westside Bank Branch
+Network: LMNOPBankNet
+Device: PaolaHoward_SamsungGalaxyNote10
+Transaction: Withdrawal, $7,500
+Details: Just 5 minutes after her previous transaction at the Northside Bank Branch, Paola Howard continued her spree of large withdrawals by visiting ATM234 in Westside Bank Branch. She used her Samsung Galaxy Note 10 connected to LMNOPBankNet for the transaction and withdrew a substantial sum of $7,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:40:17Z
+Location: ATM890, Uptown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_iPhoneXSMax
+Transaction: Withdrawal, $5,000
+Details: At 10:40 PM, Paola Howard's series of large withdrawals continued as she visited ATM890 in Uptown Bank Branch. She used her iPhone XS Max connected to MNOQBankNet for the transaction and withdrew a considerable sum of $5,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:45:24Z
+Location: ATM789, Eastside Bank Branch
+Network: PQRSBankNet
+Device: PaolaHoward_GooglePixelXL
+Transaction: Withdrawal, $8,000
+Details: Within minutes of her previous transaction at the Uptown Bank Branch, Paola Howard resumed her large withdrawals by visiting ATM789 in Eastside Bank Branch. She used her Google Pixel XL connected to PQRSBankNet for the transaction and withdrew an impressive sum of $8,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:49:32Z
+Location: ATM345, Southside Bank Branch
+Network: XYZBankNet
+Device: PaolaHoward_iPhoneXSMax
+Transaction: Withdrawal, $7,000
+Details: At 10:49 PM, Paola Howard's series of large withdrawals concluded at the Southside Bank Branch with a visit to ATM345. She used her iPhone XS Max connected to XYZBankNet for the final transaction and withdrew an astonishing sum of $7,000.
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:51:02Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_iPhoneXSMax
+Transaction: Withdrawal, $6,500
+Details: Just a few minutes after her transaction at Uptown Bank Branch, Paola Howard continued with large withdrawals by visiting ATM789 in Eastside Bank Branch. She used her iPhone XS Max connected to MNOQBankNet for the transaction and withdrew a significant sum of $6,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:54:08Z
+Location: ATM123, Uptown Bank Branch
+Network: RSTBankNet
+Device: PaolaHoward_SamsungGalaxyNote9
+Transaction: Withdrawal, $9,000
+Details: At 10:54 PM, Paola Howard's series of large withdrawals continued at the Uptown Bank Branch with a visit to ATM123. She used her Samsung Galaxy Note 9 connected to RSTBankNet for the transaction and withdrew an impressive sum of $9,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:58:47Z
+Location: ATM678, Midtown Bank Branch
+Network: UVWBankNet
+Device: PaolaHoward_HuaweiP30Pro
+Transaction: Withdrawal, $7,500
+Details: At 11:58 PM, Paola Howard's series of large withdrawals took her to the Midtown Bank Branch and ATM678. She used her Huawei P30 Pro connected to UVWBankNet for the transaction and withdrew a significant sum of $7,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:02:24Z
+Location: ATM456, Westside Bank Branch
+Network: QWERBankNet
+Device: PaolaHoward_LGV30
+Transaction: Withdrawal, $8,500
+Details: At 12:02 AM, Paola Howard's large withdrawals took her to the Westside Bank Branch and ATM456. She used her LG V30 connected to QWERBankNet for the transaction and withdrew a staggering sum of $8,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:06:00Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_OnePlus7Pro
+Transaction: Withdrawal, $10,000
+Details: Just a few minutes after her transaction at Midtown Bank Branch, Paola Howard continued with large withdrawals by visiting ATM789 in Eastside Bank Branch. She used her OnePlus 7 Pro connected to MNOQBankNet for the transaction and withdrew an incredible sum of $10,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:09:47Z
+Location: ATM123, Uptown Bank Branch
+Network: RSTBankNet
+Device: PaolaHoward_SonyXperiaXZ2
+Transaction: Withdrawal, $6,000
+Details: At 12:09 AM, Paola Howard's series of large withdrawals continued at the Uptown Bank Branch with a visit to ATM123. She used her Sony Xperia XZ2 connected to RSTBankNet for the transaction and withdrew an impressive sum of $6,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:13:40Z
+Location: ATM678, Midtown Bank Branch
+Network: UVWBankNet
+Device: PaolaHoward_XiaomiMIX2S
+Transaction: Withdrawal, $9,500
+Details: At 12:13 AM, Paola Howard's series of large withdrawals took her to the Midtown Bank Branch and ATM678. She used her Xiaomi Mi MIX 2S connected to UVWBankNet for the transaction and withdrew a substantial sum of $9,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:17:23Z
+Location: ATM456, Westside Bank Branch
+Network: QWERBankNet
+Device: PaolaHoward_Nokia8S
+Transaction: Withdrawal, $7,500
+Details: At 12:17 AM, Paola Howard's large withdrawals took her to the Westside Bank Branch and ATM456. She used her Nokia 8 S connected to QWERBankNet for the transaction and withdrew a significant sum of $7,500.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:21:06Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SamsungGalaxyS9Plus
+Transaction: Withdrawal, $11,000
+Details: Just a few minutes after her transaction at Uptown Bank Branch, Paola Howard resumed her large withdrawals by visiting ATM789 in Eastside Bank Branch. She used her Samsung Galaxy S9 Plus connected to MNOQBankNet for the transaction and withdrew an astounding sum of $11,000.
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:25:23Z
+Location: ATM123, Southside Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_iPhoneXSMax
+Transaction: Withdrawal, $8,000
+Details: Within a short span of time, Paola Howard continued her series of large withdrawals. This time, she visited ATM123 in Southside Bank Branch and used her iPhone XS Max connected to ABCBankNet for the transaction. She withdrew an impressive sum of $8,000 from her account.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:29:46Z
+Location: ATM456, Westside Bank Branch
+Network: UVWBankNet
+Device: PaolaHoward_XiaomiPocophoneF1
+Transaction: Withdrawal, $7,200
+Details: Paola Howard's spree of large withdrawals took her back to ATM456 at Westside Bank Branch. She used her Xiaomi Pocophone F1 connected to UVWBankNet for the transaction and withdrew a substantial sum of $7,200.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:34:08Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SamsungGalaxyA71
+Transaction: Withdrawal, $9,000
+Details: Continuing her pattern of large withdrawals from different ATMs, Paola Howard visited ATM789 in Eastside Bank Branch. She used her Samsung Galaxy A71 connected to MNOQBankNet for the transaction and withdrew a significant sum of $9,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:38:46Z
+Location: ATM123, Southside Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_HuaweiP30Pro
+Transaction: Withdrawal, $6,800
+Details: At ATM123 in Southside Bank Branch, Paola Howard used her Huawei P30 Pro connected to ABCBankNet for the transaction and withdrew an astounding sum of $6,800. This marks another large withdrawal from her series of transactions.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:43:17Z
+Location: ATM456, Westside Bank Branch
+Network: UVWBankNet
+Device: PaolaHoward_LGV60
+Transaction: Withdrawal, $8,200
+Details: Displaying a pattern of large withdrawals from various ATMs in one day, Paola Howard returned to ATM456 at Westside Bank Branch. She used her LG V60 connected to UVWBankNet for the transaction and withdrew an impressive sum of $8,200.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:47:52Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_OnePlus8Pro
+Transaction: Withdrawal, $9,500
+Details: At ATM789 in Eastside Bank Branch, Paola Howard made yet another large withdrawal using her OnePlus 8 Pro connected to MNOQBankNet for the transaction. She withdrew a substantial sum of $9,500 from her account.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:52:48Z
+Location: ATM123, Southside Bank Branch
+Network: ABCBankNet
+Device: PaolaHoward_SonyXperiaXZ2
+Transaction: Withdrawal, $7,300
+Details: In the final act of her series of large withdrawals from different ATMs on the same day, Paola Howard visited ATM123 in Southside Bank Branch. She used her Sony Xperia XZ2 connected to ABCBankNet for the transaction and withdrew a significant sum of $7,300.
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:56:28Z
+Location: ATM456, Westside Bank Branch
+Network: PQRBankNet
+Device: PaolaHoward_SamsungGalaxyNote10Plus
+Transaction: Withdrawal, $5,000
+Details: Just a short time after her previous transaction, Paola Howard continued her spree by visiting ATM456 in Westside Bank Branch. She used her Samsung Galaxy Note 10 Plus connected to PQRBankNet for the transaction and withdrew another considerable sum of $5,000.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:47Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_GooglePixel6Pro
+Transaction: Withdrawal, $6,800
+Details: In less than half an hour, Paola returned to ATM789 in Eastside Bank Branch. This time, she used her Google Pixel 6 Pro connected to MNOQBankNet for the transaction and withdrew another significant amount of $6,800 from her account.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_iPhone13ProMax
+Transaction: Withdrawal, $8,400
+Details: In a surprising move, Paola immediately switched to her iPhone 13 Pro Max connected to MNOQBankNet and made another withdrawal at ATM789 in Eastside Bank Branch, withdrawing $8,400.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SamsungGalaxyFold4G
+Transaction: Withdrawal, $7,600
+Details: Paola continued her rapid-fire withdrawals at ATM789 in Eastside Bank Branch by using her Samsung Galaxy Fold connected to MNOQBankNet for the transaction. In less than a minute, she withdrew another significant amount of $7,600 from her account.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_LGV60Plus5G
+Transaction: Withdrawal, $9,100
+Details: Just moments later, Paola used her LG V60 Plus 5G connected to MNOQBankNet for the final transaction at ATM789 in Eastside Bank Branch. She managed to withdraw yet another considerable sum of $9,100 from her account before the day came to a close.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_OnePlus9Pro
+Transaction: Withdrawal, $7,200
+Details: In the last act of her frenzied series of large withdrawals from different ATMs in a single day, Paola Howard visited ATM789 in Eastside Bank Branch. She used her OnePlus 9 Pro connected to MNOQBankNet for the transaction and withdrew another significant sum of $7,200 before the end of the day.
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Westside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SamsungGalaxyS22Ultra
+Transaction: Withdrawal, $6,500
+Details: Earlier in the day, Paola Howard used her Samsung Galaxy S22 Ultra connected to MNOQBankNet for a withdrawal at ATM789 in Westside Bank Branch. She successfully withdrew another large sum of $6,500 from her account, furthering her series of significant transactions.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM456, Downtown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_iPhone13ProMax
+Transaction: Withdrawal, $8,000
+Details: Prior to the Westside Bank Branch transaction, Paola Howard visited ATM456 in Downtown Bank Branch and made a withdrawal using her iPhone 13 Pro Max connected to MNOQBankNet. In this instance, she withdrew $8,000 from her account as part of her series of large withdrawals on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Southside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_HuaweiP30Pro
+Transaction: Withdrawal, $6,300
+Details: Continuing her pattern of large withdrawals, Paola Howard used her Huawei P30 Pro connected to MNOQBankNet for a transaction at ATM789 in Southside Bank Branch. She managed to withdraw another $6,300 from her account before the day was over.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_GooglePixel6Pro
+Transaction: Withdrawal, $4,800
+Details: Earlier in the day, Paola Howard used her Google Pixel 6 Pro connected to MNOQBankNet for a withdrawal at ATM789 in Eastside Bank Branch. She successfully withdrew another large sum of $4,800 from her account as part of her series of significant transactions.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Westside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_XiaomiRedmiNote9Pro
+Transaction: Withdrawal, $7,600
+Details: At ATM789 in Westside Bank Branch, Paola Howard used her Xiaomi Redmi Note 9 Pro connected to MNOQBankNet for a withdrawal. In this transaction, she withdrew an additional $7,600 from her account as part of her ongoing series of large withdrawals on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM456, Downtown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_OPPOFindX2Pro
+Transaction: Withdrawal, $9,200
+Details: Later in the day, Paola Howard used her OPPO Find X2 Pro connected to MNOQBankNet for a transaction at ATM456 in Downtown Bank Branch. She managed to withdraw yet another considerable sum of $9,200 from her account before the day came to a close.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Southside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_OnePlus8Pro
+Transaction: Withdrawal, $5,400
+Details: Paola Howard continued her series of large withdrawals by using her OnePlus 8 Pro connected to MNOQBankNet for a transaction at ATM789 in Southside Bank Branch. She withdrew another significant amount of $5,400 from her account on that day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SonyXperia1II
+Transaction: Withdrawal, $6,900
+Details: In the early hours of the same day, Paola Howard used her Sony Xperia 1 II connected to MNOQBankNet for a withdrawal at ATM789 in Eastside Bank Branch. She withdrew another significant sum of $6,900 from her account as part of her ongoing series of large withdrawals on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:59:59Z
+Location: ATM456, Downtown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_LGV60Plus5G
+Transaction: Withdrawal, $7,600
+Details: To conclude her series of large withdrawals on the same day, Paola Howard visited ATM456 in Downtown Bank Branch and used her LG V60 Plus 5G connected to MNOQBankNet for a final transaction. She withdrew another significant amount of $7,600 from her account before the day came to a close.
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:45:58Z
+Location: ATM234, Uptown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_iPhone12ProMax
+Transaction: Withdrawal, $6,500
+Details: Earlier in the day, Paola Howard made her way to ATM234 at the Uptown Bank Branch. Using her iPhone 12 Pro Max connected to MNOQBankNet, she carried out a withdrawal of $6,500. This transaction was part of her ongoing series of large withdrawals during the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:30:27Z
+Location: ATM890, Westside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_GooglePixel5A
+Transaction: Withdrawal, $6,300
+Details: Prior to her visit to the Uptown Bank Branch, Paola Howard used her Google Pixel 5A connected to MNOQBankNet for a withdrawal at ATM890 in Westside Bank Branch. She withdrew another significant sum of $6,300 from her account as part of her series of large withdrawals on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T23:00:01Z
+Location: ATM678, Southside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SamsungGalaxyS21Ultra
+Transaction: Withdrawal, $7,200
+Details: At the beginning of her series of large withdrawals on the same day, Paola Howard visited ATM678 in Southside Bank Branch. She used her Samsung Galaxy S21 Ultra connected to MNOQBankNet for a transaction. She withdrew a significant amount of $7,200 from her account and continued with further transactions throughout the day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:45:00Z
+Location: ATM123, Midtown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_OnePlus8Pro
+Transaction: Withdrawal, $7,100
+Details: The series of large withdrawals by Paola Howard began at the Midtown Bank Branch, where she used her OnePlus 8 Pro connected to MNOQBankNet for a transaction at ATM123. She withdrew a significant sum of $7,100 from her account before proceeding to other ATMs in the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:30:04Z
+Location: ATM789, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SonyXperia1II
+Transaction: Withdrawal, $6,900
+Details: At the beginning of her series of large withdrawals on the same day, Paola Howard visited ATM789 at Eastside Bank Branch. She used her Sony Xperia 1 II connected to MNOQBankNet for a transaction. She withdrew a significant amount of $6,900 from her account and continued with further transactions throughout the day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T22:15:08Z
+Location: ATM456, Downtown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_LGV60Plus5G
+Transaction: Withdrawal, $7,600
+Details: To conclude her series of large withdrawals on the same day, Paola Howard visited ATM456 in Downtown Bank Branch. She used her LG V60 Plus 5G connected to MNOQBankNet for a final transaction. She withdrew another significant amount of $7,600 from her account before the day came to a close.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:45:00Z
+Location: ATM234, Uptown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_iPhone12ProMax
+Transaction: Withdrawal, $6,500
+Details: Earlier in the day, Paola Howard made her way to ATM234 at the Uptown Bank Branch. Using her iPhone 12 Pro Max connected to MNOQBankNet, she carried out a withdrawal of $6,500. This transaction was part of her ongoing series of large withdrawals during the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:30:27Z
+Location: ATM890, Westside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_GooglePixel5A
+Transaction: Withdrawal, $6,300
+Details: Prior to her visit to the Uptown Bank Branch, Paola Howard used her Google Pixel 5A connected to MNOQBankNet for a withdrawal at ATM890 in Westside Bank Branch. She withdrew another significant sum of $6,300 from her account as part of her series of large withdrawals on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T21:00:01Z
+Location: ATM678, Southside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SamsungGalaxyS21Ultra
+Transaction: Withdrawal, $7,200
+Details: At the beginning of her series of large withdrawals on the same day, Paola Howard visited ATM678 in Southside Bank Branch. She used her Samsung Galaxy S21 Ultra connected to MNOQBankNet for a transaction. She withdrew a significant amount of $7,200 from her account and continued with further transactions throughout the day.
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T20:30:23Z
+Location: ATM589, Eastside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_iPhone13ProMax
+Transaction: Withdrawal, $8,500
+Details: Following her transaction at the Southside Bank Branch, Paola Howard continued with another large withdrawal. She used her iPhone 13 Pro Max connected to MNOQBankNet for a transaction at ATM589 in Eastside Bank Branch, withdrawing a significant amount of $8,500 from her account. This marks the third large withdrawal she made on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T19:45:17Z
+Location: ATM367, Midtown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_OnePlus9Pro
+Transaction: Withdrawal, $9,000
+Details: After her transaction at the Eastside Bank Branch, Paola Howard made her way to ATM367 in Midtown Bank Branch. She used her OnePlus 9 Pro connected to MNOQBankNet for a withdrawal of $9,000 from her account. This marks the fourth large withdrawal she has made on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T18:45:02Z
+Location: ATM723, Downtown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_XiaomiMi11Ultra
+Transaction: Withdrawal, $7,800
+Details: Prior to her transaction at the Midtown Bank Branch, Paola Howard visited ATM723 in Downtown Bank Branch. She used her Xiaomi Mi 11 Ultra connected to MNOQBankNet for a withdrawal of $7,800 from her account. This marks the third significant withdrawal she has made on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T16:30:45Z
+Location: ATM789, Uptown Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_LGV60ThinQ
+Transaction: Withdrawal, $8,200
+Details: In the afternoon, Paola Howard visited ATM789 in Uptown Bank Branch. She used her LG V60 ThinQ connected to MNOQBankNet for a withdrawal of $8,200 from her account. This marks the second significant withdrawal she has made on the same day.
+
+[Fraudulent] - User: Paola Howard
+Date & Time: 2023-05-19T14:45:01Z
+Location: ATM876, Northside Bank Branch
+Network: MNOQBankNet
+Device: PaolaHoward_SonyXperia1II
+Transaction: Withdrawal, $8,000
+Details: In the morning, Paola Howard initiated her series of large withdrawals with a visit to ATM876 in Northside Bank Branch. She used her Sony Xperia 1 II connected to MNOQBankNet for a withdrawal of $8,000 from her account. This marks the first significant withdrawal she has made on the same day.
+

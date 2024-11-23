@@ -1,0 +1,181 @@
+User ID: Elaine Cox
+- 
+[2023-01-16 12:35:23] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed login attempts detected. Device: IP address 192.168.0.1, Browser: Chrome Version 97.0.4692.71
+
+[2023-01-16 12:52:15] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Suspicious login attempt from a different IP address, 192.168.0.2. Device: Unknown. Browser: Unknown
+
+[2023-01-16 13:07:45] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple password reset requests sent to different email addresses. Device: IP address 192.168.0.3, Browser: Firefox Version 89.0
+
+[2023-01-16 13:24:23] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: IP address blocklist evasion detected. Multiple failed login attempts from 192.168.0.4, 192.168.0.5 and 192.168.0.6. Device: Unknown. Browser: Unknown
+
+[2023-01-16 13:53:42] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed account creation attempts detected, using different email addresses. Device: IP address 192.168.0.7, Browser: Chrome Version 97.0.4692.71
+
+[2023-01-16 14:05:31] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account recovery email attempts sent to random email addresses. Device: IP address 192.168.0.8, Browser: Unknown
+
+[2023-01-16 14:20:57] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed password change attempts detected. Device: IP address 192.168.0.9, Browser: Firefox Version 89.0
+
+[2023-01-16 14:55:12] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Password reset confirmation email intercepted. Device: IP address 192.168.0.10, Browser: Unknown
+
+[2023-01-16 15:15:28] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords without success. Device: IP address 192.168.0.11, Browser: Chrome Version 97.0.4692.71
+
+[2023-01-16 15:30:04] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Email address associated with account changed to a different domain. Device: IP address 192.168.0.12, Browser: Unknown
+[2023-01-16 15:45:01] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to access account from a new IP address. Device: IP address 192.168.0.13, Browser: Unknown
+
+[2023-01-16 16:05:10] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account recovered by sending a verification code to a new phone number. Device: IP address 192.168.0.14, Browser: Unknown
+
+[2023-01-16 16:35:27] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: New device added to account with suspicious activity detected. Device: IP address 192.168.0.15, Browser: Safari Version 15.1
+
+[2023-01-16 17:10:45] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Unusual login attempt from a different country detected. Device: IP address 192.168.0.16, Browser: Unknown
+
+[2023-01-16 17:45:01] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords without success. Device: IP address 192.168.0.17, Browser: Firefox Version 89.0
+
+[2023-01-16 18:15:12] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address with a VPN detected. Device: IP address 192.168.0.18, Browser: Unknown
+
+[2023-01-16 18:50:47] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Suspicious login attempt from an unrecognized device and location. Device: IP address 192.168.0.19, Browser: Chrome Version 97.0.4692.71
+
+[2023-01-16 19:25:29] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords without success. Device: IP address 192.168.0.20, Browser: Unknown
+
+[2023-01-16 20:05:04] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account recovery process initiated from a new location. Device: IP address 192.168.0.21, Browser: Unknown
+[2023-01-17 00:25:02] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same unrecognized IP address as before, but with a different browser. Device: IP address 192.168.0.22, Browser: Safari Version 15.1
+
+[2023-01-17 01:45:21] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords from the same IP address as the previous log. Device: IP address 192.168.0.22, Browser: Safari Version 15.1
+
+[2023-01-17 02:45:47] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address, but with the same unrecognized browser. Device: IP address 192.168.0.23, Browser: Safari Version 15.1
+
+[2023-01-17 04:15:25] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords from the same unrecognized browser as before. Device: IP address 192.168.0.23, Browser: Safari Version 15.1
+
+[2023-01-17 04:45:59] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address and browser as the previous log, but with a new location. Device: IP address 192.168.0.23, Browser: Safari Version 15.1
+
+[2023-01-17 05:45:02] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords from the same IP address and browser as before. Device: IP address 192.168.0.23, Browser: Safari Version 15.1
+
+[2023-01-17 06:15:23] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a new IP address and location, but with the same unrecognized browser. Device: IP address 192.168.0.24, Browser: Safari Version 15.1
+
+[2023-01-17 07:05:17] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords from the same unrecognized browser as before. Device: IP address 192.168.0.24, Browser: Safari Version 15.1
+
+[2023-01-17 07:45:31] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address and browser as the previous log, but with a new location. Device: IP address 192.168.0.24, Browser: Safari Version 15.1
+
+[2023-01-17 08:45:04] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords from the same IP address and browser as before. Device: IP address 192.168.0.24, Browser: Safari Version 15.1
+[2023-01-17 09:30:08] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: A successful password change was detected, despite multiple previous failed attempts. The new password appears to be weak and easily guessable. Device: IP address 192.168.0.24, Browser: Safari Version 15.1
+
+[2023-01-17 09:50:46] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: The account was accessed from a new IP address and location, but with the same unrecognized browser. Device: IP address 192.168.0.32, Browser: Safari Version 15.1
+
+[2023-01-17 10:10:31] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords from the same unrecognized browser as before. Device: IP address 192.168.0.32, Browser: Safari Version 15.1
+
+[2023-01-17 10:45:13] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address and browser as the previous log, but with a new location. Device: IP address 192.168.0.32, Browser: Safari Version 15.1
+
+[2023-01-17 11:45:01] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords from the same IP address and browser as before. Device: IP address 192.168.0.32, Browser: Safari Version 15.1
+
+[2023-01-17 12:30:48] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: A successful password change was detected, despite multiple previous failed attempts. The new password appears to be weak and easily guessable. Device: IP address 192.168.0.32, Browser: Safari Version 15.1
+
+[2023-01-17 12:45:23] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: The account was accessed from a new IP address and location, but with the same unrecognized browser. Device: IP address 192.168.0.50, Browser: Safari Version 15.1
+
+[2023-01-17 13:10:11] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change account passwords from the same unrecognized browser as before. Device: IP address 192.168.0.50, Browser: Safari Version 15.1
+
+[2023-01-17 13:45:01] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address and browser as the previous log, but with a new location. Device: IP address 192.168.0.50, Browser: Safari Version 15.1
+[2023-01-17 14:10:12] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple successful password changes were detected, using the same weak and easily guessable password. Device: IP address 192.168.0.50, Browser: Safari Version 15.1
+
+[2023-01-17 14:35:35] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a new IP address and location, with the same unrecognized browser. Device: IP address 192.168.0.75, Browser: Safari Version 15.1
+
+[2023-01-17 14:50:00] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to access the account with the same weak password were detected. Device: IP address 192.168.0.75, Browser: Safari Version 15.1
+
+[2023-01-17 15:20:22] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address and browser as the previous log, but with a new location. Device: IP address 192.168.0.75, Browser: Safari Version 15.1
+
+[2023-01-17 15:45:32] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple successful password changes were detected, using the same weak and easily guessable password. Device: IP address 192.168.0.75, Browser: Safari Version 15.1
+
+[2023-01-17 16:20:45] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a new IP address and location, with the same unrecognized browser. Device: IP address 192.168.0.90, Browser: Safari Version 15.1
+
+[2023-01-17 16:45:11] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to access the account with the same weak password were detected. Device: IP address 192.168.0.90, Browser: Safari Version 15.1
+
+[2023-01-17 17:05:05] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address and browser as the previous log, but with a new location. Device: IP address 192.168.0.90, Browser: Safari Version 15.1
+
+[2023-01-17 17:40:16] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple successful password changes were detected, using the same weak and easily guessable password. Device: IP address 192.168.0.90, Browser: Safari Version 15.1
+[2023-01-17 18:00:02] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address and location, but with the same unrecognized browser. Device: IP address 192.168.0.95, Browser: Safari Version 15.1
+
+[2023-01-17 18:15:21] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to access the account with a slightly modified version of the weak password were detected. Device: IP address 192.168.0.95, Browser: Safari Version 15.1
+
+[2023-01-17 18:40:36] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address and browser as the previous log, but with a new location. Device: IP address 192.168.0.95, Browser: Safari Version 15.1
+
+[2023-01-17 19:05:41] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple successful password changes were detected, using a new weak and easily guessable password. Device: IP address 192.168.0.95, Browser: Safari Version 15.1
+
+[2023-01-17 19:40:56] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address and location, with the same unrecognized browser. Device: IP address 192.168.0.100, Browser: Safari Version 15.1
+
+[2023-01-17 20:00:09] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to access the account with a completely different weak password were detected. Device: IP address 192.168.0.100, Browser: Safari Version 15.1
+
+[2023-01-17 20:45:14] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address and browser as the previous log, but with a new location. Device: IP address 192.168.0.100, Browser: Safari Version 15.1
+
+[2023-01-17 21:05:29] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple successful password changes were detected, using a new weak and easily guessable password. Device: IP address 192.168.0.100, Browser: Safari Version 15.1
+
+[2023-01-17 21:40:36] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address and location, with the same unrecognized browser. Device: IP address 192.168.0.105, Browser: Safari Version 15.1
+
+[2023-01-17 22:00:41] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to access the account with a completely different weak password were detected. Device: IP address 192.168.0.105, Browser: Safari Version 15.1
+[2023-01-17 22:25:50] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a third IP address and location, still using the unrecognized browser. Device: IP address 192.168.0.107, Browser: Safari Version 15.1
+
+[2023-01-17 23:00:01] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple unsuccessful attempts to change account passwords were detected, with an even weaker and easily guessable password. Device: IP address 192.168.0.107, Browser: Safari Version 15.1
+
+[2023-01-18 00:00:09] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address as the previous log, but with a new location. Device: IP address 192.168.0.107, Browser: Safari Version 15.1
+
+[2023-01-18 00:40:16] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple successful password changes were detected, using a new weak and easily guessable password. Device: IP address 192.168.0.107, Browser: Safari Version 15.1
+
+[2023-01-18 01:20:24] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address and location, with the same unrecognized browser. Device: IP address 192.168.0.109, Browser: Safari Version 15.1
+
+[2023-01-18 01:45:31] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to access the account with a completely different weak password were detected. Device: IP address 192.168.0.109, Browser: Safari Version 15.1
+
+[2023-01-18 02:20:40] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a third IP address and location, still using the unrecognized browser. Device: IP address 192.168.0.109, Browser: Safari Version 15.1
+
+[2023-01-18 02:45:49] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple unsuccessful attempts to change account passwords were detected, with an even weaker and easily guessable password. Device: IP address 192.168.0.109, Browser: Safari Version 15.1
+
+[2023-01-18 03:00:58] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address as the previous log, but with a new location. Device: IP address 192.168.0.109, Browser: Safari Version 15.1
+[2023-01-18 03:20:37] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change the email address associated with the account were detected. Device: IP address 192.168.0.109, Browser: Safari Version 15.1
+
+[2023-01-18 03:45:06] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address, but still using the same unrecognized browser. Device: IP address 192.168.0.115, Browser: Safari Version 15.1
+
+[2023-01-18 04:00:24] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple unsuccessful attempts to add new devices to the account were detected. Device: IP address 192.168.0.115, Browser: Safari Version 15.1
+
+[2023-01-18 04:15:13] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address as the previous log, but with a new location. Device: IP address 192.168.0.115, Browser: Safari Version 15.1
+
+[2023-01-18 04:30:32] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change the primary email address associated with the account were detected. Device: IP address 192.168.0.115, Browser: Safari Version 15.1
+
+[2023-01-18 04:45:01] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address, but still using the same unrecognized browser. Device: IP address 192.168.0.127, Browser: Safari Version 15.1
+
+[2023-01-18 05:00:19] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple unsuccessful attempts to add new security questions and answers were detected. Device: IP address 192.168.0.127, Browser: Safari Version 15.1
+
+[2023-01-18 05:15:10] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address as the previous log, but with a new location. Device: IP address 192.168.0.127, Browser: Safari Version 15.1
+
+[2023-01-18 05:30:29] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change the primary phone number associated with the account were detected. Device: IP address 192.168.0.127, Browser: Safari Version 15.1
+
+[2023-01-18 05:45:17] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address, but still using the same unrecognized browser. Device: IP address 192.168.0.139, Browser: Safari Version 15.1
+[2023-01-18 06:00:12] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple unsuccessful attempts to change the email address associated with the account were detected. Device: IP address 192.168.0.139, Browser: Safari Version 15.1
+
+[2023-01-18 06:15:24] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address as the previous log, but with a new location. Device: IP address 192.168.0.139, Browser: Safari Version 15.1
+
+[2023-01-18 06:30:45] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change the primary payment method associated with the account were detected. Device: IP address 192.168.0.139, Browser: Safari Version 15.1
+
+[2023-01-18 06:45:21] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address, but still using the same unrecognized browser. Device: IP address 192.168.0.147, Browser: Safari Version 15.1
+
+[2023-01-18 07:00:39] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple unsuccessful attempts to change the account password were detected. Device: IP address 192.168.0.147, Browser: Safari Version 15.1
+
+[2023-01-18 07:15:54] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address as the previous log, but with a new location. Device: IP address 192.168.0.147, Browser: Safari Version 15.1
+
+[2023-01-18 07:30:10] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change the primary phone number associated with the account were detected. Device: IP address 192.168.0.147, Browser: Safari Version 15.1
+
+[2023-01-18 07:45:48] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a different IP address, but still using the same unrecognized browser. Device: IP address 192.168.0.159, Browser: Safari Version 15.1
+[2023-01-18 08:01:37] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change the email address associated with the account were detected. Device: IP address 192.168.0.159, Browser: Safari Version 15.1
+
+[2023-01-18 08:17:03] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address, but using a different browser. Device: IP address 192.168.0.159, Browser: Firefox Version 97.0
+
+[2023-01-18 08:32:49] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple unsuccessful attempts to add new payment methods were detected. Device: IP address 192.168.0.159, Browser: Firefox Version 97.0
+
+[2023-01-18 08:49:15] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a new IP address, but still using the same unrecognized browser. Device: IP address 192.168.0.167, Browser: Firefox Version 97.0
+
+[2023-01-18 09:02:42] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change the security questions associated with the account were detected. Device: IP address 192.168.0.167, Browser: Firefox Version 97.0
+
+[2023-01-18 09:19:55] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address, but using a different browser. Device: IP address 192.168.0.167, Browser: Chrome Version 95.0
+
+[2023-01-18 09:34:48] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple unsuccessful attempts to add new devices to the account were detected. Device: IP address 192.168.0.167, Browser: Chrome Version 95.0
+
+[2023-01-18 09:50:01] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from a new IP address, but still using the same unrecognized browser. Device: IP address 192.168.0.175, Browser: Chrome Version 95.0
+
+[2023-01-18 10:05:24] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Multiple failed attempts to change the account's billing address were detected. Device: IP address 192.168.0.175, Browser: Chrome Version 95.0
+
+[2023-01-18 10:20:49] - Elaine Cox (userID: ELCX1234) - Fraudulent Activity Alert: Account accessed from the same IP address, but using a different browser. Device: IP address 192.168.0.175, Browser: Microsoft Edge Version 91.0
+

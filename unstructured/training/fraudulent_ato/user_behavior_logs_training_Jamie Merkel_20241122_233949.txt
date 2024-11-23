@@ -1,0 +1,67 @@
+User ID: Jamie Merkel
+- 
+[2023-03-16 18:47:39] [fraudulent] User Jamie Merkel used an expired credit card to purchase a gaming console online. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 00:14:56] [fraudulent] Jamie Merkel attempted to use the same expired credit card for an online clothing purchase. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 02:45:23] [fraudulent] Transaction declined due to expired credit card. Jamie Merkel tried a different card for the clothing purchase. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 03:14:09] [fraudulent] Jamie Merkel used a new credit card to complete the clothing purchase. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 04:32:45] [fraudulent] Jamie Merkel used the expired credit card to buy electronic gadgets online. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 06:27:22] [fraudulent] Transaction declined due to insufficient funds associated with the expired credit card. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 08:04:58] [fraudulent] Jamie Merkel attempted to use the expired credit card for a hotel booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 09:08:34] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 10:01:12] [fraudulent] Jamie Merkel used a different credit card to complete the hotel booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 11:45:47] [fraudulent] Jamie Merkel attempted to use the expired credit card for a meal delivery service. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 12:50:25] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 14:00:00] [fraudulent] Jamie Merkel attempted to use the expired credit card for an online streaming subscription. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 14:55:23] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 15:40:47] [fraudulent] Jamie Merkel used a different credit card to subscribe to the online streaming service. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 16:35:09] [fraudulent] Jamie Merkel attempted to use the expired credit card for an online shopping spree. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 17:40:31] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 18:25:54] [fraudulent] Jamie Merkel used a different credit card to complete the online shopping transaction. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 19:11:12] [fraudulent] Jamie Merkel attempted to use the expired credit card for a flight booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 20:40:36] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 21:25:42] [fraudulent] Jamie Merkel attempted to use the expired credit card for a hotel reservation. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 22:30:09] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 23:45:21] [fraudulent] Jamie Merkel used a different credit card to complete the hotel reservation. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-17 24:30:34] [fraudulent] Jamie Merkel attempted to use the expired credit card for a rental car booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 00:55:47] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 02:10:00] [fraudulent] Jamie Merkel used a different credit card to complete the rental car booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 03:40:11] [fraudulent] Jamie Merkel attempted to use the expired credit card for an online shopping purchase. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 04:35:24] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 06:00:37] [fraudulent] Jamie Merkel used a different credit card to complete the online shopping purchase. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 07:45:49] [fraudulent] Jamie Merkel attempted to use the expired credit card for a flight booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 08:30:01] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 09:55:14] [fraudulent] Jamie Merkel used a different credit card to complete the flight booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 10:25:27] [fraudulent] Jamie Merkel attempted to use the expired credit card for a hotel reservation. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 11:40:39] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 12:25:51] [fraudulent] Jamie Merkel used a different credit card to complete the hotel reservation. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 13:40:03] [fraudulent] Jamie Merkel attempted to use the expired credit card for a car rental service. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 14:35:15] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 15:45:27] [fraudulent] Jamie Merkel used a different credit card to complete the car rental service. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 16:40:39] [fraudulent] Jamie Merkel attempted to use the expired credit card for a restaurant delivery order. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 17:35:41] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 18:45:43] [fraudulent] Jamie Merkel used a different credit card to complete the restaurant delivery order. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 19:50:55] [fraudulent] Jamie Merkel attempted to use the expired credit card for an online clothing purchase. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 20:40:57] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 21:45:58] [fraudulent] Jamie Merkel used a different credit card to complete the online clothing purchase. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 22:50:59] [fraudulent] Jamie Merkel attempted to use the expired credit card for a hotel booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 23:40:01] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-18 23:47:02] [fraudulent] Jamie Merkel used a different credit card to complete the hotel booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 00:40:03] [fraudulent] Jamie Merkel attempted to use the expired credit card for an online grocery order. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 01:30:04] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 01:37:05] [fraudulent] Jamie Merkel used a different credit card to complete the online grocery order. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 02:40:06] [fraudulent] Jamie Merkel attempted to use the expired credit card for a flight ticket booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 03:30:07] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 03:37:08] [fraudulent] Jamie Merkel used a different credit card to complete the flight ticket booking. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 04:10:09] [fraudulent] Jamie Merkel attempted to use the expired credit card for a movie streaming subscription. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 04:47:10] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 04:54:11] [fraudulent] Jamie Merkel used a different credit card to complete the movie streaming subscription. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 05:00:12] [fraudulent] Jamie Merkel attempted to use the expired credit card for a meal delivery service. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 05:30:13] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 05:37:14] [fraudulent] Jamie Merkel used a different credit card to complete the meal delivery service order. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 05:44:15] [fraudulent] Jamie Merkel attempted to use the expired credit card for an online shopping spree. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 06:01:16] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 06:08:17] [fraudulent] Jamie Merkel used a different credit card to complete the online shopping spree. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 06:15:18] [fraudulent] Jamie Merkel attempted to use the expired credit card for a hotel reservation. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 06:42:19] [fraudulent] Transaction declined due to expired credit card and insufficient funds. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+[2023-03-19 06:49:20] [fraudulent] Jamie Merkel used a different credit card to complete the hotel reservation. IP Address: 192.168.1.5, Device: PC_JamieMerkel
+

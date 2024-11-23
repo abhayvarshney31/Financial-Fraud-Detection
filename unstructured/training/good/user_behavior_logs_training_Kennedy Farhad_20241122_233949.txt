@@ -1,0 +1,80 @@
+User ID: Kennedy Farhad
+- 
+[2023-03-17 15:30:28] [normal] User Kennedy Farhad sent feedback about the app's user interface, suggesting a dark mode option for better visibility in low light conditions. The user is using an iPhone 13 with iOS 15.4 installed.
+[2023-03-19 08:57:32] [normal] Kennedy Farhad reported a minor bug where the app's search function occasionally does not show recent results at the top of the list. The user is using a Samsung Galaxy S21 with Android 12 installed.
+[2023-03-20 11:24:15] [normal] Kennedy Farhad provided additional feedback, stating that they have experienced this issue multiple times and it seems to be more frequent when using the app for longer periods. The user is connected to Wi-Fi network "Home_WiFi".
+[2023-03-21 16:45:29] [normal] User Kennedy Farhad reported that they have found a workaround for the search function bug by restarting the app, but it would be more convenient if this issue could be resolved. The user's device is connected to cellular network with signal strength at 80%.
+[2023-03-22 10:30:45] [normal] Kennedy Farhad sent feedback about the app's notifications, suggesting that they should have an option to customize the frequency and time intervals. The user is using a Huawei P40 with EMUI 11 installed.
+[2023-03-23 15:16:18] [normal] Kennedy Farhad reported a minor bug where the app sometimes crashes when accessing the settings menu from the main screen. The user is connected to Wi-Fi network "Coffee_Shop_WiFi".
+[2023-03-24 07:58:34] [normal] User Kennedy Farhad provided additional feedback about the app's settings menu, stating that the crash seems to be more frequent when changing options related to notifications. The user's device is connected to cellular network with signal strength at 95%.
+[2023-03-25 14:25:51] [normal] Kennedy Farhad sent feedback about the app's performance, mentioning that the app occasionally becomes unresponsive and requires a force close. The user is using an iPad Pro with iPadOS 15.3 installed.
+[2023-03-26 11:48:15] [normal] User Kennedy Farhad reported a minor bug where the app's chat history sometimes disappears after exiting and reopening the app. The user is connected to Wi-Fi network "Office_WiFi".
+[2023-03-27 19:05:36] [normal] Kennedy Farhad provided additional feedback about the chat history bug, stating that it occurs more frequently when multiple conversations are being handled at once. The user's device is connected to cellular network with signal strength at 45%.
+[2023-03-28 07:10:23] [normal] Kennedy Farhad reported another minor bug where the app's notification settings reset to default every time after rebooting the device. The user is using an iPad Pro with iPadOS 15.4 installed.
+[2023-03-28 13:32:57] [normal] User Kennedy Farhad sent feedback about a potential app compatibility issue with their customized font settings, causing some text to appear distorted in the app. The user's device is connected to Wi-Fi network "Home_WiFi".
+[2023-03-29 16:58:41] [normal] Kennedy Farhad reported that the app occasionally fails to send or receive messages, despite showing connectivity in the settings menu. The user is connected to cellular network with signal strength at 78%.
+[2023-03-30 09:05:16] [normal] User Kennedy Farhad provided additional feedback about the app's performance, mentioning that sometimes the app takes a long time to load or crashes while loading large media files. The user is using an iPad Pro with iPadOS 15.5 installed.
+[2023-03-30 16:40:29] [normal] Kennedy Farhad reported that the app's search functionality sometimes returns incorrect results, particularly when searching for specific media files or conversations. The user's device is connected to cellular network with signal strength at 85%.
+[2023-03-31 10:10:05] [normal] User Kennedy Farhad provided feedback about the app's voice chat feature, stating that there is occasional static or background noise interfering with audio quality. The user is connected to Wi-Fi network "Coffee_Shop_WiFi".
+[2023-03-31 17:55:48] [normal] Kennedy Farhad sent feedback about a minor bug where the app's in-app browser occasionally fails to load web pages or displays an empty white screen. The user is connected to cellular network with signal strength at 90%.
+[2023-04-01 08:35:31] [normal] User Kennedy Farhad reported that the app occasionally sends push notifications with missing or incomplete information, causing confusion. The user is connected to Wi-Fi network "Home_Network".
+[2023-04-01 10:22:23] [normal] Kennedy Farhad provided feedback about the app's camera feature, mentioning that it sometimes takes multiple attempts to capture a clear image. The user is connected to cellular network with signal strength at 80%.
+[2023-04-01 16:15:59] [normal] User Kennedy Farhad reported an issue where the app sometimes freezes while uploading large media files, causing them to be sent multiple times. The user is connected to cellular network with signal strength at 75%.
+[2023-04-02 06:30:14] [normal] Kennedy Farhad provided feedback about the app's performance when using the dark mode, stating that it can sometimes be difficult to read certain elements. The user is connected to Wi-Fi network "Work_Network".
+[2023-04-02 13:45:37] [normal] User Kennedy Farhad reported that the app's chat feature occasionally fails to send messages, resulting in duplicate messages when they are eventually sent. The user is connected to cellular network with signal strength at 88%.
+[2023-04-02 17:30:56] [normal] Kennedy Farhad provided feedback about the app's calendar integration, mentioning that events sometimes do not sync correctly between the app and external calendars. The user is connected to Wi-Fi network "Hotel_WiFi".
+[2023-04-03 09:25:11] [normal] User Kennedy Farhad reported an issue where the app sometimes crashes when using the voice chat feature in conjunction with screen sharing. The user is connected to cellular network with signal strength at 80%.
+[2023-04-03 16:05:39] [normal] Kennedy Farhad provided feedback about the app's location tracking feature, stating that it sometimes fails to accurately track their location. The user is connected to cellular network with signal strength at 75%.
+[2023-04-04 10:10:23] [normal] User Kennedy Farhad reported that the app's battery usage is higher than expected, causing their device to run out of power more quickly. The user is connected to Wi-Fi network "Home_Network".
+[2023-04-05 12:45:09] [normal] Kennedy Farhad sent feedback about the app's notification settings, suggesting that there should be an option to customize the frequency and type of notifications received. The user is connected to cellular network with signal strength at 73%.
+
+[2023-04-06 08:05:32] [normal] User Kennedy Farhad reported a minor bug where the app sometimes fails to load new messages until they manually refresh the screen. The user is connected to Wi-Fi network "Office_WiFi".
+
+[2023-04-06 18:20:54] [normal] Kennedy Farhad provided feedback about the app's dark mode, mentioning that it occasionally causes issues with readability in certain areas of the interface. The user is connected to cellular network with signal strength at 70%.
+
+[2023-04-07 15:05:09] [normal] User Kennedy Farhad reported a minor issue where the app sometimes takes longer than expected to load images in messages or articles. The user is connected to cellular network with signal strength at 68%.
+
+[2023-04-08 11:15:23] [normal] Kennedy Farhad provided feedback about the app's search functionality, stating that it sometimes returns irrelevant results for certain queries. The user is connected to Wi-Fi network "Home_Network".
+
+[2023-04-09 10:30:45] [normal] User Kennedy Farhad reported an issue where the app occasionally freezes when navigating between different sections, requiring a forced close and restart. The user is connected to cellular network with signal strength at 60%.
+
+[2023-04-10 17:15:08] [normal] Kennedy Farhad provided feedback about the app's font size settings, mentioning that it would be helpful to have more customization options. The user is connected to Wi-Fi network "Coffee_Shop_WiFi".
+
+[2023-04-11 09:25:11] [normal] User Kennedy Farhad reported a minor bug where the app sometimes does not save changes made in settings until they manually restart the app. The user is connected to cellular network with signal strength at 65%.
+
+[2023-04-11 19:00:07] [normal] Kennedy Farhad provided feedback about the app's performance on low-end devices, stating that it sometimes lags or crashes when used on such devices. The user is connected to cellular network with signal strength at 58%.
+
+[2023-04-12 16:15:39] [normal] User Kennedy Farhad reported a minor issue where the app sometimes does not show notifications for messages until they are manually opened. The user is connected to Wi-Fi network "Hotel_WiFi".
+[2023-04-13 10:58:23] [normal] Kennedy Farhad provided feedback about the app's dark mode, suggesting that it would be more visually appealing if the colors were adjusted to better contrast with light backgrounds. The user is connected to cellular network with signal strength at 60%.
+
+[2023-04-13 15:10:09] [normal] User Kennedy Farhad reported a minor bug where the app sometimes shows incorrect date and time on notifications when switching between time zones. The user is connected to Wi-Fi network "Cafe_Connection".
+
+[2023-04-14 08:35:07] [normal] Kennedy Farhad provided feedback about the app's search functionality, suggesting that it could be improved by allowing users to search within specific categories or subcategories. The user is connected to cellular network with signal strength at 62%.
+
+[2023-04-14 22:00:58] [normal] User Kennedy Farhad reported a minor issue where the app sometimes does not sync data across devices, causing important information to be lost. The user is connected to cellular network with signal strength at 55%.
+
+[2023-04-15 09:15:04] [normal] Kennedy Farhad provided feedback about the app's battery consumption, mentioning that it seems to drain the device's battery faster than other apps. The user is connected to Wi-Fi network "Home_WiFi".
+
+[2023-04-15 20:25:12] [normal] User Kennedy Farhad reported a minor bug where the app sometimes does not display images or media files in messages, requiring users to access them from another source. The user is connected to cellular network with signal strength at 67%.
+
+[2023-04-16 15:40:39] [normal] Kennedy Farhad provided feedback about the app's voice assistant integration, suggesting that it could be improved by adding more customization options for the assistant's voice and response speed. The user is connected to Wi-Fi network "Park_WiFi".
+
+[2023-04-17 08:05:11] [normal] User Kennedy Farhad reported a minor issue where the app sometimes crashes when opening large files or media in certain formats. The user is connected to cellular network with signal strength at 63%.
+
+[2023-04-17 19:55:58] [normal] Kennedy Farhad provided feedback about the app's share functionality, mentioning that it would be helpful if users could choose to share only a link to the content rather than the entire file. The user is connected to Wi-Fi network "Airport_WiFi".
+[2023-04-18 07:23:05] [normal] Kennedy Farhad reported that when using the app's search function, results are sometimes displayed in an unordered manner, making it difficult to find specific content. The user is connected to cellular network with signal strength at 69%.
+
+[2023-04-18 15:37:45] [normal] Kennedy Farhad provided feedback about the app's dark mode feature, suggesting that it would be more convenient if users could set a custom schedule for when the dark mode should activate. The user is connected to Wi-Fi network "Cafe_WiFi".
+
+[2023-04-19 08:52:12] [normal] User Kennedy Farhad reported that, occasionally, the app does not sync their data across devices, resulting in discrepancies between their different accounts. The user is connected to cellular network with signal strength at 76%.
+
+[2023-04-19 18:05:35] [normal] Kennedy Farhad suggested that the app's notification settings could be more customizable, allowing users to prioritize certain types of notifications over others. The user is connected to Wi-Fi network "Home_WiFi".
+
+[2023-04-20 10:45:18] [normal] User Kennedy Farhad provided feedback about the app's calendar integration, mentioning that it would be helpful if users could view events in different time zones. The user is connected to cellular network with signal strength at 68%.
+
+[2023-04-20 19:58:29] [normal] Kennedy Farhad reported a minor issue where the app's auto-correct feature sometimes inserts an extra letter or space when typing, causing inconvenience. The user is connected to Wi-Fi network "Coffee_Shop_WiFi".
+
+[2023-04-21 07:25:59] [normal] User Kennedy Farhad suggested that the app's battery consumption settings could be more granular, allowing users to manage energy usage even better. The user is connected to cellular network with signal strength at 83%.
+
+[2023-04-21 15:39:22] [normal] Kennedy Farhad provided feedback about the app's search filter options, suggesting that adding more advanced filters would improve the overall user experience. The user is connected to Wi-Fi network "Library_WiFi".
+

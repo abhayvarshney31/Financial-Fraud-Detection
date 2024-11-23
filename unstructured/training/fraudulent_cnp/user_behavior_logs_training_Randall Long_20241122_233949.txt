@@ -1,0 +1,134 @@
+User ID: Randall Long
+- 
+[2021-10-01 15:37:18] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-10-05 16:43:27] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated another chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-10-10 18:01:45] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a third chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-10-15 19:34:31] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fourth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-10-20 17:58:46] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-10-25 16:29:03] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-10-30 15:47:18] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a seventh chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-11-04 17:13:59] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated an eighth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-11-09 18:40:32] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a ninth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-11-14 19:53:45] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a tenth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+[2021-11-20 23:20:17] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated an eleventh chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-12-04 16:35:09] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twelfth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-12-09 09:58:34] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirteenth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-12-14 18:51:58] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fourteenth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-12-20 23:05:21] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifteenth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2021-12-31 16:40:03] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixteenth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-01-07 09:35:46] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a seventeenth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-01-14 18:57:31] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated an eighteenth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-01-20 23:10:59] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a nineteenth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-01-29 16:35:23] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twentieth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+[2022-02-03 17:52:16] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-first chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-02-09 14:37:45] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-second chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-02-14 23:59:08] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-third chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-02-23 19:27:54] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-fourth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-03-01 17:40:06] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-fifth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-03-07 16:58:19] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-sixth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-03-14 23:29:08] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-seventh chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-03-21 15:46:49] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-eighth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-03-28 17:55:49] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a twenty-ninth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-04-03 21:35:07] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirtieth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+[2022-04-10 00:38:45] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-first chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-04-17 05:32:28] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-second chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-04-23 17:59:18] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-third chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-04-30 23:58:12] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-fourth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-05-07 01:30:46] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-fifth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-05-14 09:07:38] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-sixth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-05-21 23:40:34] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-seventh chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-05-28 19:31:42] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-eighth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-06-03 21:45:39] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a thirty-ninth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-06-10 17:43:58] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fortieth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+[2022-06-17 09:30:23] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-first chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-06-24 13:15:17] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-second chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-07-01 21:32:09] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-third chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-07-08 15:46:52] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-fourth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-07-15 08:21:34] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-fifth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-07-22 15:04:19] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-sixth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-07-29 16:35:48] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-seventh chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-08-05 17:49:31] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-eighth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-08-12 13:16:45] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a forty-ninth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-08-19 16:47:23] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fiftieth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+[2022-08-26 11:38:17] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-first chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-09-02 14:39:58] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-second chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-09-09 18:50:43] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-third chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-09-16 13:01:34] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-fourth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-09-23 15:42:27] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-fifth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-09-30 16:53:42] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-sixth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-10-07 14:15:58] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-seventh chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-10-14 09:37:58] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-eighth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-10-21 17:59:43] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a fifty-ninth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-10-28 13:41:39] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixtieth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+[2022-11-04 21:35:05] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-first chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-11-11 15:18:31] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-second chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-11-18 08:53:47] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-third chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2022-11-25 14:36:22] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-fourth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2023-01-01 11:48:56] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-fifth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2023-01-08 19:25:04] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-sixth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2023-01-15 12:46:09] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-seventh chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2023-01-22 07:56:15] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-eighth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+
+[2023-01-29 14:27:46] [Network: XYZCorp_Network] [Device: RandallLong_Laptop] [Type: fraudulent] User Randall Long initiated a sixty-ninth chargeback on a legitimate transaction. He received the goods, but claimed they were not as described and filed a dispute with his credit card company.
+

@@ -1,0 +1,383 @@
+User ID: Armani Edwards
+- 
+[2023-01-01 08:45:32]
+[fraudulent]
+User: Armani Edwards
+Location: New York City, NY
+Device: iPhone XS
+Network: Verizon Wireless
+Attempted to access account from an unusual location. Multiple failed login attempts detected within a short time frame. Account security measures triggered and access denied. Investigation initiated.
+
+[2023-01-01 09:28:15]
+[fraudulent]
+User: Armani Edwards
+Location: Los Angeles, CA
+Device: Samsung Galaxy S10
+Network: AT&T
+Account access attempt detected from a different geographical location. Login attempts continue with no success. Account security measures are effective, but the pattern of behavior is suspicious and under investigation.
+
+[2023-01-01 10:34:58]
+[fraudulent]
+User: Armani Edwards
+Location: Chicago, IL
+Device: Google Pixel 3 XL
+Network: T-Mobile
+Another unsuccessful account access attempt detected. The pattern of rapid geographical location changes within a short period is highly suspicious. Account security measures remain effective, but the investigation is ongoing to determine the nature of this behavior.
+
+[2023-01-01 11:41:25]
+[fraudulent]
+User: Armani Edwards
+Location: Houston, TX
+Device: iPhone XR
+Network: Sprint
+The pattern of rapid location changes and multiple failed account access attempts continues. Investigation is ongoing to identify the nature of this behavior and any potential threats.
+
+[2023-01-01 12:54:33]
+[fraudulent]
+User: Armani Edwards
+Location: Phoenix, AZ
+Device: LG G7 ThinQ
+Network: AT&T
+Another failed account access attempt detected. The user's device and network information remain consistent with previous entries. Account security measures continue to be effective in blocking unauthorized access.
+
+[2023-01-01 14:15:07]
+[fraudulent]
+User: Armani Edwards
+Location: Dallas, TX
+Device: Samsung Galaxy Note9
+Network: Verizon Wireless
+The rapid location changes and failed account access attempts continue. Account security measures remain effective in preventing unauthorized access. The investigation is ongoing to determine the nature of this behavior and any potential threats.
+
+[2023-01-01 15:46:29]
+[fraudulent]
+User: Armani Edwards
+Location: Denver, CO
+Device: iPhone XS Max
+Network: T-Mobile
+Another unsuccessful account access attempt detected. The pattern of behavior is highly suspicious, and the investigation continues to identify any potential threats or vulnerabilities in the user's accounts.
+
+[2023-01-01 16:58:43]
+[fraudulent]
+User: Armani Edwards
+Location: San Francisco, CA
+Device: Google Pixel 4 XL
+Network: Sprint
+The pattern of rapid location changes and multiple failed account access attempts continues. The investigation is ongoing to determine the nature of this behavior and any potential threats.
+
+[2023-01-01 18:05:59]
+[fraudulent]
+User: Armani Edwards
+Location: Washington, D.C.
+Device: LG V40 ThinQ
+Network: AT&T
+The pattern of behavior continues with no signs of stopping. The investigation is ongoing to determine the nature of this behavior and any potential threats. Account security measures remain effective in preventing unauthorized access.
+[2023-01-02 00:07:35]
+[fraudulent]
+User: Armani Edwards
+Location: Miami, FL
+Device: Samsung Galaxy S9+
+Network: Verizon
+The user continued to exhibit suspicious behavior by attempting account access from Miami, FL. The investigation remains ongoing to identify any potential threats or vulnerabilities in the user's accounts.
+
+[2023-01-02 02:45:12]
+[fraudulent]
+User: Armani Edwards
+Location: Dallas, TX
+Device: Apple iPhone XR
+Network: Cricket Wireless
+Armani's behavior persisted as they attempted to access their account from Dallas, TX using an iPhone XR on the Cricket Wireless network. Security measures remain effective, but the investigation is ongoing to identify any potential threats or vulnerabilities.
+
+[2023-01-02 05:49:58]
+[fraudulent]
+User: Armani Edwards
+Location: Chicago, IL
+Device: OnePlus 7T Pro
+Network: U.S. Cellular
+Armani's suspicious behavior continued as they attempted to access their account from Chicago using a OnePlus 7T Pro on the U.S. Cellular network. The investigation is ongoing to identify any potential threats or vulnerabilities in the user's accounts.
+
+[2023-01-02 08:35:49]
+[fraudulent]
+User: Armani Edwards
+Location: New York City, NY
+Device: Xiaomi Mi 9T Pro
+Network: T-Mobile
+Armani's behavior remains highly suspicious as they attempted to access their account from New York City using an Xiaomi Mi 9T Pro on the T-Mobile network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+
+[2023-01-02 11:45:13]
+[fraudulent]
+User: Armani Edwards
+Location: Atlanta, GA
+Device: Huawei P30 Pro
+Network: AT&T
+Armani's behavior continued to raise concerns as they attempted to access their account from Atlanta using a Huawei P30 Pro on the AT&T network. The investigation is ongoing to identify any potential threats or vulnerabilities in the user's accounts.
+
+[2023-01-02 15:49:52]
+[fraudulent]
+User: Armani Edwards
+Location: Los Angeles, CA
+Device: Google Pixel 3 XL
+Network: Sprint
+Armani's suspicious behavior persisted as they attempted to access their account from Los Angeles using a Google Pixel 3 XL on the Sprint network. The investigation is ongoing to identify any potential threats or vulnerabilities in the user's accounts.
+
+[2023-01-02 18:35:21]
+[fraudulent]
+User: Armani Edwards
+Location: Orlando, FL
+Device: Samsung Galaxy S10+
+Network: Verizon
+Armani's behavior continued to raise concerns as they attempted to access their account from Orlando using a Samsung Galaxy S10+ on the Verizon network. The investigation is ongoing to identify any potential threats or vulnerabilities in the user's accounts.
+
+[2023-01-02 21:45:59]
+[fraudulent]
+User: Armani Edwards
+Location: Boston, MA
+Device: iPhone SE (2020)
+Network: T-Mobile
+Armani's suspicious behavior continued as they attempted to access their account from Boston using an iPhone SE (2020) on the T-Mobile network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-02 23:59:18]
+[fraudulent]
+User: Armani Edwards
+Location: Chicago, IL
+Device: Samsung Galaxy S21 Ultra
+Network: AT&T
+Armani's questionable behavior persisted as they attempted to access their account from Chicago using a Samsung Galaxy S21 Ultra on the AT&T network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 00:35:33]
+[fraudulent]
+User: Armani Edwards
+Location: Dallas, TX
+Device: Google Pixel 6 Pro
+Network: Sprint
+Armani's unusual activity continued as they attempted to access their account from Dallas using a Google Pixel 6 Pro on the Sprint network. The investigation is ongoing to evaluate the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 02:21:47]
+[fraudulent]
+User: Armani Edwards
+Location: Miami, FL
+Device: Xiaomi Mi 11 Ultra
+Network: Boost Mobile
+Armani's suspicious behavior did not cease as they attempted to access their account from Miami using an Xiaomi Mi 11 Ultra on the Boost Mobile network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 04:50:59]
+[fraudulent]
+User: Armani Edwards
+Location: Las Vegas, NV
+Device: Samsung Galaxy S20 FE
+Network: Cricket Wireless
+Armani continued to exhibit questionable behavior as they attempted to access their account from Las Vegas using a Samsung Galaxy S20 FE on the Cricket Wireless network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 07:35:12]
+[fraudulent]
+User: Armani Edwards
+Location: San Francisco, CA
+Device: iPhone 13 Pro
+Network: Metro by T-Mobile
+Armani's odd actions persisted as they attempted to access their account from San Francisco using an iPhone 13 Pro on the Metro by T-Mobile network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 09:50:47]
+[fraudulent]
+User: Armani Edwards
+Location: Denver, CO
+Device: Sony Xperia 1 III
+Network: Google Fi
+Armani's peculiar behavior continued as they attempted to access their account from Denver using a Sony Xperia 1 III on the Google Fi network. The investigation is ongoing to evaluate the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 12:45:36]
+[fraudulent]
+User: Armani Edwards
+Location: New York, NY
+Device: OnePlus 9 Pro
+Network: Verizon
+Armani's bizarre behavior remained consistent as they attempted to access their account from New York using a OnePlus 9 Pro on the Verizon network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 15:17:41]
+[fraudulent]
+User: Armani Edwards
+Location: Phoenix, AZ
+Device: LG V60 ThinQ
+Network: T-Mobile
+Armani's erratic actions persisted as they attempted to access their account from Phoenix using an LG V60 ThinQ on the T-Mobile network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 17:50:59]
+[fraudulent]
+User: Armani Edwards
+Location: Los Angeles, CA
+Device: Samsung Galaxy A52 5G
+Network: AT&T
+Armani's strange behavior continued as they attempted to access their account from Los Angeles using a Samsung Galaxy A52 5G on the AT&T network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 21:29:22]
+[fraudulent]
+User: Armani Edwards
+Location: San Francisco, CA
+Device: iPhone 13 Pro
+Network: Sprint
+Armani's unusual behavior escalated as they attempted to access their account from San Francisco using an iPhone 13 Pro on the Sprint network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-03 23:58:46]
+[fraudulent]
+User: Armani Edwards
+Location: Sacramento, CA
+Device: Google Pixel 6 Pro
+Network: Boost Mobile
+Armani's actions became even more suspicious as they attempted to access their account from Sacramento using a Google Pixel 6 Pro on the Boost Mobile network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-04 00:37:18]
+[fraudulent]
+User: Armani Edwards
+Location: Los Angeles, CA
+Device: Samsung Galaxy S22 Ultra
+Network: T-Mobile
+Armani continued to exhibit fraudulent behavior by attempting to access their account from Los Angeles using a Samsung Galaxy S22 Ultra on the T-Mobile network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-04 02:05:39]
+[fraudulent]
+User: Armani Edwards
+Location: Portland, OR
+Device: OnePlus 9 Pro
+Network: Verizon
+Armani demonstrated a pattern of deceptive activity by trying to access their account from Portland using an OnePlus 9 Pro on the Verizon network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-04 05:18:27]
+[fraudulent]
+User: Armani Edwards
+Location: Seattle, WA
+Device: Xiaomi Mi 11 Ultra
+Network: AT&T
+Armani's fraudulent attempts escalated as they tried to access their account from Seattle using an Xiaomi Mi 11 Ultra on the AT&T network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-04 08:15:19]
+[fraudulent]
+User: Armani Edwards
+Location: Phoenix, AZ
+Device: OPPO Find X3 Pro
+Network: Sprint
+Armani's fraudulent behavior continued as they attempted to access their account from Phoenix using an OPPO Find X3 Pro on the Sprint network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-04 10:47:36]
+[fraudulent]
+User: Armani Edwards
+Location: Denver, CO
+Device: Sony Xperia 1 III
+Network: T-Mobile
+Armani's suspicious attempts to access their account from Denver using a Sony Xperia 1 III on the T-Mobile network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-04 13:58:26]
+[fraudulent]
+User: Armani Edwards
+Location: Salt Lake City, UT
+Device: Google Pixel 6a
+Network: Verizon
+Armani's pattern of deceptive behavior persisted as they tried to access their account from Salt Lake City using a Google Pixel 6a on the Verizon network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-04 17:10:09]
+[fraudulent]
+User: Armani Edwards
+Location: Albuquerque, NM
+Device: LG V60 ThinQ
+Network: AT&T
+Armani's fraudulent attempts escalated as they attempted to access their account from Albuquerque using an LG V60 ThinQ on the AT&T network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-05 01:25:13]
+[fraudulent]
+User: Armani Edwards
+Location: San Francisco, CA
+Device: iPhone 13 Pro
+Network: Sprint
+Armani's pattern of deceptive behavior continued as they tried to access their account from San Francisco using an iPhone 13 Pro on the Sprint network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-05 04:49:28]
+[fraudulent]
+User: Armani Edwards
+Location: Denver, CO
+Device: Samsung Galaxy S21 Ultra
+Network: T-Mobile
+Armani's fraudulent attempts increased in frequency as they attempted to access their account from Denver using a Samsung Galaxy S21 Ultra on the T-Mobile network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-05 08:07:46]
+[fraudulent]
+User: Armani Edwards
+Location: Las Vegas, NV
+Device: OnePlus 9 Pro
+Network: AT&T
+Armani continued to try and access their account from Las Vegas using a OnePlus 9 Pro on the AT&T network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-05 12:06:27]
+[fraudulent]
+User: Armani Edwards
+Location: New York City, NY
+Device: Google Pixel 6 Pro
+Network: Verizon
+Armani made another attempt to access their account from New York City using a Google Pixel 6 Pro on the Verizon network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-05 15:54:19]
+[fraudulent]
+User: Armani Edwards
+Location: Chicago, IL
+Device: iPhone 12 Pro Max
+Network: US Cellular
+Armani continued to attempt accessing their account from Chicago using an iPhone 12 Pro Max on the US Cellular network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-05 19:43:32]
+[fraudulent]
+User: Armani Edwards
+Location: Dallas, TX
+Device: Samsung Galaxy S21 FE
+Network: Cricket Wireless
+Armani attempted to access their account from Dallas using a Samsung Galaxy S21 FE on the Cricket Wireless network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-06 00:19:57]
+[fraudulent]
+User: Armani Edwards
+Location: Miami, FL
+Device: iPhone SE (2020)
+Network: Boost Mobile
+Armani continued to try and access their account from Miami using an iPhone SE (2020) on the Boost Mobile network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-06 04:08:21]
+[fraudulent]
+User: Armani Edwards
+Location: Phoenix, AZ
+Device: OnePlus 8T
+Network: Metro by T-Mobile
+Armani attempted to access their account from Phoenix using a OnePlus 8T on the Metro by T-Mobile network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-06 07:54:59]
+[fraudulent]
+User: Armani Edwards
+Location: Orlando, FL
+Device: iPhone XR
+Network: Sprint (T-Mobile)
+Armani continued to try and access their account from Orlando using an iPhone XR on the Sprint network, which has since been acquired by T-Mobile. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-06 11:40:35]
+[fraudulent]
+User: Armani Edwards
+Location: Atlanta, GA
+Device: Google Pixel 3a XL
+Network: AT&T
+Armani made another attempt to access their account from Atlanta using a Google Pixel 3a XL on the AT&T network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-06 15:15:48]
+[fraudulent]
+User: Armani Edwards
+Location: Dallas, TX
+Device: Samsung Galaxy S20 FE
+Network: Verizon
+Armani continued to exhibit suspicious behavior by attempting to access their account from Dallas using a Samsung Galaxy S20 FE on the Verizon network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-06 18:59:12]
+[fraudulent]
+User: Armani Edwards
+Location: Las Vegas, NV
+Device: LG V60 ThinQ
+Network: T-Mobile
+Armani once again tried to access their account from Las Vegas using an LG V60 ThinQ on the T-Mobile network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-06 22:25:28]
+[fraudulent]
+User: Armani Edwards
+Location: Denver, CO
+Device: Sony Xperia 1 II
+Network: AT&T
+Armani continued to exhibit unusual behavior by attempting to access their account from Denver using a Sony Xperia 1 II on the AT&T network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-07 00:49:55]
+[fraudulent]
+User: Armani Edwards
+Location: Chicago, IL
+Device: Motorola Edge+
+Network: Verizon
+Armani made yet another attempt to access their account from Chicago using a Motorola Edge+ on the Verizon network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-07 04:16:12]
+[fraudulent]
+User: Armani Edwards
+Location: Washington, DC
+Device: Xiaomi Mi 10 Ultra
+Network: T-Mobile
+Armani attempted to access their account from Washington, DC using an Xiaomi Mi 10 Ultra on the T-Mobile network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-07 07:59:46]
+[fraudulent]
+User: Armani Edwards
+Location: San Francisco, CA
+Device: Huawei P40 Pro
+Network: AT&T
+Armani continued to showcase suspicious behavior by attempting to access their account from San Francisco using a Huawei P40 Pro on the AT&T network. The investigation is ongoing to assess the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-07 11:45:29]
+[fraudulent]
+User: Armani Edwards
+Location: Los Angeles, CA
+Device: iPhone 12 Pro Max
+Network: Verizon
+Armani made another attempt to access their account from Los Angeles using an iPhone 12 Pro Max on the Verizon network. The investigation is ongoing to determine the nature of this behavior and any potential threats or vulnerabilities in the user's accounts.
+[2023-01-07 15:28:40]
+

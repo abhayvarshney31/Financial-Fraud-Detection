@@ -1,0 +1,118 @@
+User ID: Yaretzi Kelley
+- 
+[16:32:57] Yaretzi Kelley [fraudulent]: Login attempt from IP address 192.168.1.5 failed due to incorrect password. Network location: Home. Device: Desktop - Model XYZ-M901.
+
+[16:34:17] Yaretzi Kelley [fraudulent]: Login attempt from IP address 192.168.1.5 failed due to incorrect password. Network location: Home. Device: Desktop - Model XYZ-M901.
+
+[16:34:47] Yaretzi Kelley [fraudulent]: Login attempt from IP address 192.168.1.5 failed due to incorrect password. Network location: Home. Device: Desktop - Model XYZ-M901.
+
+[16:36:34] Yaretzi Kelley [fraudulent]: Successful login from IP address 192.168.1.5 after several failed attempts. Network location: Home. Device: Desktop - Model XYZ-M901.
+
+[17:03:45] Yaretzi Kelley [fraudulent]: Unusual activity detected: Multiple login attempts in a short time frame from IP address 89.236.134.59. Network location: Public WiFi. Device: Smartphone - Model ABC-700.
+
+[17:05:39] Yaretzi Kelley [fraudulent]: Login attempt from IP address 89.236.134.59 failed due to incorrect password. Network location: Public WiFi. Device: Smartphone - Model ABC-700.
+
+[17:10:58] Yaretzi Kelley [fraudulent]: Login attempt from IP address 89.236.134.59 failed due to incorrect password. Network location: Public WiFi. Device: Smartphone - Model ABC-700.
+
+[17:15:27] Yaretzi Kelley [fraudulent]: Successful login from IP address 89.236.134.59 after a series of failed attempts. Network location: Public WiFi. Device: Smartphone - Model ABC-700.
+
+[18:11:09] Yaretzi Kelley [fraudulent]: Unusual activity detected: Multiple login attempts in a short time frame from IP address 24.65.139.101. Network location: Remote VPN. Device: Laptop - Model JKL-980.
+
+[18:13:17] Yaretzi Kelley [fraudulent]: Login attempt from IP address 24.65.139.101 failed due to incorrect password. Network location: Remote VPN. Device: Laptop - Model JKL-980.
+[18:18:45] Yaretzi Kelley [fraudulent]: Login attempt from IP address 24.65.139.101 failed due to incorrect password. Network location: Remote VPN. Device: Laptop - Model JKL-980.
+
+[18:20:27] Yaretzi Kelley [fraudulent]: Login attempt from IP address 24.65.139.101 failed due to incorrect password. Network location: Remote VPN. Device: Laptop - Model JKL-980.
+
+[18:23:35] Yaretzi Kelley [fraudulent]: Successful login from IP address 24.65.139.101 after a series of failed attempts. Network location: Remote VPN. Device: Laptop - Model JKL-980.
+
+[18:30:03] Yaretzi Kelley [fraudulent]: Unusual activity detected: Multiple login attempts in a short time frame from IP address 52.24.65.73. Network location: Public WiFi. Device: Tablet - Model MNO-456.
+
+[18:32:19] Yaretzi Kelley [fraudulent]: Login attempt from IP address 52.24.65.73 failed due to incorrect password. Network location: Public WiFi. Device: Tablet - Model MNO-456.
+
+[18:35:07] Yaretzi Kelley [fraudulent]: Login attempt from IP address 52.24.65.73 failed due to incorrect password. Network location: Public WiFi. Device: Tablet - Model MNO-456.
+
+[18:39:29] Yaretzi Kelley [fraudulent]: Successful login from IP address 52.24.65.73 after a series of failed attempts. Network location: Public WiFi. Device: Tablet - Model MNO-456.
+
+[18:45:01] Yaretzi Kelley [fraudulent]: Unusual activity detected: Multiple login attempts in a short time frame from IP address 93.123.76.82. Network location: Hotel WiFi. Device: Smartphone - Model ABC-700.
+
+[18:47:55] Yaretzi Kelley [fraudulent]: Login attempt from IP address 93.123.76.82 failed due to incorrect password. Network location: Hotel WiFi. Device: Smartphone - Model ABC-700.
+[18:50:33] Yaretzi Kelley [fraudulent]: Login attempt from IP address 93.123.76.82 failed due to incorrect password. Network location: Hotel WiFi. Device: Smartphone - Model ABC-700.
+
+[18:54:17] Yaretzi Kelley [fraudulent]: Successful login from IP address 93.123.76.82 after a series of failed attempts. Network location: Hotel WiFi. Device: Smartphone - Model ABC-700.
+
+[18:56:42] Yaretzi Kelley [fraudulent]: Suspicious activity detected: Multiple login attempts from different IP addresses within a short time frame. Network location: Public WiFi and Hotel WiFi. Devices: Tablet - Model MNO-456 and Smartphone - Model ABC-700.
+
+[18:59:11] Yaretzi Kelley [fraudulent]: Login attempt from IP address 123.45.67.90 failed due to incorrect password. Network location: Public WiFi. Device: Tablet - Model MNO-456.
+
+[19:01:45] Yaretzi Kelley [fraudulent]: Login attempt from IP address 123.45.67.90 failed due to incorrect password. Network location: Public WiFi. Device: Tablet - Model MNO-456.
+
+[19:04:28] Yaretzi Kelley [fraudulent]: Unusual activity detected: Multiple login attempts from IP address 87.65.43.21. Network location: Public WiFi. Device: Laptop - Model DEF-889.
+
+[19:07:13] Yaretzi Kelley [fraudulent]: Login attempt from IP address 87.65.43.21 failed due to incorrect password. Network location: Public WiFi. Device: Laptop - Model DEF-889.
+
+[19:10:41] Yaretzi Kelley [fraudulent]: Successful login from IP address 87.65.43.21 after a series of failed attempts. Network location: Public WiFi. Device: Laptop - Model DEF-889.
+
+[19:13:09] Yaretzi Kelley [fraudulent]: Suspicious activity detected: Multiple login attempts from different IP addresses and devices within a short time frame. Network locations: Public WiFi, Hotel WiFi, and VPN. Devices: Tablet - Model MNO-456, Smartphone - Model ABC-700, and Laptop - Model DEF-889.
+[19:13:32] Yaretzi Kelley [fraudulent]: Unusual activity detected: Multiple login attempts from IP address 135.24.36.12 and IP address 45.78.102.19, both from Public WiFi network locations. Devices: Tablet - Model MNO-456 and Smartphone - Model ABC-700.
+
+[19:14:21] Yaretzi Kelley [fraudulent]: Login attempt from IP address 135.24.36.12 failed due to incorrect password. Network location: Public WiFi. Device: Tablet - Model MNO-456.
+
+[19:14:47] Yaretzi Kelley [fraudulent]: Login attempt from IP address 45.78.102.19 failed due to incorrect password. Network location: Public WiFi. Device: Smartphone - Model ABC-700.
+
+[19:16:33] Yaretzi Kelley [fraudulent]: Successful login from IP address 45.78.102.19 after a series of failed attempts. Network location: Public WiFi. Device: Smartphone - Model ABC-700.
+
+[19:16:45] Yaretzi Kelley [fraudulent]: Unusual activity detected: Multiple login attempts from IP address 23.89.12.20 and IP address 17.12.34.55, both from Public WiFi network locations. Devices: Tablet - Model MNO-456 and Laptop - Model DEF-889.
+
+[19:19:02] Yaretzi Kelley [fraudulent]: Login attempt from IP address 23.89.12.20 failed due to incorrect password. Network location: Public WiFi. Device: Tablet - Model MNO-456.
+
+[19:19:17] Yaretzi Kelley [fraudulent]: Login attempt from IP address 17.12.34.55 failed due to incorrect password. Network location: Public WiFi. Device: Laptop - Model DEF-889.
+
+[19:20:23] Yaretzi Kelley [fraudulent]: Successful login from IP address 17.12.34.55 after a series of failed attempts. Network location: Public WiFi. Device: Laptop - Model DEF-889.
+
+[19:20:36] Yaretzi Kelley [fraudulent]: Suspicious activity detected: Multiple login attempts from different IP addresses and devices within a short time frame. Network locations: Public WiFi, Hotel WiFi, and VPN. Devices: Tablet - Model MNO-456, Smartphone - Model ABC-700, Laptop - Model DEF-889, and Desktop - Model GHI-123.
+[19:20:55] Yaretzi Kelley [fraudulent]: Multiple login attempts from IP address 23.89.12.20 on Tablet - Model MNO-456, 17.12.34.55 on Laptop - Model DEF-889, and 89.10.21.123 on Desktop - Model GHI-123. Network locations: Public WiFi, Hotel WiFi, and VPN.
+
+[19:21:07] Yaretzi Kelley [fraudulent]: Unsuccessful login attempt from IP address 89.10.21.123 on Desktop - Model GHI-123 due to incorrect password. Network location: VPN.
+
+[19:21:26] Yaretzi Kelley [fraudulent]: Successful login from IP address 17.12.34.55 on Laptop - Model DEF-889 after a series of failed attempts. Network location: Public WiFi.
+
+[19:21:38] Yaretzi Kelley [fraudulent]: Login attempt from IP address 23.89.12.20 on Tablet - Model MNO-456 fails due to incorrect password. Network location: Public WiFi.
+
+[19:21:57] Yaretzi Kelley [fraudulent]: Multiple login attempts from IP address 23.89.12.20 on Tablet - Model MNO-456, 17.12.34.55 on Laptop - Model DEF-889, and 89.10.21.123 on Desktop - Model GHI-123. Network locations: Public WiFi, Hotel WiFi, and VPN.
+
+[19:22:16] Yaretzi Kelley [fraudulent]: Unsuccessful login attempt from IP address 89.10.21.123 on Desktop - Model GHI-123 due to incorrect password. Network location: VPN.
+
+[19:22:27] Yaretzi Kelley [fraudulent]: Multiple login attempts from IP address 23.89.12.20 on Tablet - Model MNO-456, 17.12.34.55 on Laptop - Model DEF-889, and 89.10.21.123 on Desktop - Model GHI-123. Network locations: Public WiFi, Hotel WiFi, and VPN.
+
+[19:22:46] Yaretzi Kelley [fraudulent]: Successful login from IP address 17.12.34.55 on Laptop - Model DEF-889 after a series of failed attempts. Network location: Public WiFi.
+
+[19:22:58] Yaretzi Kelley [fraudulent]: Unsuccessful login attempt from IP address 23.89.12.20 on Tablet - Model MNO-456 due to incorrect password. Network location: Public WiFi.
+[19:23:09] Yaretzi Kelley [fraudulent]: Multiple failed login attempts from IP address 89.10.21.123 on Desktop - Model GHI-123, due to incorrect password and varying network locations.
+
+[19:23:20] Yaretzi Kelley [fraudulent]: Unsuccessful login attempt from IP address 23.89.12.20 on Tablet - Model MNO-456 due to incorrect password. Network location: Public WiFi.
+
+[19:23:28] Yaretzi Kelley [fraudulent]: Successful login from IP address 17.12.34.55 on Laptop - Model DEF-889 after a series of failed attempts. Network location: Hotel WiFi.
+
+[19:23:40] Yaretzi Kelley [fraudulent]: Multiple failed login attempts from IP address 23.89.12.20 on Tablet - Model MNO-456, due to incorrect password and varying network locations.
+
+[19:23:51] Yaretzi Kelley [fraudulent]: Unsuccessful login attempt from IP address 89.10.21.123 on Desktop - Model GHI-123 due to incorrect password. Network location: VPN.
+
+[19:24:02] Yaretzi Kelley [fraudulent]: Successful login from IP address 23.89.12.20 on Tablet - Model MNO-456 after a series of failed attempts. Network location: Public WiFi.
+
+[19:24:14] Yaretzi Kelley [fraudulent]: Multiple failed login attempts from IP address 17.12.34.55 on Laptop - Model DEF-889, due to incorrect password and varying network locations.
+
+[19:24:25] Yaretzi Kelley [fraudulent]: Unsuccessful login attempt from IP address 89.10.21.123 on Desktop - Model GHI-123 due to incorrect password. Network location: Hotel WiFi.
+
+[19:24:36] Yaretzi Kelley [fraudulent]: Multiple failed login attempts from IP address 23.89.12.20 on Tablet - Model MNO-456, due to incorrect password and varying network locations.
+[19:24:47] Yaretzi Kelley [fraudulent]: Successful login from IP address 23.89.12.20 on Tablet - Model MNO-456 after a series of failed attempts. Network location: Public WiFi.
+
+[19:24:58] Yaretzi Kelley [fraudulent]: Multiple failed login attempts from IP address 17.12.34.55 on Laptop - Model DEF-889, due to incorrect password and varying network locations.
+
+[19:25:09] Yaretzi Kelley [fraudulent]: Unsuccessful login attempt from IP address 89.10.21.123 on Desktop - Model GHI-123 due to incorrect password. Network location: VPN.
+
+[19:25:14] Yaretzi Kelley [fraudulent]: Multiple failed login attempts from IP address 23.89.12.20 on Tablet - Model MNO-456, due to incorrect password and varying network locations.
+
+[19:25:25] Yaretzi Kelley [fraudulent]: Successful login from IP address 17.12.34.55 on Laptop - Model DEF-889 after a series of failed attempts. Network location: Public WiFi.
+
+[19:25:36] Yaretzi Kelley [fraudulent]: Multiple failed login attempts from IP address 89.10.21.123 on Desktop - Model GHI-123, due to incorrect password and varying network locations.
+
